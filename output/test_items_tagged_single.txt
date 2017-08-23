@@ -1,0 +1,15 @@
+[
+  {
+    "pronunciation": "", 
+    "concept": "age, psychological,", 
+    "pos2definition": [
+      {
+        "definition": "a subjectively experienced age based on a person鈥檚 behavior, or 鈥渉ow old they feel.鈥�", 
+        "pos": "n", 
+        "attributes": {
+          "isA": "a subjectively experienced age based on a person’s behavior, or “how old they"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "pronunciation": "", 
+    "concept": "color blindness", 
+    "pos2definition": [
+      {
+        "definition": "color blindness is the defective color vision characterized by decreased ability to detect differences in color. See also achromatopsia.", 
+        "pos": "n", 
+        "attributes": {
+          "characterized_by": "decreased ability to detect differences in color", 
+          "isThe": "defective color vision", 
+          "synonym": "achromatopsia"
+        }
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "mel′ənō′mə", 
+    "concept": "melanoma", 
+    "pos2definition": [
+      {
+        "definition": "melanoma is a malignant epithelial neoplasm characterized by pigment-producing cells. It usually is dark in color but may be amelanotic. It can occur in skin as well as the oral cavity, where it usually would be a late finding. It can occur at the site of a mole or another site.", 
+        "pos": "n", 
+        "attributes": {
+          "color": "dark in color but may be amelanotic", 
+          "characterized_by": "pigment-producing cells", 
+          "isA": "malignant epithelial neoplasm", 
+          "occur_position": "in skin as well as the oral cavity, where it usually would be a late finding; at the site of a mole or another site"
+        }
+      }
+    ]
+  }
+]

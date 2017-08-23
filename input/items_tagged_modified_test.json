@@ -1,0 +1,17 @@
+[
+  {
+    "pronunciation": "", 
+    "concept": "crescent articulator", 
+    "pos2definition": [
+      {
+        "definition": "crescent articulator is a device used in creating dental prostheses and evaluating casts. It represents the temporomandibular joints and simulates jaw movement.", 
+        "pos": "n", 
+        "attributes": {
+          "represent": "the temporomandibular joints and simulates jaw movement", 
+          "use_occasion": "creating dental prostheses and evaluating casts", 
+          "isA": "device"
+        }
+      }
+    ]
+  }
+]

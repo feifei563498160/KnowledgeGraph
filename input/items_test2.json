@@ -1,0 +1,32 @@
+[ 
+ {
+    "pronunciation": "", 
+    "concept": "A-P discrepancy,", 
+    "pos2definition": [
+      {
+        "definition": "See anterior-posterior discrepancy.", 
+        "pos": "n"
+      }
+    ]
+  },
+  {
+    "pronunciation": "", 
+    "concept": "abscess, dentoalveolar,", 
+    "pos2definition": [
+      {
+        "definition": "See periapical abscess.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "aksel′ərin", 
+    "concept": "accelerin ", 
+    "pos2definition": [
+      {
+        "definition": "See factor V.", 
+        "pos": "n"
+      }
+    ]
+  }
+ ]

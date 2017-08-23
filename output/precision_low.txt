@@ -1,0 +1,1063 @@
+definition: 
+fracture is a break or rupture of a part. In the oral region, fracture is most often seen in teeth and bones.
+Manual: 
+isA: break or rupture of a part. In the oral region, fracture is most often seen in teeth and bones
+Auto: 
+isA: a break or rupture of a part
+
+
+definition: 
+distortion is a twisting or deformation. distortion is A loss of accuracy in reproduction of cavity form.
+Manual: 
+isA: twisting or deformation; loss of accuracy in reproduction of cavity form
+Auto: 
+isA: a twisting or deformation
+
+
+definition: 
+lubricant die is a material applied to a die to serve as a separating medium so that the wax pattern will not adhere to the die but may be withdrawn from it without sticking.
+Manual: 
+isA: material
+purpose: the wax pattern will not adhere to the die but may be withdrawn from it without sticking
+used_for: a die to serve as a separating medium
+Auto: 
+inducement: be withdrawn from it without sticking
+purpose: that the wax pattern will not adhere to the die
+used_for: a die to serve as a separating medium
+
+
+definition: 
+occlusal splint is a bite plane designed and fabricated for patients with some types of functional temporomandibular joint disorders. Provides a stable occlusal platform from which to reconstruct a functional occlusion. See also splint.
+Manual: 
+ability: Provides a stable occlusal platform from which to reconstruct a functional occlusion
+isA: bite plane
+synonym: splint
+used_for: patients with some types of functional temporomandibular joint disorders
+Auto: 
+isA: a bite plane designed
+used_for: patients with some types of functional temporomandibular joint disorders
+
+
+definition: 
+chronologic age is a age determined by the passage of time since birth.
+Manual: 
+isA: age determined by the passage of time since birth
+Auto: 
+ability: time since birth
+isA: a age determined
+
+
+definition: 
+master cast is an accurate replica of the prepared tooth surfaces, residual ridge areas, or other parts of the dental arch reproduced from an impression from which a prosthesis is to be fabricated.
+Manual: 
+isA: accurate replica of the prepared tooth surfaces, residual ridge areas, or other parts of the dental arch reproduced from an impression from which a prosthesis is to be fabricated
+Auto: 
+isA: accurate replica of the prepared tooth surfaces, residual ridge areas, or other parts of the dental arch reproduced from an impression
+purpose: to be fabricated
+
+
+definition: 
+abutment is a tooth, root, or implant used for support and retention of a fixed or removable prosthesis. See also pontic.
+Manual: 
+isA: tooth, root, or implant
+synonym: pontic
+used_for: support and retention of a fixed or removable prosthesis
+Auto: 
+isA: a tooth, root
+use_occasion: for support and retention of a fixed or removable prosthesis
+
+
+definition: 
+preparable abutment is a dental implant abutment that can be prepared and changed from the manufacturer鈥檚 original design.
+Manual: 
+isA: dental implant abutment that can be prepared and changed from the manufacturer鈥檚 original design
+Auto: 
+isA: a dental implant abutment
+material_characteristics: be prepared and changed from the manufacturer鈥檚 original design
+
+
+definition: 
+thermoplastic resin is a synthetic resin that may be softened by heat and hardened by cooling.
+Manual: 
+isA: synthetic resin that may be softened by heat and hardened by cooling
+Auto: 
+inducement: be softened by heat and hardened by cooling
+isA: a synthetic resin
+
+
+definition: 
+myofascial pain is a pain associated with inflammation or irritation of muscle or of the fascia surrounding the muscle.
+Manual: 
+etiological_factor: inflammation or irritation of muscle or of the fascia surrounding the muscle
+isA: pain
+Auto: 
+etiological_factor: with inflammation or irritation of muscle or of the fascia surrounding the muscle
+isA: a pain
+
+
+definition: 
+complication is a disease or injury that develops during the treatment of an earlier disorder. An example is a bacterial infection acquired by a person weakened by a viral infection.
+Manual: 
+instances: a bacterial infection acquired by a person weakened by a viral infection
+isA: disease or injury
+occur_occasion: during the treatment of an earlier disorder
+Auto: 
+ability: an earlier disorder
+instances: a bacterial infection acquired by a person weakened by a viral infection
+isA: a disease or injury that develops
+
+
+definition: 
+inlay is a restoration of metal, fired porcelain, or plastic made to fit a tapered cavity preparation and fastened to or luted into it with a cementing medium.
+Manual: 
+isA: restoration of metal, fired porcelain, or plastic made to fit a tapered cavity preparation and fastened to or luted into it with a cementing medium
+Auto: 
+isA: a restoration of metal, fired porcelain, or plastic made
+used_for: fit a tapered cavity preparation and fastened to or luted into it with a cementing medium
+
+
+definition: 
+open contact is an increased area between adjacent teeth without interproximal contacts. It can be due to the abnormal position or absence of the teeth, oral disease, oral habits, or the overdevelopment of the frena. See also frenum and diastema.
+Manual: 
+etiological_factor: the abnormal position or absence of the teeth, oral disease, oral habits, or the overdevelopment of the frena
+isA: increased area between adjacent teeth without interproximal contacts
+synonym: frenum and diastema
+Auto: 
+ability: the frena
+etiological_factor: the abnormal position or absence of the teeth, oral disease, oral habits
+isA: increased area between adjacent teeth without interproximal contacts
+synonym: frenum and diastema
+
+
+definition: 
+equipment is the nonexpendable items used by the dental staff in the office in the performance of professional duties.
+Manual: 
+isThe: nonexpendable items used by the dental staff in the office in the performance of professional duties
+Auto: 
+ability: professional duties
+isThe: nonexpendable items used by the dental staff in the office
+
+
+definition: 
+carious lesion is also known as dental caries or tooth cavities; carious lesion is typically caused by acid-producing bacteria, which lowers the pH of the oral cavity, causing demineralization.
+Manual: 
+etiological_factor: acid-producing bacteria, which lowers the pH of the oral cavity, causing demineralization
+synonym: dental caries or tooth cavities
+Auto: 
+ability: the oral cavity, causing demineralization
+etiological_factor: by acid-producing bacteria, which lowers
+synonym: dental caries or tooth cavities
+
+
+definition: 
+alveolar atrophy is a depletion of the size of the alveolar process of the jaws from disuse, overuse, or pathologic disturbance of the bone.
+Manual: 
+isA: depletion of the size of the alveolar process of the jaws from disuse, overuse, or pathologic disturbance of the bone
+Auto: 
+ability: the alveolar process of the jaws from disuse, overuse, or pathologic disturbance of the bone
+isA: a depletion
+
+
+definition: 
+cone is a solid substance, usually guttapercha or silver, having a tapered form similar in length and diameter to a root canal; cone is used to fill the space once occupied by the pulp in the root of the tooth.
+Manual: 
+isA: solid substance, usually guttapercha or silver, having a tapered form similar in length and diameter to a root canal
+used_for: fill the space once occupied by the pulp in the root of the tooth
+Auto: 
+ability: the tooth
+isA: a solid substance, usually guttapercha or silver, having a tapered form similar in length and diameter to a root canal
+used_for: fill the space once occupied by the pulp
+
+
+definition: 
+graft is a slip or portion of tissue used for implantation. See also donor site; recipient site.
+Manual: 
+isA: slip or portion of tissue
+synonym: donor site; recipient site
+used_for: implantation
+Auto: 
+isA: a slip or portion of tissue
+used_for: for implantation
+
+
+definition: 
+U-shaped arch is a dental arch in which there is little difference in diameter between the first premolars and the last molars; U-shaped arch is the curve from canine to canine is abrupt, so a dental arch in the shape of a capital U is formed.
+Manual: 
+isA: dental arch in which there is little difference in diameter  between the first premolars and the last molars
+isThe: curve from canine to canine is abrupt, so a dental arch in the shape of a capital U is formed
+Auto: 
+ability: a capital U is formed
+isA: a dental arch in which there is little difference in diameter between the first premolars and the last molars
+isThe: curve from canine to canine is abrupt, so a dental arch
+
+
+definition: 
+aluminum filters/disks is the extremely thin pieces of aluminum that are placed over the aperture of the radiographic tube to eliminate x-rays over a certain wavelength.
+Manual: 
+isThe: extremely thin pieces of aluminum that are placed over the aperture of the radiographic tube to eliminate x-rays over a certain wavelength
+Auto: 
+ability: the radiographic tube to eliminate x-rays over a certain wavelength
+isThe: extremely thin pieces of aluminum that are placed
+
+
+definition: 
+onlay is a cast type of restoration that is retained by frictional and mechanical factors in the preparation of the tooth and restores one or more cusps and adjoining occlusal surfaces of the tooth.
+Manual: 
+isA: cast type of restoration
+resort_to: retained by frictional and mechanical factors in the preparation of the tooth and restores one or more cusps and adjoining occlusal surfaces of the tooth
+Auto: 
+ability: the tooth and restores one or more cusps and adjoining occlusal surfaces of the tooth
+isA: a cast type
+resort_to: retained by frictional and mechanical factors
+
+
+definition: 
+onlay is a cast type of restoration that is retained by frictional and mechanical factors in the preparation of the tooth and restores one or more cusps and adjoining occlusal surfaces of the tooth.
+Manual: 
+isA: cast type of restoration
+resort_to: retained by frictional and mechanical factors in the preparation of the tooth and restores one or more cusps and adjoining occlusal surfaces of the tooth
+Auto: 
+ability: the tooth and restores one or more cusps and adjoining occlusal surfaces of the tooth
+isA: a cast type
+resort_to: retained by frictional and mechanical factors
+
+
+definition: 
+tissue conditioning is a disciplined program of patient-performed plaque control measures designed for gingiva that is soft, spongy, and bleeds easily from poor oral hygiene habits, is performed to improve gingival health before subgingival scaling.
+Manual: 
+isA: disciplined program of patient-performed plaque control measures
+purpose: to improve gingival health before subgingival scaling
+used_for: gingiva that is soft, spongy, and bleeds easily from poor oral hygiene habits
+Auto: 
+isA: a disciplined program of patient-performed plaque control measures
+used_for: for gingiva that is soft, spongy, and bleeds easily from poor oral hygiene habits, is performed to improve gingival health before subgingival scaling
+
+
+definition: 
+fully-adjustable articulator is a design in which all nine elements of the articulator can be programmed from patient records.
+Manual: 
+isA: design in which all nine elements of the articulator can be programmed from patient records
+Auto: 
+isA: a design in which all nine elements of the articulator
+material_characteristics: be programmed from patient records
+
+
+definition: 
+bone is a dense, hard, and slightly elastic connective tissue in which the fibers are impregnated with a form of calcium phosphate similar to hydroxyapatite.
+Manual: 
+isA: dense, hard, and slightly elastic connective tissue in which the fibers are impregnated with a form of calcium phosphate similar to hydroxyapatite
+Auto: 
+composed_of: calcium phosphate similar to hydroxyapatite
+isA: a dense, hard, and slightly elastic connective tissue in which the fibers are impregnated with a form
+
+
+definition: 
+prognosis is the foretelling of the probable course of a disease; prognosis is a forecast of the outcome of a disease.
+Manual: 
+isA: forecast of the outcome of a disease
+isThe: foretelling of the probable course of a disease
+Auto: 
+ability: the probable course of a disease; a disease
+isA: a forecast
+
+
+definition: 
+diagnostic cast is a positive likeness of dental structures for the purpose of study and treatment planning.
+Manual: 
+isA: positive likeness of dental structures
+purpose: study and treatment planning
+Auto: 
+isA: a positive likeness of dental structures for the purpose
+purpose: of study and treatment planning
+
+
+definition: 
+molybdenum is a grayish metallic element with an atomic number of 42 and an atomic weight of 95.94. Molybdenum is poisonous if ingested in large quantities.
+Manual: 
+isA: grayish metallic element with an atomic number of 42 and an atomic weight of 95.94. Molybdenum is poisonous if ingested in large quantities
+Auto: 
+isA: a grayish metallic element with an atomic number of 42 and an atomic weight of 95.94
+
+
+definition: 
+splint is a rigid appliance for the fixation of displaced or movable parts.
+Manual: 
+isA: rigid appliance for the fixation of displaced or movable parts
+Auto: 
+isA: a rigid appliance for the fixation
+purpose: of displaced or movable parts
+
+
+definition: 
+cementation is a attachment of an appliance or a restoration to natural teeth or attachment of parts by means of a cement.
+Manual: 
+isA: attachment of an appliance or a restoration to natural teeth or attachment of parts
+resort_to: a cement
+Auto: 
+isA: a attachment of an appliance or a restoration to natural teeth or attachment of parts by means of a cement
+
+
+definition: 
+geniohyoid muscle is suprahyoid muscle attached to the superior surface of the hyoid bone. This muscle, which is used for mastication and swallowing, originates on the genial tubercles of the mandible and extends along the floor of the oral cavity. See also deglutition; mastication; muscle, hyoid.
+Manual: 
+isThe: suprahyoid muscle attached to the superior surface of the hyoid bone
+range: originates on the genial tubercles of the mandible and extends along the floor of the oral cavity
+synonym: deglutition; mastication; muscle, hyoid
+used_for: mastication and swallowing
+Auto: 
+ability: the oral cavity
+used_for: for mastication and swallowing, originates on the genial tubercles of the mandible and extends
+
+
+definition: 
+sulcus is a furrow, trench, or groove, as on the surface of the brain or in the folds of mucous membranes.
+Manual: 
+isA: furrow, trench, or groove, as on the surface of the brain or in the folds of mucous membranes
+Auto: 
+ability: the brain or in the folds of mucous membranes
+isA: a furrow, trench, or groove
+
+
+definition: 
+occlusal disharmony is a phenomenon in which contacts of opposing occlusal surfaces of teeth are not in harmony with other tooth contacts and with the anatomic and physiologic controls of the mandible. See also contact, deflective occlusal; contact, interceptive occlusal; and malocclusion.
+Manual: 
+isA: phenomenon in which contacts of opposing occlusal surfaces of teeth are not in harmony with other tooth contacts and with the anatomic and physiologic controls of the mandible
+synonym: contact, deflective occlusal; contact, interceptive occlusal; and malocclusion
+Auto: 
+isA: a phenomenon in which contacts of opposing occlusal surfaces of teeth
+purpose: are not in harmony with other tooth contacts and with the anatomic and physiologic controls of the mandible
+
+
+definition: 
+tumor is a swelling. Through usage the term is now synonymous with neoplasm. See also neoplasm.
+Manual: 
+isA: swelling
+synonym: neoplasm
+Auto: 
+isA: a swelling
+synonym: now synonymous with neoplasm
+
+
+definition: 
+adjustable articulator is an articulator that may be adjusted to permit movement of the casts into various recorded eccentric relationships.
+Manual: 
+isA: articulator that may be adjusted to permit movement of the casts into various recorded eccentric relationships
+Auto: 
+inducement: be adjusted to permit movement of the casts into various recorded eccentric relationships
+isA: articulator
+
+
+definition: 
+major connector is a metal plate or bar used to join the units of one side of a removable partial denture to those located on the opposite side of the dental arch.
+Manual: 
+isA: metal plate or bar 
+used_for: join the units of one side of a removable partial denture to those located on the opposite side of the dental arch
+Auto: 
+isA: a metal plate
+purpose: to those located on the opposite side of the dental arch
+use_occasion: to join the units of one side of a removable partial denture
+
+
+definition: 
+ascending ramus is the posterior, vertical portion of the mandible, which extends from the corpus to the condyle, and makes a joint at the temple. There are right and left ascending rami.
+Manual: 
+isThe: posterior, vertical portion of the mandible, which extends from the corpus to the condyle, and makes a joint at the temple
+sub_categories: right and left ascending rami
+Auto: 
+extend_from: the corpus to the condyle, and makes a joint at the temple
+isThe: posterior, vertical portion of the mandible
+
+
+definition: 
+cone is an accessory device on a dental x-ray tubehead, designed to indicate the direction of the central axis of its radiographic beam and to serve as a guide in establishing a desired source-to-receptor distance.
+Manual: 
+isA: accessory device on a dental x-ray tubehead
+used_for: indicate the direction of the central axis of its radiographic beam and to serve as a guide in establishing a desired source-to-receptor distance
+Auto: 
+ability: the central axis of its radiographic beam and to serve as a guide in establishing a desired source-to-receptor distance
+isA: accessory device on a dental x-ray tubehead, designed to indicate
+
+
+definition: 
+circumferential clasp is a clasp that encircles more than 180掳 of a tooth, including opposite angles, and usually contacts the tooth throughout the extent of the clasp, at least one terminal being in the infrabulge area.
+Manual: 
+isA: clasp that encircles more than 180掳 of a tooth, including opposite angles, and usually contacts the tooth throughout the extent of the clasp, at least one terminal being in the infrabulge area
+Auto: 
+ability: the clasp, at least one terminal being in the infrabulge area
+isA: a clasp that encircles more than 180掳 of a tooth, including opposite angles, and usually contacts the tooth
+
+
+definition: 
+transosteal implant is an implant that passes completely through the buccal and lingual aspects of a toothless ridge; transosteal implant is also an implant whose threaded posts pass completely through the mandible in the parasymphyseal region from the inferior border to the alveolar crest, allowing the attachment of a dental prosthesis.
+Manual: 
+isA: implant that passes completely through the buccal and lingual aspects of a toothless ridge; implant whose threaded posts pass completely through the mandible in the parasymphyseal region from the inferior border to the alveolar crest, allowing the attachment of a dental prosthesis
+Auto: 
+ability: a dental prosthesis
+isA: implant that passes completely through the buccal and lingual aspects of a toothless ridge
+
+
+definition: 
+lingual rest is a metallic extension onto the lingual surface of an anterior tooth to provide support or indirect retention for a removable partial denture.
+Manual: 
+isA: metallic extension onto the lingual surface of an anterior tooth
+purpose: to provide support or indirect retention for a removable partial denture
+Auto: 
+isA: a metallic extension onto the lingual surface
+purpose: tooth to provide support or indirect retention for a removable partial denture
+
+
+definition: 
+tuberosity reduction is a surgical excision of excessive fibrous or bony tissue in the area of the maxillary tuberosity before the construction of prosthetic appliances.
+Manual: 
+isA: surgical excision of excessive fibrous or bony tissue in the area of the maxillary tuberosity before the construction of prosthetic appliances
+Auto: 
+ability: the maxillary tuberosity before the construction of prosthetic appliances
+isA: a surgical excision of excessive fibrous or bony tissue
+
+
+definition: 
+retainer is a form of clasp, attachment, or device used for the fixation or stabilization of a prosthetic appliance.
+Manual: 
+isA: form of clasp, attachment, or device
+used_for: the fixation or stabilization of a prosthetic appliance
+Auto: 
+isA: a form of clasp, attachment
+use_occasion: for the fixation or stabilization of a prosthetic appliance
+
+
+definition: 
+sulcus is the space between the free gingival margin and the surface of the tooth.
+Manual: 
+isThe: space between the free gingival margin and the surface of the tooth
+Auto: 
+ability: the tooth
+isThe: space between the free gingival margin
+
+
+definition: 
+lamina dura is a radiographic term denoting the plate of compact bone that lies adjacent to the periodontal ligament.
+Manual: 
+isA: plate of compact bone  that lies adjacent to the periodontal ligament
+Auto: 
+ability: compact bone that lies adjacent to the periodontal ligament
+isA: a radiographic term denoting
+
+
+definition: 
+extracoronal retainer is a type of retainer in which the preparation and its cast restoration lie largely external to the body of the coronal portion of the tooth and complement the contour of the crown. The retention or resistance to displacement is developed between the inner surfaces of the casting and the external walls of the prepared tooth. The extracoronal retainer may be a partial crown or a complete crown.
+Manual: 
+can_be: a partial crown or a complete crown
+function: The retention or resistance to displacement is developed between the inner surfaces of the casting and the external walls of the prepared tooth
+isA: type of retainer in which the preparation and its cast restoration lie largely external to the body of the coronal portion of the tooth and complement the contour of the crown
+Auto: 
+ability: the coronal portion of the tooth and complement the contour of the crown
+inducement: be a partial crown or a complete crown
+isA: a type of retainer in which the preparation and its cast restoration lie largely external
+
+
+definition: 
+fremitus is the palpable vibrations of nonvascular origin that can be noted by placing the hand on the chest. See also thrill.
+Manual: 
+isThe: palpable vibrations of nonvascular origin that can be noted by placing the hand on the chest
+synonym: thrill
+Auto: 
+isThe: palpable vibrations of nonvascular origin
+material_characteristics: be noted by placing the hand on the chest
+
+
+definition: 
+periodontal probe is a finecalibrated instrument designed and used for measuring the depth and topography of gingival and periodontal pockets. Also used to determine the degree of attachment and adaptation of the gingival tissues to the tooth. Automated devices are now available for dental offices and clinics.
+Manual: 
+isA: finecalibrated instrument
+used_for: measuring the depth and topography of gingival and periodontal pockets; determine the degree of attachment and adaptation of the gingival tissues to the tooth; available for dental offices and clinics
+Auto: 
+ability: attachment and adaptation of the gingival tissues to the tooth
+isA: a finecalibrated instrument designed
+used_for: for measuring the depth and topography of gingival and periodontal pockets
+
+
+definition: 
+periodontal probe is a finecalibrated instrument designed and used for measuring the depth and topography of gingival and periodontal pockets. Also used to determine the degree of attachment and adaptation of the gingival tissues to the tooth. Automated devices are now available for dental offices and clinics.
+Manual: 
+isA: finecalibrated instrument
+used_for: measuring the depth and topography of gingival and periodontal pockets; determine the degree of attachment and adaptation of the gingival tissues to the tooth; available for dental offices and clinics
+Auto: 
+ability: attachment and adaptation of the gingival tissues to the tooth
+isA: a finecalibrated instrument designed
+used_for: for measuring the depth and topography of gingival and periodontal pockets
+
+
+definition: 
+radiograph is a two-dimensional representation of a three-dimensional object, produced by radiation of structures. Older term is x-ray.
+Manual: 
+isA: two-dimensional representation of a three-dimensional object, produced by radiation of structures
+synonym: x-ray
+Auto: 
+isA: a two-dimensional representation of a three-dimensional object
+produce_method: by radiation of structures
+synonym: x-ray
+
+
+definition: 
+melanoma is a malignant epithelial neoplasm characterized by pigment-producing cells. It usually is dark in color but may be amelanotic. It can occur in skin as well as the oral cavity, where it usually would be a late finding. It can occur at the site of a mole or another site.
+Manual: 
+characterized_by: pigment-producing cells
+color: dark in color but may be amelanotic
+isA: malignant epithelial neoplasm
+occur_position: in skin as well as the oral cavity, where it usually would be a late finding; at the site of a mole or another site
+Auto: 
+ability: a mole or another site
+can_be: a late finding
+characterized_by: by pigment-producing cells
+color: dark in color
+inducement: be amelanotic
+isA: a malignant epithelial neoplasm
+occur_position: in skin as well as the oral cavity, where it usually would; 
+
+
+definition: 
+melanoma is a malignant epithelial neoplasm characterized by pigment-producing cells. It usually is dark in color but may be amelanotic. It can occur in skin as well as the oral cavity, where it usually would be a late finding. It can occur at the site of a mole or another site.
+Manual: 
+characterized_by: pigment-producing cells
+color: dark in color but may be amelanotic
+isA: malignant epithelial neoplasm
+occur_position: in skin as well as the oral cavity, where it usually would be a late finding; at the site of a mole or another site
+Auto: 
+ability: a mole or another site
+can_be: a late finding
+characterized_by: by pigment-producing cells
+color: dark in color
+inducement: be amelanotic
+isA: a malignant epithelial neoplasm
+occur_position: in skin as well as the oral cavity, where it usually would; 
+
+
+definition: 
+tissue is an aggregation of similarly specialized cells united in the performance of a particular function.
+Manual: 
+isA: aggregation of similarly specialized cells united in the performance of a particular function
+Auto: 
+ability: a particular function
+isA: aggregation of similarly specialized cells united
+
+
+definition: 
+stationary lingual arch is an arch wire designed to fit the lingual surface of the teeth and soldered to the anchor bands.
+Manual: 
+isA: arch wire
+used_for: fit the lingual surface of the teeth and soldered to the anchor bands
+Auto: 
+isA: arch wire designed
+used_for: fit the lingual surface of the teeth and soldered to the anchor bands
+
+
+definition: 
+occlusal relationship is the individual and collective relationships of the mandibular teeth to the maxillary teeth and the relationship of the adjacent teeth in the same dental arch.
+Manual: 
+isThe: individual and collective relationships of the mandibular teeth to the maxillary teeth and the relationship of the adjacent teeth in the same dental arch
+Auto: 
+ability: the adjacent teeth in the same dental arch
+isThe: individual and collective relationships of the mandibular teeth to the maxillary teeth
+
+
+definition: 
+translucency is an object鈥檚 ability to allow the passage of light through it.
+Manual: 
+isA: object鈥檚 ability to allow the passage of light through it
+Auto: 
+ability: light through it
+isA: object鈥檚 ability to allow
+
+
+definition: 
+atrophy is a progressive, acquired decrease in the size of a normally developed cell, tissue, or organ. Atrophy may result from a decrease in cell size, number of cells, or both.
+Manual: 
+etiological_factor: a decrease in cell size, number of cells, or both
+isA: progressive, acquired decrease in the size of a normally developed cell, tissue, or organ
+Auto: 
+ability: a normally developed cell, tissue, or organ
+etiological_factor: a decrease in cell size, number of cells, or both
+isA: a progressive, acquired decrease
+
+
+definition: 
+reciprocal arm clasp is an arm of a clasp, usually at or occlusal to the height of contour, located in such a manner as to reciprocate any force arising from an opposing clasp arm on the same tooth.
+Manual: 
+isA: arm of a clasp, usually at or occlusal to the height of contour, located in such a manner as to reciprocate any force arising from an opposing clasp arm on the same tooth
+Auto: 
+ability: contour, located in such a manner as to reciprocate any force arising from an opposing clasp arm on the same tooth
+isA: arm of a clasp, usually at or occlusal
+
+
+definition: 
+incisal rest is a metallic extension onto the incisal angle of an anterior tooth to supply support or indirect retention for a removable partial denture.
+Manual: 
+isA: metallic extension onto the incisal angle of an anterior tooth
+purpose: to supply support or indirect retention for a removable partial denture
+Auto: 
+isA: a metallic extension onto the incisal angle
+purpose: tooth to supply support or indirect retention for a removable partial denture
+
+
+definition: 
+periodontitis is the alterations occurring in the periodontium with inflammation. Gingival changes are those of gingivitis, with the clinical signs associated with gingivitis. It has histologic characteristics, such as ulceration of the sulcular and junctional epithelium, epithelial hyperplasia, proliferation of epithelial rete pegs into the gingival tissues, apical migration of the epithelial attachment after lysis of the gingival fibers, increased cellular and exudative infiltrate, and vascularity of the lamina propria. Resorption of bone in an apical direction results in the loss of attachment of the periodontal fibers to the bone. A transseptal band of reconstituted periodontal fibers walls off the gingival inflammation from the underlying bone.
+Manual: 
+etiological_factor: ulceration of the sulcular and junctional epithelium, epithelial hyperplasia, proliferation of epithelial rete pegs into the gingival tissues, apical migration of the epithelial attachment after lysis of the gingival fibers, increased cellular and exudative infiltrate, and vascularity of the lamina propria
+isThe: alterations occurring in the periodontium with inflammation; those of gingivitis, with the clinical signs associated with gingivitis
+Auto: 
+ability: attachment of the periodontal fibers to the bone
+etiological_factor: with gingivitis
+isThe: alterations occurring in the periodontium with inflammation
+
+
+definition: 
+periodontitis is the alterations occurring in the periodontium with inflammation. Gingival changes are those of gingivitis, with the clinical signs associated with gingivitis. It has histologic characteristics, such as ulceration of the sulcular and junctional epithelium, epithelial hyperplasia, proliferation of epithelial rete pegs into the gingival tissues, apical migration of the epithelial attachment after lysis of the gingival fibers, increased cellular and exudative infiltrate, and vascularity of the lamina propria. Resorption of bone in an apical direction results in the loss of attachment of the periodontal fibers to the bone. A transseptal band of reconstituted periodontal fibers walls off the gingival inflammation from the underlying bone.
+Manual: 
+etiological_factor: ulceration of the sulcular and junctional epithelium, epithelial hyperplasia, proliferation of epithelial rete pegs into the gingival tissues, apical migration of the epithelial attachment after lysis of the gingival fibers, increased cellular and exudative infiltrate, and vascularity of the lamina propria
+isThe: alterations occurring in the periodontium with inflammation; those of gingivitis, with the clinical signs associated with gingivitis
+Auto: 
+ability: attachment of the periodontal fibers to the bone
+etiological_factor: with gingivitis
+isThe: alterations occurring in the periodontium with inflammation
+
+
+definition: 
+genial tubercle is a small rounded elevation on the lingual surface of the mandible on either side of the midline near the inferior border of the body of the mandible, serving as a point of insertion for the geniohyoid muscles.
+Manual: 
+function: as a point of insertion for the geniohyoid muscles
+isA: small rounded elevation on the lingual surface of the mandible on either side of the midline near the inferior border of the body of the mandible
+Auto: 
+ability: the mandible
+function: as a point of insertion for the geniohyoid muscles
+isA: a small rounded elevation on the lingual surface of the mandible on either side of the midline near the inferior border
+
+
+definition: 
+retainer is an orthodontic appliance, fixed or removable, used to maintain teeth in corrected positions during the period of functional adaptation following corrective treatment.
+Manual: 
+isA: orthodontic appliance, fixed or removable
+use_occasion: during the period of functional adaptation following corrective treatment
+used_for: maintain teeth in corrected positions
+Auto: 
+ability: functional adaptation following corrective treatment
+isA: orthodontic appliance, fixed or removable, used to maintain teeth in corrected positions
+use_occasion: 
+
+
+definition: 
+retainer is an orthodontic appliance, fixed or removable, used to maintain teeth in corrected positions during the period of functional adaptation following corrective treatment.
+Manual: 
+isA: orthodontic appliance, fixed or removable
+use_occasion: during the period of functional adaptation following corrective treatment
+used_for: maintain teeth in corrected positions
+Auto: 
+ability: functional adaptation following corrective treatment
+isA: orthodontic appliance, fixed or removable, used to maintain teeth in corrected positions
+use_occasion: 
+
+
+definition: 
+direct retainer is a clasp, attachment, or assembly applied to an abutment tooth for the purpose of maintaining a removable restoration in its planned position in relation to oral structures.
+Manual: 
+isA: clasp, attachment, or assembly
+purpose: maintaining a removable restoration in its planned position in relation to oral structures
+used_for: an abutment tooth
+Auto: 
+isA: a clasp, attachment
+purpose: of maintaining a removable restoration in its planned position in relation to oral structures
+used_for: an abutment tooth for the purpose
+
+
+definition: 
+direct retainer is a clasp, attachment, or assembly applied to an abutment tooth for the purpose of maintaining a removable restoration in its planned position in relation to oral structures.
+Manual: 
+isA: clasp, attachment, or assembly
+purpose: maintaining a removable restoration in its planned position in relation to oral structures
+used_for: an abutment tooth
+Auto: 
+isA: a clasp, attachment
+purpose: of maintaining a removable restoration in its planned position in relation to oral structures
+used_for: an abutment tooth for the purpose
+
+
+definition: 
+tooth contour is a shape of a tooth that is essential to a healthy gingival unit because it enables the bolus of food to be deflected from gingival margins during mastication.
+Manual: 
+effect: enables the bolus of food to be deflected from gingival margins during mastication
+isA: shape of a tooth that is essential to a healthy gingival unit
+Auto: 
+ability: food to be deflected from gingival margins during mastication
+isA: a shape of a tooth that is essential to a healthy gingival unit because it enables
+
+
+definition: 
+stylomandibular ligament is one of a pair of specialized bands of cervical fascia, forming an accessory part of the temporomandibular joint. It extends from the styloid process of the temporal bone to the ramus of the mandible.
+Manual: 
+extend_from: the styloid process of the temporal bone to the ramus of the mandible
+isThe: one of a pair of specialized bands of cervical fascia, forming an accessory part of the temporomandibular joint
+Auto: 
+ability: the mandible
+extend_from: the styloid process of the temporal bone
+
+
+definition: 
+in orthodontics adjustment is a change of elastic ligatures or elastic chain and arch wire if needed, once in every 4-6 weeks.
+Manual: 
+isA: change of elastic ligatures or elastic chain and arch wire if needed
+use_frequency: once in every 4-6 weeks
+Auto: 
+isA: a change of elastic ligatures or elastic chain and arch wire if needed, once in every 4-6 weeks
+
+
+definition: 
+bilateral balanced occlusion is the closure suitable for worn dentitions that are cuspless or have flat-sided cusps. It permits an increase of the amount of surface contact in centric closure and provides as much closure contact as possible for horizontal chewing. This kind of occlusion is a therapeutic form designed to keep dentures seated when fine-textured foods are chewed horizontally. It is not found in young, unworn natural dentitions.
+Manual: 
+ability: permits an increase of the amount of surface contact in centric closure and provides as much closure contact as possible for horizontal chewing
+isA: therapeutic form
+isThe: closure suitable for worn dentitions that are cuspless or have flat-sided cusps
+not_exist: young, unworn natural dentitions
+used_for: keep dentures seated when fine-textured foods are chewed horizontally
+Auto: 
+ability: surface contact in centric closure and provides as much closure contact as possible for horizontal chewing
+isA: a therapeutic form designed
+isThe: closure suitable for worn dentitions that are cuspless or have flat-sided cusps
+not_exist: in young, unworn natural dentitions
+used_for: keep dentures seated when fine-textured foods are chewed horizontally
+
+
+definition: 
+bilateral balanced occlusion is the closure suitable for worn dentitions that are cuspless or have flat-sided cusps. It permits an increase of the amount of surface contact in centric closure and provides as much closure contact as possible for horizontal chewing. This kind of occlusion is a therapeutic form designed to keep dentures seated when fine-textured foods are chewed horizontally. It is not found in young, unworn natural dentitions.
+Manual: 
+ability: permits an increase of the amount of surface contact in centric closure and provides as much closure contact as possible for horizontal chewing
+isA: therapeutic form
+isThe: closure suitable for worn dentitions that are cuspless or have flat-sided cusps
+not_exist: young, unworn natural dentitions
+used_for: keep dentures seated when fine-textured foods are chewed horizontally
+Auto: 
+ability: surface contact in centric closure and provides as much closure contact as possible for horizontal chewing
+isA: a therapeutic form designed
+isThe: closure suitable for worn dentitions that are cuspless or have flat-sided cusps
+not_exist: in young, unworn natural dentitions
+used_for: keep dentures seated when fine-textured foods are chewed horizontally
+
+
+definition: 
+age distribution is a grouping of the persons within a population on the basis of birth date.
+Manual: 
+isA: grouping of the persons within a population on the basis of birth date
+Auto: 
+ability: birth date
+isA: a grouping of the persons within a population
+
+
+definition: 
+nasal cavity is the two irregular spaces that are situated on either side of the midline of the face, extend from the cranial base to the palate, and are separated from each other by a thin vertical septum. In radiographs it appears over the roots of the maxillary incisors as a large, segmented, radiolucent area. Also called nasal fossa.
+Manual: 
+imaging_manifestation: it appears over the roots of the maxillary incisors as a large, segmented, radiolucent area
+isThe: two irregular spaces
+located: on either side of the midline of the face, extend from the cranial base to the palate, and are separated from each other by a thin vertical septum
+synonym: nasal fossa
+Auto: 
+ability: the face, extend from the cranial base to the palate, and are separated from each other by a thin vertical septum
+isThe: two irregular spaces
+located: on either side
+
+
+definition: 
+cobalt-chromium alloy is a base metal alloy. Used in dentistry for metallic denture bases and partial dentures. Also used in orthodontics as an archwire. Four types based on level of resilience. Also known as Elgiloy.
+Manual: 
+isA: base metal alloy
+synonym: Elgiloy
+use_occasion: dentistry for metallic denture bases and partial dentures; orthodontics as an archwire
+Auto: 
+isA: a base metal alloy
+synonym: Elgiloy
+use_occasion: in orthodontics as an archwire
+
+
+definition: 
+periodontal surgery is an operative procedure used to treat disease or repair abnormalities in the periodontium and associated teeth.
+Manual: 
+isA: operative procedure
+used_for: treat disease or repair abnormalities in the periodontium and associated teeth
+Auto: 
+isA: operative procedure used to treat disease or repair abnormalities in the periodontium and associated teeth
+
+
+definition: 
+mucogingival junction is the scalloped linear area denoting the separation of the gingivae and alveolar mucosa.
+Manual: 
+isThe: scalloped linear area denoting the separation of the gingivae and alveolar mucosa
+Auto: 
+ability: the gingivae and alveolar mucosa
+isThe: scalloped linear area denoting
+
+
+definition: 
+pickling solution is a solution of acid used for removing oxides and other impurities from the surface of dental castings, after recovery and before polishing.
+Manual: 
+isA: solution of acid
+used_for: removing oxides and other impurities from the surface of dental castings, after recovery and before polishing 
+Auto: 
+ability: dental castings, after recovery and before polishing
+isA: a solution of acid
+used_for: for removing oxides and other impurities
+
+
+definition: 
+healing abutment is a cylinder or screw used during the second stage of dental restoration. This serves two purposes : to allow gingival tissues to heal prior to the placement of the permanent abutment, and to maintain proper spacing in the oral cavity before the final restoration is placed.
+Manual: 
+isA: cylinder or screw
+purpose: to allow gingival tissues to heal prior to the placement of the permanent abutment, and to maintain proper spacing in the oral cavity before the final restoration  is placed
+use_occasion: during the second stage of dental restoration
+Auto: 
+ability: the permanent abutment, and to maintain proper spacing in the oral cavity before the final restoration is placed
+isA: a cylinder
+purpose: : to allow gingival tissues to heal
+use_occasion: during the second stage of dental restoration
+
+
+definition: 
+healing abutment is a cylinder or screw used during the second stage of dental restoration. This serves two purposes : to allow gingival tissues to heal prior to the placement of the permanent abutment, and to maintain proper spacing in the oral cavity before the final restoration is placed.
+Manual: 
+isA: cylinder or screw
+purpose: to allow gingival tissues to heal prior to the placement of the permanent abutment, and to maintain proper spacing in the oral cavity before the final restoration  is placed
+use_occasion: during the second stage of dental restoration
+Auto: 
+ability: the permanent abutment, and to maintain proper spacing in the oral cavity before the final restoration is placed
+isA: a cylinder
+purpose: : to allow gingival tissues to heal
+use_occasion: during the second stage of dental restoration
+
+
+definition: 
+dental arch is the composite structure of the dentition and alveolar ridge or the remains thereof after the loss of some or all of the natural teeth.
+Manual: 
+isThe: composite structure of the dentition and alveolar ridge or the remains thereof  after the loss of some or all of the natural teeth
+Auto: 
+ability: some or all of the natural teeth
+isThe: composite structure of the dentition and alveolar ridge or the remains thereof
+
+
+definition: 
+splint is a support or brace used to fasten or confine.
+Manual: 
+isA: support or brace
+used_for: fasten or confine
+Auto: 
+isA: a support
+use_occasion: to fasten or confine
+
+
+definition: 
+dental stone is a 伪-hemihydrate of calcium sulfate.
+Manual: 
+isA: 伪-hemihydrate of calcium sulfate
+Auto: 
+composed_of: calcium sulfate
+isA: a 伪-hemihydrate
+
+
+definition: 
+age determination is an estimate of age from the stage of tooth development and/or pattern of wear.
+Manual: 
+isA: estimate of age from the stage of tooth development and/or pattern of wear
+Auto: 
+ability: tooth development and/or pattern of wear
+isA: estimate of age
+
+
+definition: 
+financial arrangement is an agreement between the dental provider and patient on the method of handling the patient鈥檚 account.
+Manual: 
+isA: agreement between the dental provider and patient on the method of handling the patient鈥檚 account
+Auto: 
+ability: handling the patient鈥檚 account
+isA: agreement between the dental provider and patient
+
+
+definition: 
+wedging effect is an effect produced by food impaction that forces the teeth apart.
+Manual: 
+isA: effect produced by food impaction that forces the teeth apart
+Auto: 
+isA: effect
+produce_method: by food impaction that forces the teeth apart
+
+
+definition: 
+gingival graft is a graft in which a thin piece of tissue is taken from the palate of the oral cavity, or moved over from adjacent areas, to provide a stable band of soft tissue around a tooth or implant.
+Manual: 
+isA: graft in which a thin piece of tissue is taken from the palate of the oral cavity, or moved over from adjacent areas
+purpose: to provide a stable band of soft tissue around a tooth or implant
+Auto: 
+ability: the oral cavity, or moved over from adjacent areas, to provide a stable band of soft tissue around a tooth or implant
+isA: a graft in which a thin piece of tissue is taken
+
+
+definition: 
+immune system is a biochemical complex that protects the body against pathogenic organisms and other foreign bodies. It incorporates the humoral immune response, which produces antibodies to react with specific antigens, and the cell-mediated response, which uses T cells to mobilize tissue macrophages in the presence of a foreign body. It also protects the body from invasion by creating local barriers and inflammation. The principal organs include the bone marrow, thymus, and lymphoid tissue.
+Manual: 
+composed_of: the humoral immune response, which produces antibodies to react with specific antigens, and the cell-mediated response, which uses T cells to mobilize tissue macrophages in the presence of a foreign body; principal organs include the bone marrow, thymus, and lymphoid tissue
+effect: protects the body from invasion by creating local barriers and inflammation
+isA: biochemical complex that protects the body against pathogenic organisms and other foreign bodies
+Auto: 
+ability: a foreign body
+isA: a biochemical complex that protects
+resort_to: body against pathogenic organisms and other foreign bodies; body from invasion by creating local barriers and inflammation
+
+
+definition: 
+flask is a metal case or tube used in investing procedures.
+Manual: 
+isA: metal case or tube
+use_occasion: investing procedures
+Auto: 
+isA: a metal case
+use_occasion: in investing procedures
+
+
+definition: 
+sagittal plane is a plane of the body created by an imaginary plane parallel to the median plane.
+Manual: 
+isA: plane of the body created by an imaginary plane parallel to the median plane
+Auto: 
+isA: a plane
+resort_to: body created by an imaginary plane parallel to the median plane
+
+
+definition: 
+computed tomography is a radiographic body scanning technique in which thin or narrow layer sections of the body can be imaged for diagnostic purposes. The technique uses a computer-linked radiographic machine to focus the radiographs on a particular section of the body to be viewed.
+Manual: 
+isA: radiographic body scanning technique in which thin or narrow layer sections of the body can be imaged for diagnostic purposes
+resort_to: a computer-linked radiographic machine to focus the radiographs on a particular section of the body to be viewed
+Auto: 
+isA: a radiographic body scanning technique in which thin or narrow layer sections
+resort_to: body can be imaged; body to be viewed
+used_for: diagnostic purposes
+
+
+definition: 
+computed tomography is a radiographic body scanning technique in which thin or narrow layer sections of the body can be imaged for diagnostic purposes. The technique uses a computer-linked radiographic machine to focus the radiographs on a particular section of the body to be viewed.
+Manual: 
+isA: radiographic body scanning technique in which thin or narrow layer sections of the body can be imaged for diagnostic purposes
+resort_to: a computer-linked radiographic machine to focus the radiographs on a particular section of the body to be viewed
+Auto: 
+isA: a radiographic body scanning technique in which thin or narrow layer sections
+resort_to: body can be imaged; body to be viewed
+used_for: diagnostic purposes
+
+
+definition: 
+solder is a fusible alloy of metals used to unite the edges or surfaces of two pieces of metal.
+Manual: 
+isA: fusible alloy of metals
+used_for: unite the edges or surfaces of two pieces of metal
+Auto: 
+isA: a fusible alloy
+used_for: unite the edges or surfaces of two pieces of metal
+
+
+definition: 
+custom abutment is a custom-made post attached to the superior part of the metal dental implant that protrudes through the gingival tissues and onto which the restoration is fitted; either machined or cast, and used in situations where prefabricated abutments can not be used.
+Manual: 
+isA: custom-made post attached to the superior part of the metal dental implant that protrudes through the gingival tissues and onto which the restoration is fitted
+produce_method: either machined or cast
+use_occasion: prefabricated abutments can not be used
+Auto: 
+isA: a custom-made post attached to the superior part of the metal dental implant that protrudes through the gingival tissues and onto which the restoration is fitted
+use_occasion: in situations where prefabricated abutments can not be used
+
+
+definition: 
+removable lingual arch is an arch wire designed to fit the lingual surface of the teeth. It has two posts soldered on each end that fit snugly into the vertical tubes of the molar anchor bands.
+Manual: 
+composed_of: two posts soldered on each end that fit snugly into the vertical tubes of the molar anchor bands
+isA: arch wire
+used_for: fit the lingual surface of the teeth
+Auto: 
+isA: arch wire designed
+used_for: fit the lingual surface of the teeth
+
+
+definition: 
+UCLA abutment is a cast component used to create a custom abutment for a prosthesis. Also known as a castable abutment.
+Manual: 
+isA: cast component
+synonym: castable abutment
+used_for: create a custom abutment for a prosthesis
+Auto: 
+isA: a cast component used to create a custom abutment for a prosthesis
+synonym: a castable abutment
+
+
+definition: 
+undercut gauge is an attachment used in conjunction with a dental cast surveyor to measure the amount of infrabulge of a tooth in a horizontal plane.
+Manual: 
+isA: attachment
+use_occasion: conjunction with a dental cast surveyor to measure the amount of infrabulge of a tooth in a horizontal plane
+Auto: 
+ability: infrabulge of a tooth in a horizontal plane
+isA: attachment
+use_occasion: in conjunction with a dental cast surveyor to measure
+
+
+definition: 
+refractory cast is a cast made of materials that can withstand high temperatures without disintegrating and that, when used in partial denture casting techniques, expand to compensate for metal shrinkage.
+Manual: 
+composed_of: materials that can withstand high temperatures without disintegrating and that, when used in partial denture casting techniques, expand to compensate for metal shrinkage
+isA: cast
+Auto: 
+composed_of: materials that can withstand high temperatures without disintegrating and that, when
+use_occasion: in partial denture casting techniques, expand to compensate for metal shrinkage
+
+
+definition: 
+sulcus is a groove or depression on the surface of a tooth.
+Manual: 
+isA: groove or depression on the surface of a tooth
+Auto: 
+ability: a tooth
+isA: a groove or depression
+
+
+definition: 
+occlusion rim is an occluding surface built on temporary or permanent denture bases for the purpose of making maxillomandibular relation records and arranging teeth.
+Manual: 
+isA: occluding surface built on temporary or permanent denture bases
+purpose: making maxillomandibular relation records and arranging teeth
+Auto: 
+isA: occluding surface built on temporary or permanent denture bases for the purpose
+purpose: of making maxillomandibular relation records and arranging teeth
+
+
+definition: 
+wax pattern is a wax model for making the mold in which the metal will be formed in casting.
+Manual: 
+isA: wax model
+purpose: making the mold in which the metal will be formed in casting
+Auto: 
+isA: a wax model for making the mold in which the metal will be formed in casting
+
+
+definition: 
+crown lengthening is a surgical procedure to remove marginal gingival tissues to expose more of the crown of the tooth to facilitate a reconstructive or operative procedure.
+Manual: 
+isA: surgical procedure
+purpose: to remove marginal gingival tissues to expose more of the crown of the tooth to facilitate a reconstructive or operative procedure
+Auto: 
+ability: the tooth to facilitate a reconstructive or operative procedure
+purpose: to remove marginal gingival tissues to expose more
+
+
+definition: 
+occlusal plane is an imaginary surface that is related anatomically to the cranium and that theoretically touches the incisal edges of the incisors and tips of the occluding surfaces of the posterior teeth. It is not a plane in the true sense of the word but represents the mean of the curvature of the surface.
+Manual: 
+isA: imaginary surface that is related anatomically to the cranium and that theoretically touches the incisal edges of the incisors and tips of the occluding surfaces of the posterior teeth
+is_NOT_A: plane in the true sense of the word but represents the mean of the curvature of the surface
+Auto: 
+ability: the curvature of the surface
+isA: imaginary surface that is related anatomically to the cranium and that theoretically touches the incisal edges of the incisors and tips of the occluding surfaces of the posterior teeth
+is_NOT_A: a plane in the true sense of the word but represents
+
+

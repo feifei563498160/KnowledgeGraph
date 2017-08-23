@@ -1,0 +1,17 @@
+[
+  {
+    "pronunciation": "", 
+    "concept": "abutment, custom,", 
+    "pos2definition": [
+      {
+        "definition": "a custom-made post attached to the superior part of the metal dental implant that protrudes through the gingival tissues and onto which the restoration is fitted; either machined or cast, and used in situations where prefabricated abutments cannot be used.", 
+        "pos": "n", 
+        "attributes": {
+          "use_occasion": "used in where prefabricated abutments cannot be used.", 
+          "isA": "custom-made post attached to the superior part of the metal dental implant that protrudes through the gingival tissues and onto which the restoration is fitted", 
+          "produce_method": "either machined or cast"
+        }
+      }
+    ]
+  }
+]

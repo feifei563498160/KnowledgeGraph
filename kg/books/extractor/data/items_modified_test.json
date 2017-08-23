@@ -1,0 +1,36 @@
+[
+  {
+    "pronunciation": "", 
+    "concept": "x-ray", 
+    "pos2definition": [
+      {
+        "definition": "x-ray is a type of electromagnetic radiation characterized by wavelengths between approximately 103 Å and 10 - 4 Å , corresponding to photon energies of about 20 eV to 125 MeV . X-rays are invisible ; penetrative , especially at higher photon energies ; and travel with the same speed as visible light . Typical production involves bombarding a target of high atomic number with fast electrons in a high vacuum . They are also emitted as a product of some radioactive disintegrations . X-rays were discovered by Wilhelm C. Roentgen in 1895 ; hence the term roentgen rays . Roentgen called them x-rays after the mathematic symbol x for an unknown . Also the colloquial term for radiograph . See also radiograph .", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "ves′ikəl", 
+    "concept": "vesicle", 
+    "pos2definition": [
+      {
+        "definition": "vesicle is a small , blisterlike elevation of the skin or mucous membrane resulting from an intraepithelial or subepithelial collection of fluid . It is a primary type of lesion and may be seen in herpes simplex , recurrent herpes stomatitis medicamentosa , stomatitis venenata , erythema multiforme , Reiter's syndrome , Behçet's syndrome , Stevens-Johnson syndrome , herpangina , varicella , and many others .", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "vesicle is a circumscribed , elevated lesion of the skin containing fluid and having a diameter of up to 5 mm .", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "Ångstrom unit", 
+    "pos2definition": [
+      {
+        "definition": "Ångstrom unit is the unit of measure of wavelengths ; Ångstrom unit is one one-hundredmillionth of a centimeter .", 
+        "pos": "n"
+      }
+    ]
+  }, 
+]

@@ -1,0 +1,1294 @@
+[(u'substance', u'NN'), (u'abuse', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'misuse', u'NN'), (u'of', u'IN'), (u'legal', u'JJ'), (u'or', u'CC'), (u'illegal', u'JJ'), (u'substances', u'NNS'), (u'with', u'IN'), (u'the', u'DT'), (u'intent', u'NN'), (u'to', u'TO'), (u'alter', u'VB'), (u'some', u'DT'), (u'aspect', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'user\u9225\u6a9a', u'NN'), (u'experience', u'NN')]
+[(u'May', u'NNP'), (u'include', u'VBP'), (u'medications', u'NNS'), (u',', u','), (u'illicit', u'JJ'), (u'drugs', u'NNS'), (u',', u','), (u'legal', u'JJ'), (u'substances', u'NNS'), (u'with', u'IN'), (u'potential', u'JJ'), (u'mood-altering', u'JJ'), (u'effects', u'NNS'), (u',', u','), (u'or', u'CC'), (u'substances', u'NNS'), (u'whose', u'WP$'), (u'primary', u'JJ'), (u'use', u'NN'), (u'may', u'MD'), (u'not', u'RB'), (u'be', u'VB'), (u'for', u'IN'), (u'human', u'JJ'), (u'consumption', u'NN')]
+--------
+~~~~~~~
+[(u'abutment', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'tooth', u'NN'), (u',', u','), (u'root', u'NN'), (u',', u','), (u'or', u'CC'), (u'implant', u'VB'), (u'used', u'VBN'), (u'for', u'IN'), (u'support', u'NN'), (u'and', u'CC'), (u'retention', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'fixed', u'JJ'), (u'or', u'CC'), (u'removable', u'JJ'), (u'prosthesis', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'pontic', u'JJ')]
+--------
+~~~~~~~
+[(u'angulated', u'JJ'), (u'abutment', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'abutment', u'NN'), (u'whose', u'WP$'), (u'body', u'NN'), (u'is', u'VBZ'), (u'not', u'RB'), (u'parallel', u'JJ'), (u'to', u'TO'), (u'the', u'DT'), (u'long', u'JJ'), (u'axis', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'implant', u'VBP')]
+[(u'It', u'PRP'), (u'is', u'VBZ'), (u'utilized', u'VBN'), (u'when', u'WRB'), (u'the', u'DT'), (u'implant', u'VBP'), (u'is', u'VBZ'), (u'at', u'IN'), (u'a', u'DT'), (u'different', u'JJ'), (u'inclination', u'NN'), (u'in', u'IN'), (u'relation', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'proposed', u'VBN'), (u'prosthesis', u'NN')]
+--------
+~~~~~~~
+[(u'custom', u'NN'), (u'abutment', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'custom-made', u'JJ'), (u'post', u'NN'), (u'attached', u'VBN'), (u'to', u'TO'), (u'the', u'DT'), (u'superior', u'JJ'), (u'part', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'metal', u'NN'), (u'dental', u'JJ'), (u'implant', u'VBP'), (u'that', u'IN'), (u'protrudes', u'NNS'), (u'through', u'IN'), (u'the', u'DT'), (u'gingival', u'JJ'), (u'tissues', u'NNS'), (u'and', u'CC'), (u'onto', u'IN'), (u'which', u'WDT'), (u'the', u'DT'), (u'restoration', u'NN'), (u'is', u'VBZ'), (u'fitted', u'VBN'), (u';', u':'), (u'either', u'CC'), (u'machined', u'VBN'), (u'or', u'CC'), (u'cast', u'VBN'), (u',', u','), (u'and', u'CC'), (u'used', u'VBN'), (u'in', u'IN'), (u'situations', u'NNS'), (u'where', u'WRB'), (u'prefabricated', u'JJ'), (u'abutments', u'NNS'), (u'can', u'MD'), (u'not', u'RB'), (u'be', u'VB'), (u'used', u'VBN')]
+--------
+~~~~~~~
+[(u'healing', u'NN'), (u'abutment', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'cylinder', u'NN'), (u'or', u'CC'), (u'screw', u'NN'), (u'used', u'VBN'), (u'during', u'IN'), (u'the', u'DT'), (u'second', u'JJ'), (u'stage', u'NN'), (u'of', u'IN'), (u'dental', u'JJ'), (u'restoration', u'NN')]
+[(u'This', u'DT'), (u'serves', u'VBZ'), (u'two', u'CD'), (u'purposes', u'NNS'), (u':', u':'), (u'to', u'TO'), (u'allow', u'VB'), (u'gingival', u'JJ'), (u'tissues', u'NNS'), (u'to', u'TO'), (u'heal', u'VB'), (u'prior', u'RB'), (u'to', u'TO'), (u'the', u'DT'), (u'placement', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'permanent', u'JJ'), (u'abutment', u'NN'), (u',', u','), (u'and', u'CC'), (u'to', u'TO'), (u'maintain', u'VB'), (u'proper', u'JJ'), (u'spacing', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN'), (u'before', u'IN'), (u'the', u'DT'), (u'final', u'JJ'), (u'restoration', u'NN'), (u'is', u'VBZ'), (u'placed', u'VBN')]
+--------
+~~~~~~~
+[(u'intermediate', u'JJ'), (u'abutment', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'abutment', u'NN'), (u'located', u'JJ'), (u'between', u'IN'), (u'the', u'DT'), (u'abutments', u'NNS'), (u'that', u'WDT'), (u'form', u'VBP'), (u'the', u'DT'), (u'ends', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'prosthesis', u'NN')]
+--------
+~~~~~~~
+[(u'multiple', u'JJ'), (u'abutment', u'NN'), (u'are', u'VBP'), (u'the', u'DT'), (u'abutments', u'NNS'), (u'splinted', u'VBN'), (u'together', u'RB'), (u'as', u'IN'), (u'a', u'DT'), (u'unit', u'NN'), (u'to', u'TO'), (u'support', u'VB'), (u'and', u'CC'), (u'retain', u'VB'), (u'a', u'DT'), (u'fixed', u'JJ'), (u'prosthesis', u'NN')]
+--------
+~~~~~~~
+[(u'prefabricated', u'VBN'), (u'abutment', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'machine-manufactured', u'JJ'), (u'post', u'NN'), (u'attached', u'VBN'), (u'to', u'TO'), (u'the', u'DT'), (u'superior', u'JJ'), (u'part', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'dental', u'JJ'), (u'implant', u'VBP'), (u'that', u'IN'), (u'protrudes', u'NNS'), (u'through', u'IN'), (u'the', u'DT'), (u'gingival', u'JJ'), (u'tissues', u'NNS'), (u'and', u'CC'), (u'onto', u'IN'), (u'which', u'WDT'), (u'a', u'DT'), (u'restoration', u'NN'), (u'is', u'VBZ'), (u'fitted', u'VBN')]
+--------
+~~~~~~~
+[(u'preparable', u'JJ'), (u'abutment', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'dental', u'JJ'), (u'implant', u'VB'), (u'abutment', u'NN'), (u'that', u'WDT'), (u'can', u'MD'), (u'be', u'VB'), (u'prepared', u'VBN'), (u'and', u'CC'), (u'changed', u'VBN'), (u'from', u'IN'), (u'the', u'DT'), (u'manufacturer\u9225\u6a9a', u'NN'), (u'original', u'JJ'), (u'design', u'NN')]
+--------
+~~~~~~~
+[(u'screw', u'VB'), (u'abutment', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'screw', u'NN'), (u'that', u'WDT'), (u'secures', u'VBZ'), (u'an', u'DT'), (u'abutment', u'NN'), (u'to', u'TO'), (u'an', u'DT'), (u'implant', u'VB')]
+[(u'It', u'PRP'), (u'is', u'VBZ'), (u'usually', u'RB'), (u'torqued', u'VBN'), (u'to', u'TO'), (u'a', u'DT'), (u'final', u'JJ'), (u'seating', u'NN'), (u'position', u'NN')]
+--------
+~~~~~~~
+[(u'UCLA', u'NNP'), (u'abutment', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'cast', u'NN'), (u'component', u'NN'), (u'used', u'VBN'), (u'to', u'TO'), (u'create', u'VB'), (u'a', u'DT'), (u'custom', u'NN'), (u'abutment', u'NN'), (u'for', u'IN'), (u'a', u'DT'), (u'prosthesis', u'NN')]
+[(u'Also', u'RB'), (u'known', u'VBN'), (u'as', u'IN'), (u'a', u'DT'), (u'castable', u'JJ'), (u'abutment', u'NN')]
+--------
+~~~~~~~
+[(u'adjustment', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'modification', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'restoration', u'NN'), (u'or', u'CC'), (u'of', u'IN'), (u'a', u'DT'), (u'denture', u'NN'), (u'after', u'IN'), (u'insertion', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN')]
+--------
+~~~~~~~
+[(u'in', u'IN'), (u'orthodontics', u'NNS'), (u'adjustment', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'change', u'NN'), (u'of', u'IN'), (u'elastic', u'JJ'), (u'ligatures', u'NNS'), (u'or', u'CC'), (u'elastic', u'JJ'), (u'chain', u'NN'), (u'and', u'CC'), (u'arch', u'JJ'), (u'wire', u'NN'), (u'if', u'IN'), (u'needed', u'VBN'), (u',', u','), (u'once', u'RB'), (u'in', u'IN'), (u'every', u'DT'), (u'4-6', u'CD'), (u'weeks', u'NNS')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'adjustment', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'grinding', u'VBG'), (u'of', u'IN'), (u'the', u'DT'), (u'occluding', u'VBG'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'teeth', u'NNS'), (u'to', u'TO'), (u'develop', u'VB'), (u'harmonious', u'JJ'), (u'relationships', u'NNS'), (u'between', u'IN'), (u'each', u'DT'), (u'other', u'JJ'), (u',', u','), (u'their', u'PRP$'), (u'supporting', u'JJ'), (u'structures', u'NNS'), (u',', u','), (u'muscles', u'NNS'), (u'of', u'IN'), (u'mastication', u'NN'), (u',', u','), (u'and', u'CC'), (u'temporomandibular', u'JJ'), (u'joints', u'NNS')]
+--------
+~~~~~~~
+[(u'hydrocolloid', u'NN'), (u'agar', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'reversible', u'JJ'), (u'hydrocolloid', u'NN'), (u'made', u'VBN'), (u'from', u'IN'), (u'agar-agar', u'JJ')]
+--------
+~~~~~~~
+[(u'biological', u'JJ'), (u'age', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'age', u'NN'), (u'determined', u'VBN'), (u'by', u'IN'), (u'physiology', u'NN'), (u'rather', u'RB'), (u'than', u'IN'), (u'chronology', u'NN')]
+[(u'Factors', u'NNS'), (u'include', u'VBP'), (u'changes', u'NNS'), (u'in', u'IN'), (u'the', u'DT'), (u'physical', u'JJ'), (u'structure', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'body', u'NN'), (u'as', u'RB'), (u'well', u'RB'), (u'as', u'IN'), (u'changes', u'NNS'), (u'in', u'IN'), (u'the', u'DT'), (u'performance', u'NN'), (u'of', u'IN'), (u'motor', u'NN'), (u'skills', u'NNS'), (u'and', u'CC'), (u'sensory', u'JJ'), (u'awareness', u'NN')]
+--------
+~~~~~~~
+[(u'chronologic', u'JJ'), (u'age', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'age', u'NN'), (u'determined', u'VBN'), (u'by', u'IN'), (u'the', u'DT'), (u'passage', u'NN'), (u'of', u'IN'), (u'time', u'NN'), (u'since', u'IN'), (u'birth', u'NN')]
+--------
+~~~~~~~
+[(u'dental', u'JJ'), (u'age', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'age', u'NN'), (u'determined', u'VBN'), (u'based', u'VBN'), (u'on', u'IN'), (u'the', u'DT'), (u'eruption', u'NN'), (u'stage', u'NN'), (u'of', u'IN'), (u'dentition', u'NN')]
+--------
+~~~~~~~
+[(u'age', u'NN'), (u'determination', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'estimate', u'NN'), (u'of', u'IN'), (u'age', u'NN'), (u'from', u'IN'), (u'the', u'DT'), (u'stage', u'NN'), (u'of', u'IN'), (u'tooth', u'NN'), (u'development', u'NN'), (u'and/or', u'CC'), (u'pattern', u'NN'), (u'of', u'IN'), (u'wear', u'NN')]
+--------
+~~~~~~~
+[(u'age', u'NN'), (u'distribution', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'grouping', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'persons', u'NNS'), (u'within', u'IN'), (u'a', u'DT'), (u'population', u'NN'), (u'on', u'IN'), (u'the', u'DT'), (u'basis', u'NN'), (u'of', u'IN'), (u'birth', u'NN'), (u'date', u'NN')]
+--------
+~~~~~~~
+[(u'age', u'NN'), (u'factors', u'NNS'), (u'are', u'VBP'), (u'the', u'DT'), (u'variables', u'NNS'), (u'affected', u'VBN'), (u'by', u'IN'), (u'time', u'NN'), (u'since', u'IN'), (u'birth', u'NN')]
+--------
+~~~~~~~
+[(u'age', u'NN'), (u'of', u'IN'), (u'onset', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'chronologic', u'JJ'), (u'age', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'patient', u'NN'), (u'at', u'IN'), (u'which', u'WDT'), (u'the', u'DT'), (u'disease', u'NN'), (u',', u','), (u'affliction', u'NN'), (u',', u','), (u'or', u'CC'), (u'disability', u'NN'), (u'appeared', u'VBD')]
+--------
+~~~~~~~
+[(u'psychological', u'JJ'), (u'age', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'subjectively', u'RB'), (u'experienced', u'JJ'), (u'age', u'NN'), (u'based', u'VBN'), (u'on', u'IN'), (u'a', u'DT'), (u'person', u'NN'), (u'\u2019', u'CD'), (u's', u'NN'), (u'behavior', u'NN'), (u',', u','), (u'or', u'CC'), (u"'how", u'NN'), (u'old', u'JJ'), (u'they', u'PRP'), (u'feel', u'VBP')]
+[(u"'", u"''")]
+--------
+~~~~~~~
+[(u'skeletal', u'JJ'), (u'age', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'age', u'NN'), (u'based', u'VBN'), (u'on', u'IN'), (u'skeletal', u'JJ'), (u'measurements', u'NNS'), (u'relative', u'JJ'), (u'to', u'TO'), (u'chronological', u'JJ'), (u'skeletal', u'JJ'), (u'development', u'NN')]
+--------
+~~~~~~~
+[(u'alginate', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'salt', u'NN'), (u'of', u'IN'), (u'alginic', u'JJ'), (u'acid', u'NN'), (u',', u','), (u'which', u'WDT'), (u',', u','), (u'when', u'WRB'), (u'mixed', u'VBN'), (u'with', u'IN'), (u'water', u'NN'), (u'in', u'IN'), (u'accurate', u'JJ'), (u'proportions', u'NNS'), (u',', u','), (u'forms', u'VBZ'), (u'an', u'DT'), (u'irreversible', u'JJ'), (u'hydrocolloid', u'NN'), (u'gel', u'NN'), (u'used', u'VBN'), (u'for', u'IN'), (u'making', u'VBG'), (u'impressions', u'NNS'), (u'or', u'CC'), (u'molds', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'dentition', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'hydrocolloid', u'JJ'), (u',', u','), (u'irreversible', u'JJ')]
+--------
+~~~~~~~
+[(u'tooth', u'NN'), (u'alignment', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'arrangement', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'in', u'IN'), (u'relationship', u'NN'), (u'to', u'TO'), (u'their', u'PRP$'), (u'supporting', u'JJ'), (u'bone', u'NN'), (u',', u','), (u'adjacent', u'JJ'), (u'teeth', u'NNS'), (u',', u','), (u'and', u'CC'), (u'opposing', u'JJ'), (u'dentition', u'NN')]
+--------
+~~~~~~~
+[(u'cobalt-chromium', u'NN'), (u'alloy', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'base', u'NN'), (u'metal', u'NN'), (u'alloy', u'NN')]
+[(u'Used', u'VBN'), (u'in', u'IN'), (u'dentistry', u'NN'), (u'for', u'IN'), (u'metallic', u'JJ'), (u'denture', u'NN'), (u'bases', u'NNS'), (u'and', u'CC'), (u'partial', u'JJ'), (u'dentures', u'NNS')]
+[(u'Also', u'RB'), (u'used', u'VBN'), (u'in', u'IN'), (u'orthodontics', u'NNS'), (u'as', u'IN'), (u'an', u'DT'), (u'archwire', u'NN')]
+[(u'Four', u'CD'), (u'types', u'NNS'), (u'based', u'VBN'), (u'on', u'IN'), (u'level', u'NN'), (u'of', u'IN'), (u'resilience', u'NN')]
+[(u'Also', u'RB'), (u'known', u'VBN'), (u'as', u'IN'), (u'Elgiloy', u'NN')]
+--------
+~~~~~~~
+[(u'nickel-chromium', u'JJ'), (u'alloy', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'stainless', u'JJ'), (u'steel', u'NN')]
+--------
+~~~~~~~
+[(u'aluminum', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'widely', u'RB'), (u'used', u'VBN'), (u'metallic', u'JJ'), (u'element', u'NN'), (u'and', u'CC'), (u'the', u'DT'), (u'third', u'JJ'), (u'most', u'RBS'), (u'abundant', u'JJ'), (u'of', u'IN'), (u'all', u'PDT'), (u'the', u'DT'), (u'elements', u'NNS')]
+[(u'Aluminum', u'NNP'), (u'is', u'VBZ'), (u'a', u'DT'), (u'principal', u'JJ'), (u'component', u'NN'), (u'of', u'IN'), (u'many', u'JJ'), (u'compounds', u'NNS'), (u'used', u'VBN'), (u'in', u'IN'), (u'antacids', u'NNS'), (u',', u','), (u'antiseptics', u'NNS'), (u',', u','), (u'astringents', u'NNS'), (u',', u','), (u'and', u'CC'), (u'styptics', u'NNS')]
+[(u'Aluminum', u'NNP'), (u'hydroxychloride', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'most', u'RBS'), (u'commonly', u'RB'), (u'used', u'VBN'), (u'agent', u'NN'), (u'in', u'IN'), (u'antiperspirants', u'NNS')]
+--------
+~~~~~~~
+[(u'brand', u'NN'), (u'name', u'NN'), (u':', u':'), (u'Basajel', u'NN'), (u';', u':'), (u'drug', u'NN'), (u'class', u'NN'), (u':', u':'), (u'antacid', u'NN'), (u';', u':'), (u'actions', u'NNS'), (u':', u':'), (u'neutralizes', u'VBZ'), (u'gastric', u'JJ'), (u'acidity', u'NN'), (u',', u','), (u'binds', u'VBZ'), (u'phosphates', u'NNS'), (u'in', u'IN'), (u'GI', u'NN'), (u'tract', u'NN'), (u';', u':'), (u'uses', u'VBZ'), (u':', u':'), (u'antacid', u'NN'), (u',', u','), (u'prevention', u'NN'), (u'of', u'IN'), (u'phosphate', u'NN'), (u'stones', u'NNS'), (u',', u','), (u'phosphate', u'NN'), (u'binder', u'NN'), (u'in', u'IN'), (u'chronic', u'JJ'), (u'renal', u'JJ'), (u'failure', u'NN')]
+--------
+~~~~~~~
+[(u'aluminum', u'NN'), (u'filters/disks', u'NNS'), (u'is', u'VBZ'), (u'the', u'DT'), (u'extremely', u'RB'), (u'thin', u'JJ'), (u'pieces', u'NNS'), (u'of', u'IN'), (u'aluminum', u'NN'), (u'that', u'WDT'), (u'are', u'VBP'), (u'placed', u'VBN'), (u'over', u'IN'), (u'the', u'DT'), (u'aperture', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'radiographic', u'JJ'), (u'tube', u'NN'), (u'to', u'TO'), (u'eliminate', u'VB'), (u'x-rays', u'NNPS'), (u'over', u'IN'), (u'a', u'DT'), (u'certain', u'JJ'), (u'wavelength', u'NN')]
+--------
+~~~~~~~
+[(u'brand', u'NN'), (u'names', u'NNS'), (u':', u':'), (u'AlternaGEL', u'NN'), (u',', u','), (u'Alu-Cap', u'NNP'), (u',', u','), (u'Alu-', u'NNP'), (u'Tab', u'NNP'), (u',', u','), (u'Amphojel', u'NNP'), (u',', u','), (u'Dialume', u'NNP'), (u';', u':'), (u'drug', u'NN'), (u'class', u'NN'), (u':', u':'), (u'antacid', u'NN'), (u';', u':'), (u'action', u'NN'), (u':', u':'), (u'neutralizes', u'VBZ'), (u'gastric', u'JJ'), (u'acidity', u'NN'), (u',', u','), (u'binds', u'VBZ'), (u'phosphates', u'NNS'), (u'in', u'IN'), (u'GI', u'NN'), (u'tract', u'NN'), (u';', u':'), (u'uses', u'VBZ'), (u':', u':'), (u'antacid', u'NN'), (u',', u','), (u'hyperphosphatemia', u'NN'), (u'in', u'IN'), (u'chronic', u'JJ'), (u'renal', u'JJ'), (u'failure', u'NN')]
+--------
+~~~~~~~
+[(u'aluminum', u'NN'), (u'oxide', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'metallic', u'JJ'), (u'oxide', u'NN'), (u'that', u'WDT'), (u'includes', u'VBZ'), (u'alpha', u'NN'), (u'single', u'JJ'), (u'crystal', u'NN'), (u'and', u'CC'), (u'polycrystal', u'NN')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'analysis', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'study', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'relations', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'occlusal', u'JJ'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'opposing', u'JJ'), (u'teeth', u'NNS'), (u'and', u'CC'), (u'their', u'PRP$'), (u'functional', u'JJ'), (u'harmony', u'NN')]
+--------
+~~~~~~~
+[(u'anatomy', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'science', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'form', u'NN'), (u',', u','), (u'structure', u'NN'), (u',', u','), (u'and', u'CC'), (u'parts', u'NNS'), (u'of', u'IN'), (u'animal', u'NN'), (u'organisms', u'NNS')]
+--------
+~~~~~~~
+[(u'dental', u'JJ'), (u'anatomy', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'science', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'structure', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'and', u'CC'), (u'the', u'DT'), (u'relationship', u'NN'), (u'of', u'IN'), (u'their', u'PRP$'), (u'parts', u'NNS')]
+[(u'The', u'DT'), (u'study', u'NN'), (u'involves', u'VBZ'), (u'macroscopic', u'JJ'), (u'and', u'CC'), (u'microscopic', u'JJ'), (u'components', u'NNS')]
+--------
+~~~~~~~
+[(u'head', u'NN'), (u'and', u'CC'), (u'neck', u'NN'), (u'anatomy', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'study', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'head', u'NN'), (u'and', u'CC'), (u'neck', u'NN'), (u'regions', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'body', u'NN')]
+--------
+~~~~~~~
+[(u'radiographic', u'JJ'), (u'anatomy', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'images', u'NNS'), (u'on', u'IN'), (u'a', u'DT'), (u'radiographic', u'JJ'), (u'film', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'combined', u'JJ'), (u'anatomic', u'JJ'), (u'structures', u'NNS'), (u'through', u'IN'), (u'which', u'WDT'), (u'the', u'DT'), (u'roentgen', u'NN'), (u'rays', u'NNS'), (u'have', u'VBP'), (u'passed', u'VBN')]
+--------
+~~~~~~~
+[(u'arch', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'structure', u'NN'), (u'with', u'IN'), (u'a', u'DT'), (u'curved', u'JJ'), (u'outline', u'NN'), (u',', u','), (u'such', u'JJ'), (u'as', u'IN'), (u'bone', u'NN')]
+--------
+~~~~~~~
+[(u'arch', u'NN'), (u'anterior', u'JJ'), (u'is', u'VBZ'), (u'an', u'DT'), (u'arch', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'atlas', u'NN'), (u'or', u'CC'), (u'first', u'JJ'), (u'cervical', u'JJ'), (u'vertebra', u'NN')]
+--------
+~~~~~~~
+[(u'dental', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'composite', u'JJ'), (u'structure', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'dentition', u'NN'), (u'and', u'CC'), (u'alveolar', u'JJ'), (u'ridge', u'NN'), (u'or', u'CC'), (u'the', u'DT'), (u'remains', u'NNS'), (u'thereof', u'RB'), (u'after', u'IN'), (u'the', u'DT'), (u'loss', u'NN'), (u'of', u'IN'), (u'some', u'DT'), (u'or', u'CC'), (u'all', u'DT'), (u'of', u'IN'), (u'the', u'DT'), (u'natural', u'JJ'), (u'teeth', u'NNS')]
+--------
+~~~~~~~
+[(u'dentulous', u'JJ'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'containing', u'VBG'), (u'natural', u'JJ'), (u'teeth', u'NNS')]
+--------
+~~~~~~~
+[(u'edentulous', u'JJ'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'from', u'IN'), (u'which', u'WDT'), (u'all', u'DT'), (u'natural', u'JJ'), (u'teeth', u'NNS'), (u'are', u'VBP'), (u'missing', u'VBG')]
+[(u'Also', u'RB'), (u'called', u'VBN'), (u'the', u'DT'), (u'residual', u'JJ'), (u'alveolar', u'JJ'), (u'ridge', u'NN')]
+--------
+~~~~~~~
+[(u'high', u'JJ'), (u'labial', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'labial', u'JJ'), (u'arch', u'NN'), (u'wire', u'NN'), (u'adapted', u'VBD'), (u'so', u'RB'), (u'that', u'IN'), (u'it', u'PRP'), (u'lies', u'VBZ'), (u'gingival', u'JJ'), (u'to', u'TO'), (u'the', u'DT'), (u'anterior', u'JJ'), (u'tooth', u'NN'), (u'crowns', u'NNS'), (u';', u':'), (u'it', u'PRP'), (u'has', u'VBZ'), (u'auxiliary', u'JJ'), (u'springs', u'NNS'), (u'extending', u'VBG'), (u'downward', u'RB'), (u'in', u'IN'), (u'contact', u'NN'), (u'with', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'to', u'TO'), (u'be', u'VB'), (u'moved', u'VBN')]
+--------
+~~~~~~~
+[(u'arch', u'NN'), (u'length', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'distance', u'NN'), (u'from', u'IN'), (u'a', u'DT'), (u'line', u'NN'), (u'perpendicular', u'JJ'), (u'to', u'TO'), (u'the', u'DT'), (u'mesial', u'JJ'), (u'surface', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'permanent', u'JJ'), (u'first', u'JJ'), (u'molars', u'NNS'), (u'to', u'TO'), (u'the', u'DT'), (u'contact', u'NN'), (u'point', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'central', u'JJ'), (u'incisors', u'NNS')]
+[(u'Often', u'RB'), (u'used', u'VBN'), (u'interchangeably', u'RB'), (u'with', u'IN'), (u'arch', u'NN'), (u'perimeter', u'NN')]
+--------
+~~~~~~~
+[(u'available', u'JJ'), (u'arch', u'NN'), (u'length', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'space', u'NN'), (u'available', u'JJ'), (u'for', u'IN'), (u'all', u'DT'), (u'teeth', u'NNS')]
+--------
+~~~~~~~
+[(u'deficiency', u'NN'), (u'arch', u'NN'), (u'length', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'difference', u'NN'), (u'between', u'IN'), (u'required', u'JJ'), (u'and', u'CC'), (u'available', u'JJ'), (u'arch', u'NN'), (u'length', u'NN')]
+--------
+~~~~~~~
+[(u'required', u'VBN'), (u'arch', u'NN'), (u'length', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'sum', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'mesiodistal', u'JJ'), (u'widths', u'NNS'), (u'of', u'IN'), (u'all', u'DT'), (u'teeth', u'NNS')]
+--------
+~~~~~~~
+[(u'lower', u'JJR'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'archlike', u'JJ'), (u'curve', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'cutting', u'VBG'), (u'edges', u'NNS'), (u'and', u'CC'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'on', u'IN'), (u'the', u'DT'), (u'mandible', u'NN')]
+[(u'Also', u'RB'), (u'known', u'VBN'), (u'as', u'IN'), (u'the', u'DT'), (u'inferior', u'JJ'), (u'dental', u'JJ'), (u'arch', u'NN')]
+--------
+~~~~~~~
+[(u'ovoid', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'arch', u'NN'), (u'that', u'IN'), (u'curves', u'NNS'), (u'continuously', u'RB'), (u'from', u'IN'), (u'the', u'DT'), (u'molars', u'NNS'), (u'on', u'IN'), (u'one', u'CD'), (u'side', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'molars', u'NNS'), (u'on', u'IN'), (u'the', u'DT'), (u'opposite', u'JJ'), (u'side', u'NN'), (u'so', u'IN'), (u'that', u'IN'), (u'two', u'CD'), (u'such', u'JJ'), (u'arches', u'NNS'), (u'placed', u'VBD'), (u'back', u'RB'), (u'to', u'TO'), (u'back', u'RB'), (u'describe', u'VB'), (u'an', u'DT'), (u'oval', u'NN')]
+--------
+~~~~~~~
+[(u'palatine', u'NN'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'pillars', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'fauces', u'NNS'), (u';', u':'), (u'palatine', u'NN'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'two', u'CD'), (u'arches', u'NNS'), (u'of', u'IN'), (u'mucous', u'JJ'), (u'membrane', u'NN'), (u'enclosing', u'VBG'), (u'the', u'DT'), (u'muscles', u'NNS'), (u'at', u'IN'), (u'the', u'DT'), (u'sides', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'passage', u'NN'), (u'from', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'pharynx', u'NN')]
+--------
+~~~~~~~
+[(u'partially', u'RB'), (u'edentulous', u'JJ'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'from', u'IN'), (u'which', u'WDT'), (u'one', u'CD'), (u'or', u'CC'), (u'more', u'JJR'), (u'but', u'CC'), (u'not', u'RB'), (u'all', u'DT'), (u'teeth', u'NNS'), (u'are', u'VBP'), (u'missing', u'VBG')]
+--------
+~~~~~~~
+[(u'passive', u'JJ'), (u'lingual', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'orthodontic', u'JJ'), (u'appliance', u'NN'), (u'effective', u'JJ'), (u'in', u'IN'), (u'maintaining', u'VBG'), (u'space', u'NN'), (u'and', u'CC'), (u'preserving', u'NN'), (u'arch', u'NN'), (u'length', u'NN'), (u'when', u'WRB'), (u'bilateral', u'JJ'), (u'primary', u'JJ'), (u'molars', u'NNS'), (u'are', u'VBP'), (u'prematurely', u'RB'), (u'lost', u'VBN')]
+--------
+~~~~~~~
+[(u'perimeter', u'NN'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'length', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'usually', u'RB'), (u'measured', u'VBN'), (u'through', u'IN'), (u'the', u'DT'), (u'point', u'NN'), (u'of', u'IN'), (u'contacts', u'NNS'), (u'around', u'IN'), (u'the', u'DT'), (u'arch', u'NN'), (u'from', u'IN'), (u'the', u'DT'), (u'mesial', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'first', u'JJ'), (u'molar', u'JJ'), (u'to', u'TO'), (u'the', u'DT'), (u'mesial', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'contralateral', u'JJ'), (u'molar', u'JJ')]
+[(u'Often', u'RB'), (u'used', u'VBN'), (u'interchangeably', u'RB'), (u'with', u'IN'), (u'arch', u'NN'), (u'length', u'NN')]
+--------
+~~~~~~~
+[(u'posterior', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'arch', u'NN'), (u'on', u'IN'), (u'the', u'DT'), (u'first', u'JJ'), (u'cervical', u'JJ'), (u'vertebra', u'NN')]
+--------
+~~~~~~~
+[(u'removable', u'JJ'), (u'lingual', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'arch', u'JJ'), (u'wire', u'NN'), (u'designed', u'VBN'), (u'to', u'TO'), (u'fit', u'VB'), (u'the', u'DT'), (u'lingual', u'JJ'), (u'surface', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS')]
+[(u'It', u'PRP'), (u'has', u'VBZ'), (u'two', u'CD'), (u'posts', u'NNS'), (u'soldered', u'VBN'), (u'on', u'IN'), (u'each', u'DT'), (u'end', u'NN'), (u'that', u'WDT'), (u'fit', u'VBD'), (u'snugly', u'RB'), (u'into', u'IN'), (u'the', u'DT'), (u'vertical', u'JJ'), (u'tubes', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'molar', u'JJ'), (u'anchor', u'NN'), (u'bands', u'NNS')]
+--------
+~~~~~~~
+[(u'stationary', u'JJ'), (u'lingual', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'arch', u'JJ'), (u'wire', u'NN'), (u'designed', u'VBN'), (u'to', u'TO'), (u'fit', u'VB'), (u'the', u'DT'), (u'lingual', u'JJ'), (u'surface', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'and', u'CC'), (u'soldered', u'VBD'), (u'to', u'TO'), (u'the', u'DT'), (u'anchor', u'NN'), (u'bands', u'NNS')]
+--------
+~~~~~~~
+[(u'tapering', u'VBG'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'that', u'WDT'), (u'converges', u'VBZ'), (u'from', u'IN'), (u'molars', u'NNS'), (u'to', u'TO'), (u'central', u'JJ'), (u'incisors', u'NNS'), (u'to', u'TO'), (u'such', u'PDT'), (u'an', u'DT'), (u'extent', u'NN'), (u'that', u'IN'), (u'lines', u'NNS'), (u'passing', u'VBG'), (u'through', u'IN'), (u'the', u'DT'), (u'central', u'JJ'), (u'grooves', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'molars', u'NNS'), (u'and', u'CC'), (u'premolars', u'NNS'), (u'intersect', u'VBP'), (u'within', u'IN'), (u'1', u'CD'), (u'inch', u'NN'), (u'anterior', u'JJ'), (u'to', u'TO'), (u'the', u'DT'), (u'central', u'JJ'), (u'incisors', u'NNS')]
+--------
+~~~~~~~
+[(u'trapezoidal', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'arch', u'NN'), (u'that', u'WDT'), (u'has', u'VBZ'), (u'the', u'DT'), (u'same', u'JJ'), (u'convergence', u'NN'), (u'as', u'IN'), (u'a', u'DT'), (u'tapering', u'VBG'), (u'arch', u'NN'), (u'but', u'CC'), (u'to', u'TO'), (u'a', u'DT'), (u'lesser', u'JJR'), (u'degree', u'NN')]
+[(u'The', u'DT'), (u'anterior', u'JJ'), (u'teeth', u'NNS'), (u'are', u'VBP'), (u'somewhat', u'RB'), (u'square', u'JJ'), (u'to', u'TO'), (u'abruptly', u'RB'), (u'rounded', u'VBN'), (u'from', u'IN'), (u'canine', u'NN'), (u'tip', u'NN'), (u'to', u'TO'), (u'canine', u'NN'), (u'tip', u'NN')]
+[(u'The', u'DT'), (u'canines', u'NNS'), (u'act', u'VBP'), (u'as', u'IN'), (u'corners', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'arch', u'NN')]
+--------
+~~~~~~~
+[(u'U-shaped', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'there', u'EX'), (u'is', u'VBZ'), (u'little', u'JJ'), (u'difference', u'NN'), (u'in', u'IN'), (u'diameter', u'NN'), (u'between', u'IN'), (u'the', u'DT'), (u'first', u'JJ'), (u'premolars', u'NNS'), (u'and', u'CC'), (u'the', u'DT'), (u'last', u'JJ'), (u'molars', u'NNS'), (u';', u':'), (u'U-shaped', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'curve', u'NN'), (u'from', u'IN'), (u'canine', u'NN'), (u'to', u'TO'), (u'canine', u'NN'), (u'is', u'VBZ'), (u'abrupt', u'JJ'), (u',', u','), (u'so', u'IN'), (u'a', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'shape', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'capital', u'NN'), (u'U', u'NN'), (u'is', u'VBZ'), (u'formed', u'VBN')]
+--------
+~~~~~~~
+[(u'arch', u'NN'), (u'width', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'width', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN')]
+[(u'The', u'DT'), (u'width', u'NN'), (u',', u','), (u'which', u'WDT'), (u'varies', u'VBZ'), (u'in', u'IN'), (u'all', u'DT'), (u'diameters', u'NNS'), (u'between', u'IN'), (u'the', u'DT'), (u'right', u'JJ'), (u'and', u'CC'), (u'left', u'JJ'), (u'opposites', u'NNS'), (u',', u','), (u'is', u'VBZ'), (u'determined', u'VBN'), (u'by', u'IN'), (u'direct', u'JJ'), (u'measurement', u'NN'), (u'between', u'IN'), (u'the', u'DT'), (u'canines', u'NNS'), (u',', u','), (u'between', u'IN'), (u'the', u'DT'), (u'first', u'JJ'), (u'molars', u'NNS'), (u',', u','), (u'and', u'CC'), (u'between', u'IN'), (u'the', u'DT'), (u'second', u'JJ'), (u'premolars', u'NNS')]
+[(u'These', u'DT'), (u'intercanine', u'NN'), (u',', u','), (u'interpremolar', u'NN'), (u',', u','), (u'and', u'CC'), (u'intermolar', u'JJ'), (u'distances', u'NNS'), (u'can', u'MD'), (u'be', u'VB'), (u'cited', u'VBN'), (u'as', u'IN'), (u'arch', u'NN'), (u'width', u'NN')]
+--------
+~~~~~~~
+[(u'arch', u'NN'), (u'wire', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'wire', u'NN'), (u'applied', u'VBN'), (u'to', u'TO'), (u'two', u'CD'), (u'or', u'CC'), (u'more', u'JJR'), (u'teeth', u'NNS'), (u'through', u'IN'), (u'fixed', u'VBN'), (u'attachments', u'NNS'), (u'to', u'TO'), (u'cause', u'VB'), (u'or', u'CC'), (u'guide', u'VB'), (u'orthodontic', u'JJ'), (u'tooth', u'NN'), (u'movement', u'NN')]
+--------
+~~~~~~~
+[(u'full', u'JJ'), (u'arch', u'NN'), (u'wire', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'wire', u'NN'), (u'extending', u'VBG'), (u'from', u'IN'), (u'the', u'DT'), (u'molar', u'JJ'), (u'region', u'NN'), (u'of', u'IN'), (u'one', u'CD'), (u'side', u'NN'), (u'of', u'IN'), (u'an', u'DT'), (u'arch', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'other', u'JJ')]
+--------
+~~~~~~~
+[(u'sectional', u'JJ'), (u'arch', u'NN'), (u'wire', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'wire', u'NN'), (u'extending', u'VBG'), (u'to', u'TO'), (u'only', u'RB'), (u'a', u'DT'), (u'few', u'JJ'), (u'teeth', u'NNS'), (u',', u','), (u'usually', u'RB'), (u'on', u'IN'), (u'one', u'CD'), (u'side', u'NN'), (u'or', u'CC'), (u'in', u'IN'), (u'the', u'DT'), (u'anterior', u'JJ'), (u'segment', u'NN')]
+--------
+~~~~~~~
+[(u'arm', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'extension', u'NN'), (u'or', u'CC'), (u'projection', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'framework', u'NN')]
+--------
+~~~~~~~
+[(u'cantilever', u'NN'), (u'ADD-', u'NN'), (u'arm', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'end', u'NN'), (u'of', u'IN'), (u'wire', u'NN'), (u'engaged', u'VBN'), (u'to', u'TO'), (u'one', u'CD'), (u'tooth', u'NN'), (u'or', u'CC'), (u'a', u'DT'), (u'group', u'NN'), (u'of', u'IN'), (u'teeth', u'NNS'), (u'with', u'IN'), (u'one', u'CD'), (u'point', u'NN'), (u'contact', u'NN'), (u'to', u'TO'), (u'bring', u'VB'), (u'about', u'RB'), (u'desired', u'VBN'), (u'tooth', u'NN'), (u'movement', u'NN')]
+--------
+~~~~~~~
+[(u'neutral', u'JJ'), (u'position', u'NN'), (u'of', u'IN'), (u'arm', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'body', u'NN'), (u'position', u'NN'), (u'to', u'TO'), (u'be', u'VB'), (u'assumed', u'VBN'), (u'while', u'IN'), (u'treating', u'VBG'), (u'a', u'DT'), (u'patient', u'NN'), (u'that', u'WDT'), (u'prevents', u'VBZ'), (u'cumulative', u'JJ'), (u'trauma', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'arm', u'NN'), (u';', u':'), (u'neutral', u'JJ'), (u'position', u'NN'), (u'of', u'IN'), (u'arm', u'NN'), (u'are', u'VBP'), (u'the', u'DT'), (u'incorporates', u'VBZ'), (u'proper', u'JJ'), (u'placement', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'wrist', u'NN'), (u',', u','), (u'elbow', u'NN'), (u',', u','), (u'and', u'CC'), (u'shoulder', u'NN')]
+--------
+~~~~~~~
+[(u'reciprocal', u'JJ'), (u'arm', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'clasp', u'NN'), (u'arm', u'NN'), (u'used', u'VBN'), (u'on', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'to', u'TO'), (u'oppose', u'VB'), (u'any', u'DT'), (u'force', u'NN'), (u'arising', u'VBG'), (u'from', u'IN'), (u'an', u'DT'), (u'opposing', u'JJ'), (u'clasp', u'NN'), (u'arm', u'NN'), (u'on', u'IN'), (u'the', u'DT'), (u'same', u'JJ'), (u'tooth', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'arm', u'NN'), (u',', u','), (u'retention', u'NN')]
+--------
+~~~~~~~
+[(u'retention', u'NN'), (u'arm', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'extension', u'NN'), (u'or', u'CC'), (u'projection', u'NN'), (u'that', u'WDT'), (u'is', u'VBZ'), (u'part', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'and', u'CC'), (u'is', u'VBZ'), (u'used', u'VBN'), (u'to', u'TO'), (u'aid', u'VB'), (u'in', u'IN'), (u'the', u'DT'), (u'retention', u'NN'), (u'and', u'CC'), (u'stabilization', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'restoration', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'retainer', u'NN'), (u'divet', u'NN')]
+--------
+~~~~~~~
+[(u'arrangement', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'pattern', u'NN'), (u'into', u'IN'), (u'which', u'WDT'), (u'a', u'DT'), (u'group', u'NN'), (u'of', u'IN'), (u'things', u'NNS'), (u'is', u'VBZ'), (u'organized', u'VBN')]
+--------
+~~~~~~~
+[(u'financial', u'JJ'), (u'arrangement', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'agreement', u'NN'), (u'between', u'IN'), (u'the', u'DT'), (u'dental', u'JJ'), (u'provider', u'NN'), (u'and', u'CC'), (u'patient', u'NN'), (u'on', u'IN'), (u'the', u'DT'), (u'method', u'NN'), (u'of', u'IN'), (u'handling', u'VBG'), (u'the', u'DT'), (u'patient\u9225\u6a9a', u'NN'), (u'account', u'NN')]
+--------
+~~~~~~~
+[(u'tooth', u'NN'), (u'arrangement', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'placement', u'NN'), (u'of', u'IN'), (u'teeth', u'NNS'), (u'on', u'IN'), (u'a', u'DT'), (u'denture', u'NN'), (u'or', u'CC'), (u'temporary', u'JJ'), (u'base', u'NN'), (u'with', u'IN'), (u'definite', u'JJ'), (u'objectives', u'NNS'), (u'in', u'IN'), (u'mind', u'NN')]
+--------
+~~~~~~~
+[(u'adjustable', u'JJ'), (u'articulator', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'articulator', u'NN'), (u'that', u'WDT'), (u'may', u'MD'), (u'be', u'VB'), (u'adjusted', u'VBN'), (u'to', u'TO'), (u'permit', u'VB'), (u'movement', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'casts', u'VBZ'), (u'into', u'IN'), (u'various', u'JJ'), (u'recorded', u'JJ'), (u'eccentric', u'JJ'), (u'relationships', u'NNS')]
+--------
+~~~~~~~
+[(u'fully-adjustable', u'JJ'), (u'articulator', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'design', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'all', u'DT'), (u'nine', u'CD'), (u'elements', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'articulator', u'NN'), (u'can', u'MD'), (u'be', u'VB'), (u'programmed', u'VBN'), (u'from', u'IN'), (u'patient', u'NN'), (u'records', u'NNS')]
+--------
+~~~~~~~
+[(u'semi-adjustable', u'JJ'), (u'articulator', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'design', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'some', u'DT'), (u',', u','), (u'but', u'CC'), (u'not', u'RB'), (u'all', u'DT'), (u',', u','), (u'anterior', u'JJ'), (u'incisal', u'JJ'), (u'and', u'CC'), (u'posterior', u'JJ'), (u'condylar', u'JJ'), (u'controls', u'NNS'), (u'can', u'MD'), (u'be', u'VB'), (u'modified', u'VBN')]
+--------
+~~~~~~~
+[(u'Arcon', u'NNP'), (u'articulator', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'type', u'NN'), (u'of', u'IN'), (u'articulator', u'NN'), (u'where', u'WRB'), (u'the', u'DT'), (u'condylar', u'JJ'), (u'controls', u'NNS'), (u'are', u'VBP'), (u'on', u'IN'), (u'the', u'DT'), (u'upper', u'JJ'), (u'member', u'NN'), (u'as', u'IN'), (u'opposed', u'VBN'), (u'to', u'TO'), (u'the', u'DT'), (u'lower', u'JJR'), (u'member', u'NN'), (u'of', u'IN'), (u'earlier', u'JJR'), (u'designs', u'NNS')]
+[(u'This', u'DT'), (u'design', u'NN'), (u'allows', u'VBZ'), (u'for', u'IN'), (u'casts', u'VBZ'), (u'to', u'TO'), (u'have', u'VB'), (u'the', u'DT'), (u'same', u'JJ'), (u'condylar', u'JJ'), (u'controls', u'NNS'), (u'when', u'WRB'), (u'remounted', u'VBN')]
+--------
+~~~~~~~
+[(u'crescent', u'NN'), (u'articulator', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'device', u'NN'), (u'used', u'VBN'), (u'in', u'IN'), (u'creating', u'VBG'), (u'dental', u'JJ'), (u'prostheses', u'NNS'), (u'and', u'CC'), (u'evaluating', u'VBG'), (u'casts', u'VBZ')]
+[(u'It', u'PRP'), (u'represents', u'VBZ'), (u'the', u'DT'), (u'temporomandibular', u'JJ'), (u'joints', u'NNS'), (u'and', u'CC'), (u'simulates', u'VBZ'), (u'jaw', u'NN'), (u'movement', u'NN')]
+--------
+~~~~~~~
+[(u'disposable', u'JJ'), (u'articulator', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'simple', u'JJ'), (u'plastic', u'NN'), (u'hinge', u'NN'), (u'that', u'WDT'), (u'is', u'VBZ'), (u'bonded', u'VBN'), (u'to', u'TO'), (u'dental', u'JJ'), (u'models', u'NNS')]
+--------
+~~~~~~~
+[(u'plasterless', u'JJ'), (u'articulator', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'design', u'NN'), (u'that', u'WDT'), (u'uses', u'VBZ'), (u'adjustable', u'JJ'), (u'clamps', u'NNS'), (u'to', u'TO'), (u'hold', u'VB'), (u'two', u'CD'), (u'dental', u'JJ'), (u'models', u'NNS'), (u'and', u'CC'), (u'a', u'DT'), (u'universal', u'JJ'), (u'ball', u'NN'), (u'joint', u'NN'), (u'and', u'CC'), (u'shaft', u'NN'), (u'to', u'TO'), (u'relate', u'VB'), (u'the', u'DT'), (u'clamps', u'NNS')]
+--------
+~~~~~~~
+[(u'atrophy', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'progressive', u'JJ'), (u',', u','), (u'acquired', u'JJ'), (u'decrease', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'size', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'normally', u'RB'), (u'developed', u'VBN'), (u'cell', u'NN'), (u',', u','), (u'tissue', u'NN'), (u',', u','), (u'or', u'CC'), (u'organ', u'NN')]
+[(u'Atrophy', u'NN'), (u'may', u'MD'), (u'result', u'VB'), (u'from', u'IN'), (u'a', u'DT'), (u'decrease', u'NN'), (u'in', u'IN'), (u'cell', u'NN'), (u'size', u'NN'), (u',', u','), (u'number', u'NN'), (u'of', u'IN'), (u'cells', u'NNS'), (u',', u','), (u'or', u'CC'), (u'both', u'DT')]
+--------
+~~~~~~~
+[(u'adipose', u'NN'), (u'atrophy', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'atrophy', u'NN'), (u'resulting', u'VBG'), (u'from', u'IN'), (u'a', u'DT'), (u'reduction', u'NN'), (u'in', u'IN'), (u'fatty', u'JJ'), (u'tissue', u'NN')]
+--------
+~~~~~~~
+[(u'alveolar', u'JJ'), (u'atrophy', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'depletion', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'size', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'alveolar', u'JJ'), (u'process', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'jaws', u'NNS'), (u'from', u'IN'), (u'disuse', u'NN'), (u',', u','), (u'overuse', u'NN'), (u',', u','), (u'or', u'CC'), (u'pathologic', u'JJ'), (u'disturbance', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'bone', u'NN')]
+--------
+~~~~~~~
+[(u'attachment', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'fastener', u'NN'), (u',', u','), (u'connector', u'NN'), (u',', u','), (u'associated', u'VBN'), (u'part', u'NN')]
+--------
+[(u'attachment', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'mechanical', u'JJ'), (u'device', u'NN'), (u'for', u'IN'), (u'retention', u'NN'), (u'and', u'CC'), (u'stabilization', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'dental', u'JJ'), (u'prosthesis', u'NN')]
+--------
+~~~~~~~
+[(u'See', u'VB'), (u'retainer', u'NN'), (u',', u','), (u'intracoronal', u'JJ')]
+--------
+~~~~~~~
+[(u'augmentation', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'assistance', u'NN'), (u'to', u'TO'), (u'respiration', u'NN'), (u'by', u'IN'), (u'the', u'DT'), (u'application', u'NN'), (u'of', u'IN'), (u'intermittent', u'JJ'), (u'pressure', u'NN'), (u'on', u'IN'), (u'inspiration', u'NN')]
+--------
+[(u'augmentation', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'increase', u'NN'), (u'in', u'IN'), (u'size', u'NN'), (u'beyond', u'IN'), (u'the', u'DT'), (u'existing', u'VBG'), (u'size', u'NN'), (u',', u','), (u'such', u'JJ'), (u'as', u'IN'), (u'an', u'DT'), (u'implant', u'VBP'), (u'placed', u'VBN'), (u'over', u'IN'), (u'the', u'DT'), (u'mandibular', u'JJ'), (u'or', u'CC'), (u'maxillary', u'JJ'), (u'ridges', u'NNS')]
+--------
+~~~~~~~
+[(u'authorization', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'written', u'JJ'), (u'consent', u'NN'), (u'to', u'TO'), (u'release', u'VB'), (u'protected', u'JJ'), (u'health', u'NN'), (u'information', u'NN')]
+--------
+~~~~~~~
+[(u'lingual', u'JJ'), (u'bar', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'major', u'JJ'), (u'connector', u'NN'), (u'located', u'JJ'), (u'lingual', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'that', u'WDT'), (u'joins', u'VBZ'), (u'bilateral', u'JJ'), (u'parts', u'NNS'), (u'of', u'IN'), (u'a', u'DT'), (u'mandibular', u'JJ'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN')]
+[(u'May', u'MD'), (u'also', u'RB'), (u'be', u'VB'), (u'the', u'DT'), (u'orthodontic', u'JJ'), (u'splinting', u'NN'), (u'on', u'IN'), (u'the', u'DT'), (u'lingual', u'NN'), (u'of', u'IN'), (u'either', u'CC'), (u'the', u'DT'), (u'maxillary', u'JJ'), (u'or', u'CC'), (u'mandibular', u'JJ'), (u'anterior', u'JJ'), (u'teeth', u'NNS'), (u'to', u'TO'), (u'maintain', u'VB'), (u'position', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'over', u'IN'), (u'time', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'connector', u'JJ'), (u',', u','), (u'major', u'JJ'), (u',', u','), (u'lingual', u'JJ'), (u'bar', u'NN')]
+--------
+~~~~~~~
+[(u'beading', u'VBG'), (u'is', u'VBZ'), (u'the', u'DT'), (u'scribing', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'shallow', u'JJ'), (u'groove', u'NN'), (u'on', u'IN'), (u'a', u'DT'), (u'cast', u'NN'), (u'that', u'WDT'), (u'outlines', u'VBZ'), (u'the', u'DT'), (u'major', u'JJ'), (u'connector', u'NN')]
+[(u'It', u'PRP'), (u'is', u'VBZ'), (u'used', u'VBN'), (u'to', u'TO'), (u'transfer', u'VB'), (u'the', u'DT'), (u'design', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'investment', u'NN'), (u'cast', u'NN'), (u'and', u'CC'), (u'ensure', u'VB'), (u'tissue', u'NN'), (u'contact', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'major', u'JJ'), (u'connector', u'NN')]
+--------
+~~~~~~~
+[(u'color', u'NN'), (u'blindness', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'defective', u'JJ'), (u'color', u'NN'), (u'vision', u'NN'), (u'characterized', u'VBN'), (u'by', u'IN'), (u'decreased', u'VBN'), (u'ability', u'NN'), (u'to', u'TO'), (u'detect', u'VB'), (u'differences', u'NNS'), (u'in', u'IN'), (u'color', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'achromatopsia', u'NN')]
+--------
+~~~~~~~
+[(u'blockout', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'elimination', u'NN'), (u'of', u'IN'), (u'undesirable', u'JJ'), (u'undercut', u'JJ'), (u'areas', u'NNS'), (u'on', u'IN'), (u'a', u'DT'), (u'cast', u'NN'), (u'to', u'TO'), (u'be', u'VB'), (u'used', u'VBN'), (u'in', u'IN'), (u'the', u'DT'), (u'fabrication', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'denture', u'NN')]
+[(u'Also', u'RB'), (u'known', u'VBN'), (u'as', u'IN'), (u'waxout', u'NN')]
+--------
+~~~~~~~
+[(u'bonding', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'adhesion', u'NN'), (u'of', u'IN'), (u'orthodontic', u'JJ'), (u'attachments', u'NNS'), (u'to', u'TO'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'without', u'IN'), (u'use', u'NN'), (u'of', u'IN'), (u'an', u'DT'), (u'interposed', u'VBN'), (u'band', u'NN')]
+--------
+~~~~~~~
+[(u'bone', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'material', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'skeletons', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'tissue', u'NN'), (u'composing', u'VBG'), (u'bones', u'NNS')]
+--------
+[(u'bone', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'dense', u'JJ'), (u',', u','), (u'hard', u'JJ'), (u',', u','), (u'and', u'CC'), (u'slightly', u'RB'), (u'elastic', u'JJ'), (u'connective', u'JJ'), (u'tissue', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'the', u'DT'), (u'fibers', u'NNS'), (u'are', u'VBP'), (u'impregnated', u'VBN'), (u'with', u'IN'), (u'a', u'DT'), (u'form', u'NN'), (u'of', u'IN'), (u'calcium', u'NN'), (u'phosphate', u'NN'), (u'similar', u'JJ'), (u'to', u'TO'), (u'hydroxyapatite', u'VB')]
+--------
+[(u'bone', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'bones', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'human', u'JJ'), (u'skeleton', u'NN')]
+--------
+[(u'bone', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'single', u'JJ'), (u'element', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'skeleton', u'NN'), (u'such', u'JJ'), (u'as', u'IN'), (u'a', u'DT'), (u'rib', u'NN'), (u'or', u'CC'), (u'femur', u'NN')]
+--------
+~~~~~~~
+[(u'alveolar', u'JJ'), (u'bone', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'specialized', u'JJ'), (u'bone', u'NN'), (u'structure', u'NN'), (u'that', u'WDT'), (u'contains', u'VBZ'), (u'the', u'DT'), (u'alveoli', u'NNS'), (u'or', u'CC'), (u'sockets', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'and', u'CC'), (u'supports', u'VBZ'), (u'the', u'DT'), (u'teeth', u'NNS')]
+--------
+~~~~~~~
+[(u'bone', u'NN'), (u'augmentation', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'term', u'NN'), (u'used', u'VBN'), (u'to', u'TO'), (u'describe', u'VB'), (u'a', u'DT'), (u'variety', u'NN'), (u'of', u'IN'), (u'bone', u'NN'), (u'grafting', u'VBG'), (u'procedures', u'NNS'), (u'to', u'TO'), (u'build', u'VB'), (u'or', u'CC'), (u'enhance', u'VB'), (u'a', u'DT'), (u'deficient', u'JJ'), (u'area', u'NN'), (u'of', u'IN'), (u'bone', u'NN'), (u',', u','), (u'usually', u'RB'), (u'in', u'IN'), (u'preparation', u'NN'), (u'for', u'IN'), (u'a', u'DT'), (u'dental', u'JJ'), (u'implant', u'VB'), (u'site', u'NN')]
+[(u'Bone', u'NN'), (u'augmentation', u'NN'), (u'materials', u'NNS'), (u'can', u'MD'), (u'be', u'VB'), (u'autogenous', u'JJ'), (u',', u','), (u'allogenous', u'JJ'), (u',', u','), (u'xenogenous', u'JJ'), (u',', u','), (u'or', u'CC'), (u'allopastic', u'JJ'), (u'sources', u'NNS')]
+--------
+~~~~~~~
+[(u'bruxism', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'involuntary', u'JJ'), (u'gnashing', u'NN'), (u',', u','), (u'grinding', u'VBG'), (u',', u','), (u'or', u'CC'), (u'clenching', u'VBG'), (u'of', u'IN'), (u'teeth', u'NNS')]
+[(u'It', u'PRP'), (u'is', u'VBZ'), (u'usually', u'RB'), (u'an', u'DT'), (u'unconscious', u'JJ'), (u'activity', u'NN'), (u',', u','), (u'whether', u'IN'), (u'the', u'DT'), (u'individual', u'NN'), (u'is', u'VBZ'), (u'awake', u'RB'), (u'or', u'CC'), (u'asleep', u'RB'), (u';', u':'), (u'often', u'RB'), (u'associated', u'VBN'), (u'with', u'IN'), (u'fatigue', u'NN'), (u',', u','), (u'anxiety', u'NN'), (u',', u','), (u'emotional', u'JJ'), (u'stress', u'NN'), (u',', u','), (u'or', u'CC'), (u'fear', u'NN'), (u'and', u'CC'), (u'frequently', u'RB'), (u'triggered', u'VBN'), (u'by', u'IN'), (u'occlusal', u'JJ'), (u'irregularities', u'NNS'), (u',', u','), (u'usually', u'RB'), (u'resulting', u'VBG'), (u'in', u'IN'), (u'abnormal', u'JJ'), (u'wear', u'NN'), (u'patterns', u'NNS'), (u'on', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u',', u','), (u'periodontal', u'JJ'), (u'breakdown', u'NN'), (u',', u','), (u'and', u'CC'), (u'joint', u'JJ'), (u'or', u'CC'), (u'neuromuscular', u'JJ'), (u'problems', u'NNS')]
+--------
+~~~~~~~
+[(u'bur', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'rotary', u'JJ'), (u'cutting', u'VBG'), (u'instrument', u'NN'), (u'of', u'IN'), (u'steel', u'NN'), (u'or', u'CC'), (u'tungsten', u'NN'), (u'carbide', u'NN'), (u',', u','), (u'supplied', u'VBN'), (u'with', u'IN'), (u'cutting', u'VBG'), (u'heads', u'NNS'), (u'of', u'IN'), (u'various', u'JJ'), (u'shapes', u'NNS')]
+--------
+~~~~~~~
+[(u'calcination', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'process', u'NN'), (u'of', u'IN'), (u'removing', u'VBG'), (u'water', u'NN'), (u'by', u'IN'), (u'heat', u'NN'), (u';', u':'), (u'calcination', u'NN'), (u'is', u'VBZ'), (u'used', u'VBN'), (u'in', u'IN'), (u'the', u'DT'), (u'manufacture', u'NN'), (u'of', u'IN'), (u'plaster', u'NN'), (u'and', u'CC'), (u'stone', u'NN'), (u'from', u'IN'), (u'gypsum', u'NN')]
+--------
+~~~~~~~
+[(u'calculus', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'hard', u'JJ'), (u'deposit', u'NN'), (u'on', u'IN'), (u'the', u'DT'), (u'exposed', u'JJ'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'and', u'CC'), (u'any', u'DT'), (u'oral', u'JJ'), (u'prosthesis', u'NN'), (u'within', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN')]
+[(u'It', u'PRP'), (u'is', u'VBZ'), (u'composed', u'VBN'), (u'of', u'IN'), (u'calcium', u'NN'), (u'phosphate', u'NN'), (u',', u','), (u'calcium', u'NN'), (u'carbonate', u'NN'), (u',', u','), (u'magnesium', u'NN'), (u'phosphate', u'NN'), (u',', u','), (u'and', u'CC'), (u'other', u'JJ'), (u'elements', u'NNS'), (u'within', u'IN'), (u'an', u'DT'), (u'organic', u'JJ'), (u'matrix', u'NN'), (u'composed', u'VBN'), (u'of', u'IN'), (u'plaque', u'NN'), (u',', u','), (u'desquamated', u'JJ'), (u'epithelium', u'NN'), (u',', u','), (u'mucin', u'NN'), (u',', u','), (u'microorganisms', u'NNS'), (u',', u','), (u'and', u'CC'), (u'other', u'JJ'), (u'debris', u'NN')]
+[(u'Factor', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'initiation', u'NN'), (u'and', u'CC'), (u'continuation', u'NN'), (u'of', u'IN'), (u'periodontal', u'JJ'), (u'disease', u'NN')]
+[(u'The', u'DT'), (u'colloquial', u'JJ'), (u'term', u'NN'), (u'is', u'VBZ'), (u'tartar', u'NN')]
+--------
+~~~~~~~
+[(u'root', u'NN'), (u'canal', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'informal', u'JJ'), (u'term', u'NN'), (u'for', u'IN'), (u'the', u'DT'), (u'endodontic', u'JJ'), (u'procedure', u'NN'), (u'to', u'TO'), (u'remove', u'VB'), (u'infected', u'JJ'), (u'root', u'NN'), (u'canal', u'NN'), (u'tissue', u'NN'), (u'and', u'CC'), (u'replace', u'VB'), (u'removed', u'VBN'), (u'tissue', u'NN'), (u'with', u'IN'), (u'restorative', u'JJ'), (u'material', u'NN')]
+--------
+~~~~~~~
+[(u'oral', u'JJ'), (u'cancer', u'NN'), (u'are', u'VBP'), (u'the', u'DT'), (u'malignancies', u'NNS'), (u'indicative', u'JJ'), (u'of', u'IN'), (u'unchecked', u'JJ'), (u'cell', u'NN'), (u'growth', u'NN'), (u'that', u'WDT'), (u'are', u'VBP'), (u'mainly', u'RB'), (u'found', u'VBN'), (u'in', u'IN'), (u'and', u'CC'), (u'around', u'IN'), (u'the', u'DT'), (u'oropharynx', u'NN'), (u',', u','), (u'gingiva', u'NN'), (u',', u','), (u'floor', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN'), (u',', u','), (u'lower', u'JJR'), (u'lip', u'NN'), (u',', u','), (u'and', u'CC'), (u'base', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'tongue', u'NN')]
+--------
+~~~~~~~
+[(u'canine', u'NN'), (u'is', u'VBZ'), (u'one', u'CD'), (u'of', u'IN'), (u'the', u'DT'), (u'four', u'CD'), (u'pointed', u'JJ'), (u'teeth', u'NNS'), (u'situated', u'VBD'), (u'one', u'CD'), (u'on', u'IN'), (u'each', u'DT'), (u'side', u'NN'), (u'of', u'IN'), (u'each', u'DT'), (u'jaw', u'NN'), (u',', u','), (u'distal', u'JJ'), (u'to', u'TO'), (u'the', u'DT'), (u'lateral', u'JJ'), (u'incisor', u'NN'), (u';', u':'), (u'canine', u'NN'), (u'are', u'VBP'), (u'the', u'DT'), (u'forms', u'NNS'), (u'the', u'DT'), (u'keystone', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'arch', u'NN')]
+--------
+~~~~~~~
+[(u'canine', u'NN'), (u'guidance', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'concept', u'NN'), (u'of', u'IN'), (u'occlusal', u'JJ'), (u'function', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'the', u'DT'), (u'canine', u'NN'), (u'teeth', u'NNS'), (u'are', u'VBP'), (u'assigned', u'VBN'), (u'a', u'DT'), (u'major', u'JJ'), (u'control', u'NN'), (u'role', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'excursive', u'JJ'), (u'movements', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'mandible', u'NN')]
+--------
+~~~~~~~
+[(u'cast', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'object', u'NN'), (u'formed', u'VBN'), (u'by', u'IN'), (u'pouring', u'VBG'), (u'plastic', u'JJ'), (u'or', u'CC'), (u'liquid', u'JJ'), (u'material', u'NN'), (u'into', u'IN'), (u'a', u'DT'), (u'mold', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'it', u'PRP'), (u'hardens', u'VBZ')]
+--------
+~~~~~~~
+[(u'diagnostic', u'JJ'), (u'cast', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'positive', u'JJ'), (u'likeness', u'NN'), (u'of', u'IN'), (u'dental', u'JJ'), (u'structures', u'NNS'), (u'for', u'IN'), (u'the', u'DT'), (u'purpose', u'NN'), (u'of', u'IN'), (u'study', u'NN'), (u'and', u'CC'), (u'treatment', u'NN'), (u'planning', u'NN')]
+--------
+~~~~~~~
+[(u'master', u'NN'), (u'cast', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'accurate', u'JJ'), (u'replica', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'prepared', u'JJ'), (u'tooth', u'NN'), (u'surfaces', u'NNS'), (u',', u','), (u'residual', u'JJ'), (u'ridge', u'NN'), (u'areas', u'NNS'), (u',', u','), (u'or', u'CC'), (u'other', u'JJ'), (u'parts', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'reproduced', u'VBN'), (u'from', u'IN'), (u'an', u'DT'), (u'impression', u'NN'), (u'from', u'IN'), (u'which', u'WDT'), (u'a', u'DT'), (u'prosthesis', u'NN'), (u'is', u'VBZ'), (u'to', u'TO'), (u'be', u'VB'), (u'fabricated', u'VBN')]
+--------
+~~~~~~~
+[(u'refractory', u'JJ'), (u'cast', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'cast', u'NN'), (u'made', u'VBN'), (u'of', u'IN'), (u'materials', u'NNS'), (u'that', u'WDT'), (u'can', u'MD'), (u'withstand', u'VB'), (u'high', u'JJ'), (u'temperatures', u'NNS'), (u'without', u'IN'), (u'disintegrating', u'VBG'), (u'and', u'CC'), (u'that', u'IN'), (u',', u','), (u'when', u'WRB'), (u'used', u'VBN'), (u'in', u'IN'), (u'partial', u'JJ'), (u'denture', u'JJ'), (u'casting', u'NN'), (u'techniques', u'NNS'), (u',', u','), (u'expand', u'VBP'), (u'to', u'TO'), (u'compensate', u'VB'), (u'for', u'IN'), (u'metal', u'NN'), (u'shrinkage', u'NN')]
+--------
+~~~~~~~
+[(u'casting', u'NN'), (u'machine', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'mechanical', u'JJ'), (u'device', u'NN'), (u'used', u'VBN'), (u'for', u'IN'), (u'throwing', u'VBG'), (u'or', u'CC'), (u'forcing', u'VBG'), (u'a', u'DT'), (u'molten', u'JJ'), (u'metal', u'NN'), (u'into', u'IN'), (u'a', u'DT'), (u'refractory', u'JJ'), (u'mold', u'NN')]
+--------
+~~~~~~~
+[(u'nasal', u'JJ'), (u'cavity', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'two', u'CD'), (u'irregular', u'JJ'), (u'spaces', u'NNS'), (u'that', u'WDT'), (u'are', u'VBP'), (u'situated', u'VBN'), (u'on', u'IN'), (u'either', u'DT'), (u'side', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'midline', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'face', u'NN'), (u',', u','), (u'extend', u'VBP'), (u'from', u'IN'), (u'the', u'DT'), (u'cranial', u'JJ'), (u'base', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'palate', u'NN'), (u',', u','), (u'and', u'CC'), (u'are', u'VBP'), (u'separated', u'VBN'), (u'from', u'IN'), (u'each', u'DT'), (u'other', u'JJ'), (u'by', u'IN'), (u'a', u'DT'), (u'thin', u'JJ'), (u'vertical', u'JJ'), (u'septum', u'NN')]
+[(u'In', u'IN'), (u'radiographs', u'NNS'), (u'it', u'PRP'), (u'appears', u'VBZ'), (u'over', u'IN'), (u'the', u'DT'), (u'roots', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'maxillary', u'JJ'), (u'incisors', u'NNS'), (u'as', u'IN'), (u'a', u'DT'), (u'large', u'JJ'), (u',', u','), (u'segmented', u'JJ'), (u',', u','), (u'radiolucent', u'JJ'), (u'area', u'NN')]
+[(u'Also', u'RB'), (u'called', u'VBN'), (u'nasal', u'JJ'), (u'fossa', u'NN')]
+--------
+~~~~~~~
+[(u'stem', u'NN'), (u'cell', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'cells', u'NNS'), (u'in', u'IN'), (u'the', u'DT'), (u'bone', u'NN'), (u'marrow', u'NN'), (u'from', u'IN'), (u'which', u'WDT'), (u'all', u'DT'), (u'blood', u'NN'), (u'cells', u'NNS'), (u'originate', u'VBP')]
+--------
+~~~~~~~
+[(u'zinc', u'NN'), (u'phosphate', u'NN'), (u'cement', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'material', u'NN'), (u'used', u'VBN'), (u'for', u'IN'), (u'cementation', u'NN'), (u'of', u'IN'), (u'inlays', u'NNS'), (u',', u','), (u'crowns', u'NNS'), (u',', u','), (u'bridges', u'NNS'), (u',', u','), (u'and', u'CC'), (u'orthodontic', u'JJ'), (u'appliances', u'NNS'), (u';', u':'), (u'zinc', u'NN'), (u'phosphate', u'NN'), (u'cement', u'NN'), (u'is', u'VBZ'), (u'occasionally', u'RB'), (u'used', u'VBN'), (u'as', u'IN'), (u'a', u'DT'), (u'temporary', u'JJ'), (u'restoration', u'NN')]
+[(u'Prepared', u'VBN'), (u'by', u'IN'), (u'mixing', u'VBG'), (u'a', u'DT'), (u'powder', u'NN'), (u'and', u'CC'), (u'a', u'DT'), (u'liquid', u'NN')]
+[(u'The', u'DT'), (u'powders', u'NNS'), (u'are', u'VBP'), (u'composed', u'VBN'), (u'primarily', u'RB'), (u'of', u'IN'), (u'zinc', u'NN'), (u'oxide', u'NN'), (u'and', u'CC'), (u'magnesium', u'NN'), (u'oxides', u'NNS')]
+[(u'The', u'DT'), (u'principal', u'JJ'), (u'constituents', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'liquid', u'NN'), (u'are', u'VBP'), (u'phosphoric', u'JJ'), (u'acid', u'NN'), (u',', u','), (u'water', u'NN'), (u',', u','), (u'and', u'CC'), (u'buffer', u'NN'), (u'agents', u'NNS')]
+--------
+~~~~~~~
+[(u'cementation', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'attachment', u'NN'), (u'of', u'IN'), (u'an', u'DT'), (u'appliance', u'NN'), (u'or', u'CC'), (u'a', u'DT'), (u'restoration', u'NN'), (u'to', u'TO'), (u'natural', u'JJ'), (u'teeth', u'NNS'), (u'or', u'CC'), (u'attachment', u'NN'), (u'of', u'IN'), (u'parts', u'NNS'), (u'by', u'IN'), (u'means', u'NNS'), (u'of', u'IN'), (u'a', u'DT'), (u'cement', u'NN')]
+--------
+~~~~~~~
+[(u'ceramics', u'NNS'), (u'is', u'VBZ'), (u'the', u'DT'), (u'art', u'NN'), (u'of', u'IN'), (u'making', u'VBG'), (u'dental', u'JJ'), (u'restorations', u'NNS'), (u'or', u'CC'), (u'parts', u'NNS'), (u'of', u'IN'), (u'restorations', u'NNS'), (u'from', u'IN'), (u'fused', u'VBN'), (u'porcelain', u'NN')]
+--------
+~~~~~~~
+[(u'periodontal', u'JJ'), (u'chart', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'diagrammatic', u'JJ'), (u'chart', u'NN'), (u'on', u'IN'), (u'which', u'WDT'), (u'the', u'DT'), (u'findings', u'NNS'), (u'from', u'IN'), (u'the', u'DT'), (u'periodontal', u'JJ'), (u'examination', u'NN'), (u'are', u'VBP'), (u'recorded', u'VBN')]
+[(u'This', u'DT'), (u'includes', u'VBZ'), (u'pocket', u'NN'), (u'readings', u'NNS'), (u',', u','), (u'furcations', u'NNS'), (u',', u','), (u'tooth', u'NN'), (u'mobility', u'NN'), (u',', u','), (u'exudates', u'NNS'), (u'and', u'CC'), (u'gingival', u'JJ'), (u'recession', u'NN')]
+--------
+~~~~~~~
+[(u'chewing', u'JJ'), (u'is', u'VBZ'), (u'the', u'DT'), (u'movements', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'mandible', u'NN'), (u'during', u'IN'), (u'mastication', u'NN'), (u';', u':'), (u'chewing', u'VBG'), (u'is', u'VBZ'), (u'controlled', u'VBN'), (u'by', u'IN'), (u'neuromuscular', u'JJ'), (u'action', u'NN'), (u'and', u'CC'), (u'limited', u'VBN'), (u'by', u'IN'), (u'the', u'DT'), (u'anatomic', u'JJ'), (u'structure', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'temporomandibular', u'JJ'), (u'joints', u'NNS')]
+--------
+~~~~~~~
+[(u'arm', u'NN'), (u'clasp', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'clasp', u'NN'), (u'extensions', u'NNS'), (u',', u','), (u'usually', u'RB'), (u'from', u'IN'), (u'minor', u'JJ'), (u'connectors', u'NNS'), (u',', u','), (u'that', u'WDT'), (u'provide', u'VBP'), (u'retention', u'NN'), (u',', u','), (u'reciprocation', u'NN'), (u',', u','), (u'or', u'CC'), (u'stabilization', u'NN')]
+--------
+~~~~~~~
+[(u'reciprocal', u'JJ'), (u'arm', u'NN'), (u'clasp', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'arm', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'clasp', u'NN'), (u',', u','), (u'usually', u'RB'), (u'at', u'IN'), (u'or', u'CC'), (u'occlusal', u'JJ'), (u'to', u'TO'), (u'the', u'DT'), (u'height', u'NN'), (u'of', u'IN'), (u'contour', u'NN'), (u',', u','), (u'located', u'JJ'), (u'in', u'IN'), (u'such', u'PDT'), (u'a', u'DT'), (u'manner', u'NN'), (u'as', u'IN'), (u'to', u'TO'), (u'reciprocate', u'VB'), (u'any', u'DT'), (u'force', u'NN'), (u'arising', u'VBG'), (u'from', u'IN'), (u'an', u'DT'), (u'opposing', u'JJ'), (u'clasp', u'NN'), (u'arm', u'NN'), (u'on', u'IN'), (u'the', u'DT'), (u'same', u'JJ'), (u'tooth', u'NN')]
+--------
+~~~~~~~
+[(u'circumferential', u'JJ'), (u'clasp', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'clasp', u'NN'), (u'that', u'WDT'), (u'encircles', u'VBZ'), (u'more', u'JJR'), (u'than', u'IN'), (u'180\u63b3', u'CD'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u',', u','), (u'including', u'VBG'), (u'opposite', u'JJ'), (u'angles', u'NNS'), (u',', u','), (u'and', u'CC'), (u'usually', u'RB'), (u'contacts', u'NNS'), (u'the', u'DT'), (u'tooth', u'NN'), (u'throughout', u'IN'), (u'the', u'DT'), (u'extent', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'clasp', u'NN'), (u',', u','), (u'at', u'IN'), (u'least', u'JJS'), (u'one', u'CD'), (u'terminal', u'NN'), (u'being', u'VBG'), (u'in', u'IN'), (u'the', u'DT'), (u'infrabulge', u'NN'), (u'area', u'NN')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'clearance', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'condition', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'the', u'DT'), (u'mandibular', u'JJ'), (u'teeth', u'NNS'), (u'may', u'MD'), (u'pass', u'VB'), (u'the', u'DT'), (u'maxillary', u'JJ'), (u'teeth', u'NNS'), (u'horizontally', u'RB'), (u'without', u'IN'), (u'contact', u'NN'), (u'or', u'CC'), (u'interference', u'NN')]
+--------
+~~~~~~~
+[(u'clenching', u'VBG'), (u'is', u'VBZ'), (u'the', u'DT'), (u'nonfunctional', u'JJ'), (u',', u','), (u'forceful', u'JJ'), (u'intermittent', u'JJ'), (u'application', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'mandibular', u'JJ'), (u'teeth', u'NNS'), (u'against', u'IN'), (u'the', u'DT'), (u'maxillary', u'JJ'), (u'teeth', u'NNS')]
+[(u'It', u'PRP'), (u'can', u'MD'), (u'become', u'VB'), (u'habitual', u'JJ'), (u'and', u'CC'), (u'cause', u'NN'), (u'damage', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'periodontium', u'NN')]
+--------
+~~~~~~~
+[(u'complication', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'disease', u'NN'), (u'or', u'CC'), (u'injury', u'NN'), (u'that', u'WDT'), (u'develops', u'VBZ'), (u'during', u'IN'), (u'the', u'DT'), (u'treatment', u'NN'), (u'of', u'IN'), (u'an', u'DT'), (u'earlier', u'JJR'), (u'disorder', u'NN')]
+[(u'An', u'DT'), (u'example', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'bacterial', u'JJ'), (u'infection', u'NN'), (u'acquired', u'VBN'), (u'by', u'IN'), (u'a', u'DT'), (u'person', u'NN'), (u'weakened', u'VBN'), (u'by', u'IN'), (u'a', u'DT'), (u'viral', u'JJ'), (u'infection', u'NN')]
+--------
+~~~~~~~
+[(u'computed', u'VBN'), (u'tomography', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'radiographic', u'JJ'), (u'body', u'NN'), (u'scanning', u'NN'), (u'technique', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'thin', u'JJ'), (u'or', u'CC'), (u'narrow', u'JJ'), (u'layer', u'NN'), (u'sections', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'body', u'NN'), (u'can', u'MD'), (u'be', u'VB'), (u'imaged', u'VBN'), (u'for', u'IN'), (u'diagnostic', u'JJ'), (u'purposes', u'NNS')]
+[(u'The', u'DT'), (u'technique', u'NN'), (u'uses', u'VBZ'), (u'a', u'DT'), (u'computer-linked', u'JJ'), (u'radiographic', u'JJ'), (u'machine', u'NN'), (u'to', u'TO'), (u'focus', u'VB'), (u'the', u'DT'), (u'radiographs', u'NNS'), (u'on', u'IN'), (u'a', u'DT'), (u'particular', u'JJ'), (u'section', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'body', u'NN'), (u'to', u'TO'), (u'be', u'VB'), (u'viewed', u'VBN')]
+--------
+~~~~~~~
+[(u'thermal', u'JJ'), (u'conductivity', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'ability', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'material', u'NN'), (u'to', u'TO'), (u'transfer', u'VB'), (u'heat', u'NN')]
+[(u'Thermal', u'JJ'), (u'conductivity', u'NN'), (u'is', u'VBZ'), (u'of', u'IN'), (u'great', u'JJ'), (u'importance', u'NN'), (u'in', u'IN'), (u'dentistry', u'NN'), (u',', u','), (u'where', u'WRB'), (u'a', u'DT'), (u'low', u'JJ'), (u'thermal', u'JJ'), (u'conductivity', u'NN'), (u'is', u'VBZ'), (u'desirable', u'JJ'), (u'in', u'IN'), (u'restorative', u'JJ'), (u'material', u'NN'), (u'and', u'CC'), (u'a', u'DT'), (u'high', u'JJ'), (u'thermal', u'JJ'), (u'conductivity', u'NN'), (u'is', u'VBZ'), (u'desirable', u'JJ'), (u'when', u'WRB'), (u'soft', u'JJ'), (u'tissue', u'NN'), (u'is', u'VBZ'), (u'covered', u'VBN')]
+--------
+~~~~~~~
+[(u'cone', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'geometric', u'JJ'), (u'shape', u'NN'), (u'with', u'IN'), (u'a', u'DT'), (u'circular', u'JJ'), (u'base', u'NN'), (u'tapering', u'VBG'), (u'evenly', u'RB'), (u'to', u'TO'), (u'an', u'DT'), (u'apex', u'NN')]
+--------
+[(u'cone', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'solid', u'JJ'), (u'substance', u'NN'), (u',', u','), (u'usually', u'RB'), (u'guttapercha', u'NN'), (u'or', u'CC'), (u'silver', u'NN'), (u',', u','), (u'having', u'VBG'), (u'a', u'DT'), (u'tapered', u'JJ'), (u'form', u'NN'), (u'similar', u'JJ'), (u'in', u'IN'), (u'length', u'NN'), (u'and', u'CC'), (u'diameter', u'NN'), (u'to', u'TO'), (u'a', u'DT'), (u'root', u'NN'), (u'canal', u'NN'), (u';', u':'), (u'cone', u'NN'), (u'is', u'VBZ'), (u'used', u'VBN'), (u'to', u'TO'), (u'fill', u'VB'), (u'the', u'DT'), (u'space', u'NN'), (u'once', u'RB'), (u'occupied', u'VBN'), (u'by', u'IN'), (u'the', u'DT'), (u'pulp', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'root', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'tooth', u'NN')]
+--------
+[(u'cone', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'accessory', u'JJ'), (u'device', u'NN'), (u'on', u'IN'), (u'a', u'DT'), (u'dental', u'JJ'), (u'x-ray', u'NN'), (u'tubehead', u'NN'), (u',', u','), (u'designed', u'VBN'), (u'to', u'TO'), (u'indicate', u'VB'), (u'the', u'DT'), (u'direction', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'central', u'JJ'), (u'axis', u'NN'), (u'of', u'IN'), (u'its', u'PRP$'), (u'radiographic', u'JJ'), (u'beam', u'NN'), (u'and', u'CC'), (u'to', u'TO'), (u'serve', u'VB'), (u'as', u'IN'), (u'a', u'DT'), (u'guide', u'NN'), (u'in', u'IN'), (u'establishing', u'VBG'), (u'a', u'DT'), (u'desired', u'VBN'), (u'source-to-receptor', u'NN'), (u'distance', u'NN')]
+--------
+~~~~~~~
+[(u'connector', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'part', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'that', u'WDT'), (u'unites', u'VBZ'), (u'its', u'PRP$'), (u'components', u'NNS')]
+--------
+~~~~~~~
+[(u'major', u'JJ'), (u'connector', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'metal', u'NN'), (u'plate', u'NN'), (u'or', u'CC'), (u'bar', u'NN'), (u'used', u'VBN'), (u'to', u'TO'), (u'join', u'VB'), (u'the', u'DT'), (u'units', u'NNS'), (u'of', u'IN'), (u'one', u'CD'), (u'side', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'to', u'TO'), (u'those', u'DT'), (u'located', u'JJ'), (u'on', u'IN'), (u'the', u'DT'), (u'opposite', u'JJ'), (u'side', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN')]
+--------
+~~~~~~~
+[(u'minor', u'JJ'), (u'connector', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'connecting', u'VBG'), (u'link', u'NN'), (u'between', u'IN'), (u'the', u'DT'), (u'major', u'JJ'), (u'connector', u'NN'), (u'or', u'CC'), (u'base', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'and', u'CC'), (u'other', u'JJ'), (u'units', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'restoration', u'NN'), (u',', u','), (u'such', u'JJ'), (u'as', u'IN'), (u'direct', u'JJ'), (u'and', u'CC'), (u'indirect', u'JJ'), (u'retainers', u'NNS'), (u'and', u'CC'), (u'rests', u'VBZ')]
+--------
+~~~~~~~
+[(u'nonrigid', u'JJ'), (u'connector', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'connector', u'NN'), (u'used', u'VBN'), (u'where', u'WRB'), (u'retainers', u'NNS'), (u'or', u'CC'), (u'pontics', u'NNS'), (u'are', u'VBP'), (u'united', u'VBN'), (u'by', u'IN'), (u'a', u'DT'), (u'joint', u'JJ'), (u'permitting', u'VBG'), (u'limited', u'JJ'), (u'movement', u'NN')]
+[(u'It', u'PRP'), (u'may', u'MD'), (u'be', u'VB'), (u'a', u'DT'), (u'precision', u'NN'), (u'or', u'CC'), (u'a', u'DT'), (u'nonprecision', u'JJ'), (u'type', u'NN'), (u'of', u'IN'), (u'connector', u'NN')]
+--------
+~~~~~~~
+[(u'rigid', u'JJ'), (u'connector', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'connector', u'NN'), (u'used', u'VBN'), (u'where', u'WRB'), (u'retainers', u'NNS'), (u'or', u'CC'), (u'pontics', u'NNS'), (u'are', u'VBP'), (u'united', u'VBN'), (u'by', u'IN'), (u'a', u'DT'), (u'soldered', u'JJ'), (u',', u','), (u'cast', u'NN'), (u',', u','), (u'or', u'CC'), (u'welded', u'VBN'), (u'joint', u'NN')]
+--------
+~~~~~~~
+[(u'tooth', u'NN'), (u'contour', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'shape', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u'that', u'WDT'), (u'is', u'VBZ'), (u'essential', u'JJ'), (u'to', u'TO'), (u'a', u'DT'), (u'healthy', u'JJ'), (u'gingival', u'JJ'), (u'unit', u'NN'), (u'because', u'IN'), (u'it', u'PRP'), (u'enables', u'VBZ'), (u'the', u'DT'), (u'bolus', u'NN'), (u'of', u'IN'), (u'food', u'NN'), (u'to', u'TO'), (u'be', u'VB'), (u'deflected', u'VBN'), (u'from', u'IN'), (u'gingival', u'JJ'), (u'margins', u'NNS'), (u'during', u'IN'), (u'mastication', u'NN')]
+--------
+~~~~~~~
+[(u'cervical', u'JJ'), (u'convergence', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'angle', u'NN'), (u'formed', u'VBN'), (u'between', u'IN'), (u'the', u'DT'), (u'cervicoaxial', u'JJ'), (u'inclination', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u'surface', u'NN'), (u'on', u'IN'), (u'one', u'CD'), (u'side', u'NN'), (u'and', u'CC'), (u'a', u'DT'), (u'diagnostic', u'JJ'), (u'stylus', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'dental', u'JJ'), (u'cast', u'NN'), (u'surveyor', u'NN'), (u'in', u'IN'), (u'contact', u'NN'), (u'with', u'IN'), (u'the', u'DT'), (u'tooth', u'NN'), (u'at', u'IN'), (u'its', u'PRP$'), (u'height', u'NN'), (u'of', u'IN'), (u'contour', u'NN')]
+--------
+~~~~~~~
+[(u'amalgam', u'NN'), (u'core', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'foundational', u'JJ'), (u'replacement', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'badly', u'RB'), (u'mutilated', u'VBN'), (u'crown', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u'whose', u'WP$'), (u'purpose', u'NN'), (u'is', u'VBZ'), (u'to', u'TO'), (u'provide', u'VB'), (u'a', u'DT'), (u'rigid', u'JJ'), (u'base', u'NN'), (u'for', u'IN'), (u'retention', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'cast', u'NN'), (u'crown', u'NN'), (u'restoration', u'NN')]
+[(u'The', u'DT'), (u'core', u'NN'), (u'may', u'MD'), (u'be', u'VB'), (u'retained', u'VBN'), (u'by', u'IN'), (u'undercuts', u'NNS'), (u',', u','), (u'slots', u'NNS'), (u',', u','), (u'pins', u'NNS'), (u',', u','), (u'or', u'CC'), (u'the', u'DT'), (u'pulp', u'NN'), (u'chamber', u'NN'), (u'of', u'IN'), (u'an', u'DT'), (u'endodontically', u'RB'), (u'treated', u'VBN'), (u'tooth', u'NN')]
+--------
+~~~~~~~
+[(u'gingival', u'JJ'), (u'crest', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'coronal', u'JJ'), (u'margin', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'gingival', u'JJ'), (u'tissue', u'NN')]
+--------
+~~~~~~~
+[(u'crown', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'natural', u'JJ'), (u'portion', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u'covered', u'VBN'), (u'by', u'IN'), (u'enamel', u'NN')]
+--------
+[(u'crown', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'artificial', u'JJ'), (u'replacement', u'NN'), (u'for', u'IN'), (u'the', u'DT'), (u'natural', u'JJ'), (u'crown', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'tooth', u'NN')]
+[(u'Colloquial', u'JJ'), (u'term', u'NN'), (u'is', u'VBZ'), (u'cap', u'NN')]
+--------
+~~~~~~~
+[(u'ceramic', u'JJ'), (u'crown', u'NN'), (u'is', u'VBZ'), (u'one', u'CD'), (u'of', u'IN'), (u'several', u'JJ'), (u'materials', u'NNS'), (u'that', u'WDT'), (u'can', u'MD'), (u'make', u'VB'), (u'up', u'RP'), (u'a', u'DT'), (u'crown', u'NN'), (u',', u','), (u'which', u'WDT'), (u'can', u'MD'), (u'be', u'VB'), (u'combined', u'VBN'), (u'with', u'IN'), (u'other', u'JJ'), (u'components', u'NNS'), (u'such', u'JJ'), (u'as', u'IN'), (u'porcelain', u'NN'), (u'or', u'CC'), (u'metal', u'NN'), (u'to', u'TO'), (u'improve', u'VB'), (u'long-term', u'JJ'), (u'crown', u'NN'), (u'function', u'NN')]
+--------
+~~~~~~~
+[(u'crown', u'NN'), (u'lengthening', u'VBG'), (u'is', u'VBZ'), (u'a', u'DT'), (u'surgical', u'JJ'), (u'procedure', u'NN'), (u'to', u'TO'), (u'remove', u'VB'), (u'marginal', u'JJ'), (u'gingival', u'JJ'), (u'tissues', u'NNS'), (u'to', u'TO'), (u'expose', u'VB'), (u'more', u'JJR'), (u'of', u'IN'), (u'the', u'DT'), (u'crown', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'tooth', u'NN'), (u'to', u'TO'), (u'facilitate', u'VB'), (u'a', u'DT'), (u'reconstructive', u'JJ'), (u'or', u'CC'), (u'operative', u'JJ'), (u'procedure', u'NN')]
+--------
+~~~~~~~
+[(u'porcelain', u'NN'), (u'jacket', u'NN'), (u'crown', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'type', u'NN'), (u'of', u'IN'), (u'crown', u'NN'), (u'composed', u'VBN'), (u'of', u'IN'), (u'porcelain', u'NN'), (u'mixed', u'VBN'), (u'with', u'IN'), (u'metal', u'NN'), (u',', u','), (u'commonly', u'RB'), (u'used', u'VBN'), (u'for', u'IN'), (u'its', u'PRP$'), (u'appearance', u'NN'), (u'and', u'CC'), (u'tooth-bonding', u'JJ'), (u'properties', u'NNS')]
+--------
+~~~~~~~
+[(u'temporary', u'JJ'), (u'crown', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'short-term', u'JJ'), (u'crown', u'NN'), (u'placed', u'VBN'), (u'on', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u'while', u'IN'), (u'the', u'DT'), (u'final', u'JJ'), (u'impression', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'permanent', u'JJ'), (u'crown', u'NN'), (u'is', u'VBZ'), (u'being', u'VBG'), (u'cast', u'VBN')]
+--------
+~~~~~~~
+[(u'three-quarter', u'JJ'), (u'crown', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'term', u'NN'), (u'frequently', u'RB'), (u'used', u'VBN'), (u'to', u'TO'), (u'designate', u'VB'), (u'a', u'DT'), (u'partial', u'JJ'), (u'veneer', u'NN'), (u'crown', u'NN')]
+--------
+~~~~~~~
+[(u'veneer', u'NN'), (u'crown', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'restoration', u'NN'), (u'that', u'WDT'), (u'reproduces', u'VBZ'), (u'the', u'DT'), (u'total', u'JJ'), (u'clinical', u'JJ'), (u'coronal', u'JJ'), (u'surface', u'NN'), (u'contour', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'tooth', u'NN')]
+[(u'Colloquial', u'JJ'), (u'term', u'NN'), (u'is', u'VBZ'), (u'veneers', u'NNS')]
+--------
+~~~~~~~
+[(u'dental', u'JJ'), (u'care', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'treatment', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'and', u'CC'), (u'their', u'PRP$'), (u'supporting', u'JJ'), (u'structures', u'NNS')]
+--------
+~~~~~~~
+[(u'dentinal', u'JJ'), (u'tubule', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'microscopic', u'JJ'), (u'tube', u'NN'), (u'within', u'IN'), (u'dentin', u'NN'), (u'that', u'WDT'), (u'spreads', u'VBZ'), (u'outward', u'JJ'), (u'from', u'IN'), (u'the', u'DT'), (u'tooth\u9225\u6a9a', u'NN'), (u'center', u'NN')]
+[(u'It', u'PRP'), (u'carries', u'VBZ'), (u'dentinal', u'JJ'), (u'fluid', u'NN')]
+--------
+~~~~~~~
+[(u'dentition', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'natural', u'JJ'), (u'teeth', u'NNS'), (u'in', u'IN'), (u'position', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'dental', u'JJ'), (u'arches', u'NNS')]
+--------
+~~~~~~~
+[(u'artificial', u'JJ'), (u'dentition', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'artificial', u'JJ'), (u'substitutes', u'NNS'), (u'for', u'IN'), (u'the', u'DT'), (u'natural', u'JJ'), (u'dentition', u'NN')]
+[(u'See', u'NNP'), (u'also', u'RB'), (u'denture', u'VBD')]
+--------
+~~~~~~~
+[(u'denture', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'artificial', u'JJ'), (u'substitute', u'NN'), (u'for', u'IN'), (u'missing', u'VBG'), (u'natural', u'JJ'), (u'teeth', u'NNS'), (u'and', u'CC'), (u'adjacent', u'JJ'), (u'tissue', u'NN')]
+--------
+~~~~~~~
+[(u'fixed', u'VBN'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'toothborne', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'that', u'WDT'), (u'is', u'VBZ'), (u'intended', u'VBN'), (u'to', u'TO'), (u'be', u'VB'), (u'permanently', u'RB'), (u'attached', u'VBN'), (u'to', u'TO'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'or', u'CC'), (u'roots', u'NNS'), (u'that', u'WDT'), (u'furnish', u'VBP'), (u'support', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'restoration', u'NN')]
+--------
+~~~~~~~
+[(u'diagnosis', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'translation', u'NN'), (u'of', u'IN'), (u'data', u'NNS'), (u'gathered', u'VBN'), (u'by', u'IN'), (u'clinical', u'JJ'), (u'and', u'CC'), (u'radiographic', u'JJ'), (u'examination', u'NN'), (u'into', u'IN'), (u'an', u'DT'), (u'organized', u'JJ'), (u',', u','), (u'classified', u'JJ'), (u'definition', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'conditions', u'NNS'), (u'present', u'VBP')]
+--------
+~~~~~~~
+[(u'differential', u'JJ'), (u'diagnosis', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'process', u'NN'), (u'of', u'IN'), (u'identifying', u'VBG'), (u'a', u'DT'), (u'condition', u'NN'), (u'by', u'IN'), (u'differentiating', u'VBG'), (u'all', u'DT'), (u'pathologic', u'JJ'), (u'processes', u'NNS'), (u'that', u'WDT'), (u'may', u'MD'), (u'produce', u'VB'), (u'similar', u'JJ'), (u'lesions', u'NNS')]
+--------
+~~~~~~~
+[(u'diamond', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'crystalline', u'JJ'), (u'carbon', u'NN'), (u'substance', u'NN'), (u',', u','), (u'the', u'DT'), (u'hardest', u'JJS'), (u'natural', u'JJ'), (u'substance', u'NN'), (u'known', u'VBN'), (u',', u','), (u'used', u'VBN'), (u'industrially', u'RB'), (u'and', u'CC'), (u'in', u'IN'), (u'dentistry', u'NN'), (u'for', u'IN'), (u'cutting', u'VBG'), (u'and', u'CC'), (u'grinding', u'VBG')]
+--------
+~~~~~~~
+[(u'lubricant', u'NN'), (u'die', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'material', u'NN'), (u'applied', u'VBN'), (u'to', u'TO'), (u'a', u'DT'), (u'die', u'NN'), (u'to', u'TO'), (u'serve', u'VB'), (u'as', u'IN'), (u'a', u'DT'), (u'separating', u'VBG'), (u'medium', u'NN'), (u'so', u'IN'), (u'that', u'IN'), (u'the', u'DT'), (u'wax', u'NN'), (u'pattern', u'NN'), (u'will', u'MD'), (u'not', u'RB'), (u'adhere', u'VB'), (u'to', u'TO'), (u'the', u'DT'), (u'die', u'NN'), (u'but', u'CC'), (u'may', u'MD'), (u'be', u'VB'), (u'withdrawn', u'VBN'), (u'from', u'IN'), (u'it', u'PRP'), (u'without', u'IN'), (u'sticking', u'VBG')]
+--------
+~~~~~~~
+[(u'stone', u'NN'), (u'die', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'positive', u'JJ'), (u'likeness', u'NN'), (u'in', u'IN'), (u'artificial', u'JJ'), (u'stone', u'NN'), (u';', u':'), (u'stone', u'NN'), (u'die', u'NN'), (u'is', u'VBZ'), (u'used', u'VBN'), (u'in', u'IN'), (u'the', u'DT'), (u'fabrication', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'dental', u'JJ'), (u'restoration', u'NN')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'vertical', u'JJ'), (u'dimension', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'vertical', u'JJ'), (u'dimension', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'face', u'NN'), (u'when', u'WRB'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'or', u'CC'), (u'occlusion', u'NN'), (u'rims', u'NNS'), (u'are', u'VBP'), (u'in', u'IN'), (u'contact', u'NN'), (u'in', u'IN'), (u'centric', u'JJ'), (u'occlusion', u'NN')]
+--------
+~~~~~~~
+[(u'periodontal', u'JJ'), (u'disease', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'disturbance', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'periodontium', u'NN')]
+[(u'Diseases', u'NNS'), (u'affecting', u'VBG'), (u'the', u'DT'), (u'periodontium', u'NN'), (u'include', u'VBP'), (u'aggressive', u'JJ'), (u'and', u'CC'), (u'necrotizing', u'JJ'), (u'types', u'NNS'), (u',', u','), (u'as', u'RB'), (u'well', u'RB'), (u'as', u'IN'), (u'gingivitis', u'NN')]
+[(u'Etiologic', u'JJ'), (u'factors', u'NNS'), (u'may', u'MD'), (u'be', u'VB'), (u'local', u'JJ'), (u'or', u'CC'), (u'systemic', u'JJ'), (u'or', u'CC'), (u'may', u'MD'), (u'involve', u'VB'), (u'an', u'DT'), (u'interplay', u'NN'), (u'between', u'IN'), (u'the', u'DT'), (u'two', u'CD')]
+[(u'Periodontal', u'JJ'), (u'diseases', u'NNS'), (u'may', u'MD'), (u'be', u'VB'), (u'involved', u'VBN'), (u'in', u'IN'), (u'increasing', u'VBG'), (u'the', u'DT'), (u'risk', u'NN'), (u'and', u'CC'), (u'course', u'NN'), (u'of', u'IN'), (u'systemic', u'JJ'), (u'diseases', u'NNS')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'disharmony', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'phenomenon', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'contacts', u'NNS'), (u'of', u'IN'), (u'opposing', u'VBG'), (u'occlusal', u'JJ'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'teeth', u'NNS'), (u'are', u'VBP'), (u'not', u'RB'), (u'in', u'IN'), (u'harmony', u'NN'), (u'with', u'IN'), (u'other', u'JJ'), (u'tooth', u'NN'), (u'contacts', u'NNS'), (u'and', u'CC'), (u'with', u'IN'), (u'the', u'DT'), (u'anatomic', u'JJ'), (u'and', u'CC'), (u'physiologic', u'JJ'), (u'controls', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'mandible', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'contact', u'NN'), (u',', u','), (u'deflective', u'JJ'), (u'occlusal', u'NN'), (u';', u':'), (u'contact', u'NN'), (u',', u','), (u'interceptive', u'JJ'), (u'occlusal', u'NN'), (u';', u':'), (u'and', u'CC'), (u'malocclusion', u'NN')]
+--------
+~~~~~~~
+[(u'disinfection', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'process', u'NN'), (u'of', u'IN'), (u'destroying', u'VBG'), (u'pathogenic', u'JJ'), (u'organisms', u'NNS'), (u'or', u'CC'), (u'rendering', u'VBG'), (u'them', u'PRP'), (u'inert', u'JJ')]
+--------
+~~~~~~~
+[(u'distortion', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'deviation', u'NN'), (u'from', u'IN'), (u'the', u'DT'), (u'normal', u'JJ'), (u'shape', u'NN'), (u'or', u'CC'), (u'condition', u'NN')]
+--------
+[(u'distortion', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'modification', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'speech', u'NN'), (u'sound', u'NN'), (u'in', u'IN'), (u'some', u'DT'), (u'way', u'NN'), (u'so', u'IN'), (u'that', u'IN'), (u'the', u'DT'), (u'acoustic', u'JJ'), (u'result', u'NN'), (u'only', u'RB'), (u'approximates', u'VBZ'), (u'the', u'DT'), (u'standard', u'JJ'), (u'sound', u'NN'), (u'and', u'CC'), (u'is', u'VBZ'), (u'not', u'RB'), (u'accurate', u'JJ')]
+--------
+[(u'distortion', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'twisting', u'VBG'), (u'or', u'CC'), (u'deformation', u'NN')]
+[(u'distortion', u'NN'), (u'is', u'VBZ'), (u'A', u'DT'), (u'loss', u'NN'), (u'of', u'IN'), (u'accuracy', u'NN'), (u'in', u'IN'), (u'reproduction', u'NN'), (u'of', u'IN'), (u'cavity', u'NN'), (u'form', u'NN')]
+--------
+~~~~~~~
+[(u'edentulism', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'condition', u'NN'), (u'of', u'IN'), (u'being', u'VBG'), (u'edentulous', u'JJ'), (u',', u','), (u'without', u'IN'), (u'teeth', u'NNS')]
+--------
+~~~~~~~
+[(u'education', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'act', u'NN'), (u'or', u'CC'), (u'process', u'NN'), (u'of', u'IN'), (u'imparting', u'VBG'), (u'or', u'CC'), (u'acquiring', u'VBG'), (u'knowledge', u'NN'), (u',', u','), (u'skill', u'NN'), (u',', u','), (u'or', u'CC'), (u'judgment', u'NN')]
+--------
+~~~~~~~
+[(u'wedging', u'VBG'), (u'effect', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'effect', u'NN'), (u'produced', u'VBN'), (u'by', u'IN'), (u'food', u'NN'), (u'impaction', u'NN'), (u'that', u'WDT'), (u'forces', u'VBZ'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'apart', u'RB')]
+--------
+~~~~~~~
+[(u'elasticity', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'quality', u'NN'), (u'or', u'CC'), (u'condition', u'NN'), (u'of', u'IN'), (u'being', u'VBG'), (u'elastic', u'JJ')]
+--------
+~~~~~~~
+[(u'electrosurgery', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'use', u'NN'), (u'of', u'IN'), (u'electrically', u'RB'), (u'generated', u'VBN'), (u'energy', u'NN'), (u'from', u'IN'), (u'highfrequency', u'NN'), (u'alternating', u'VBG'), (u'currents', u'NNS'), (u'to', u'TO'), (u'cut', u'VB'), (u'or', u'CC'), (u'alter', u'VB'), (u'tissue', u'NN'), (u'within', u'IN'), (u'definite', u'JJ'), (u'limits', u'NNS')]
+--------
+~~~~~~~
+[(u'emergence', u'NN'), (u'profile', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'axial', u'JJ'), (u'contour', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u'or', u'CC'), (u'crown', u'NN'), (u'as', u'IN'), (u'it', u'PRP'), (u'relates', u'VBZ'), (u'to', u'TO'), (u'the', u'DT'), (u'adjacent', u'JJ'), (u'soft', u'JJ'), (u'tissue', u'NN')]
+--------
+~~~~~~~
+[(u'equipment', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'nonexpendable', u'JJ'), (u'items', u'NNS'), (u'used', u'VBN'), (u'by', u'IN'), (u'the', u'DT'), (u'dental', u'JJ'), (u'staff', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'office', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'performance', u'NN'), (u'of', u'IN'), (u'professional', u'JJ'), (u'duties', u'NNS')]
+--------
+~~~~~~~
+[(u'esthetics', u'NNS'), (u'is', u'VBZ'), (u'the', u'DT'), (u'branch', u'NN'), (u'of', u'IN'), (u'philosophy', u'NN'), (u'dealing', u'VBG'), (u'with', u'IN'), (u'beauty', u'NN'), (u',', u','), (u'especially', u'RB'), (u'with', u'IN'), (u'the', u'DT'), (u'components', u'NNS'), (u'thereof', u'RB')]
+--------
+~~~~~~~
+[(u'intraoral', u'JJ'), (u'examination', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'examination', u'NN'), (u'of', u'IN'), (u'all', u'PDT'), (u'the', u'DT'), (u'structures', u'NNS'), (u'contained', u'VBN'), (u'within', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN')]
+--------
+~~~~~~~
+[(u'radiographic', u'JJ'), (u'examination', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'production', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'number', u'NN'), (u'of', u'IN'), (u'radiographic', u'JJ'), (u'images', u'NNS'), (u'necessary', u'JJ'), (u'for', u'IN'), (u'the', u'DT'), (u'radiologic', u'JJ'), (u'interpretation', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'part', u'NN'), (u'or', u'CC'), (u'parts', u'NNS'), (u'in', u'IN'), (u'question', u'NN')]
+--------
+[(u'radiographic', u'JJ'), (u'examination', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'study', u'NN'), (u'and', u'CC'), (u'interpretation', u'NN'), (u'of', u'IN'), (u'radiographic', u'JJ'), (u'images', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN'), (u'and', u'CC'), (u'associated', u'VBN'), (u'structures', u'NNS')]
+--------
+~~~~~~~
+[(u'extraction', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'removal', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u'from', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN'), (u'by', u'IN'), (u'means', u'NNS'), (u'of', u'IN'), (u'elevators', u'NNS'), (u'and/or', u'CC'), (u'forceps', u'NNS')]
+--------
+~~~~~~~
+[(u'fabrication', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'construction', u'NN'), (u'or', u'CC'), (u'making', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'restoration', u'NN')]
+--------
+~~~~~~~
+[(u'facet', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'flattened', u'VBN'), (u',', u','), (u'highly', u'RB'), (u'polished', u'JJ'), (u'wear', u'NN'), (u'pattern', u'NN'), (u',', u','), (u'as', u'IN'), (u'noted', u'VBN'), (u'on', u'IN'), (u'a', u'DT'), (u'tooth', u'NN')]
+--------
+~~~~~~~
+[(u'ferric', u'JJ'), (u'sulfate', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'iron', u'NN'), (u'salt', u'NN'), (u'that', u'WDT'), (u'coagulates', u'VBZ'), (u'blood', u'NN')]
+[(u'It', u'PRP'), (u'is', u'VBZ'), (u'advocated', u'VBN'), (u'by', u'IN'), (u'some', u'DT'), (u'dentists', u'NNS'), (u'as', u'IN'), (u'a', u'DT'), (u'pulp', u'NN'), (u'capping', u'VBG'), (u'agent', u'NN'), (u'for', u'IN'), (u'pulpotomies', u'NNS'), (u'in', u'IN'), (u'primary', u'JJ'), (u'teeth', u'NNS')]
+--------
+~~~~~~~
+[(u'fibrous', u'JJ'), (u'encapsulation', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'process', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'an', u'DT'), (u'implant', u'VBP'), (u'becomes', u'VBZ'), (u'surrounded', u'VBN'), (u'by', u'IN'), (u'fibrous', u'JJ'), (u'connective', u'JJ'), (u'tissue', u'NN'), (u'during', u'IN'), (u'tissue', u'NN'), (u'healing', u'NN'), (u'process', u'NN'), (u'as', u'IN'), (u'opposed', u'VBN'), (u'to', u'TO'), (u'osseointegration', u'NN'), (u'where', u'WRB'), (u'the', u'DT'), (u'implant', u'VBP'), (u'is', u'VBZ'), (u'surrounded', u'VBN'), (u'and', u'CC'), (u'in', u'IN'), (u'intimate', u'JJ'), (u'contact', u'NN'), (u'with', u'IN'), (u'the', u'DT'), (u'bone', u'NN')]
+--------
+~~~~~~~
+[(u'flash', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'excess', u'JJ'), (u'material', u'NN'), (u'that', u'WDT'), (u'is', u'VBZ'), (u'squeezed', u'VBN'), (u'out', u'IN'), (u'of', u'IN'), (u'the', u'DT'), (u'mold', u'NN')]
+--------
+~~~~~~~
+[(u'flask', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'metal', u'NN'), (u'case', u'NN'), (u'or', u'CC'), (u'tube', u'NN'), (u'used', u'VBN'), (u'in', u'IN'), (u'investing', u'VBG'), (u'procedures', u'NNS')]
+--------
+~~~~~~~
+[(u'fluorescence', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'emission', u'NN'), (u'of', u'IN'), (u'radiation', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'particular', u'JJ'), (u'wavelength', u'NN'), (u'by', u'IN'), (u'certain', u'JJ'), (u'substances', u'NNS'), (u'as', u'IN'), (u'the', u'DT'), (u'result', u'NN'), (u'of', u'IN'), (u'absorption', u'NN'), (u'of', u'IN'), (u'radiation', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'shorter', u'JJR'), (u'wavelength', u'NN')]
+--------
+~~~~~~~
+[(u'functional', u'JJ'), (u'form', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'shape', u'NN'), (u'that', u'WDT'), (u'permits', u'VBZ'), (u'optimal', u'JJ'), (u'performance', u'NN')]
+--------
+~~~~~~~
+[(u'outline', u'NN'), (u'form', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'shape', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'area', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'tooth', u'NN'), (u'surface', u'NN'), (u'included', u'VBN'), (u'within', u'IN'), (u'the', u'DT'), (u'cavosurface', u'NN'), (u'margins', u'NNS'), (u'of', u'IN'), (u'a', u'DT'), (u'prepared', u'JJ'), (u'cavity', u'NN')]
+--------
+~~~~~~~
+[(u'resistance', u'NN'), (u'form', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'shape', u'NN'), (u'given', u'VBN'), (u'to', u'TO'), (u'a', u'DT'), (u'prepared', u'JJ'), (u'cavity', u'NN'), (u'to', u'TO'), (u'enable', u'VB'), (u'the', u'DT'), (u'restoration', u'NN'), (u'and', u'CC'), (u'remaining', u'VBG'), (u'tooth', u'NN'), (u'structure', u'NN'), (u'to', u'TO'), (u'withstand', u'VB'), (u'masticatory', u'JJ'), (u'stress', u'NN')]
+--------
+~~~~~~~
+[(u'retention', u'NN'), (u'form', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'provision', u'NN'), (u'made', u'VBN'), (u'in', u'IN'), (u'a', u'DT'), (u'cavity', u'NN'), (u'preparation', u'NN'), (u'to', u'TO'), (u'prevent', u'VB'), (u'displacement', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'restoration', u'NN')]
+--------
+~~~~~~~
+[(u'fracture', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'break', u'NN'), (u'or', u'CC'), (u'rupture', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'part', u'NN')]
+[(u'In', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'region', u'NN'), (u',', u','), (u'fracture', u'NN'), (u'is', u'VBZ'), (u'most', u'RBS'), (u'often', u'RB'), (u'seen', u'VBN'), (u'in', u'IN'), (u'teeth', u'NNS'), (u'and', u'CC'), (u'bones', u'NNS')]
+--------
+~~~~~~~
+[(u'root', u'NN'), (u'fracture', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'microscopic', u'JJ'), (u'or', u'CC'), (u'macroscopic', u'JJ'), (u'cleavage', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'root', u'NN'), (u'in', u'IN'), (u'any', u'DT'), (u'direction', u'NN')]
+--------
+~~~~~~~
+[(u'tooth', u'NN'), (u'fracture', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'traumatic', u'JJ'), (u'injury', u'NN'), (u'to', u'TO'), (u'a', u'DT'), (u'tooth', u'NN'), (u'that', u'WDT'), (u'manifests', u'VBZ'), (u'itself', u'PRP'), (u'as', u'IN'), (u'a', u'DT'), (u'chip', u'NN'), (u',', u','), (u'crack', u'NN'), (u',', u','), (u'or', u'CC'), (u'break', u'NN')]
+[(u'Manifestations', u'NNS'), (u'may', u'MD'), (u'also', u'RB'), (u'include', u'VB'), (u'dislocation', u'NN'), (u'or', u'CC'), (u'complete', u'JJ'), (u'displacement', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN')]
+--------
+~~~~~~~
+[(u'framework', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'skeletal', u'JJ'), (u'metal', u'NN'), (u'portion', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'around', u'IN'), (u'which', u'WDT'), (u'and', u'CC'), (u'to', u'TO'), (u'which', u'WDT'), (u'the', u'DT'), (u'remaining', u'VBG'), (u'units', u'NNS'), (u'are', u'VBP'), (u'attached', u'VBN')]
+--------
+~~~~~~~
+[(u'fremitus', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'palpable', u'JJ'), (u'vibrations', u'NNS'), (u'of', u'IN'), (u'nonvascular', u'JJ'), (u'origin', u'NN'), (u'that', u'WDT'), (u'can', u'MD'), (u'be', u'VB'), (u'noted', u'VBN'), (u'by', u'IN'), (u'placing', u'VBG'), (u'the', u'DT'), (u'hand', u'NN'), (u'on', u'IN'), (u'the', u'DT'), (u'chest', u'NN')]
+[(u'See', u'NNP'), (u'also', u'RB'), (u'thrill', u'VBD')]
+--------
+~~~~~~~
+[(u'frequency', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'number', u'NN'), (u'of', u'IN'), (u'cycles', u'NNS'), (u'per', u'IN'), (u'second', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'wave', u'NN'), (u'or', u'CC'), (u'other', u'JJ'), (u'periodic', u'JJ'), (u'phenomenon', u'NN')]
+[(u'Frequency', u'NN'), (u'indicates', u'VBZ'), (u'the', u'DT'), (u'energy', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'particular', u'JJ'), (u'radiation', u'NN')]
+--------
+~~~~~~~
+[(u'group', u'NN'), (u'function', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'simultaneous', u'JJ'), (u'contact', u'NN'), (u'of', u'IN'), (u'opposing', u'VBG'), (u'teeth', u'NNS'), (u'in', u'IN'), (u'a', u'DT'), (u'segment', u'NN'), (u'or', u'CC'), (u'group', u'NN')]
+--------
+~~~~~~~
+[(u'gagging', u'VBG'), (u'is', u'VBZ'), (u'an', u'DT'), (u'involuntary', u'JJ'), (u'retching', u'VBG'), (u'reflex', u'JJ'), (u'that', u'WDT'), (u'may', u'MD'), (u'be', u'VB'), (u'stimulated', u'VBN'), (u'by', u'IN'), (u'something', u'NN'), (u'touching', u'VBG'), (u'the', u'DT'), (u'posterior', u'JJ'), (u'palate', u'NN'), (u'or', u'CC'), (u'throat', u'NN'), (u'region', u'NN')]
+--------
+~~~~~~~
+[(u'undercut', u'JJ'), (u'gauge', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'attachment', u'NN'), (u'used', u'VBN'), (u'in', u'IN'), (u'conjunction', u'NN'), (u'with', u'IN'), (u'a', u'DT'), (u'dental', u'JJ'), (u'cast', u'NN'), (u'surveyor', u'NN'), (u'to', u'TO'), (u'measure', u'VB'), (u'the', u'DT'), (u'amount', u'NN'), (u'of', u'IN'), (u'infrabulge', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u'in', u'IN'), (u'a', u'DT'), (u'horizontal', u'JJ'), (u'plane', u'NN')]
+--------
+~~~~~~~
+[(u'gingiva', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'fibrous', u'JJ'), (u'tissue', u'NN'), (u'that', u'WDT'), (u'immediately', u'RB'), (u'surrounds', u'VBZ'), (u'the', u'DT'), (u'teeth', u'NNS')]
+[(u'Colloquial', u'JJ'), (u'term', u'NN'), (u'is', u'VBZ'), (u'gums', u'NNS')]
+--------
+~~~~~~~
+[(u'gingival', u'JJ'), (u'architecture', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'gingival', u'JJ'), (u'form', u'NN')]
+--------
+~~~~~~~
+[(u'gingival', u'JJ'), (u'fibroblast', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'formative', u'JJ'), (u'cell', u'NN'), (u'that', u'IN'), (u'moderates', u'NNS'), (u'wound', u'NN'), (u'healing', u'NN'), (u'and', u'CC'), (u'healing', u'NN'), (u'after', u'IN'), (u'treatment', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'fibroblast', u'NN')]
+--------
+~~~~~~~
+[(u'gingivitis', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'inflammation', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'gingival', u'JJ'), (u'tissue', u'NN'), (u';', u':'), (u'gingivitis', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'major', u'JJ'), (u'classification', u'NN'), (u'of', u'IN'), (u'periodontal', u'JJ'), (u'disease', u'NN')]
+--------
+~~~~~~~
+[(u'glass', u'NN'), (u'ionomer', u'NN'), (u'cement', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'dental', u'JJ'), (u'cement', u'NN'), (u'of', u'IN'), (u'low', u'JJ'), (u'strength', u'NN'), (u'and', u'CC'), (u'toughness', u'NN'), (u'produced', u'VBN'), (u'by', u'IN'), (u'mixing', u'VBG'), (u'a', u'DT'), (u'powder', u'NN'), (u'prepared', u'VBN'), (u'from', u'IN'), (u'a', u'DT'), (u'calcium', u'NN'), (u'aluminosilicate', u'NN'), (u'glass', u'NN'), (u'and', u'CC'), (u'a', u'DT'), (u'liquid', u'NN'), (u'prepared', u'VBN'), (u'from', u'IN'), (u'an', u'DT'), (u'aqueous', u'JJ'), (u'solution', u'NN'), (u'of', u'IN'), (u'prepared', u'JJ'), (u'polyacrylic', u'JJ'), (u'acid', u'NN'), (u';', u':'), (u'glass', u'NN'), (u'ionomer', u'NN'), (u'cement', u'NN'), (u'is', u'VBZ'), (u'used', u'VBN'), (u'mainly', u'RB'), (u'for', u'IN'), (u'small', u'JJ'), (u'restorations', u'NNS'), (u'on', u'IN'), (u'the', u'DT'), (u'proximal', u'JJ'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'anterior', u'JJ'), (u'teeth', u'NNS'), (u'and', u'CC'), (u'for', u'IN'), (u'restoration', u'NN'), (u'of', u'IN'), (u'eroded', u'VBN'), (u'areas', u'NNS'), (u'at', u'IN'), (u'the', u'DT'), (u'gingival', u'JJ'), (u'margin', u'NN')]
+--------
+~~~~~~~
+[(u'graft', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'slip', u'NN'), (u'or', u'CC'), (u'portion', u'NN'), (u'of', u'IN'), (u'tissue', u'NN'), (u'used', u'VBN'), (u'for', u'IN'), (u'implantation', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'donor', u'NN'), (u'site', u'NN'), (u';', u':'), (u'recipient', u'JJ'), (u'site', u'NN')]
+--------
+~~~~~~~
+[(u'bone', u'NN'), (u'graft', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'transplantation', u'NN'), (u'of', u'IN'), (u'healthy', u'JJ'), (u'bone', u'NN'), (u'tissue', u'NN'), (u'to', u'TO'), (u'a', u'DT'), (u'defective', u'JJ'), (u'bone', u'NN'), (u'cavity', u'NN'), (u'so', u'IN'), (u'that', u'IN'), (u'the', u'DT'), (u'new', u'JJ'), (u'bone', u'NN'), (u'tissue', u'NN'), (u'meets', u'VBZ'), (u'the', u'DT'), (u'surrounding', u'NN'), (u',', u','), (u'unaffected', u'JJ'), (u'surface', u'NN'), (u'and', u'CC'), (u'promotes', u'VBZ'), (u'healing', u'NN'), (u'and', u'CC'), (u'new', u'JJ'), (u'growth', u'NN')]
+--------
+~~~~~~~
+[(u'gingival', u'JJ'), (u'graft', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'graft', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'a', u'DT'), (u'thin', u'JJ'), (u'piece', u'NN'), (u'of', u'IN'), (u'tissue', u'NN'), (u'is', u'VBZ'), (u'taken', u'VBN'), (u'from', u'IN'), (u'the', u'DT'), (u'palate', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN'), (u',', u','), (u'or', u'CC'), (u'moved', u'VBD'), (u'over', u'RB'), (u'from', u'IN'), (u'adjacent', u'JJ'), (u'areas', u'NNS'), (u',', u','), (u'to', u'TO'), (u'provide', u'VB'), (u'a', u'DT'), (u'stable', u'JJ'), (u'band', u'NN'), (u'of', u'IN'), (u'soft', u'JJ'), (u'tissue', u'NN'), (u'around', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u'or', u'CC'), (u'implant', u'VB')]
+--------
+~~~~~~~
+[(u'pedicle', u'NN'), (u'graft', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'stem', u'NN'), (u'or', u'CC'), (u'tube', u'NN'), (u'of', u'IN'), (u'tissue', u'NN'), (u'that', u'WDT'), (u'remains', u'VBZ'), (u'attached', u'JJ'), (u'near', u'IN'), (u'the', u'DT'), (u'donor', u'NN'), (u'site', u'NN'), (u'to', u'TO'), (u'nourish', u'VB'), (u'the', u'DT'), (u'graft', u'NN'), (u'during', u'IN'), (u'advancement', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'skin', u'NN'), (u'graft', u'NN')]
+--------
+~~~~~~~
+[(u'gutta-percha', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'coagulated', u'JJ'), (u'juice', u'NN'), (u'of', u'IN'), (u'various', u'JJ'), (u'tropical', u'JJ'), (u'trees', u'NNS'), (u'that', u'WDT'), (u'has', u'VBZ'), (u'certain', u'JJ'), (u'rubberlike', u'JJ'), (u'properties', u'NNS')]
+[(u'Used', u'VBN'), (u'for', u'IN'), (u'temporary', u'JJ'), (u'sealing', u'VBG'), (u'of', u'IN'), (u'dressings', u'NNS'), (u'in', u'IN'), (u'cavities', u'NNS'), (u';', u':'), (u'also', u'RB'), (u'used', u'VBN'), (u'in', u'IN'), (u'the', u'DT'), (u'form', u'NN'), (u'of', u'IN'), (u'cones', u'NNS'), (u'for', u'IN'), (u'filling', u'VBG'), (u'root', u'NN'), (u'canals', u'NNS'), (u'and', u'CC'), (u'in', u'IN'), (u'the', u'DT'), (u'form', u'NN'), (u'of', u'IN'), (u'sticks', u'NNS'), (u'for', u'IN'), (u'sealing', u'VBG'), (u'cavities', u'NNS'), (u'over', u'IN'), (u'treatment', u'NN')]
+--------
+~~~~~~~
+[(u'gypsum', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'dihydrate', u'NN'), (u'of', u'IN'), (u'calcium', u'NN'), (u'sulfate', u'NN')]
+[(u'\u4f2a-hemihydrate', u'NN'), (u'and', u'CC'), (u'\u5c3e-hemihydrate', u'NN'), (u'are', u'VBP'), (u'derived', u'VBN'), (u'from', u'IN'), (u'gypsum', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'plaster', u'NN'), (u'of', u'IN'), (u'paris', u'NN')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'harmony', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'nondisruptive', u'JJ'), (u'relationship', u'NN'), (u'of', u'IN'), (u'an', u'DT'), (u'occlusion', u'NN'), (u'to', u'TO'), (u'all', u'DT'), (u'its', u'PRP$'), (u'factors', u'NNS')]
+--------
+~~~~~~~
+[(u'hydrocolloid', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'materials', u'NNS'), (u'listed', u'VBN'), (u'as', u'IN'), (u'colloid', u'NN'), (u'solids', u'NNS'), (u'with', u'IN'), (u'water', u'NN'), (u';', u':'), (u'hydrocolloid', u'NN'), (u'is', u'VBZ'), (u'used', u'VBN'), (u'in', u'IN'), (u'dentistry', u'NN'), (u'as', u'IN'), (u'elastic', u'JJ'), (u'impression', u'NN'), (u'materials', u'NNS')]
+--------
+[(u'hydrocolloid', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'agar-base', u'JJ'), (u'impression', u'NN'), (u'material', u'NN')]
+--------
+~~~~~~~
+[(u'hypertrophy', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'enlargement', u'NN'), (u'or', u'CC'), (u'overgrowth', u'NN'), (u'of', u'IN'), (u'an', u'DT'), (u'organ', u'NN'), (u'or', u'CC'), (u'part', u'NN'), (u'resulting', u'VBG'), (u'from', u'IN'), (u'an', u'DT'), (u'increase', u'NN'), (u'in', u'IN'), (u'size', u'NN'), (u'of', u'IN'), (u'its', u'PRP$'), (u'constituent', u'JJ'), (u'cells', u'NNS')]
+--------
+~~~~~~~
+[(u'immune', u'JJ'), (u'system', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'biochemical', u'JJ'), (u'complex', u'NN'), (u'that', u'WDT'), (u'protects', u'VBZ'), (u'the', u'DT'), (u'body', u'NN'), (u'against', u'IN'), (u'pathogenic', u'JJ'), (u'organisms', u'NNS'), (u'and', u'CC'), (u'other', u'JJ'), (u'foreign', u'JJ'), (u'bodies', u'NNS')]
+[(u'It', u'PRP'), (u'incorporates', u'VBZ'), (u'the', u'DT'), (u'humoral', u'JJ'), (u'immune', u'JJ'), (u'response', u'NN'), (u',', u','), (u'which', u'WDT'), (u'produces', u'VBZ'), (u'antibodies', u'NNS'), (u'to', u'TO'), (u'react', u'VB'), (u'with', u'IN'), (u'specific', u'JJ'), (u'antigens', u'NNS'), (u',', u','), (u'and', u'CC'), (u'the', u'DT'), (u'cell-mediated', u'JJ'), (u'response', u'NN'), (u',', u','), (u'which', u'WDT'), (u'uses', u'VBZ'), (u'T', u'NN'), (u'cells', u'NNS'), (u'to', u'TO'), (u'mobilize', u'VB'), (u'tissue', u'NN'), (u'macrophages', u'NNS'), (u'in', u'IN'), (u'the', u'DT'), (u'presence', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'foreign', u'JJ'), (u'body', u'NN')]
+[(u'It', u'PRP'), (u'also', u'RB'), (u'protects', u'VBZ'), (u'the', u'DT'), (u'body', u'NN'), (u'from', u'IN'), (u'invasion', u'NN'), (u'by', u'IN'), (u'creating', u'VBG'), (u'local', u'JJ'), (u'barriers', u'NNS'), (u'and', u'CC'), (u'inflammation', u'NN')]
+[(u'The', u'DT'), (u'principal', u'JJ'), (u'organs', u'NNS'), (u'include', u'VBP'), (u'the', u'DT'), (u'bone', u'NN'), (u'marrow', u'NN'), (u',', u','), (u'thymus', u'NN'), (u',', u','), (u'and', u'CC'), (u'lymphoid', u'JJ'), (u'tissue', u'NN')]
+--------
+~~~~~~~
+[(u'implant', u'VB'), (u'is', u'VBZ'), (u'a', u'DT'), (u'device', u'NN'), (u',', u','), (u'usually', u'RB'), (u'alloplastic', u'JJ'), (u',', u','), (u'that', u'WDT'), (u'is', u'VBZ'), (u'surgically', u'RB'), (u'inserted', u'VBN'), (u'into', u'IN'), (u'or', u'CC'), (u'onto', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'tissue', u'NN')]
+[(u'To', u'TO'), (u'be', u'VB'), (u'used', u'VBN'), (u'as', u'IN'), (u'a', u'DT'), (u'prosthodontic', u'JJ'), (u'abutment', u'NN'), (u',', u','), (u'it', u'PRP'), (u'should', u'MD'), (u'remain', u'VB'), (u'quiescent', u'JJ'), (u'and', u'CC'), (u'purely', u'RB'), (u'secondary', u'JJ'), (u'to', u'TO'), (u'local', u'JJ'), (u'tissue', u'NN'), (u'physiology', u'NN')]
+--------
+~~~~~~~
+[(u'endosteal', u'NN'), (u'implant', u'VBP'), (u'is', u'VBZ'), (u'an', u'DT'), (u'implant', u'VB'), (u'that', u'DT'), (u'is', u'VBZ'), (u'placed', u'VBN'), (u'into', u'IN'), (u'the', u'DT'), (u'alveolar', u'JJ'), (u'and/or', u'CC'), (u'basal', u'JJ'), (u'bone', u'NN'), (u'and', u'CC'), (u'that', u'IN'), (u'protrudes', u'NNS'), (u'through', u'IN'), (u'the', u'DT'), (u'mucoperiosteum', u'NN')]
+--------
+~~~~~~~
+[(u'transosteal', u'NN'), (u'implant', u'VBP'), (u'is', u'VBZ'), (u'an', u'DT'), (u'implant', u'VB'), (u'that', u'IN'), (u'passes', u'NNS'), (u'completely', u'RB'), (u'through', u'IN'), (u'the', u'DT'), (u'buccal', u'JJ'), (u'and', u'CC'), (u'lingual', u'JJ'), (u'aspects', u'NNS'), (u'of', u'IN'), (u'a', u'DT'), (u'toothless', u'JJ'), (u'ridge', u'NN'), (u';', u':'), (u'transosteal', u'NN'), (u'implant', u'VBP'), (u'is', u'VBZ'), (u'also', u'RB'), (u'an', u'DT'), (u'implant', u'VB'), (u'whose', u'WP$'), (u'threaded', u'JJ'), (u'posts', u'NNS'), (u'pass', u'VBP'), (u'completely', u'RB'), (u'through', u'IN'), (u'the', u'DT'), (u'mandible', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'parasymphyseal', u'JJ'), (u'region', u'NN'), (u'from', u'IN'), (u'the', u'DT'), (u'inferior', u'JJ'), (u'border', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'alveolar', u'JJ'), (u'crest', u'NN'), (u',', u','), (u'allowing', u'VBG'), (u'the', u'DT'), (u'attachment', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'dental', u'JJ'), (u'prosthesis', u'NN')]
+--------
+~~~~~~~
+[(u'incisor', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'cutting', u'VBG'), (u'tooth', u'NN'), (u',', u','), (u'one', u'CD'), (u'of', u'IN'), (u'the', u'DT'), (u'four', u'CD'), (u'anterior', u'JJ'), (u'teeth', u'NNS'), (u'of', u'IN'), (u'either', u'DT'), (u'jaw', u'NN'), (u'that', u'WDT'), (u'are', u'VBP'), (u'the', u'DT'), (u'first', u'JJ'), (u'and', u'CC'), (u'second', u'JJ'), (u'from', u'IN'), (u'the', u'DT'), (u'midline', u'NN'), (u'and', u'CC'), (u'consist', u'VBP'), (u'of', u'IN'), (u'both', u'DT'), (u'centrals', u'NNS'), (u'and', u'CC'), (u'laterals', u'NNS'), (u',', u','), (u'respectively', u'RB')]
+--------
+~~~~~~~
+[(u'infection', u'NN'), (u'control', u'NN'), (u'are', u'VBP'), (u'the', u'DT'), (u'procedures', u'NNS'), (u'and', u'CC'), (u'protocols', u'NNS'), (u'designed', u'VBN'), (u'to', u'TO'), (u'prevent', u'VB'), (u'or', u'CC'), (u'limit', u'VB'), (u'cross-contamination', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'health', u'NN'), (u'care', u'NN'), (u'delivery', u'NN'), (u'environment', u'NN')]
+--------
+~~~~~~~
+[(u'inlay', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'restoration', u'NN'), (u'of', u'IN'), (u'metal', u'NN'), (u',', u','), (u'fired', u'VBD'), (u'porcelain', u'NN'), (u',', u','), (u'or', u'CC'), (u'plastic', u'NN'), (u'made', u'VBN'), (u'to', u'TO'), (u'fit', u'VB'), (u'a', u'DT'), (u'tapered', u'JJ'), (u'cavity', u'NN'), (u'preparation', u'NN'), (u'and', u'CC'), (u'fastened', u'VBN'), (u'to', u'TO'), (u'or', u'CC'), (u'luted', u'VBN'), (u'into', u'IN'), (u'it', u'PRP'), (u'with', u'IN'), (u'a', u'DT'), (u'cementing', u'VBG'), (u'medium', u'NN')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'interference', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'tooth-to-tooth', u'JJ'), (u'contact', u'NN'), (u'that', u'WDT'), (u'interferes', u'VBZ'), (u'with', u'IN'), (u'jaw', u'NN'), (u'movement', u'NN')]
+--------
+~~~~~~~
+[(u'mucogingival', u'JJ'), (u'junction', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'scalloped', u'JJ'), (u'linear', u'JJ'), (u'area', u'NN'), (u'denoting', u'VBG'), (u'the', u'DT'), (u'separation', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'gingivae', u'NN'), (u'and', u'CC'), (u'alveolar', u'JJ'), (u'mucosa', u'NN')]
+--------
+~~~~~~~
+[(u'keyway', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'slot', u'NN'), (u'into', u'IN'), (u'which', u'WDT'), (u'the', u'DT'), (u'male', u'JJ'), (u'portion', u'NN'), (u'of', u'IN'), (u'precision', u'NN'), (u'attachments', u'NNS'), (u'fits', u'VBZ')]
+--------
+~~~~~~~
+[(u'lamina', u'NN'), (u'dura', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'radiographic', u'JJ'), (u'term', u'NN'), (u'denoting', u'VBG'), (u'the', u'DT'), (u'plate', u'NN'), (u'of', u'IN'), (u'compact', u'JJ'), (u'bone', u'NN'), (u'that', u'WDT'), (u'lies', u'VBZ'), (u'adjacent', u'JJ'), (u'to', u'TO'), (u'the', u'DT'), (u'periodontal', u'JJ'), (u'ligament', u'NN')]
+--------
+~~~~~~~
+[(u'laterotrusion', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'outward', u'JJ'), (u'thrust', u'NN'), (u'given', u'VBN'), (u'by', u'IN'), (u'the', u'DT'), (u'muscles', u'NNS'), (u'to', u'TO'), (u'the', u'DT'), (u'rotating', u'VBG'), (u'condyle', u'NN'), (u'or', u'CC'), (u'the', u'DT'), (u'condyle', u'NN'), (u'on', u'IN'), (u'the', u'DT'), (u'bolus', u'NN'), (u'side', u'NN')]
+--------
+~~~~~~~
+[(u'lesion', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'pathologic', u'JJ'), (u'disturbance', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tissue', u'NN'), (u',', u','), (u'with', u'IN'), (u'loss', u'NN'), (u'of', u'IN'), (u'continuity', u'NN'), (u',', u','), (u'enlargement', u'NN'), (u',', u','), (u'and/or', u'CC'), (u'function', u'NN')]
+--------
+~~~~~~~
+[(u'carious', u'JJ'), (u'lesion', u'NN'), (u'is', u'VBZ'), (u'also', u'RB'), (u'known', u'VBN'), (u'as', u'IN'), (u'dental', u'JJ'), (u'caries', u'NNS'), (u'or', u'CC'), (u'tooth', u'NN'), (u'cavities', u'NNS'), (u';', u':'), (u'carious', u'JJ'), (u'lesion', u'NN'), (u'is', u'VBZ'), (u'typically', u'RB'), (u'caused', u'VBN'), (u'by', u'IN'), (u'acid-producing', u'JJ'), (u'bacteria', u'NNS'), (u',', u','), (u'which', u'WDT'), (u'lowers', u'VBZ'), (u'the', u'DT'), (u'pH', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN'), (u',', u','), (u'causing', u'VBG'), (u'demineralization', u'NN')]
+--------
+~~~~~~~
+[(u'ligament', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'tough', u'JJ'), (u',', u','), (u'fibrous', u'JJ'), (u'connective', u'JJ'), (u'tissue', u'NN'), (u'band', u'NN'), (u'that', u'WDT'), (u'connects', u'VBZ'), (u'bones', u'NNS'), (u'or', u'CC'), (u'supports', u'VBZ'), (u'viscera', u'NN')]
+[(u'Some', u'DT'), (u'ligaments', u'NNS'), (u'are', u'VBP'), (u'distinct', u'JJ'), (u'fibrous', u'JJ'), (u'structures', u'NNS'), (u';', u':'), (u'others', u'NNS'), (u'are', u'VBP'), (u'folds', u'VBZ'), (u'of', u'IN'), (u'fascia', u'NN'), (u'or', u'CC'), (u'of', u'IN'), (u'indurated', u'JJ'), (u'peritoneum', u'NN'), (u';', u':'), (u'still', u'RB'), (u'others', u'NNS'), (u'are', u'VBP'), (u'the', u'DT'), (u'relics', u'NNS'), (u'of', u'IN'), (u'unused', u'JJ'), (u'fetal', u'JJ'), (u'organs', u'NNS')]
+--------
+~~~~~~~
+[(u'stylomandibular', u'JJ'), (u'ligament', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'ligament', u'NN'), (u'extending', u'VBG'), (u'from', u'IN'), (u'the', u'DT'), (u'styloid', u'NN'), (u'process', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'temporal', u'JJ'), (u'bone', u'NN'), (u'and', u'CC'), (u'attached', u'VBN'), (u'to', u'TO'), (u'the', u'DT'), (u'mandibular', u'JJ'), (u'gonial', u'JJ'), (u'angle', u'NN')]
+--------
+~~~~~~~
+[(u'either', u'CC'), (u'the', u'DT'), (u'upper', u'JJ'), (u'or', u'CC'), (u'lower', u'JJR'), (u'structure', u'NN'), (u'surrounding', u'VBG'), (u'the', u'DT'), (u'opening', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN')]
+--------
+[(u'lip', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'rimlike', u'JJ'), (u'structure', u'NN'), (u'bordering', u'VBG'), (u'a', u'DT'), (u'cavity', u'NN'), (u'or', u'CC'), (u'groove', u'NN')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'load', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'stresses', u'NNS'), (u'generated', u'VBN'), (u'by', u'IN'), (u'functional', u'JJ'), (u'or', u'CC'), (u'habitual', u'JJ'), (u'contacting', u'VBG'), (u'of', u'IN'), (u'the', u'DT'), (u'occlusal', u'JJ'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'upper', u'JJ'), (u'and', u'CC'), (u'lower', u'JJR'), (u'teeth', u'NNS')]
+[(u'There', u'EX'), (u'are', u'VBP'), (u'two', u'CD'), (u'components', u'NNS'), (u'of', u'IN'), (u'such', u'JJ'), (u'stress', u'NN'), (u'loads', u'NNS'), (u':', u':'), (u'the', u'DT'), (u'vertically', u'RB'), (u'directed', u'VBN'), (u'components', u'NNS'), (u'and', u'CC'), (u'those', u'DT'), (u'components', u'NNS'), (u'that', u'WDT'), (u'tend', u'VBP'), (u'to', u'TO'), (u'move', u'VB'), (u'a', u'DT'), (u'tooth', u'NN'), (u'or', u'CC'), (u'denture', u'NN'), (u'laterally', u'RB')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'force', u'NN'), (u',', u','), (u'occlusal', u'NN')]
+--------
+~~~~~~~
+[(u'lymphocyte', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'form', u'NN'), (u'of', u'IN'), (u'white', u'JJ'), (u'blood', u'NN'), (u'cell', u'NN'), (u'originating', u'VBG'), (u'in', u'IN'), (u'lymphoid', u'JJ'), (u'tissues', u'NNS'), (u';', u':'), (u'lymphocyte', u'NN'), (u'are', u'VBP'), (u'the', u'DT'), (u'possesses', u'VBZ'), (u'a', u'DT'), (u'single', u'JJ'), (u'spherical', u'JJ'), (u'nucleus', u'NN'), (u'and', u'CC'), (u'a', u'DT'), (u'nongranular', u'JJ'), (u'cytoplasm', u'NN')]
+[(u'It', u'PRP'), (u'constitutes', u'VBZ'), (u'25', u'CD'), (u'%', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'white', u'JJ'), (u'blood', u'NN'), (u'cells', u'NNS')]
+[(u'Some', u'DT'), (u',', u','), (u'along', u'IN'), (u'with', u'IN'), (u'plasma', u'NN'), (u'cells', u'NNS'), (u'and', u'CC'), (u'histiocytes', u'NNS'), (u',', u','), (u'are', u'VBP'), (u'found', u'VBN'), (u'in', u'IN'), (u'clinically', u'RB'), (u'normal', u'JJ'), (u'gingivae', u'NN')]
+[(u'Their', u'PRP$'), (u'numbers', u'NNS'), (u'within', u'IN'), (u'the', u'DT'), (u'gingival', u'JJ'), (u'connective', u'JJ'), (u'tissue', u'NN'), (u'are', u'VBP'), (u'increased', u'VBN'), (u'in', u'IN'), (u'periodontal', u'JJ'), (u'disease', u'NN')]
+[(u'With', u'IN'), (u'progress', u'NN'), (u'of', u'IN'), (u'gingival', u'JJ'), (u'inflammation', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'underlying', u'VBG'), (u'bone', u'NN'), (u',', u','), (u'they', u'PRP'), (u'are', u'VBP'), (u'also', u'RB'), (u'found', u'VBN'), (u'within', u'IN'), (u'the', u'DT'), (u'marrow', u'NN'), (u'spaces', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'supporting', u'JJ'), (u'bone', u'NN')]
+--------
+~~~~~~~
+[(u'macrophage', u'NN'), (u'is', u'VBZ'), (u'any', u'DT'), (u'phagocytic', u'JJ'), (u'cell', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'reticuloendothelial', u'JJ'), (u'system', u'NN'), (u'including', u'VBG'), (u'specialized', u'VBN'), (u'Kupffer\u9225\u6a9a', u'NN'), (u'cells', u'NNS'), (u'in', u'IN'), (u'the', u'DT'), (u'liver', u'NN'), (u'and', u'CC'), (u'spleen', u'NN'), (u',', u','), (u'and', u'CC'), (u'histiocytes', u'NNS'), (u'in', u'IN'), (u'loose', u'JJ'), (u'connective', u'JJ'), (u'tissue', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'histiocyte', u'NN'), (u'and', u'CC'), (u'monocyte', u'NN')]
+--------
+~~~~~~~
+[(u'mandible', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'lower', u'JJR'), (u'jawbone', u'NN')]
+--------
+~~~~~~~
+[(u'mastication', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'process', u'NN'), (u'of', u'IN'), (u'chewing', u'VBG'), (u'food', u'NN'), (u'in', u'IN'), (u'preparation', u'NN'), (u'for', u'IN'), (u'swallowing', u'VBG'), (u'and', u'CC'), (u'digestion', u'NN')]
+--------
+[(u'mastication', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'act', u'NN'), (u'of', u'IN'), (u'chewing', u'VBG'), (u'accomplished', u'VBN'), (u'by', u'IN'), (u'the', u'DT'), (u'coordinated', u'VBN'), (u'activity', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'tongue', u'NN'), (u',', u','), (u'mandible', u'JJ'), (u',', u','), (u'mandibular', u'JJ'), (u'musculature', u'NN'), (u',', u','), (u'and', u'CC'), (u'structural', u'JJ'), (u'components', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'temporomandibular', u'JJ'), (u'joints', u'NNS'), (u',', u','), (u'and', u'CC'), (u'controlled', u'VBN'), (u'by', u'IN'), (u'the', u'DT'), (u'neuromuscular', u'JJ'), (u'mechanism', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'chewing', u'VBG')]
+--------
+~~~~~~~
+[(u'maxillary', u'JJ'), (u'arch', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'upper', u'JJ'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'and', u'CC'), (u'its', u'PRP$'), (u'supporting', u'JJ'), (u'bone', u'NN')]
+--------
+~~~~~~~
+[(u'maxillary', u'JJ'), (u'teeth', u'NNS'), (u'are', u'VBP'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'attached', u'VBN'), (u'to', u'TO'), (u'and', u'CC'), (u'supported', u'VBN'), (u'by', u'IN'), (u'the', u'DT'), (u'alveolar', u'JJ'), (u'process', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'maxilla', u'NN')]
+--------
+~~~~~~~
+[(u'melanoma', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'malignant', u'JJ'), (u'epithelial', u'JJ'), (u'neoplasm', u'NN'), (u'characterized', u'VBN'), (u'by', u'IN'), (u'pigment-producing', u'JJ'), (u'cells', u'NNS')]
+[(u'It', u'PRP'), (u'usually', u'RB'), (u'is', u'VBZ'), (u'dark', u'JJ'), (u'in', u'IN'), (u'color', u'NN'), (u'but', u'CC'), (u'may', u'MD'), (u'be', u'VB'), (u'amelanotic', u'JJ')]
+[(u'It', u'PRP'), (u'can', u'MD'), (u'occur', u'VB'), (u'in', u'IN'), (u'skin', u'NN'), (u'as', u'RB'), (u'well', u'RB'), (u'as', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN'), (u',', u','), (u'where', u'WRB'), (u'it', u'PRP'), (u'usually', u'RB'), (u'would', u'MD'), (u'be', u'VB'), (u'a', u'DT'), (u'late', u'JJ'), (u'finding', u'NN')]
+[(u'It', u'PRP'), (u'can', u'MD'), (u'occur', u'VB'), (u'at', u'IN'), (u'the', u'DT'), (u'site', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'mole', u'NN'), (u'or', u'CC'), (u'another', u'DT'), (u'site', u'NN')]
+--------
+~~~~~~~
+[(u'molding', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'shaping', u'NN')]
+--------
+~~~~~~~
+[(u'molybdenum', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'grayish', u'JJ'), (u'metallic', u'JJ'), (u'element', u'NN'), (u'with', u'IN'), (u'an', u'DT'), (u'atomic', u'JJ'), (u'number', u'NN'), (u'of', u'IN'), (u'42', u'CD'), (u'and', u'CC'), (u'an', u'DT'), (u'atomic', u'JJ'), (u'weight', u'NN'), (u'of', u'IN'), (u'95.94', u'CD')]
+[(u'Molybdenum', u'NN'), (u'is', u'VBZ'), (u'poisonous', u'JJ'), (u'if', u'IN'), (u'ingested', u'VBN'), (u'in', u'IN'), (u'large', u'JJ'), (u'quantities', u'NNS')]
+--------
+~~~~~~~
+[(u'floor', u'NN'), (u'of', u'IN'), (u'mouth', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'area', u'NN'), (u'within', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN'), (u'located', u'JJ'), (u'beneath', u'IN'), (u'the', u'DT'), (u'ventral', u'JJ'), (u'surface', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'tongue', u'NN')]
+--------
+~~~~~~~
+[(u'border', u'NN'), (u'movement', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'extreme', u'JJ'), (u'muscular', u'JJ'), (u'movement', u'NN'), (u'limited', u'VBN'), (u'by', u'IN'), (u'bone', u'NN'), (u',', u','), (u'ligaments', u'NNS'), (u',', u','), (u'or', u'CC'), (u'other', u'JJ'), (u'soft', u'JJ'), (u'tissues', u'NNS')]
+--------
+~~~~~~~
+[(u'lateral', u'JJ'), (u'movement', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'movement', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'body', u'NN'), (u'to', u'TO'), (u'one', u'CD'), (u'side', u'NN'), (u'of', u'IN'), (u'its', u'PRP$'), (u'established', u'JJ'), (u'position', u'NN')]
+--------
+~~~~~~~
+[(u'mandibular', u'JJ'), (u'movement', u'NN'), (u'is', u'VBZ'), (u'any', u'DT'), (u'movement', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'lower', u'JJR'), (u'jaw', u'NN')]
+--------
+~~~~~~~
+[(u'tooth', u'NN'), (u'movement', u'NN'), (u'is', u'VBZ'), (u'temporary', u'JJ'), (u'or', u'CC'), (u'permanent', u'JJ'), (u'deviation', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u'from', u'IN'), (u'its', u'PRP$'), (u'normally', u'RB'), (u'fixed', u'VBN'), (u'position', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN')]
+[(u'Also', u'RB'), (u'called', u'VBN'), (u'mobility', u'NN'), (u'of', u'IN'), (u'teeth', u'NNS')]
+[(u'When', u'WRB'), (u'teeth', u'NNS'), (u'exhibit', u'VBP'), (u'mobility', u'NN'), (u'patterns', u'NNS'), (u',', u','), (u'movement', u'NN'), (u'may', u'MD'), (u'be', u'VB'), (u'buccolingual', u'JJ'), (u',', u','), (u'mesiodistal', u'JJ'), (u',', u','), (u'occlusor-apical', u'JJ'), (u',', u','), (u'or', u'CC'), (u'rotational', u'NN')]
+[(u'Movement', u'NNP'), (u'of', u'IN'), (u'teeth', u'NNS'), (u'into', u'IN'), (u'different', u'JJ'), (u'positions', u'NNS'), (u'in', u'IN'), (u'the', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'may', u'MD'), (u'be', u'VB'), (u'produced', u'VBN'), (u'by', u'IN'), (u'repositioning', u'VBG'), (u'them', u'PRP'), (u'mesially', u'RB'), (u',', u','), (u'distally', u'RB'), (u',', u','), (u'buccally', u'RB'), (u',', u','), (u'lingually', u'RB'), (u',', u','), (u'or', u'CC'), (u'occlusally', u'RB')]
+--------
+~~~~~~~
+[(u'mucosa', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'membrane', u'NN'), (u',', u','), (u'composed', u'VBN'), (u'of', u'IN'), (u'epithelium', u'NN'), (u'and', u'CC'), (u'lamina', u'NN'), (u'propria', u'NN'), (u'also', u'RB'), (u'called', u'VBD'), (u'the', u'DT'), (u'mucous', u'JJ'), (u'membrane', u'NN')]
+--------
+~~~~~~~
+[(u'geniohyoid', u'JJ'), (u'muscle', u'NN'), (u'is', u'VBZ'), (u'suprahyoid', u'JJ'), (u'muscle', u'NN'), (u'attached', u'VBN'), (u'to', u'TO'), (u'the', u'DT'), (u'superior', u'JJ'), (u'surface', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'hyoid', u'JJ'), (u'bone', u'NN')]
+[(u'This', u'DT'), (u'muscle', u'NN'), (u',', u','), (u'which', u'WDT'), (u'is', u'VBZ'), (u'used', u'VBN'), (u'for', u'IN'), (u'mastication', u'NN'), (u'and', u'CC'), (u'swallowing', u'VBG'), (u',', u','), (u'originates', u'VBZ'), (u'on', u'IN'), (u'the', u'DT'), (u'genial', u'JJ'), (u'tubercles', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'mandible', u'NN'), (u'and', u'CC'), (u'extends', u'VBZ'), (u'along', u'IN'), (u'the', u'DT'), (u'floor', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'deglutition', u'NN'), (u';', u':'), (u'mastication', u'NN'), (u';', u':'), (u'muscle', u'NN'), (u',', u','), (u'hyoid', u'NN')]
+--------
+~~~~~~~
+[(u'trapezius', u'NN'), (u'muscle', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'cervical', u'JJ'), (u'muscle', u'NN'), (u'which', u'WDT'), (u'covers', u'VBZ'), (u'the', u'DT'), (u'lateral', u'JJ'), (u'and', u'CC'), (u'posterior', u'JJ'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'neck', u'NN')]
+--------
+~~~~~~~
+[(u'myofascial', u'JJ'), (u'pain', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'pain', u'NN'), (u'associated', u'VBN'), (u'with', u'IN'), (u'inflammation', u'NN'), (u'or', u'CC'), (u'irritation', u'NN'), (u'of', u'IN'), (u'muscle', u'NN'), (u'or', u'CC'), (u'of', u'IN'), (u'the', u'DT'), (u'fascia', u'NN'), (u'surrounding', u'VBG'), (u'the', u'DT'), (u'muscle', u'NN')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'splint', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'bite', u'NN'), (u'plane', u'NN'), (u'designed', u'VBN'), (u'and', u'CC'), (u'fabricated', u'VBN'), (u'for', u'IN'), (u'patients', u'NNS'), (u'with', u'IN'), (u'some', u'DT'), (u'types', u'NNS'), (u'of', u'IN'), (u'functional', u'JJ'), (u'temporomandibular', u'JJ'), (u'joint', u'JJ'), (u'disorders', u'NNS')]
+[(u'Provides', u'VBZ'), (u'a', u'DT'), (u'stable', u'JJ'), (u'occlusal', u'JJ'), (u'platform', u'NN'), (u'from', u'IN'), (u'which', u'WDT'), (u'to', u'TO'), (u'reconstruct', u'VB'), (u'a', u'DT'), (u'functional', u'JJ'), (u'occlusion', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'splint', u'NN')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'vertical', u'JJ'), (u'dimension', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'distance', u'NN'), (u'between', u'IN'), (u'a', u'DT'), (u'point', u'NN'), (u'on', u'IN'), (u'a', u'DT'), (u'maxillary', u'JJ'), (u'tooth', u'NN'), (u'and', u'CC'), (u'a', u'DT'), (u'point', u'NN'), (u'on', u'IN'), (u'the', u'DT'), (u'opposing', u'JJ'), (u'mandibular', u'JJ'), (u'tooth', u'NN'), (u'during', u'IN'), (u'occlusion', u'NN')]
+[(u'Several', u'JJ'), (u'are', u'VBP'), (u'used', u'VBN'), (u'to', u'TO'), (u'determine', u'VB'), (u'this', u'DT'), (u'measurement', u'NN'), (u',', u','), (u'including', u'VBG'), (u'specific', u'JJ'), (u'facial', u'JJ'), (u'measurements', u'NNS'), (u'that', u'WDT'), (u'have', u'VBP'), (u'been', u'VBN'), (u'proved', u'VBN'), (u'to', u'TO'), (u'be', u'VB'), (u'equal', u'JJ'), (u'to', u'TO'), (u'the', u'DT'), (u'OVD', u'NN')]
+--------
+~~~~~~~
+[(u'occlusion', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'act', u'NN'), (u'of', u'IN'), (u'closure', u'NN'), (u'or', u'CC'), (u'state', u'NN'), (u'of', u'IN'), (u'being', u'VBG'), (u'closed', u'VBN')]
+--------
+[(u'occlusion', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'contact', u'NN'), (u'between', u'IN'), (u'the', u'DT'), (u'incising', u'VBG'), (u'or', u'CC'), (u'masticating', u'VBG'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'maxillary', u'JJ'), (u'and', u'CC'), (u'mandibular', u'JJ'), (u'teeth', u'NNS')]
+--------
+~~~~~~~
+[(u'bilateral', u'JJ'), (u'balanced', u'JJ'), (u'occlusion', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'closure', u'NN'), (u'suitable', u'JJ'), (u'for', u'IN'), (u'worn', u'JJ'), (u'dentitions', u'NNS'), (u'that', u'WDT'), (u'are', u'VBP'), (u'cuspless', u'JJ'), (u'or', u'CC'), (u'have', u'VBP'), (u'flat-sided', u'JJ'), (u'cusps', u'NNS')]
+[(u'It', u'PRP'), (u'permits', u'VBZ'), (u'an', u'DT'), (u'increase', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'amount', u'NN'), (u'of', u'IN'), (u'surface', u'NN'), (u'contact', u'NN'), (u'in', u'IN'), (u'centric', u'JJ'), (u'closure', u'NN'), (u'and', u'CC'), (u'provides', u'VBZ'), (u'as', u'RB'), (u'much', u'JJ'), (u'closure', u'NN'), (u'contact', u'NN'), (u'as', u'IN'), (u'possible', u'JJ'), (u'for', u'IN'), (u'horizontal', u'JJ'), (u'chewing', u'JJ')]
+[(u'This', u'DT'), (u'kind', u'NN'), (u'of', u'IN'), (u'occlusion', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'therapeutic', u'JJ'), (u'form', u'NN'), (u'designed', u'VBN'), (u'to', u'TO'), (u'keep', u'VB'), (u'dentures', u'NNS'), (u'seated', u'VBN'), (u'when', u'WRB'), (u'fine-textured', u'JJ'), (u'foods', u'NNS'), (u'are', u'VBP'), (u'chewed', u'VBN'), (u'horizontally', u'RB')]
+[(u'It', u'PRP'), (u'is', u'VBZ'), (u'not', u'RB'), (u'found', u'VBN'), (u'in', u'IN'), (u'young', u'JJ'), (u',', u','), (u'unworn', u'JJ'), (u'natural', u'JJ'), (u'dentitions', u'NNS')]
+--------
+~~~~~~~
+[(u'centric', u'JJ'), (u'occlusion', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'relation', u'NN'), (u'of', u'IN'), (u'opposing', u'VBG'), (u'occlusal', u'JJ'), (u'surfaces', u'NNS'), (u'that', u'WDT'), (u'provides', u'VBZ'), (u'the', u'DT'), (u'maximum', u'NN'), (u'planned', u'VBD'), (u'contact', u'NN'), (u'and/or', u'CC'), (u'intercuspation', u'NN')]
+[(u'It', u'PRP'), (u'should', u'MD'), (u'exist', u'VB'), (u'when', u'WRB'), (u'the', u'DT'), (u'mandible', u'NN'), (u'is', u'VBZ'), (u'in', u'IN'), (u'centric', u'JJ'), (u'relation', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'maxilla', u'NN')]
+[(u'Also', u'RB'), (u'called', u'VBN'), (u'central', u'JJ'), (u'occlusion', u'NN')]
+--------
+~~~~~~~
+[(u'onlay', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'cast', u'NN'), (u'type', u'NN'), (u'of', u'IN'), (u'restoration', u'NN'), (u'that', u'WDT'), (u'is', u'VBZ'), (u'retained', u'VBN'), (u'by', u'IN'), (u'frictional', u'JJ'), (u'and', u'CC'), (u'mechanical', u'JJ'), (u'factors', u'NNS'), (u'in', u'IN'), (u'the', u'DT'), (u'preparation', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'tooth', u'NN'), (u'and', u'CC'), (u'restores', u'VBZ'), (u'one', u'CD'), (u'or', u'CC'), (u'more', u'JJR'), (u'cusps', u'NNS'), (u'and', u'CC'), (u'adjoining', u'JJ'), (u'occlusal', u'JJ'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'tooth', u'NN')]
+--------
+[(u'onlay', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'occlusal', u'JJ'), (u'rest', u'NN'), (u'portion', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'that', u'WDT'), (u'is', u'VBZ'), (u'extended', u'VBN'), (u'to', u'TO'), (u'cover', u'VB'), (u'the', u'DT'), (u'entire', u'JJ'), (u'occlusal', u'JJ'), (u'surface', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'tooth', u'NN')]
+--------
+~~~~~~~
+[(u'open', u'JJ'), (u'contact', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'increased', u'VBN'), (u'area', u'NN'), (u'between', u'IN'), (u'adjacent', u'JJ'), (u'teeth', u'NNS'), (u'without', u'IN'), (u'interproximal', u'JJ'), (u'contacts', u'NNS')]
+[(u'It', u'PRP'), (u'can', u'MD'), (u'be', u'VB'), (u'due', u'JJ'), (u'to', u'TO'), (u'the', u'DT'), (u'abnormal', u'JJ'), (u'position', u'NN'), (u'or', u'CC'), (u'absence', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u',', u','), (u'oral', u'JJ'), (u'disease', u'NN'), (u',', u','), (u'oral', u'JJ'), (u'habits', u'NNS'), (u',', u','), (u'or', u'CC'), (u'the', u'DT'), (u'overdevelopment', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'frena', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'frenum', u'NN'), (u'and', u'CC'), (u'diastema', u'NN')]
+--------
+~~~~~~~
+[(u'oral', u'JJ'), (u'cavity', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'mouth', u'NN')]
+--------
+~~~~~~~
+[(u'orthognathic', u'JJ'), (u'surgery', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'surgery', u'NN'), (u'to', u'TO'), (u'alter', u'VB'), (u'relationships', u'NNS'), (u'of', u'IN'), (u'dental', u'JJ'), (u'arches', u'NNS'), (u'and/or', u'CC'), (u'supporting', u'VBG'), (u'bones', u'NNS'), (u',', u','), (u'usually', u'RB'), (u'accomplished', u'VBN'), (u'with', u'IN'), (u'orthodontic', u'JJ'), (u'therapy', u'NN')]
+--------
+~~~~~~~
+[(u'osseointegration', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'term', u'NN'), (u'originally', u'RB'), (u'defined', u'VBN'), (u'by', u'IN'), (u'Professor', u'NNP'), (u'P.I', u'NNP')]
+[(u'Br\u6c13nemark', u'NN'), (u'and', u'CC'), (u'commonly', u'RB'), (u'used', u'VBN'), (u'to', u'TO'), (u'describe', u'VB'), (u'the', u'DT'), (u'direct', u'JJ'), (u'contact', u'NN'), (u',', u','), (u'on', u'IN'), (u'the', u'DT'), (u'light', u'JJ'), (u'microscopic', u'JJ'), (u'level', u'NN'), (u',', u','), (u'between', u'IN'), (u'living', u'VBG'), (u'bone', u'NN'), (u'tissue', u'NN'), (u'and', u'CC'), (u'an', u'DT'), (u'implant', u'VBP'), (u',', u','), (u'without', u'IN'), (u'an', u'DT'), (u'intervening', u'VBG'), (u'fibrous', u'JJ'), (u'connective', u'JJ'), (u'tissue', u'NN'), (u'layer', u'NN'), (u'between', u'IN'), (u'the', u'DT'), (u'bone', u'NN'), (u'and', u'CC'), (u'the', u'DT'), (u'implant', u'VBP'), (u'surface', u'NN')]
+--------
+~~~~~~~
+[(u'osteoplasty', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'surgical', u'JJ'), (u'procedure', u'NN'), (u'to', u'TO'), (u'modify', u'VB'), (u'or', u'CC'), (u'change', u'VB'), (u'the', u'DT'), (u'configuration', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'bone', u'NN')]
+--------
+~~~~~~~
+[(u'overdenture', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'complete', u'JJ'), (u'or', u'CC'), (u'partial', u'JJ'), (u'removable', u'JJ'), (u'denture', u'NN'), (u'supported', u'VBN'), (u'by', u'IN'), (u'retained', u'VBN'), (u'roots', u'NNS'), (u'that', u'WDT'), (u'is', u'VBZ'), (u'intended', u'VBN'), (u'to', u'TO'), (u'provide', u'VB'), (u'improved', u'JJ'), (u'support', u'NN'), (u',', u','), (u'stability', u'NN'), (u',', u','), (u'and', u'CC'), (u'tactile', u'JJ'), (u'and', u'CC'), (u'proprioceptive', u'JJ'), (u'sensation', u'NN'), (u'and', u'CC'), (u'to', u'TO'), (u'reduce', u'VB'), (u'ridge', u'NN'), (u'resorption', u'NN')]
+[(u'See', u'NNP'), (u'also', u'RB'), (u'root', u'VBP'), (u'retention', u'NN'), (u'and', u'CC'), (u'root', u'NN'), (u'submersion', u'NN')]
+--------
+~~~~~~~
+[(u'horizontal', u'NNS'), (u'overlap', u'VBP'), (u'is', u'VBZ'), (u'a', u'DT'), (u'projection', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'anterior', u'JJ'), (u'or', u'CC'), (u'posterior', u'JJ'), (u'teeth', u'NNS'), (u'of', u'IN'), (u'one', u'CD'), (u'arch', u'NN'), (u'beyond', u'IN'), (u'their', u'PRP$'), (u'antagonists', u'NNS'), (u'in', u'IN'), (u'a', u'DT'), (u'horizontal', u'JJ'), (u'direction', u'NN')]
+[(u'Also', u'RB'), (u'called', u'VBN'), (u'overjet', u'NN'), (u',', u','), (u'overjut', u'NN')]
+--------
+~~~~~~~
+[(u'vertical', u'JJ'), (u'overlap', u'VBP'), (u'is', u'VBZ'), (u'an', u'DT'), (u'extension', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'maxillary', u'JJ'), (u'teeth', u'NNS'), (u'over', u'IN'), (u'the', u'DT'), (u'mandibular', u'JJ'), (u'teeth', u'NNS'), (u'in', u'IN'), (u'a', u'DT'), (u'vertical', u'JJ'), (u'direction', u'NN'), (u'when', u'WRB'), (u'the', u'DT'), (u'opposing', u'JJ'), (u'posterior', u'JJ'), (u'teeth', u'NNS'), (u'are', u'VBP'), (u'in', u'IN'), (u'contact', u'NN'), (u'in', u'IN'), (u'centric', u'JJ'), (u'occlusion', u'NN')]
+[(u'It', u'PRP'), (u'may', u'MD'), (u'also', u'RB'), (u'be', u'VB'), (u'used', u'VBN'), (u'to', u'TO'), (u'describe', u'VB'), (u'the', u'DT'), (u'vertical', u'JJ'), (u'relations', u'NNS'), (u'of', u'IN'), (u'opposing', u'JJ'), (u'cusps', u'NNS'), (u'of', u'IN'), (u'posterior', u'JJ'), (u'teeth', u'NNS')]
+[(u'Also', u'RB'), (u'called', u'VBN'), (u'overbite', u'NN')]
+--------
+~~~~~~~
+[(u'path', u'NN'), (u'of', u'IN'), (u'placement', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'direction', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'a', u'DT'), (u'removable', u'JJ'), (u'dental', u'JJ'), (u'restoration', u'NN'), (u'is', u'VBZ'), (u'positioned', u'VBN'), (u'in', u'IN'), (u'relation', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'planned', u'VBN'), (u'location', u'NN'), (u'on', u'IN'), (u'its', u'PRP$'), (u'supporting', u'JJ'), (u'structures', u'NNS')]
+[(u'The', u'DT'), (u'restoration', u'NN'), (u'is', u'VBZ'), (u'removed', u'VBN'), (u'in', u'IN'), (u'the', u'DT'), (u'opposite', u'JJ'), (u'direction', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'placement', u'NN'), (u',', u','), (u'choice', u'NN'), (u'of', u'IN'), (u'path', u'NN'), (u'of', u'IN')]
+--------
+~~~~~~~
+[(u'wax', u'NN'), (u'pattern', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'wax', u'NN'), (u'model', u'NN'), (u'for', u'IN'), (u'making', u'VBG'), (u'the', u'DT'), (u'mold', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'the', u'DT'), (u'metal', u'NN'), (u'will', u'MD'), (u'be', u'VB'), (u'formed', u'VBN'), (u'in', u'IN'), (u'casting', u'NN')]
+--------
+[(u'wax', u'NN'), (u'pattern', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'wax', u'NN'), (u'form', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'denture', u'NN'), (u'that', u'IN'), (u',', u','), (u'when', u'WRB'), (u'it', u'PRP'), (u'is', u'VBZ'), (u'invested', u'VBN'), (u'in', u'IN'), (u'a', u'DT'), (u'flask', u'NN'), (u'and', u'CC'), (u'the', u'DT'), (u'wax', u'NN'), (u'is', u'VBZ'), (u'eliminated', u'VBN'), (u',', u','), (u'will', u'MD'), (u'form', u'VB'), (u'the', u'DT'), (u'mold', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'the', u'DT'), (u'resin', u'NN'), (u'denture', u'NN'), (u'is', u'VBZ'), (u'formed', u'VBN')]
+--------
+~~~~~~~
+[(u'periodontal', u'JJ'), (u'disease', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'group', u'NN'), (u'of', u'IN'), (u'inflammatory', u'JJ'), (u'and', u'CC'), (u'infectious', u'JJ'), (u'diseases', u'NNS'), (u'affecting', u'VBG'), (u'the', u'DT'), (u'periodontium', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u',', u','), (u'with', u'IN'), (u'various', u'JJ'), (u'classes', u'NNS'), (u'noted', u'VBD')]
+--------
+~~~~~~~
+[(u'periodontal', u'JJ'), (u'surgery', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'operative', u'JJ'), (u'procedure', u'NN'), (u'used', u'VBN'), (u'to', u'TO'), (u'treat', u'VB'), (u'disease', u'NN'), (u'or', u'CC'), (u'repair', u'NN'), (u'abnormalities', u'NNS'), (u'in', u'IN'), (u'the', u'DT'), (u'periodontium', u'NN'), (u'and', u'CC'), (u'associated', u'VBN'), (u'teeth', u'NNS')]
+--------
+~~~~~~~
+[(u'periodontitis', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'alterations', u'NNS'), (u'occurring', u'VBG'), (u'in', u'IN'), (u'the', u'DT'), (u'periodontium', u'NN'), (u'with', u'IN'), (u'inflammation', u'NN')]
+[(u'Gingival', u'JJ'), (u'changes', u'NNS'), (u'are', u'VBP'), (u'those', u'DT'), (u'of', u'IN'), (u'gingivitis', u'NN'), (u',', u','), (u'with', u'IN'), (u'the', u'DT'), (u'clinical', u'JJ'), (u'signs', u'NNS'), (u'associated', u'VBN'), (u'with', u'IN'), (u'gingivitis', u'NN')]
+[(u'It', u'PRP'), (u'has', u'VBZ'), (u'histologic', u'JJ'), (u'characteristics', u'NNS'), (u',', u','), (u'such', u'JJ'), (u'as', u'IN'), (u'ulceration', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'sulcular', u'JJ'), (u'and', u'CC'), (u'junctional', u'JJ'), (u'epithelium', u'NN'), (u',', u','), (u'epithelial', u'JJ'), (u'hyperplasia', u'NN'), (u',', u','), (u'proliferation', u'NN'), (u'of', u'IN'), (u'epithelial', u'JJ'), (u'rete', u'NN'), (u'pegs', u'VBZ'), (u'into', u'IN'), (u'the', u'DT'), (u'gingival', u'JJ'), (u'tissues', u'NNS'), (u',', u','), (u'apical', u'JJ'), (u'migration', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'epithelial', u'JJ'), (u'attachment', u'NN'), (u'after', u'IN'), (u'lysis', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'gingival', u'JJ'), (u'fibers', u'NNS'), (u',', u','), (u'increased', u'VBN'), (u'cellular', u'JJ'), (u'and', u'CC'), (u'exudative', u'JJ'), (u'infiltrate', u'NN'), (u',', u','), (u'and', u'CC'), (u'vascularity', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'lamina', u'NN'), (u'propria', u'NN')]
+[(u'Resorption', u'NN'), (u'of', u'IN'), (u'bone', u'NN'), (u'in', u'IN'), (u'an', u'DT'), (u'apical', u'JJ'), (u'direction', u'NN'), (u'results', u'VBZ'), (u'in', u'IN'), (u'the', u'DT'), (u'loss', u'NN'), (u'of', u'IN'), (u'attachment', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'periodontal', u'JJ'), (u'fibers', u'NNS'), (u'to', u'TO'), (u'the', u'DT'), (u'bone', u'NN')]
+[(u'A', u'DT'), (u'transseptal', u'JJ'), (u'band', u'NN'), (u'of', u'IN'), (u'reconstituted', u'JJ'), (u'periodontal', u'JJ'), (u'fibers', u'NNS'), (u'walls', u'NNS'), (u'off', u'IN'), (u'the', u'DT'), (u'gingival', u'JJ'), (u'inflammation', u'NN'), (u'from', u'IN'), (u'the', u'DT'), (u'underlying', u'VBG'), (u'bone', u'NN')]
+--------
+[(u'periodontitis', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'chronic', u'JJ'), (u',', u','), (u'progressive', u'JJ'), (u'disease', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'periodontium', u'NN')]
+[(u'Considered', u'VBN'), (u'under', u'IN'), (u'the', u'DT'), (u'classification', u'NN'), (u'of', u'IN'), (u'periodontal', u'JJ'), (u'disease', u'NN')]
+--------
+~~~~~~~
+[(u'periodontium', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'tissues', u'NNS'), (u'that', u'WDT'), (u'support', u'VBP'), (u'the', u'DT'), (u'teeth', u'NNS'), (u',', u','), (u'which', u'WDT'), (u'include', u'VBP'), (u'the', u'DT'), (u'gingivae', u'NN'), (u',', u','), (u'cementum', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'tooth', u'NN'), (u',', u','), (u'periodontal', u'JJ'), (u'ligament', u'NN'), (u',', u','), (u'and', u'CC'), (u'alveolar', u'JJ'), (u'bone', u'NN')]
+--------
+~~~~~~~
+[(u'placement', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'act', u'NN'), (u'of', u'IN'), (u'placing', u'VBG'), (u'an', u'DT'), (u'object', u'NN')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'plane', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'imaginary', u'JJ'), (u'surface', u'NN'), (u'that', u'WDT'), (u'is', u'VBZ'), (u'related', u'VBN'), (u'anatomically', u'RB'), (u'to', u'TO'), (u'the', u'DT'), (u'cranium', u'NN'), (u'and', u'CC'), (u'that', u'IN'), (u'theoretically', u'RB'), (u'touches', u'NNS'), (u'the', u'DT'), (u'incisal', u'JJ'), (u'edges', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'incisors', u'NNS'), (u'and', u'CC'), (u'tips', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'occluding', u'VBG'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'posterior', u'JJ'), (u'teeth', u'NNS')]
+[(u'It', u'PRP'), (u'is', u'VBZ'), (u'not', u'RB'), (u'a', u'DT'), (u'plane', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'true', u'JJ'), (u'sense', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'word', u'NN'), (u'but', u'CC'), (u'represents', u'VBZ'), (u'the', u'DT'), (u'mean', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'curvature', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'surface', u'NN')]
+--------
+[(u'occlusal', u'JJ'), (u'plane', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'line', u'NN'), (u'drawn', u'VBN'), (u'between', u'IN'), (u'points', u'NNS'), (u'representing', u'VBG'), (u'one', u'CD'), (u'half', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'incisal', u'JJ'), (u'overbite', u'NN'), (u'in', u'IN'), (u'front', u'NN'), (u'and', u'CC'), (u'one', u'CD'), (u'half', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'cusp', u'NN'), (u'height', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'last', u'JJ'), (u'molars', u'NNS'), (u'in', u'IN'), (u'back', u'RB')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'curve', u'NN'), (u'of', u'IN'), (u'occlusion', u'NN')]
+--------
+~~~~~~~
+[(u'sagittal', u'JJ'), (u'plane', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'plane', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'body', u'NN'), (u'created', u'VBN'), (u'by', u'IN'), (u'an', u'DT'), (u'imaginary', u'JJ'), (u'plane', u'NN'), (u'parallel', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'median', u'JJ'), (u'plane', u'NN')]
+--------
+~~~~~~~
+[(u'model', u'NN'), (u'plaster', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'plaster', u'NN'), (u'used', u'VBN'), (u'for', u'IN'), (u'diagnostic', u'JJ'), (u'casts', u'VBZ'), (u'and', u'CC'), (u'as', u'IN'), (u'an', u'DT'), (u'investing', u'NN'), (u'material', u'NN')]
+--------
+~~~~~~~
+[(u'polishing', u'VBG'), (u'is', u'VBZ'), (u'the', u'DT'), (u'process', u'NN'), (u'of', u'IN'), (u'making', u'VBG'), (u'a', u'DT'), (u'surface', u'NN'), (u'smooth', u'NN'), (u'and', u'CC'), (u'glossy', u'JJ'), (u'or', u'CC'), (u'giving', u'VBG'), (u'luster', u'NN'), (u'to', u'TO'), (u'a', u'DT'), (u'surface', u'NN'), (u',', u','), (u'usually', u'RB'), (u'by', u'IN'), (u'friction', u'NN')]
+--------
+~~~~~~~
+[(u'polyp', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'smooth', u'JJ'), (u',', u','), (u'pedunculated', u'JJ'), (u'growth', u'NN'), (u'from', u'IN'), (u'a', u'DT'), (u'mucous', u'JJ'), (u'surface', u'NN'), (u'such', u'JJ'), (u'as', u'IN'), (u'from', u'IN'), (u'the', u'DT'), (u'nose', u'NN'), (u',', u','), (u'bladder', u'NN'), (u',', u','), (u'or', u'CC'), (u'rectum', u'NN')]
+--------
+~~~~~~~
+[(u'pontic', u'JJ'), (u'is', u'VBZ'), (u'the', u'DT'), (u'suspended', u'JJ'), (u'member', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'fixed', u'VBN'), (u'partial', u'JJ'), (u'denture', u'NN'), (u';', u':'), (u'pontic', u'JJ'), (u'is', u'VBZ'), (u'an', u'DT'), (u'artificial', u'JJ'), (u'tooth', u'NN'), (u'on', u'IN'), (u'a', u'DT'), (u'fixed', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'or', u'CC'), (u'an', u'DT'), (u'isolated', u'VBN'), (u'tooth', u'NN'), (u'on', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN')]
+--------
+~~~~~~~
+[(u'porosity', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'presence', u'NN'), (u'of', u'IN'), (u'pores', u'VBZ'), (u'or', u'CC'), (u'voids', u'VBZ'), (u'within', u'IN'), (u'a', u'DT'), (u'structure', u'NN')]
+--------
+~~~~~~~
+[(u'postoperative', u'JJ'), (u'care', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'care', u'NN'), (u'after', u'IN'), (u'surgery', u'NN'), (u'or', u'CC'), (u'other', u'JJ'), (u'invasive', u'JJ'), (u'procedures', u'NNS'), (u',', u','), (u'usually', u'RB'), (u'of', u'IN'), (u'a', u'DT'), (u'supportive', u'JJ'), (u'nature', u'NN')]
+--------
+~~~~~~~
+[(u'premolar', u'NN'), (u'is', u'VBZ'), (u'one', u'CD'), (u'of', u'IN'), (u'the', u'DT'), (u'eight', u'CD'), (u'teeth', u'NNS'), (u',', u','), (u'four', u'CD'), (u'in', u'IN'), (u'each', u'DT'), (u'jaw', u'NN'), (u',', u','), (u'between', u'IN'), (u'the', u'DT'), (u'canines', u'NNS'), (u'and', u'CC'), (u'first', u'JJ'), (u'molars', u'NNS'), (u';', u':'), (u'premolar', u'NN'), (u'is', u'VBZ'), (u'usually', u'RB'), (u'has', u'VBZ'), (u'two', u'CD'), (u'cusps', u'NNS'), (u';', u':'), (u'premolar', u'NN'), (u'are', u'VBP'), (u'the', u'DT'), (u'replaces', u'VBZ'), (u'the', u'DT'), (u'molars', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'primary', u'JJ'), (u'dentition', u'NN')]
+--------
+~~~~~~~
+[(u'surgical', u'JJ'), (u'preparation', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'surgical', u'JJ'), (u'procedure', u'NN'), (u'that', u'WDT'), (u'is', u'VBZ'), (u'required', u'VBN'), (u'for', u'IN'), (u'preparing', u'VBG'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN'), (u'for', u'IN'), (u'prosthodontic', u'JJ'), (u'treatment', u'NN')]
+--------
+~~~~~~~
+[(u'pressure', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'stress', u'NN'), (u'or', u'CC'), (u'strain', u'NN'), (u'that', u'WDT'), (u'may', u'MD'), (u'occur', u'VB'), (u'by', u'IN'), (u'compression', u'NN'), (u',', u','), (u'pull', u'NN'), (u',', u','), (u'or', u'CC'), (u'thrust', u'NN'), (u';', u':'), (u'pressure', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'applied', u'JJ'), (u'force', u'NN')]
+--------
+~~~~~~~
+[(u'periodontal', u'JJ'), (u'probe', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'finecalibrated', u'JJ'), (u'instrument', u'NN'), (u'designed', u'VBN'), (u'and', u'CC'), (u'used', u'VBN'), (u'for', u'IN'), (u'measuring', u'VBG'), (u'the', u'DT'), (u'depth', u'NN'), (u'and', u'CC'), (u'topography', u'NN'), (u'of', u'IN'), (u'gingival', u'JJ'), (u'and', u'CC'), (u'periodontal', u'JJ'), (u'pockets', u'NNS')]
+[(u'Also', u'RB'), (u'used', u'VBN'), (u'to', u'TO'), (u'determine', u'VB'), (u'the', u'DT'), (u'degree', u'NN'), (u'of', u'IN'), (u'attachment', u'NN'), (u'and', u'CC'), (u'adaptation', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'gingival', u'JJ'), (u'tissues', u'NNS'), (u'to', u'TO'), (u'the', u'DT'), (u'tooth', u'NN')]
+[(u'Automated', u'NNP'), (u'devices', u'NNS'), (u'are', u'VBP'), (u'now', u'RB'), (u'available', u'JJ'), (u'for', u'IN'), (u'dental', u'JJ'), (u'offices', u'NNS'), (u'and', u'CC'), (u'clinics', u'NNS')]
+--------
+~~~~~~~
+[(u'alveolar', u'JJ'), (u'process', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'portion', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'maxillae', u'NN'), (u'or', u'CC'), (u'mandible', u'NN'), (u'that', u'WDT'), (u'forms', u'VBZ'), (u'the', u'DT'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'and', u'CC'), (u'serves', u'VBZ'), (u'as', u'IN'), (u'a', u'DT'), (u'bony', u'JJ'), (u'investment', u'NN'), (u'for', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS')]
+[(u'Its', u'PRP$'), (u'cortical', u'JJ'), (u'covering', u'NN'), (u'is', u'VBZ'), (u'continuous', u'JJ'), (u'with', u'IN'), (u'the', u'DT'), (u'compact', u'JJ'), (u'bone', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'body', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'maxillae', u'NN'), (u'or', u'CC'), (u'mandible', u'NN'), (u',', u','), (u'whereas', u'IN'), (u'its', u'PRP$'), (u'trabecular', u'JJ'), (u'portion', u'NN'), (u'is', u'VBZ'), (u'continuous', u'JJ'), (u'with', u'IN'), (u'the', u'DT'), (u'spongy', u'JJ'), (u'bone', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'body', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'jaws', u'NNS')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'ridge', u'JJ'), (u',', u','), (u'alveolar', u'JJ')]
+--------
+~~~~~~~
+[(u'prognosis', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'foretelling', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'probable', u'JJ'), (u'course', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'disease', u'NN'), (u';', u':'), (u'prognosis', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'forecast', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'outcome', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'disease', u'NN')]
+--------
+[(u'prognosis', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'forecast', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'probable', u'JJ'), (u'result', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'regimen', u'NN'), (u'of', u'IN'), (u'treatment', u'NN')]
+--------
+~~~~~~~
+[(u'prosthesis', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'replacement', u'NN'), (u'of', u'IN'), (u'an', u'DT'), (u'absent', u'JJ'), (u'part', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'body', u'NN'), (u'by', u'IN'), (u'an', u'DT'), (u'artificial', u'JJ'), (u'part', u'NN')]
+--------
+~~~~~~~
+[(u'hybrid', u'NN'), (u'prosthesis', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'implant', u'VB'), (u'supported', u'VBN'), (u'complete', u'JJ'), (u'denture', u'NN'), (u'with', u'IN'), (u'a', u'DT'), (u'metal', u'NN'), (u'framework', u'NN'), (u'colloq', u'NN')]
+--------
+~~~~~~~
+[(u'maxillofacial', u'JJ'), (u'prosthetics', u'NNS'), (u'is', u'VBZ'), (u'the', u'DT'), (u'branch', u'NN'), (u'of', u'IN'), (u'prosthodontics', u'NNS'), (u'concerned', u'VBN'), (u'with', u'IN'), (u'the', u'DT'), (u'restoration', u'NN'), (u'of', u'IN'), (u'stomatognathic', u'JJ'), (u'and', u'CC'), (u'associated', u'VBN'), (u'facial', u'JJ'), (u'structures', u'NNS'), (u'that', u'WDT'), (u'have', u'VBP'), (u'been', u'VBN'), (u'affected', u'VBN'), (u'by', u'IN'), (u'disease', u'NN'), (u',', u','), (u'injury', u'NN'), (u',', u','), (u'surgery', u'NN'), (u',', u','), (u'or', u'CC'), (u'congenital', u'JJ'), (u'defect', u'NN')]
+--------
+~~~~~~~
+[(u'prosthodontics', u'NNS'), (u'is', u'VBZ'), (u'the', u'DT'), (u'specialty', u'NN'), (u'of', u'IN'), (u'dentistry', u'NN'), (u'pertaining', u'VBG'), (u'to', u'TO'), (u'the', u'DT'), (u'diagnosis', u'NN'), (u',', u','), (u'treatment', u'NN'), (u'planning', u'NN'), (u',', u','), (u'rehabilitation', u'NN'), (u'and', u'CC'), (u'maintenance', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'function', u'NN'), (u',', u','), (u'comfort', u'NN'), (u',', u','), (u'appearance', u'NN'), (u',', u','), (u'and', u'CC'), (u'health', u'NN'), (u'of', u'IN'), (u'patients', u'NNS'), (u'with', u'IN'), (u'missing', u'JJ'), (u'or', u'CC'), (u'deficient', u'JJ'), (u'teeth', u'NNS'), (u'and/or', u'CC'), (u'oral', u'JJ'), (u'and', u'CC'), (u'maxillofacial', u'JJ'), (u'tissues', u'NNS'), (u'using', u'VBG'), (u'biocompatible', u'JJ'), (u'substitutes', u'NNS')]
+[(u'This', u'DT'), (u'is', u'VBZ'), (u'one', u'CD'), (u'of', u'IN'), (u'nine', u'CD'), (u'recognized', u'VBN'), (u'specialties', u'NNS'), (u'in', u'IN'), (u'dentistry', u'NN')]
+--------
+~~~~~~~
+[(u'radiograph', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'two-dimensional', u'JJ'), (u'representation', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'three-dimensional', u'JJ'), (u'object', u'NN'), (u',', u','), (u'produced', u'VBN'), (u'by', u'IN'), (u'radiation', u'NN'), (u'of', u'IN'), (u'structures', u'NNS')]
+[(u'Older', u'NNP'), (u'term', u'NN'), (u'is', u'VBZ'), (u'x-ray', u'NN')]
+--------
+~~~~~~~
+[(u'ascending', u'VBG'), (u'ramus', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'posterior', u'JJ'), (u',', u','), (u'vertical', u'JJ'), (u'portion', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'mandible', u'NN'), (u',', u','), (u'which', u'WDT'), (u'extends', u'VBZ'), (u'from', u'IN'), (u'the', u'DT'), (u'corpus', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'condyle', u'NN'), (u',', u','), (u'and', u'CC'), (u'makes', u'VBZ'), (u'a', u'DT'), (u'joint', u'NN'), (u'at', u'IN'), (u'the', u'DT'), (u'temple', u'NN')]
+[(u'There', u'EX'), (u'are', u'VBP'), (u'right', u'JJ'), (u'and', u'CC'), (u'left', u'JJ'), (u'ascending', u'VBG'), (u'rami', u'NNS')]
+--------
+~~~~~~~
+[(u'reciprocation', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'means', u'NN'), (u'by', u'IN'), (u'which', u'WDT'), (u'one', u'CD'), (u'part', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'framework', u'NN'), (u'is', u'VBZ'), (u'made', u'VBN'), (u'to', u'TO'), (u'counter', u'VB'), (u'the', u'DT'), (u'effect', u'NN'), (u'created', u'VBN'), (u'by', u'IN'), (u'another', u'DT'), (u'part', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'framework', u'NN')]
+--------
+~~~~~~~
+[(u'interocclusal', u'JJ'), (u'record', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'record', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'positional', u'JJ'), (u'relation', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'or', u'CC'), (u'jaws', u'NNS'), (u'to', u'TO'), (u'each', u'DT'), (u'other', u'JJ'), (u';', u':'), (u'interocclusal', u'JJ'), (u'record', u'NN'), (u'is', u'VBZ'), (u'made', u'VBN'), (u'on', u'IN'), (u'occlusal', u'JJ'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'occlusal', u'JJ'), (u'rims', u'NNS'), (u'or', u'CC'), (u'teeth', u'NNS'), (u'in', u'IN'), (u'a', u'DT'), (u'plastic', u'JJ'), (u'material', u'NN'), (u'that', u'IN'), (u'hardens', u'NNS'), (u',', u','), (u'such', u'JJ'), (u'as', u'IN'), (u'plaster', u'NN'), (u',', u','), (u'wax', u'NN'), (u',', u','), (u'zinc', u'NN'), (u'oxide-eugenol', u'NN'), (u'paste', u'VBP'), (u',', u','), (u'or', u'CC'), (u'acrylic', u'JJ'), (u'resin', u'NN')]
+--------
+~~~~~~~
+[(u'oral', u'JJ'), (u'rehabilitation', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'restoration', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'form', u'NN'), (u'and', u'CC'), (u'function', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'masticatory', u'JJ'), (u'apparatus', u'NN'), (u'condition', u'NN'), (u'to', u'TO'), (u'as', u'RB'), (u'near', u'RB'), (u'normal', u'JJ'), (u'as', u'IN'), (u'possible', u'JJ')]
+--------
+~~~~~~~
+[(u'jaw', u'NN'), (u'relation', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'relationship', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'mandible', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'maxillae', u'NN')]
+--------
+~~~~~~~
+[(u'maxillomandibular', u'JJ'), (u'relation', u'NN'), (u'is', u'VBZ'), (u'any', u'DT'), (u'one', u'CD'), (u'of', u'IN'), (u'the', u'DT'), (u'many', u'JJ'), (u'relations', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'mandible', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'maxillae', u'NN'), (u',', u','), (u'such', u'JJ'), (u'as', u'IN'), (u'the', u'DT'), (u'centric', u'JJ'), (u'maxillomandibular', u'JJ'), (u'relation', u'NN'), (u'or', u'CC'), (u'eccentric', u'JJ'), (u'maxillomandibular', u'JJ'), (u'relation', u'NN')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'relationship', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'individual', u'JJ'), (u'and', u'CC'), (u'collective', u'JJ'), (u'relationships', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'mandibular', u'JJ'), (u'teeth', u'NNS'), (u'to', u'TO'), (u'the', u'DT'), (u'maxillary', u'JJ'), (u'teeth', u'NNS'), (u'and', u'CC'), (u'the', u'DT'), (u'relationship', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'adjacent', u'JJ'), (u'teeth', u'NNS'), (u'in', u'IN'), (u'the', u'DT'), (u'same', u'JJ'), (u'dental', u'JJ'), (u'arch', u'NN')]
+--------
+~~~~~~~
+[(u'relief', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'mitigation', u'NN'), (u'or', u'CC'), (u'removal', u'NN'), (u'of', u'IN'), (u'pain', u'NN'), (u'or', u'CC'), (u'distress', u'NN')]
+--------
+[(u'relief', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'reduction', u'NN'), (u'or', u'CC'), (u'elimination', u'NN'), (u'of', u'IN'), (u'pressure', u'NN'), (u'from', u'IN'), (u'a', u'DT'), (u'specific', u'JJ'), (u'area', u'NN'), (u'under', u'IN'), (u'a', u'DT'), (u'denture', u'NN'), (u'base', u'NN')]
+--------
+~~~~~~~
+[(u'resin', u'NN'), (u'is', u'VBZ'), (u'broad', u'JJ'), (u'term', u'NN'), (u'used', u'VBN'), (u'to', u'TO'), (u'indicate', u'VB'), (u'organic', u'JJ'), (u'substances', u'NNS'), (u'that', u'WDT'), (u'are', u'VBP'), (u'usually', u'RB'), (u'translucent', u'JJ'), (u'or', u'CC'), (u'transparent', u'JJ'), (u'and', u'CC'), (u'are', u'VBP'), (u'soluble', u'JJ'), (u'in', u'IN'), (u'ether', u'NN'), (u',', u','), (u'acetone', u'NN'), (u',', u','), (u'and', u'CC'), (u'similar', u'JJ'), (u'substances', u'NNS'), (u'but', u'CC'), (u'not', u'RB'), (u'in', u'IN'), (u'water', u'NN')]
+[(u'They', u'PRP'), (u'are', u'VBP'), (u'named', u'VBN'), (u'according', u'VBG'), (u'to', u'TO'), (u'their', u'PRP$'), (u'chemical', u'NN'), (u'composition', u'NN'), (u',', u','), (u'physical', u'JJ'), (u'structure', u'NN'), (u',', u','), (u'and', u'CC'), (u'means', u'VBZ'), (u'for', u'IN'), (u'activation', u'NN'), (u'or', u'CC'), (u'curing', u'NN')]
+[(u'Examples', u'NNS'), (u'are', u'VBP'), (u'acrylic', u'JJ'), (u'resin', u'NN'), (u',', u','), (u'autopolymer', u'NN'), (u'resin', u'NN'), (u',', u','), (u'synthetic', u'JJ'), (u'resin', u'NN'), (u',', u','), (u'styrene', u'NN'), (u'resin', u'NN'), (u',', u','), (u'and', u'CC'), (u'vinyl', u'NN'), (u'resin', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'methyl', u'NN'), (u'methacrylate', u'NN'), (u';', u':'), (u'varnish', u'NN'), (u',', u','), (u'cavity', u'NN')]
+--------
+~~~~~~~
+[(u'acrylic', u'JJ'), (u'resin', u'NN'), (u'is', u'VBZ'), (u'general', u'JJ'), (u'term', u'NN'), (u'applied', u'VBN'), (u'to', u'TO'), (u'a', u'DT'), (u'resinous', u'JJ'), (u'material', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'various', u'JJ'), (u'esters', u'NNS'), (u'of', u'IN'), (u'acrylic', u'JJ'), (u'acid', u'NN')]
+[(u'It', u'PRP'), (u'is', u'VBZ'), (u'used', u'VBN'), (u'as', u'IN'), (u'a', u'DT'), (u'denture', u'JJ'), (u'base', u'NN'), (u'material', u'NN'), (u'and', u'CC'), (u'also', u'RB'), (u'for', u'IN'), (u'trays', u'NNS'), (u'and', u'CC'), (u'other', u'JJ'), (u'dental', u'JJ'), (u'restorations', u'NNS')]
+--------
+[(u'acrylic', u'JJ'), (u'resin', u'NN'), (u'is', u'VBZ'), (u'An', u'DT'), (u'ethylene', u'NN'), (u'derivative', u'NN'), (u'that', u'WDT'), (u'contains', u'VBZ'), (u'a', u'DT'), (u'vinyl', u'NN'), (u'group', u'NN')]
+--------
+~~~~~~~
+[(u'thermoplastic', u'JJ'), (u'resin', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'synthetic', u'JJ'), (u'resin', u'NN'), (u'that', u'WDT'), (u'may', u'MD'), (u'be', u'VB'), (u'softened', u'VBN'), (u'by', u'IN'), (u'heat', u'NN'), (u'and', u'CC'), (u'hardened', u'VBN'), (u'by', u'IN'), (u'cooling', u'VBG')]
+--------
+~~~~~~~
+[(u'root', u'NN'), (u'resorption', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'destruction', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'cementum', u'NN'), (u'or', u'CC'), (u'dentin', u'NN'), (u'by', u'IN'), (u'cementoclastic', u'JJ'), (u'or', u'CC'), (u'osteoclastic', u'JJ'), (u'activity', u'NN')]
+[(u'Also', u'RB'), (u'known', u'VBN'), (u'as', u'IN'), (u'peripheral', u'JJ'), (u'or', u'CC'), (u'external', u'JJ'), (u'root', u'NN'), (u'resorption', u'NN')]
+--------
+~~~~~~~
+[(u'rest', u'NN'), (u'is', u'VBZ'), (u'passive', u'JJ'), (u'support', u'NN')]
+--------
+[(u'rest', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'extension', u'NN'), (u'from', u'IN'), (u'a', u'DT'), (u'prosthesis', u'NN'), (u'that', u'WDT'), (u'affords', u'VBZ'), (u'vertical', u'JJ'), (u'support', u'NN'), (u'for', u'IN'), (u'a', u'DT'), (u'restoration', u'NN')]
+--------
+~~~~~~~
+[(u'incisal', u'JJ'), (u'rest', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'metallic', u'JJ'), (u'extension', u'NN'), (u'onto', u'IN'), (u'the', u'DT'), (u'incisal', u'JJ'), (u'angle', u'NN'), (u'of', u'IN'), (u'an', u'DT'), (u'anterior', u'JJ'), (u'tooth', u'NN'), (u'to', u'TO'), (u'supply', u'VB'), (u'support', u'NN'), (u'or', u'CC'), (u'indirect', u'JJ'), (u'retention', u'NN'), (u'for', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN')]
+--------
+~~~~~~~
+[(u'lingual', u'JJ'), (u'rest', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'metallic', u'JJ'), (u'extension', u'NN'), (u'onto', u'IN'), (u'the', u'DT'), (u'lingual', u'JJ'), (u'surface', u'NN'), (u'of', u'IN'), (u'an', u'DT'), (u'anterior', u'JJ'), (u'tooth', u'NN'), (u'to', u'TO'), (u'provide', u'VB'), (u'support', u'NN'), (u'or', u'CC'), (u'indirect', u'JJ'), (u'retention', u'NN'), (u'for', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'rest', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'rest', u'NN'), (u'placed', u'VBN'), (u'on', u'IN'), (u'the', u'DT'), (u'occlusal', u'JJ'), (u'surface', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'posterior', u'JJ'), (u'tooth', u'NN')]
+--------
+~~~~~~~
+[(u'amalgam', u'NN'), (u'restoration', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'direct', u'JJ'), (u'restoration', u'NN'), (u'made', u'VBN'), (u'from', u'IN'), (u'an', u'DT'), (u'alloy', u'NN'), (u'consisting', u'VBG'), (u'of', u'IN'), (u'mercury', u'NN'), (u'and', u'CC'), (u'other', u'JJ'), (u'metals', u'NNS'), (u',', u','), (u'which', u'WDT'), (u'is', u'VBZ'), (u'carved', u'VBN'), (u'and', u'CC'), (u'contoured', u'VBN'), (u'after', u'IN'), (u'placement', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'tooth', u'NN'), (u';', u':'), (u'allow', u'VB'), (u'a', u'DT'), (u'minimum', u'NN'), (u'of', u'IN'), (u'24', u'CD'), (u'hours', u'NNS'), (u'between', u'IN'), (u'placement', u'NN'), (u'and', u'CC'), (u'polishing', u'VBG')]
+--------
+~~~~~~~
+[(u'ceramic', u'JJ'), (u'restoration', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'indirect', u'JJ'), (u'restoration', u'NN'), (u'made', u'VBN'), (u'from', u'IN'), (u'metal', u'NN'), (u'and', u'CC'), (u'nonmetal', u'JJ'), (u'compounds', u'NNS'), (u',', u','), (u'which', u'WDT'), (u'is', u'VBZ'), (u'carved', u'VBN'), (u'and', u'CC'), (u'contoured', u'VBN'), (u'before', u'IN'), (u'placement', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'tooth', u'NN'), (u';', u':'), (u'ceramic', u'JJ'), (u'restoration', u'NN'), (u'is', u'VBZ'), (u'closely', u'RB'), (u'resembles', u'VBZ'), (u'natural', u'JJ'), (u'teeth', u'NNS'), (u'in', u'IN'), (u'strength', u'NN'), (u',', u','), (u'hardness', u'NN'), (u',', u','), (u'chemical', u'NN'), (u'inertness', u'NN'), (u',', u','), (u'and', u'CC'), (u'esthetic', u'JJ'), (u'appearance', u'NN')]
+--------
+~~~~~~~
+[(u'implant', u'VB'), (u'restoration', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'single', u'JJ'), (u'tooth', u'NN'), (u'implant', u'VBP'), (u'crown', u'NN'), (u'or', u'CC'), (u'multiple', u'JJ'), (u'tooth', u'NN'), (u'implant', u'VB'), (u',', u','), (u'crown', u'NN'), (u',', u','), (u'or', u'CC'), (u'bridge', u'NN'), (u'that', u'WDT'), (u'replaces', u'VBZ'), (u'a', u'DT'), (u'missing', u'JJ'), (u'tooth', u'NN'), (u'or', u'CC'), (u'teeth', u'NNS')]
+--------
+~~~~~~~
+[(u'retainer', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'part', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'dental', u'JJ'), (u'prosthesis', u'NN'), (u'that', u'WDT'), (u'unites', u'VBZ'), (u'the', u'DT'), (u'abutment', u'NN'), (u'tooth', u'NN'), (u'with', u'IN'), (u'the', u'DT'), (u'suspended', u'JJ'), (u'portion', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'bridge', u'NN')]
+[(u'It', u'PRP'), (u'may', u'MD'), (u'be', u'VB'), (u'an', u'DT'), (u'inlay', u'NN'), (u',', u','), (u'partial', u'JJ'), (u'crown', u'NN'), (u',', u','), (u'or', u'CC'), (u'complete', u'JJ'), (u'crown', u'NN')]
+--------
+[(u'retainer', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'appliance', u'NN'), (u'for', u'IN'), (u'maintaining', u'VBG'), (u'the', u'DT'), (u'positions', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS'), (u'and', u'CC'), (u'jaws', u'NNS'), (u'gained', u'VBN'), (u'by', u'IN'), (u'orthodontic', u'JJ'), (u'procedures', u'NNS')]
+--------
+[(u'retainer', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'portion', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'fixed', u'VBN'), (u'prosthesis', u'NN'), (u'attaching', u'VBG'), (u'a', u'DT'), (u'pontic', u'JJ'), (u'to', u'TO'), (u'the', u'DT'), (u'abutment', u'NN'), (u'teeth', u'NNS')]
+--------
+[(u'retainer', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'form', u'NN'), (u'of', u'IN'), (u'clasp', u'NN'), (u',', u','), (u'attachment', u'NN'), (u',', u','), (u'or', u'CC'), (u'device', u'NN'), (u'used', u'VBN'), (u'for', u'IN'), (u'the', u'DT'), (u'fixation', u'NN'), (u'or', u'CC'), (u'stabilization', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'prosthetic', u'JJ'), (u'appliance', u'NN')]
+--------
+[(u'retainer', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'orthodontic', u'JJ'), (u'appliance', u'NN'), (u',', u','), (u'fixed', u'JJ'), (u'or', u'CC'), (u'removable', u'JJ'), (u',', u','), (u'used', u'VBN'), (u'to', u'TO'), (u'maintain', u'VB'), (u'teeth', u'NNS'), (u'in', u'IN'), (u'corrected', u'JJ'), (u'positions', u'NNS'), (u'during', u'IN'), (u'the', u'DT'), (u'period', u'NN'), (u'of', u'IN'), (u'functional', u'JJ'), (u'adaptation', u'NN'), (u'following', u'VBG'), (u'corrective', u'JJ'), (u'treatment', u'NN')]
+--------
+~~~~~~~
+[(u'direct', u'JJ'), (u'retainer', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'clasp', u'NN'), (u',', u','), (u'attachment', u'NN'), (u',', u','), (u'or', u'CC'), (u'assembly', u'NN'), (u'applied', u'VBN'), (u'to', u'TO'), (u'an', u'DT'), (u'abutment', u'NN'), (u'tooth', u'NN'), (u'for', u'IN'), (u'the', u'DT'), (u'purpose', u'NN'), (u'of', u'IN'), (u'maintaining', u'VBG'), (u'a', u'DT'), (u'removable', u'JJ'), (u'restoration', u'NN'), (u'in', u'IN'), (u'its', u'PRP$'), (u'planned', u'JJ'), (u'position', u'NN'), (u'in', u'IN'), (u'relation', u'NN'), (u'to', u'TO'), (u'oral', u'JJ'), (u'structures', u'NNS')]
+--------
+~~~~~~~
+[(u'extracoronal', u'JJ'), (u'retainer', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'type', u'NN'), (u'of', u'IN'), (u'retainer', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'the', u'DT'), (u'preparation', u'NN'), (u'and', u'CC'), (u'its', u'PRP$'), (u'cast', u'NN'), (u'restoration', u'NN'), (u'lie', u'VBP'), (u'largely', u'RB'), (u'external', u'JJ'), (u'to', u'TO'), (u'the', u'DT'), (u'body', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'coronal', u'JJ'), (u'portion', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'tooth', u'NN'), (u'and', u'CC'), (u'complement', u'VB'), (u'the', u'DT'), (u'contour', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'crown', u'NN')]
+[(u'The', u'DT'), (u'retention', u'NN'), (u'or', u'CC'), (u'resistance', u'NN'), (u'to', u'TO'), (u'displacement', u'NN'), (u'is', u'VBZ'), (u'developed', u'VBN'), (u'between', u'IN'), (u'the', u'DT'), (u'inner', u'JJ'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'casting', u'NN'), (u'and', u'CC'), (u'the', u'DT'), (u'external', u'JJ'), (u'walls', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'prepared', u'JJ'), (u'tooth', u'NN')]
+[(u'The', u'DT'), (u'extracoronal', u'JJ'), (u'retainer', u'NN'), (u'may', u'MD'), (u'be', u'VB'), (u'a', u'DT'), (u'partial', u'JJ'), (u'crown', u'NN'), (u'or', u'CC'), (u'a', u'DT'), (u'complete', u'JJ'), (u'crown', u'NN')]
+--------
+[(u'extracoronal', u'JJ'), (u'retainer', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'direct', u'JJ'), (u'retainer', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'clasp', u'NN'), (u'type', u'NN'), (u'that', u'WDT'), (u'engages', u'VBZ'), (u'an', u'DT'), (u'abutment', u'NN'), (u'tooth', u'NN'), (u'on', u'IN'), (u'its', u'PRP$'), (u'external', u'JJ'), (u'surface', u'NN'), (u'in', u'IN'), (u'such', u'PDT'), (u'a', u'DT'), (u'way', u'NN'), (u'as', u'IN'), (u'to', u'TO'), (u'afford', u'VB'), (u'retention', u'NN'), (u'and', u'CC'), (u'stabilization', u'NN'), (u'to', u'TO'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN'), (u';', u':'), (u'extracoronal', u'JJ'), (u'retainer', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'direct', u'JJ'), (u'retainer', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'manufactured', u'JJ'), (u'type', u'NN'), (u',', u','), (u'the', u'DT'), (u'male', u'JJ'), (u'portion', u'NN'), (u'of', u'IN'), (u'which', u'WDT'), (u'is', u'VBZ'), (u'attached', u'VBN'), (u'to', u'TO'), (u'the', u'DT'), (u'external', u'JJ'), (u'surface', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'cast', u'NN'), (u'crown', u'NN'), (u'on', u'IN'), (u'an', u'DT'), (u'abutment', u'NN'), (u'tooth', u'NN')]
+--------
+~~~~~~~
+[(u'indirect', u'JJ'), (u'retention', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'retention', u'NN'), (u'obtained', u'VBN'), (u'in', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'by', u'IN'), (u'placing', u'VBG'), (u'rests', u'VBZ'), (u'opposite', u'JJ'), (u'the', u'DT'), (u'fulcrum', u'NN'), (u'line', u'NN'), (u'to', u'TO'), (u'create', u'VB'), (u'indirect', u'JJ'), (u'retainers', u'NNS')]
+--------
+~~~~~~~
+[(u'alveolar', u'JJ'), (u'ridge', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'bony', u'JJ'), (u'ridge', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'maxillae', u'NN'), (u'or', u'CC'), (u'mandible', u'NN'), (u'that', u'WDT'), (u'contains', u'VBZ'), (u'the', u'DT'), (u'alveoli', u'NNS')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'process', u'NN'), (u',', u','), (u'alveolar', u'NN')]
+--------
+~~~~~~~
+[(u'residual', u'JJ'), (u'ridge', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'portion', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'alveolar', u'JJ'), (u'ridge', u'NN'), (u'that', u'WDT'), (u'remains', u'VBZ'), (u'after', u'IN'), (u'the', u'DT'), (u'alveoli', u'NNS'), (u'have', u'VBP'), (u'disappeared', u'VBN'), (u'from', u'IN'), (u'the', u'DT'), (u'alveolar', u'JJ'), (u'process', u'NN'), (u'after', u'IN'), (u'extraction', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'teeth', u'NNS')]
+--------
+~~~~~~~
+[(u'rigidity', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'characteristic', u'NN'), (u'of', u'IN'), (u'being', u'VBG'), (u'nonflexible', u'JJ'), (u',', u','), (u'which', u'WDT'), (u'is', u'VBZ'), (u'essential', u'JJ'), (u'in', u'IN'), (u'a', u'DT'), (u'connector', u'NN'), (u',', u','), (u'a', u'DT'), (u'reciprocal', u'JJ'), (u'arm', u'NN'), (u',', u','), (u'or', u'CC'), (u'an', u'DT'), (u'indirect', u'JJ'), (u'retaining', u'VBG'), (u'unit', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'removable', u'JJ'), (u'partial', u'JJ'), (u'denture', u'NN')]
+--------
+~~~~~~~
+[(u'occlusion', u'NN'), (u'rim', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'occluding', u'NN'), (u'surface', u'NN'), (u'built', u'VBN'), (u'on', u'IN'), (u'temporary', u'JJ'), (u'or', u'CC'), (u'permanent', u'JJ'), (u'denture', u'NN'), (u'bases', u'NNS'), (u'for', u'IN'), (u'the', u'DT'), (u'purpose', u'NN'), (u'of', u'IN'), (u'making', u'VBG'), (u'maxillomandibular', u'JJ'), (u'relation', u'NN'), (u'records', u'NNS'), (u'and', u'CC'), (u'arranging', u'VBG'), (u'teeth', u'NNS')]
+--------
+~~~~~~~
+[(u'rod', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'straight', u'JJ'), (u',', u','), (u'slim', u'JJ'), (u',', u','), (u'cylindric', u'JJ'), (u'form', u'NN'), (u'of', u'IN'), (u'material', u'NN'), (u',', u','), (u'usually', u'RB'), (u'metal', u'NN')]
+--------
+~~~~~~~
+[(u'rotation', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'act', u'NN'), (u'of', u'IN'), (u'turning', u'VBG'), (u'about', u'IN'), (u'an', u'DT'), (u'axis', u'NN'), (u'or', u'CC'), (u'a', u'DT'), (u'center', u'NN')]
+--------
+[(u'rotation', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'movement', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u'around', u'IN'), (u'its', u'PRP$'), (u'longitudinal', u'JJ'), (u'axis', u'NN')]
+--------
+~~~~~~~
+[(u'scanning', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'technique', u'NN'), (u'and', u'CC'), (u'protocol', u'NN'), (u'for', u'IN'), (u'carefully', u'RB'), (u'studying', u'VBG'), (u'an', u'DT'), (u'area', u'NN'), (u',', u','), (u'organ', u'NN'), (u',', u','), (u'or', u'CC'), (u'system', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'body', u'NN'), (u'by', u'IN'), (u'recording', u'VBG'), (u'and', u'CC'), (u'displaying', u'VBG'), (u'an', u'DT'), (u'image', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'area', u'NN'), (u'using', u'VBG'), (u'radioactive', u'JJ'), (u'substances', u'NNS'), (u'that', u'WDT'), (u'have', u'VBP'), (u'affinities', u'NNS'), (u'for', u'IN'), (u'specific', u'JJ'), (u'tissues', u'NNS')]
+--------
+~~~~~~~
+[(u'shade', u'NN'), (u'selection', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'determination', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'color', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'artificial', u'JJ'), (u'tooth', u'NN'), (u'or', u'CC'), (u'set', u'NN'), (u'of', u'IN'), (u'teeth', u'NNS'), (u'for', u'IN'), (u'a', u'DT'), (u'given', u'VBN'), (u'patient', u'NN')]
+[(u'Also', u'RB'), (u'called', u'VBN'), (u'tooth', u'NN'), (u'color', u'NN'), (u'selection', u'NN')]
+--------
+~~~~~~~
+[(u'silicone', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'compound', u'NN'), (u'of', u'IN'), (u'organic', u'JJ'), (u'structural', u'JJ'), (u'character', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'all', u'DT'), (u'or', u'CC'), (u'some', u'DT'), (u'of', u'IN'), (u'the', u'DT'), (u'positions', u'NNS'), (u'that', u'WDT'), (u'could', u'MD'), (u'be', u'VB'), (u'occupied', u'VBN'), (u'by', u'IN'), (u'carbon', u'NN'), (u'atoms', u'NNS'), (u'are', u'VBP'), (u'occupied', u'VBN'), (u'by', u'IN'), (u'silicon', u'NN'), (u';', u':'), (u'silicone', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'plastic', u'NN'), (u'containing', u'VBG'), (u'silicons', u'NNS')]
+--------
+~~~~~~~
+[(u'sodium', u'NN'), (u'bicarbonate', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'antacid', u'NN'), (u',', u','), (u'electrolyte', u'NN'), (u',', u','), (u'and', u'CC'), (u'urinary', u'JJ'), (u'alkalinizing', u'JJ'), (u'agent', u'NN')]
+--------
+~~~~~~~
+[(u'soft', u'JJ'), (u'tissue', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'body', u'NN'), (u'tissue', u'NN'), (u'except', u'IN'), (u'bone', u'NN'), (u',', u','), (u'teeth', u'NNS'), (u',', u','), (u'nails', u'NNS'), (u',', u','), (u'hair', u'NN'), (u',', u','), (u'and', u'CC'), (u'cartilage', u'NN')]
+--------
+~~~~~~~
+[(u'solder', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'fusible', u'JJ'), (u'alloy', u'NN'), (u'of', u'IN'), (u'metals', u'NNS'), (u'used', u'VBN'), (u'to', u'TO'), (u'unite', u'VB'), (u'the', u'DT'), (u'edges', u'NNS'), (u'or', u'CC'), (u'surfaces', u'NNS'), (u'of', u'IN'), (u'two', u'CD'), (u'pieces', u'NNS'), (u'of', u'IN'), (u'metal', u'NN')]
+--------
+~~~~~~~
+[(u'pickling', u'VBG'), (u'solution', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'solution', u'NN'), (u'of', u'IN'), (u'acid', u'NN'), (u'used', u'VBN'), (u'for', u'IN'), (u'removing', u'VBG'), (u'oxides', u'NNS'), (u'and', u'CC'), (u'other', u'JJ'), (u'impurities', u'NNS'), (u'from', u'IN'), (u'the', u'DT'), (u'surface', u'NN'), (u'of', u'IN'), (u'dental', u'JJ'), (u'castings', u'NNS'), (u',', u','), (u'after', u'IN'), (u'recovery', u'NN'), (u'and', u'CC'), (u'before', u'IN'), (u'polishing', u'VBG')]
+--------
+~~~~~~~
+[(u'space', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'delimited', u'VBN'), (u',', u','), (u'three-dimensional', u'JJ'), (u'region', u'NN')]
+--------
+~~~~~~~
+[(u'splint', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'rigid', u'JJ'), (u'appliance', u'NN'), (u'for', u'IN'), (u'the', u'DT'), (u'fixation', u'NN'), (u'of', u'IN'), (u'displaced', u'JJ'), (u'or', u'CC'), (u'movable', u'JJ'), (u'parts', u'NNS')]
+--------
+[(u'splint', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'support', u'NN'), (u'or', u'CC'), (u'brace', u'VB'), (u'used', u'VBN'), (u'to', u'TO'), (u'fasten', u'VB'), (u'or', u'CC'), (u'confine', u'VB')]
+--------
+[(u'splint', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'metal', u'NN'), (u',', u','), (u'acrylic', u'JJ'), (u'resin', u'NN'), (u',', u','), (u'or', u'CC'), (u'modeling', u'NN'), (u'compound', u'NN'), (u'fashioned', u'VBD'), (u'to', u'TO'), (u'retain', u'VB'), (u'in', u'IN'), (u'position', u'NN'), (u'teeth', u'NNS'), (u'that', u'WDT'), (u'may', u'MD'), (u'have', u'VB'), (u'been', u'VBN'), (u'replanted', u'VBN'), (u'or', u'CC'), (u'have', u'VBP'), (u'fractured', u'VBN'), (u'roots', u'NNS')]
+--------
+~~~~~~~
+[(u'sprue', u'NN'), (u'former', u'JJ'), (u'is', u'VBZ'), (u'a', u'DT'), (u'cone-shaped', u'JJ'), (u'base', u'NN'), (u'made', u'VBN'), (u'of', u'IN'), (u'metal', u'NN'), (u'or', u'CC'), (u'plastic', u'NN'), (u'to', u'TO'), (u'which', u'WDT'), (u'the', u'DT'), (u'sprue', u'NN'), (u'is', u'VBZ'), (u'attached', u'VBN')]
+[(u'Forms', u'NNS'), (u'a', u'DT'), (u'crucible', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'investment', u'NN'), (u'material', u'NN')]
+[(u'Also', u'RB'), (u'called', u'VBN'), (u'crucible', u'NN'), (u'former', u'NN')]
+--------
+~~~~~~~
+[(u'stability', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'quality', u'NN'), (u'of', u'IN'), (u'being', u'VBG'), (u'physically', u'RB'), (u'or', u'CC'), (u'emotionally', u'RB'), (u'predictable', u'JJ'), (u',', u','), (u'orderly', u'JJ'), (u',', u','), (u'not', u'RB'), (u'readily', u'RB'), (u'moved', u'VBN')]
+--------
+~~~~~~~
+[(u'stem', u'NN'), (u'cell', u'NN'), (u'are', u'VBP'), (u'the', u'DT'), (u'cells', u'NNS'), (u'which', u'WDT'), (u'can', u'MD'), (u'divide', u'VB'), (u'and', u'CC'), (u'differentiate', u'VB'), (u'into', u'IN'), (u'differing', u'VBG'), (u'specialized', u'JJ'), (u'cell', u'NN'), (u'types', u'NNS')]
+[(u'First', u'RB'), (u'reported', u'VBN'), (u'by', u'IN'), (u'McCulloch', u'NNP'), (u'&', u'CC'), (u'Till', u'IN'), (u'at', u'IN'), (u'Toronto', u'NNP')]
+[(u'Stem', u'NN'), (u'cells', u'NNS'), (u'can', u'MD'), (u'be', u'VB'), (u'obtained', u'VBN'), (u'from', u'IN'), (u'umbilical', u'JJ'), (u'cord', u'NN'), (u'blood', u'NN'), (u',', u','), (u'bone', u'NN'), (u'marrow', u'NN'), (u',', u','), (u'adipose', u'NN'), (u'tissue', u'NN'), (u',', u','), (u'and', u'CC'), (u'blood', u'NN')]
+[(u'They', u'PRP'), (u'have', u'VBP'), (u'great', u'JJ'), (u'potential', u'NN'), (u'for', u'IN'), (u'cell', u'NN'), (u'replacement', u'NN'), (u'therapy', u'NN')]
+--------
+~~~~~~~
+[(u'stone', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'abrading', u'VBG'), (u'instrument', u'NN'), (u'or', u'CC'), (u'tool', u'NN')]
+--------
+~~~~~~~
+[(u'dental', u'JJ'), (u'stone', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'\u4f2a-hemihydrate', u'NN'), (u'of', u'IN'), (u'calcium', u'NN'), (u'sulfate', u'NN')]
+--------
+[(u'dental', u'JJ'), (u'stone', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'gypsum', u'NN'), (u'product', u'NN'), (u'that', u'IN'), (u',', u','), (u'when', u'WRB'), (u'combined', u'VBN'), (u'with', u'IN'), (u'water', u'NN'), (u'in', u'IN'), (u'proper', u'JJ'), (u'proportions', u'NNS'), (u',', u','), (u'hardens', u'VBZ'), (u'in', u'IN'), (u'a', u'DT'), (u'plasterlike', u'JJ'), (u'form', u'NN')]
+[(u'It', u'PRP'), (u'is', u'VBZ'), (u'used', u'VBN'), (u'for', u'IN'), (u'making', u'VBG'), (u'casts', u'VBZ'), (u'and', u'CC'), (u'dies', u'VBZ')]
+[(u'Common', u'JJ'), (u'brand', u'NN'), (u':', u':'), (u'Hydrocal', u'NN')]
+--------
+~~~~~~~
+[(u'stylomandibular', u'JJ'), (u'ligament', u'NN'), (u'is', u'VBZ'), (u'one', u'CD'), (u'of', u'IN'), (u'a', u'DT'), (u'pair', u'NN'), (u'of', u'IN'), (u'specialized', u'JJ'), (u'bands', u'NNS'), (u'of', u'IN'), (u'cervical', u'JJ'), (u'fascia', u'NN'), (u',', u','), (u'forming', u'VBG'), (u'an', u'DT'), (u'accessory', u'JJ'), (u'part', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'temporomandibular', u'JJ'), (u'joint', u'NN')]
+[(u'It', u'PRP'), (u'extends', u'VBZ'), (u'from', u'IN'), (u'the', u'DT'), (u'styloid', u'NN'), (u'process', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'temporal', u'JJ'), (u'bone', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'ramus', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'mandible', u'NN')]
+--------
+~~~~~~~
+[(u'sulcus', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'furrow', u'NN'), (u',', u','), (u'trench', u'NN'), (u',', u','), (u'or', u'CC'), (u'groove', u'NN'), (u',', u','), (u'as', u'IN'), (u'on', u'IN'), (u'the', u'DT'), (u'surface', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'brain', u'NN'), (u'or', u'CC'), (u'in', u'IN'), (u'the', u'DT'), (u'folds', u'VBZ'), (u'of', u'IN'), (u'mucous', u'JJ'), (u'membranes', u'NNS')]
+--------
+[(u'sulcus', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'groove', u'NN'), (u'or', u'CC'), (u'depression', u'NN'), (u'on', u'IN'), (u'the', u'DT'), (u'surface', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN')]
+--------
+[(u'sulcus', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'space', u'NN'), (u'between', u'IN'), (u'the', u'DT'), (u'free', u'JJ'), (u'gingival', u'JJ'), (u'margin', u'NN'), (u'and', u'CC'), (u'the', u'DT'), (u'surface', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'tooth', u'NN')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'surface', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'anatomic', u'JJ'), (u'superior', u'JJ'), (u'surface', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'mandibular', u'JJ'), (u'posterior', u'NN'), (u'teeth', u'NNS'), (u'and', u'CC'), (u'the', u'DT'), (u'inferior', u'JJ'), (u'surface', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'maxillary', u'JJ'), (u'posterior', u'NN'), (u'teeth', u'NNS')]
+[(u'These', u'DT'), (u'surfaces', u'NNS'), (u'are', u'VBP'), (u'limited', u'VBN'), (u'mesially', u'RB'), (u'and', u'CC'), (u'distally', u'RB'), (u'by', u'IN'), (u'marginal', u'JJ'), (u'ridges', u'NNS'), (u',', u','), (u'and', u'CC'), (u'buccally', u'RB'), (u'and', u'CC'), (u'lingually', u'RB'), (u'by', u'IN'), (u'the', u'DT'), (u'buccal', u'JJ'), (u'and', u'CC'), (u'lingual', u'JJ'), (u'boundaries', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'cusp', u'NN'), (u'eminences', u'NNS')]
+--------
+~~~~~~~
+[(u'surgery', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'procedure', u'NN'), (u'performed', u'VBN'), (u'by', u'IN'), (u'a', u'DT'), (u'surgeon', u'NN')]
+--------
+~~~~~~~
+[(u'radiographic', u'JJ'), (u'survey', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'production', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'minimal', u'JJ'), (u'number', u'NN'), (u'of', u'IN'), (u'radiographic', u'JJ'), (u'examinations', u'NNS'), (u'necessary', u'JJ'), (u'for', u'IN'), (u'a', u'DT'), (u'radiographic', u'JJ'), (u'interpretation', u'NN')]
+--------
+~~~~~~~
+[(u'swallowing', u'VBG'), (u'is', u'VBZ'), (u'a', u'DT'), (u'succession', u'NN'), (u'of', u'IN'), (u'muscular', u'JJ'), (u'contractions', u'NNS'), (u'from', u'IN'), (u'above', u'JJ'), (u'downward', u'JJ'), (u'or', u'CC'), (u'from', u'IN'), (u'the', u'DT'), (u'front', u'NN'), (u'backward', u'RB'), (u';', u':'), (u'swallowing', u'VBG'), (u'are', u'VBP'), (u'the', u'DT'), (u'propels', u'NNS'), (u'food', u'NN'), (u'from', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN'), (u'toward', u'IN'), (u'the', u'DT'), (u'stomach', u'NN')]
+--------
+~~~~~~~
+[(u'system', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'set', u'NN'), (u'or', u'CC'), (u'series', u'NN'), (u'of', u'IN'), (u'organs', u'NNS'), (u'or', u'CC'), (u'parts', u'NNS'), (u'that', u'WDT'), (u'unite', u'VBP'), (u'in', u'IN'), (u'a', u'DT'), (u'common', u'JJ'), (u'function', u'NN')]
+--------
+~~~~~~~
+[(u'occlusal', u'JJ'), (u'template', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'stone', u'NN'), (u'or', u'CC'), (u'metal', u'NN'), (u'occlusal', u'JJ'), (u'table', u'NN'), (u'made', u'VBN'), (u'from', u'IN'), (u'a', u'DT'), (u'wax', u'NN'), (u'occlusal', u'JJ'), (u'path', u'NN'), (u'registration', u'NN'), (u'of', u'IN'), (u'jaw', u'NN'), (u'movements', u'NNS'), (u'and', u'CC'), (u'against', u'IN'), (u'which', u'WDT'), (u'the', u'DT'), (u'opposing', u'VBG'), (u'supplied', u'VBN'), (u'teeth', u'NNS'), (u'are', u'VBP'), (u'occluded', u'VBN')]
+--------
+~~~~~~~
+[(u'tissue', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'aggregation', u'NN'), (u'of', u'IN'), (u'similarly', u'RB'), (u'specialized', u'VBN'), (u'cells', u'NNS'), (u'united', u'VBN'), (u'in', u'IN'), (u'the', u'DT'), (u'performance', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'particular', u'JJ'), (u'function', u'NN')]
+--------
+~~~~~~~
+[(u'tissue', u'NN'), (u'conditioning', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'disciplined', u'JJ'), (u'program', u'NN'), (u'of', u'IN'), (u'patient-performed', u'JJ'), (u'plaque', u'NN'), (u'control', u'NN'), (u'measures', u'NNS'), (u'designed', u'VBN'), (u'for', u'IN'), (u'gingiva', u'NN'), (u'that', u'WDT'), (u'is', u'VBZ'), (u'soft', u'JJ'), (u',', u','), (u'spongy', u'JJ'), (u',', u','), (u'and', u'CC'), (u'bleeds', u'VBZ'), (u'easily', u'RB'), (u'from', u'IN'), (u'poor', u'JJ'), (u'oral', u'JJ'), (u'hygiene', u'NN'), (u'habits', u'NNS'), (u',', u','), (u'is', u'VBZ'), (u'performed', u'VBN'), (u'to', u'TO'), (u'improve', u'VB'), (u'gingival', u'JJ'), (u'health', u'NN'), (u'before', u'IN'), (u'subgingival', u'JJ'), (u'scaling', u'NN')]
+--------
+~~~~~~~
+[(u'anterior', u'JJ'), (u'teeth', u'NNS'), (u'is', u'VBZ'), (u'the', u'DT'), (u'incisor', u'NN'), (u'or', u'CC'), (u'canine', u'NN'), (u'front', u'NN'), (u'teeth', u'NNS')]
+--------
+~~~~~~~
+[(u'posterior', u'JJ'), (u'teeth', u'NNS'), (u'is', u'VBZ'), (u'the', u'DT'), (u'maxillary', u'JJ'), (u'and', u'CC'), (u'mandibular', u'JJ'), (u'premolars', u'NNS'), (u'and', u'CC'), (u'molars', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'permanent', u'JJ'), (u'dentition', u'NN'), (u'or', u'CC'), (u'the', u'DT'), (u'premolars', u'NNS'), (u'and', u'CC'), (u'molars', u'NNS'), (u'of', u'IN'), (u'prostheses', u'NNS')]
+--------
+~~~~~~~
+[(u'discoloration', u'NN'), (u'tooth', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'stain', u'VB'), (u'or', u'CC'), (u'change', u'VB'), (u'in', u'IN'), (u'color', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u',', u','), (u'which', u'WDT'), (u'can', u'MD'), (u'be', u'VB'), (u'caused', u'VBN'), (u'by', u'IN'), (u'blood-borne', u'JJ'), (u'pigment', u'NN'), (u'or', u'CC'), (u'blood', u'NN'), (u'decomposition', u'NN'), (u'within', u'IN'), (u'the', u'DT'), (u'pulp', u'NN'), (u',', u','), (u'usage', u'NN'), (u'of', u'IN'), (u'certain', u'JJ'), (u'drugs', u'NNS'), (u',', u','), (u'and', u'CC'), (u'trauma', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'tooth', u'NN'), (u',', u','), (u'pigmentation', u'NN')]
+--------
+~~~~~~~
+[(u'tooth', u'NN'), (u'mobility', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'movability', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u'resulting', u'VBG'), (u'from', u'IN'), (u'loss', u'NN'), (u'of', u'IN'), (u'all', u'DT'), (u'or', u'CC'), (u'a', u'DT'), (u'portion', u'NN'), (u'of', u'IN'), (u'its', u'PRP$'), (u'attachment', u'NN'), (u'and', u'CC'), (u'supportive', u'JJ'), (u'apparatus', u'NN')]
+[(u'Seen', u'VBN'), (u'in', u'IN'), (u'periodontitis', u'NN'), (u',', u','), (u'occlusal', u'JJ'), (u'traumatism', u'NN'), (u',', u','), (u'and', u'CC'), (u'periodontosis', u'NN')]
+--------
+~~~~~~~
+[(u'translation', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'movement', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'rigid', u'JJ'), (u'body', u'NN'), (u'in', u'IN'), (u'which', u'WDT'), (u'all', u'DT'), (u'parts', u'NNS'), (u'move', u'VBP'), (u'in', u'IN'), (u'the', u'DT'), (u'same', u'JJ'), (u'direction', u'NN'), (u'at', u'IN'), (u'the', u'DT'), (u'same', u'JJ'), (u'speed', u'NN')]
+--------
+~~~~~~~
+[(u'translucency', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'object\u9225\u6a9a', u'NN'), (u'ability', u'NN'), (u'to', u'TO'), (u'allow', u'VB'), (u'the', u'DT'), (u'passage', u'NN'), (u'of', u'IN'), (u'light', u'NN'), (u'through', u'IN'), (u'it', u'PRP')]
+--------
+~~~~~~~
+[(u'trauma', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'hurt', u'NN'), (u';', u':'), (u'trauma', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'wound', u'NN'), (u';', u':'), (u'trauma', u'NN'), (u'is', u'VBZ'), (u'an', u'DT'), (u'injury', u'NN'), (u';', u':'), (u'trauma', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'damage', u'NN'), (u';', u':'), (u'trauma', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'impairment', u'NN'), (u';', u':'), (u'trauma', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'external', u'JJ'), (u'violence', u'NN'), (u'producing', u'VBG'), (u'bodily', u'JJ'), (u'injury', u'NN'), (u'or', u'CC'), (u'degeneration', u'NN')]
+--------
+~~~~~~~
+[(u'impression', u'NN'), (u'tray', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'receptacle', u'NN'), (u'or', u'CC'), (u'device', u'NN'), (u'that', u'WDT'), (u'is', u'VBZ'), (u'used', u'VBN'), (u'to', u'TO'), (u'carry', u'VB'), (u'impression', u'NN'), (u'material', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN'), (u',', u','), (u'confine', u'VBP'), (u'the', u'DT'), (u'material', u'NN'), (u'in', u'IN'), (u'apposition', u'NN'), (u'to', u'TO'), (u'the', u'DT'), (u'surfaces', u'NNS'), (u'to', u'TO'), (u'be', u'VB'), (u'recorded', u'VBN'), (u',', u','), (u'and', u'CC'), (u'control', u'VBP'), (u'the', u'DT'), (u'impression', u'NN'), (u'material', u'NN'), (u'while', u'IN'), (u'it', u'PRP'), (u'sets', u'VBZ'), (u'to', u'TO'), (u'form', u'VB'), (u'the', u'DT'), (u'impression', u'NN')]
+--------
+~~~~~~~
+[(u'treatment', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'mode', u'NN'), (u'or', u'CC'), (u'course', u'NN'), (u'pursued', u'VBN'), (u'for', u'IN'), (u'remedial', u'JJ'), (u'ends', u'NNS')]
+--------
+~~~~~~~
+[(u'brand', u'NN'), (u'name', u'NN'), (u':', u':'), (u'found', u'VBN'), (u'in', u'IN'), (u'products', u'NNS'), (u'such', u'JJ'), (u'as', u'IN'), (u'Colgate', u'NNP'), (u'Total', u'NNP'), (u';', u':'), (u'drug', u'NN'), (u'class', u'NN'), (u':', u':'), (u'broad', u'JJ'), (u'spectrum', u'NN'), (u'antibacterial', u'JJ'), (u'agent', u'NN'), (u';', u':'), (u'action', u'NN'), (u':', u':'), (u'inhibits', u'VBZ'), (u'enol-acyl', u'JJ'), (u'protein', u'NN'), (u'reductase', u'NN'), (u',', u','), (u'leading', u'VBG'), (u'to', u'TO'), (u'loss', u'NN'), (u'of', u'IN'), (u'type', u'NN'), (u'II', u'CD'), (u'fatty', u'JJ'), (u'acid', u'NN'), (u'synthesis', u'NN'), (u';', u':'), (u'use', u'NN'), (u':', u':'), (u'combined', u'VBN'), (u'in', u'IN'), (u'an', u'DT'), (u'oral', u'JJ'), (u'product', u'NN'), (u'to', u'TO'), (u'aid', u'NN'), (u'in', u'IN'), (u'reducing', u'VBG'), (u'plaque', u'NN'), (u'within', u'IN'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN')]
+--------
+~~~~~~~
+[(u'trifurcation', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'division', u'NN'), (u'into', u'IN'), (u'three', u'CD'), (u'parts', u'NNS'), (u'or', u'CC'), (u'branches', u'NNS'), (u',', u','), (u'as', u'IN'), (u'the', u'DT'), (u'three', u'CD'), (u'roots', u'NNS'), (u'of', u'IN'), (u'a', u'DT'), (u'maxillary', u'JJ'), (u'first', u'JJ'), (u'molar', u'JJ')]
+--------
+~~~~~~~
+[(u'trismus', u'NNS'), (u'are', u'VBP'), (u'the', u'DT'), (u'spasms', u'NNS'), (u'of', u'IN'), (u'the', u'DT'), (u'muscles', u'NNS'), (u'of', u'IN'), (u'mastication', u'NN'), (u'resulting', u'VBG'), (u'in', u'IN'), (u'the', u'DT'), (u'inability', u'NN'), (u'to', u'TO'), (u'open', u'VB'), (u'the', u'DT'), (u'oral', u'JJ'), (u'cavity', u'NN'), (u';', u':'), (u'trismus', u'NN'), (u'is', u'VBZ'), (u'often', u'RB'), (u'symptomatic', u'JJ'), (u'of', u'IN'), (u'pericoronitis', u'NN')]
+--------
+~~~~~~~
+[(u'genial', u'JJ'), (u'tubercle', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'small', u'JJ'), (u'rounded', u'JJ'), (u'elevation', u'NN'), (u'on', u'IN'), (u'the', u'DT'), (u'lingual', u'JJ'), (u'surface', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'mandible', u'NN'), (u'on', u'IN'), (u'either', u'DT'), (u'side', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'midline', u'NN'), (u'near', u'IN'), (u'the', u'DT'), (u'inferior', u'JJ'), (u'border', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'body', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'mandible', u'NN'), (u',', u','), (u'serving', u'VBG'), (u'as', u'IN'), (u'a', u'DT'), (u'point', u'NN'), (u'of', u'IN'), (u'insertion', u'NN'), (u'for', u'IN'), (u'the', u'DT'), (u'geniohyoid', u'NN'), (u'muscles', u'NNS')]
+--------
+~~~~~~~
+[(u'tuberosity', u'NN'), (u'reduction', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'surgical', u'JJ'), (u'excision', u'NN'), (u'of', u'IN'), (u'excessive', u'JJ'), (u'fibrous', u'JJ'), (u'or', u'CC'), (u'bony', u'JJ'), (u'tissue', u'NN'), (u'in', u'IN'), (u'the', u'DT'), (u'area', u'NN'), (u'of', u'IN'), (u'the', u'DT'), (u'maxillary', u'JJ'), (u'tuberosity', u'NN'), (u'before', u'IN'), (u'the', u'DT'), (u'construction', u'NN'), (u'of', u'IN'), (u'prosthetic', u'JJ'), (u'appliances', u'NNS')]
+--------
+~~~~~~~
+[(u'tumor', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'swelling', u'VBG')]
+[(u'Through', u'IN'), (u'usage', u'NN'), (u'the', u'DT'), (u'term', u'NN'), (u'is', u'VBZ'), (u'now', u'RB'), (u'synonymous', u'JJ'), (u'with', u'IN'), (u'neoplasm', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'neoplasm', u'NN')]
+--------
+~~~~~~~
+[(u'odontogenic', u'JJ'), (u'tumor', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'neoplasm', u'NN'), (u'produced', u'VBN'), (u'from', u'IN'), (u'tooth-forming', u'JJ'), (u'tissue', u'NN')]
+[(u'See', u'VB'), (u'also', u'RB'), (u'calcifying', u'VBG'), (u'epithelial', u'JJ'), (u'odontogenic', u'JJ'), (u'tumor', u'NN')]
+--------
+~~~~~~~
+[(u'undercut', u'JJ'), (u'is', u'VBZ'), (u'the', u'DT'), (u'portion', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'tooth', u'NN'), (u'that', u'WDT'), (u'lies', u'VBZ'), (u'between', u'IN'), (u'its', u'PRP$'), (u'height', u'NN'), (u'of', u'IN'), (u'contour', u'NN'), (u'and', u'CC'), (u'the', u'DT'), (u'gingivae', u'NN'), (u',', u','), (u'only', u'RB'), (u'if', u'IN'), (u'that', u'DT'), (u'portion', u'NN'), (u'is', u'VBZ'), (u'of', u'IN'), (u'less', u'JJR'), (u'circumference', u'NN'), (u'than', u'IN'), (u'the', u'DT'), (u'height', u'NN'), (u'of', u'IN'), (u'contour', u'NN')]
+--------
+[(u'undercut', u'JJ'), (u'is', u'VBZ'), (u'the', u'DT'), (u'contour', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'cross-section', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'residual', u'JJ'), (u'ridge', u'NN'), (u'of', u'IN'), (u'dental', u'JJ'), (u'arch', u'NN'), (u'that', u'WDT'), (u'would', u'MD'), (u'prevent', u'VB'), (u'the', u'DT'), (u'placement', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'denture', u'NN'), (u'or', u'CC'), (u'other', u'JJ'), (u'prosthesis', u'NN')]
+--------
+[(u'undercut', u'JJ'), (u'is', u'VBZ'), (u'the', u'DT'), (u'contour', u'NN'), (u'of', u'IN'), (u'flasking', u'JJ'), (u'stone', u'NN'), (u'that', u'IN'), (u'interlocks', u'NNS'), (u'to', u'TO'), (u'prevent', u'VB'), (u'the', u'DT'), (u'separation', u'NN'), (u'of', u'IN'), (u'parts', u'NNS')]
+--------
+[(u'undercut', u'JJ'), (u'is', u'VBZ'), (u'the', u'DT'), (u'portion', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'prepared', u'JJ'), (u'cavity', u'NN'), (u'that', u'WDT'), (u'creates', u'VBZ'), (u'a', u'DT'), (u'mechanical', u'JJ'), (u'lock', u'NN'), (u'or', u'CC'), (u'area', u'NN'), (u'of', u'IN'), (u'retention', u'NN'), (u';', u':'), (u'undercut', u'VBN'), (u'may', u'MD'), (u'be', u'VB'), (u'desirable', u'JJ'), (u'in', u'IN'), (u'a', u'DT'), (u'cavity', u'NN'), (u'to', u'TO'), (u'be', u'VB'), (u'filled', u'VBN'), (u'with', u'IN'), (u'gold', u'NN'), (u'foil', u'NN'), (u'or', u'CC'), (u'amalgam', u'NN'), (u'but', u'CC'), (u'is', u'VBZ'), (u'undesirable', u'JJ'), (u'in', u'IN'), (u'a', u'DT'), (u'cavity', u'NN'), (u'prepared', u'VBN'), (u'for', u'IN'), (u'a', u'DT'), (u'restoration', u'NN'), (u'to', u'TO'), (u'be', u'VB'), (u'cemented', u'VBN')]
+--------
+~~~~~~~
+[(u'unification', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'act', u'NN'), (u'of', u'IN'), (u'uniting', u'VBG'), (u'or', u'CC'), (u'the', u'DT'), (u'condition', u'NN'), (u'of', u'IN'), (u'being', u'VBG'), (u'united', u'VBN')]
+--------
+~~~~~~~
+[(u'wax', u'NN'), (u'is', u'VBZ'), (u'one', u'CD'), (u'of', u'IN'), (u'several', u'JJ'), (u'esters', u'NNS'), (u'of', u'IN'), (u'fatty', u'JJ'), (u'acids', u'NNS'), (u'with', u'IN'), (u'higher', u'JJR'), (u'alcohols', u'NNS'), (u',', u','), (u'usually', u'RB'), (u'monohydric', u'JJ'), (u'alcohols', u'NNS')]
+[(u'Dental', u'JJ'), (u'waxes', u'NNS'), (u'are', u'VBP'), (u'combinations', u'NNS'), (u'of', u'IN'), (u'various', u'JJ'), (u'types', u'NNS'), (u'of', u'IN'), (u'waxes', u'NNS'), (u'compounded', u'VBN'), (u'to', u'TO'), (u'provide', u'VB'), (u'the', u'DT'), (u'desired', u'VBN'), (u'physical', u'JJ'), (u'properties', u'NNS')]
+--------
+~~~~~~~
+[(u'baseplate', u'NN'), (u'wax', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'hard', u'JJ'), (u',', u','), (u'pink', u'JJ'), (u'wax', u'NN'), (u'used', u'VBN'), (u'for', u'IN'), (u'making', u'VBG'), (u'occlusion', u'NN'), (u'rims', u'NNS'), (u'and', u'CC'), (u'baseplates', u'NNS'), (u'for', u'IN'), (u'occlusion', u'NN'), (u'rims', u'NNS')]
+--------
+~~~~~~~
+[(u'boxing', u'NN'), (u'wax', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'soft', u'JJ'), (u'wax', u'NN'), (u'used', u'VBN'), (u'for', u'IN'), (u'boxing', u'NN'), (u'impressions', u'NNS')]
+--------
+~~~~~~~
+[(u'wax', u'NN'), (u'elimination', u'NN'), (u'is', u'VBZ'), (u'the', u'DT'), (u'procedure', u'NN'), (u'of', u'IN'), (u'removing', u'VBG'), (u'the', u'DT'), (u'wax', u'NN'), (u'from', u'IN'), (u'a', u'DT'), (u'wax', u'NN'), (u'pattern', u'NN'), (u'invested', u'VBN'), (u'in', u'IN'), (u'a', u'DT'), (u'mold', u'NN'), (u'preparatory', u'JJ'), (u'to', u'TO'), (u'the', u'DT'), (u'introduction', u'NN'), (u'of', u'IN'), (u'another', u'DT'), (u'material', u'NN'), (u'into', u'IN'), (u'the', u'DT'), (u'resulting', u'VBG'), (u'cavity', u'NN')]
+[(u'This', u'DT'), (u'may', u'MD'), (u'be', u'VB'), (u'done', u'VBN'), (u'by', u'IN'), (u'dry', u'JJ'), (u'heat', u'NN'), (u'alone', u'RB'), (u'or', u'CC'), (u'irrigation', u'NN'), (u'with', u'IN'), (u'boiling', u'JJ'), (u'water', u'NN'), (u'followed', u'VBN'), (u'by', u'IN'), (u'use', u'NN'), (u'of', u'IN'), (u'dry', u'JJ'), (u'heat', u'NN')]
+[(u'Also', u'RB'), (u'called', u'VBN'), (u'wax', u'NN'), (u'burnout', u'NN')]
+--------
+~~~~~~~
+[(u'waxing', u'VBG'), (u'is', u'VBZ'), (u'the', u'DT'), (u'contouring', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'wax', u'NN'), (u'pattern', u'NN'), (u'or', u'CC'), (u'the', u'DT'), (u'wax', u'NN'), (u'base', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'trial', u'NN'), (u'denture', u'NN'), (u'into', u'IN'), (u'the', u'DT'), (u'desired', u'VBN'), (u'form', u'NN')]
+[(u'Also', u'RB'), (u'called', u'VBN'), (u'waxing', u'VBG'), (u'up', u'RP')]
+--------
+~~~~~~~
+[(u'wedge', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'small', u'JJ'), (u',', u','), (u'pointed', u'JJ'), (u',', u','), (u'triangular', u'JJ'), (u',', u','), (u'contoured', u'JJ'), (u'piece', u'NN'), (u'of', u'IN'), (u'wood', u'NN'), (u'used', u'VBN'), (u'to', u'TO'), (u'seal', u'VB'), (u'the', u'DT'), (u'gingival', u'JJ'), (u'margin', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'cavity', u'NN'), (u'preparation', u'NN'), (u'before', u'IN'), (u'placement', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'direct', u'JJ'), (u'restoration', u'NN')]
+--------
+~~~~~~~
+[(u'wrought', u'VBN'), (u'wire', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'wire', u'NN'), (u'formed', u'VBN'), (u'by', u'IN'), (u'drawing', u'VBG'), (u'a', u'DT'), (u'cast', u'NN'), (u'structure', u'NN'), (u'through', u'IN'), (u'a', u'DT'), (u'die', u'NN'), (u';', u':'), (u'wrought', u'VBN'), (u'wire', u'NN'), (u'is', u'VBZ'), (u'used', u'VBN'), (u'in', u'IN'), (u'dentistry', u'NN'), (u'for', u'IN'), (u'partial', u'JJ'), (u'denture', u'NN'), (u'clasps', u'NNS'), (u'and', u'CC'), (u'orthodontic', u'JJ'), (u'appliances', u'NNS')]
+--------
+[(u'wrought', u'VBN'), (u'wire', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'form', u'NN'), (u'of', u'IN'), (u'metal', u'NN'), (u'resulting', u'VBG'), (u'from', u'IN'), (u'the', u'DT'), (u'swaging', u'NN'), (u',', u','), (u'rolling', u'NN'), (u',', u','), (u'and', u'CC'), (u'drawing', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'metal', u'NN'), (u'ingot', u'NN'), (u'into', u'IN'), (u'a', u'DT'), (u'desired', u'VBN'), (u'shape', u'NN'), (u'and', u'CC'), (u'size', u'NN')]
+--------
+~~~~~~~
+[(u'xylitol', u'NN'), (u'is', u'VBZ'), (u'a', u'DT'), (u'low-calorie', u'JJ'), (u'sweetener', u'NN'), (u'that', u'WDT'), (u'reduces', u'VBZ'), (u'caries', u'NNS'), (u'activity', u'NN'), (u'and', u'CC'), (u'the', u'DT'), (u'growth', u'NN'), (u'and', u'CC'), (u'transmission', u'NN'), (u'of', u'IN'), (u'S.', u'NNP'), (u'mutans', u'NNS')]
+--------
+~~~~~~~

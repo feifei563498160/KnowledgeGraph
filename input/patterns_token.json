@@ -1,0 +1,303 @@
+{
+
+    "{'word': ['use', 'uses'], 'pos': []}+{'word': [':'], 'pos': []}$0#2-2": 
+    "uses",
+    "{'word': ['used'], 'pos': []}+{'word': [], 'pos': ['RB']}+{'word': ['with'], 'pos': []}$0#2-2": 
+    "used_with",
+    "{'word': ['applied'], 'pos': []}+{'word': ['to'], 'pos': []}$0#2-2": 
+    "used_for",
+    "{'word': ['designed'], 'pos': []}+{'word': ['for', 'to'], 'pos': []}$0#2-2": 
+    "used_for",
+    "{'word': ['used'], 'pos': []}+{'word': ['to'], 'pos': []}$0#2-2": 
+    "used_for",
+    "{'word': ['is'], 'pos': []}+{'word': ['required'], 'pos': []}+{'word': ['for'], 'pos': []}$0#2-2": 
+    "used_for",
+    "{'word': ['designed'], 'pos': []}+{'word': ['and'], 'pos': []}+{'word': ['used'], 'pos': []}+{'word': ['for'], 'pos': []}$0#2-2": 
+    "used_for",
+    "{'word': ['used'], 'pos': []}+{'word': [], 'pos': ['RB']}+{'word': ['for'], 'pos': []}$0#2-2": 
+    "used_for",
+    "{'word': ['designed'], 'pos': []}+{'word': ['and'], 'pos': []}+{'word': ['fabricated'], 'pos': []}+{'word': ['for'], 'pos': []}$0#2-2": 
+    "used_for",
+    "{'word': ['available'], 'pos': []}+{'word': ['for'], 'pos': []}$0#2-2": 
+    "used_for",
+    "{'word': ['used', 'Used'], 'pos': []}+{'word': ['for'], 'pos': []}$0#2-2": 
+    "used_for",
+    "{'word': ['used'], 'pos': []}+{'word': ['as'], 'pos': []}$0#2-2": 
+    "used_as",
+    "{'word': ['advocated'], 'pos': []}+{'word': ['by'], 'pos': []}+{'word': [], 'pos': ['DT']}+{'word': [], 'pos': ['NN', 'NNS']}+{'word': ['as'], 'pos': []}$0#2-2": 
+    "used_as",
+    "{'word': ['used'], 'pos': []}+{'word': ['on'], 'pos': []}$0#2-2": 
+    "use_position",
+    "{'word': ['placed'], 'pos': []}+{'word': ['on'], 'pos': []}$0#2-2": 
+    "use_position",
+    "{'word': ['is'], 'pos': []}+{'word': [], 'pos': ['RB']}+{'word': ['torqued'], 'pos': []}+{'word': ['to'], 'pos': []}$0#2-2": 
+    "use_position",
+    "{'word': ['utilized'], 'pos': []}+{'word': ['when'], 'pos': []}$0#2-2": 
+    "use_occasion",
+    "{'word': ['used'], 'pos': []}+{'word': ['during'], 'pos': []}$1#2-2": 
+    "use_occasion",
+    "{'word': ['during'], 'pos': []}+{'word': ['the'], 'pos': []}+{'word': ['period'], 'pos': []}+{'word': ['of'], 'pos': []}$4#2-2": 
+    "use_occasion",
+    "{'word': ['used', 'Used'], 'pos': []}+{'word': ['in'], 'pos': []}$0#2-2": 
+    "use_occasion",
+    "{'word': ['used'], 'pos': []}+{'word': ['in'], 'pos': []}+{'word': ['situations'], 'pos': []}+{'word': ['where'], 'pos': []}$0#2-2": 
+    "use_occasion",
+    "{'word': ['once'], 'pos': []}+{'word': ['in'], 'pos': []}+{'word': ['every'], 'pos': []}$3#1-2": 
+    "use_frequency",
+    "{'word': ['under'], 'pos': []}+{'word': ['the'], 'pos': []}+{'word': ['classification'], 'pos': []}+{'word': ['of'], 'pos': []}$0#1-2": 
+    "upper_concept",
+    "{'word': ['Also', 'also'], 'pos': []}+{'word': ['called'], 'pos': []}$0#1-2": 
+    "synonym",
+    "{'word': ['Also'], 'pos': []}+{'word': ['known'], 'pos': []}+{'word': ['as'], 'pos': []}+{'word': ['a'], 'pos': []}$0#1-2": 
+    "synonym",
+    "{'word': ['See'], 'pos': []}+{'word': ['also'], 'pos': []}$0#1-0": 
+    "synonym",
+    "{'word': ['also'], 'pos': []}+{'word': ['be'], 'pos': []}+{'word': ['spelled'], 'pos': []}$0#1-2": 
+    "synonym",
+    "{'word': ['colloquial', 'Colloquial'], 'pos': []}+{'word': ['term'], 'pos': []}+{'word': ['is'], 'pos': []}$0#1-2": 
+    "synonym",
+    "{'word': ['Also'], 'pos': []}+{'word': ['called'], 'pos': []}+{'word': ['the'], 'pos': []}$0#1-2": 
+    "synonym",
+    "{'word': ['older', 'Older'], 'pos': []}+{'word': ['term'], 'pos': []}$0#1-2": 
+    "synonym",
+    "{'word': ['Also', 'also'], 'pos': []}+{'word': ['known'], 'pos': []}+{'word': ['as'], 'pos': []}$0#1-2": 
+    "synonym",
+    "{'word': ['There'], 'pos': []}+{'word': ['are'], 'pos': []}$0#1-0": 
+    "sub_categories",
+    "{'word': ['This'], 'pos': []}+{'word': ['includes'], 'pos': []}$0#1-0": 
+    "sub_categories",
+    "{'word': ['which'], 'pos': []}+{'word': ['include'], 'pos': []}$0#1-0": 
+    "sub_categories",
+    "{'word': [], 'pos': ['NN']}+{'word': ['include'], 'pos': []}$0#1-0": 
+    "sub_categories",
+    "{'word': ['May'], 'pos': []}+{'word': ['include'], 'pos': []}$0#1-0": 
+    "sub_categories",
+    "{'word': ['resulting'], 'pos': []}+{'word': ['in'], 'pos': []}$0#2-2": 
+    "result_in",
+    "{'word': ['bring'], 'pos': []}+{'word': ['about'], 'pos': []}$0#2-2": 
+    "result_in",
+    "{'word': ['resulting'], 'pos': []}+{'word': ['from'], 'pos': []}$0#2-2": 
+    "result_from",
+    "{'word': ['generated'], 'pos': []}+{'word': ['by'], 'pos': []}$0#2-2": 
+    "result_from",
+    "{'word': ['by'], 'pos': []}+{'word': ['means'], 'pos': []}+{'word': ['of'], 'pos': []}$0#2-2": 
+    "resort_to",
+    "{'word': ['technique'], 'pos': []}+{'word': ['uses'], 'pos': []}$0#2-2": 
+    "resort_to",
+    "{'word': ['retained'], 'pos': []}+{'word': ['by'], 'pos': []}$2#2-2": 
+    "resort_to",
+    "{'word': [], 'pos': ['NN', 'NNS']}+{'word': ['by'], 'pos': []}+{'word': [], 'pos': ['VBG']}$0#2-2": 
+    "resort_to",
+    "{'word': ['accomplished'], 'pos': []}+{'word': ['by', 'with'], 'pos': []}$0#2-2": 
+    "resort_to",
+    "{'word': ['be'], 'pos': []}+{'word': ['done'], 'pos': []}+{'word': ['by'], 'pos': []}$0#2-2": 
+    "resort_to",
+    "{'word': ['it', 'It'], 'pos': []}+{'word': ['represents'], 'pos': []}$0#2-2": 
+    "represent",
+    "{'word': ['Factors'], 'pos': []}+{'word': ['include'], 'pos': []}$0#2-2": 
+    "reason",
+    "{'word': ['originates'], 'pos': []}$0#2-2": 
+    "range",
+    "{'word': ['is'], 'pos': []}+{'word': ['made'], 'pos': []}+{'word': ['to'], 'pos': []}$1#2-2": 
+    "purpose",
+    "{'word': ['to'], 'pos': []}+{'word': ['supply'], 'pos': []}$2#2-2": 
+    "purpose",
+    "{'word': ['purposes'], 'pos': []}+{'word': [':'], 'pos': []}$0#2-2": 
+    "purpose",
+    "{'word': ['to'], 'pos': []}+{'word': ['bring'], 'pos': []}+{'word': ['about'], 'pos': []}$3#2-2": 
+    "purpose",
+    "{'word': ['intent', 'intend', 'intended'], 'pos': []}+{'word': ['to'], 'pos': []}$2#2-2": 
+    "purpose",
+    "{'word': ['to'], 'pos': []}+{'word': ['alter', 'provide', 'allow', 'develop', 'cause', 'oppose', 'build', 'enhance', 'remove'], 'pos': []}$2#2-2": 
+    "purpose",
+    "{'word': ['for'], 'pos': []}+{'word': ['making'], 'pos': []}$1#2-2": 
+    "purpose",
+    "{'word': ['so'], 'pos': []}+{'word': ['that'], 'pos': []}$0#2-2": 
+    "purpose",
+    "{'word': ['purpose'], 'pos': []}+{'word': ['is'], 'pos': []}$0#2-2": 
+    "purpose",
+    "{'word': ['for'], 'pos': []}+{'word': ['stabilization'], 'pos': []}$2#2-2": 
+    "purpose",
+    "{'word': ['for'], 'pos': []}+{'word': ['retention'], 'pos': []}$2#2-2": 
+    "purpose",
+    "{'word': ['for'], 'pos': []}+{'word': ['the'], 'pos': []}+{'word': ['purpose'], 'pos': []}+{'word': ['of'], 'pos': []}$0#2-2": 
+    "purpose",
+    "{'word': ['Prepared', 'produced'], 'pos': []}+{'word': ['by'], 'pos': []}+{'word': ['mixing'], 'pos': []}$1#2-2": 
+    "produced_by",
+    "{'word': ['its', 'Its'], 'pos': []}+{'word': [], 'pos': ['JJ']}+{'word': [], 'pos': ['NN']}+{'word': ['is'], 'pos': []}$3#2-2": 
+    "portion",
+    "{'word': ['found'], 'pos': []}+{'word': ['in'], 'pos': []}$0#2-2": 
+    "occur_position",
+    "{'word': ['occur'], 'pos': []}+{'word': ['at'], 'pos': []}$0#2-2": 
+    "occur_position",
+    "{'word': ['occur'], 'pos': []}+{'word': ['in'], 'pos': []}$0#2-2": 
+    "occur_position",
+    "{'word': [], 'pos': ['NN', 'VBZ']}+{'word': ['during'], 'pos': []}$1#2-2": 
+    "occur_occasion",
+    "{'word': ['should'], 'pos': []}+{'word': ['exist'], 'pos': []}+{'word': ['when'], 'pos': []}$1#2-2": 
+    "occur_occasion",
+    "{'word': [], 'pos': ['RB', 'NN']}+{'word': ['after'], 'pos': []}$1#2-2": 
+    "occur_occasion",
+    "{'word': ['obtained'], 'pos': []}+{'word': ['from'], 'pos': []}$0#2-2": 
+    "obtained from",
+    "{'word': ['not'], 'pos': []}+{'word': ['found'], 'pos': []}+{'word': ['in'], 'pos': []}$0#2-2": 
+    "not_exist",
+    "{'word': ['named'], 'pos': []}+{'word': ['according'], 'pos': []}+{'word': ['to'], 'pos': []}$0#2-2": 
+    "named_by",
+    "{'word': ['named'], 'pos': []}+{'word': ['according'], 'pos': []}+{'word': ['to'], 'pos': []}$0#1-2": 
+    "named_by",
+    "{'word': ['determine'], 'pos': []}+{'word': [], 'pos': ['DT']}+{'word': ['measurement'], 'pos': []}$0#2-2": 
+    "measurement_methods",
+    "{'word': ['materials'], 'pos': []}+{'word': ['can'], 'pos': []}+{'word': ['be'], 'pos': []}$0#2-2": 
+    "material_characteristics",
+    "{'word': ['resembles'], 'pos': []}$1#2-2": 
+    "material_characteristics",
+    "{'word': ['Manifestations'], 'pos': []}$0#2-2": 
+    "manifestation",
+    "{'word': ['made'], 'pos': []}+{'word': ['on'], 'pos': []}$0#2-2": 
+    "made_on",
+    "{'word': ['made'], 'pos': []}+{'word': ['from'], 'pos': []}$0#2-2": 
+    "made_from",
+    "{'word': ['located'], 'pos': []}+{'word': ['beneath', 'between'], 'pos': []}$1#2-2": 
+    "located",
+    "{'word': ['situated'], 'pos': []}$0#2-2": 
+    "located",
+    "{'word': ['limited'], 'pos': []}+{'word': ['by'], 'pos': []}$0#2-2": 
+    "limited_by",
+    "{'word': ['allow'], 'pos': []}$0#1.9-2": 
+    "limited_by",
+    "{'word': ['limited'], 'pos': []}+{'word': [], 'pos': ['RB']}+{'word': ['by '], 'pos': []}$0#2-2": 
+    "limited_by",
+    "{'word': ['limited'], 'pos': []}+{'word': [], 'pos': ['RB']}+{'word': ['and'], 'pos': []}+{'word': [], 'pos': ['RB']}+{'word': ['by '], 'pos': []}$0#2-2": 
+    "limited_by",
+    "{'word': ['is'], 'pos': []}+{'word': ['not'], 'pos': []}+{'word': ['a'], 'pos': []}$0#1.1-2": 
+    "is_NOT_A",
+    "{'word': [], 'pos': ['DT']}+{'word': [], 'pos': ['NNS']}+{'word': ['are'], 'pos': []}$0#1-0": 
+    "isThe",
+    "{'word': ['is'], 'pos': []}+{'word': ['the'], 'pos': []}$0#1-2": 
+    "isThe",
+    "{'word': [], 'pos': ['NNS']}+{'word': ['are'], 'pos': []}$0#1-0": 
+    "isThe",
+    "{'word': ['are'], 'pos': []}+{'word': ['the'], 'pos': []}+{'word': [], 'pos': ['NNS']}$1#1-2": 
+    "isThe",
+    "{'word': ['are'], 'pos': []}+{'word': ['two'], 'pos': []}$0#1-2": 
+    "isThe",
+    "{'word': ['is'], 'pos': []}+{'word': ['one'], 'pos': []}+{'word': ['of'], 'pos': []}$2#1-2": 
+    "isThe",
+    "{'word': ['is'], 'pos': []}+{'word': ['any'], 'pos': []}$1#1-2": 
+    "isThe",
+    "{'word': [], 'pos': ['NNP']}+{'word': [], 'pos': ['NN']}+{'word': ['is'], 'pos': []}$0#1-0": 
+    "isA",
+    "{'word': ['is'], 'pos': []}+{'word': ['a', 'an', 'A', 'An'], 'pos': []}$0#1.1-2": 
+    "isA",
+    "{'word': ['is'], 'pos': []}+{'word': [], 'pos': ['RB']}+{'word': ['a', 'an', 'A', 'An'], 'pos': []}$0#1-2": 
+    "isA",
+    "{'word': ['pertaining'], 'pos': []}+{'word': ['to'], 'pos': []}$0#2-2": 
+    "involves",
+    "{'word': [], 'pos': ['DT']}+{'word': [], 'pos': ['NN']}+{'word': ['involves'], 'pos': []}$0#2-2": 
+    "involves",
+    "{'word': ['Examples'], 'pos': []}+{'word': ['are'], 'pos': []}$0#2-2": 
+    "instances",
+    "{'word': ['An'], 'pos': []}+{'word': ['example'], 'pos': []}+{'word': ['is'], 'pos': []}$0#2-2": 
+    "instances",
+    "{'word': ['affecting'], 'pos': []}$1#2-2": 
+    "influence",
+    "{'word': ['involved'], 'pos': []}+{'word': ['in'], 'pos': []}+{'word': ['increasing', 'decreasing'], 'pos': []}$1#2-2": 
+    "influence",
+    "{'word': ['be', 'is', 'are', 'were', 'was'], 'pos': []}+{'word': ['stimulated'], 'pos': []}+{'word': ['by'], 'pos': []}$2#2-2": 
+    "inducement",
+    "{'word': ['indicates'], 'pos': []}$0#2-2": 
+    "indicate",
+    "{'word': ['In'], 'pos': []}+{'word': ['radiographs'], 'pos': []}$0#2-2": 
+    "imaging_manifestation",
+    "{'word': ['serving'], 'pos': []}+{'word': ['as'], 'pos': []}$1#2-2": 
+    "function",
+    "{'word': ['forms'], 'pos': []}$0#2-2": 
+    "forms",
+    "{'word': ['extends'], 'pos': []}+{'word': ['from'], 'pos': []}$0#2-2": 
+    "extend_from",
+    "{'word': ['associated'], 'pos': []}+{'word': ['with'], 'pos': []}$0#2-2": 
+    "etiological_factor",
+    "{'word': ['occur'], 'pos': []}+{'word': ['by'], 'pos': []}$0#2-2": 
+    "etiological_factor",
+    "{'word': ['due'], 'pos': []}+{'word': ['to'], 'pos': []}$0#2-2": 
+    "etiological_factor",
+    "{'word': ['Etiologic'], 'pos': []}+{'word': ['factors'], 'pos': []}$0#2-2": 
+    "etiological_factor",
+    "{'word': ['histologic'], 'pos': []}+{'word': ['characteristics'], 'pos': []}$0#2-2": 
+    "etiological_factor",
+    "{'word': ['caused'], 'pos': []}+{'word': ['by'], 'pos': []}$0#2-2": 
+    "etiological_factor",
+    "{'word': ['it', 'It'], 'pos': []}+{'word': ['reduces', 'replaces', 'carries', 'enables', 'represents'], 'pos': []}$1#2-2": 
+    "effect",
+    "{'word': ['protects'], 'pos': []}+{'word': ['the'], 'pos': []}+{'word': [], 'pos': ['NN', 'NNS']}+{'word': ['from'], 'pos': []}$4#2-2": 
+    "effect",
+    "{'word': ['would'], 'pos': []}+{'word': ['prevent'], 'pos': []}$0#2-2": 
+    "effect",
+    "{'word': ['drug'], 'pos': []}+{'word': ['class', 'classes'], 'pos': []}+{'word': [':'], 'pos': []}$0#2-2": 
+    "drug_class",
+    "{'word': ['See'], 'pos': []}$0#1-0": 
+    "cross_reference",
+    "{'word': ['controlled'], 'pos': []}+{'word': ['by'], 'pos': []}$0#2-2": 
+    "controlled_by",
+    "{'word': ['constitutes'], 'pos': []}$0#2-2": 
+    "constitute",
+    "{'word': ['possesses'], 'pos': []}$0#2-2": 
+    "composed_of",
+    "{'word': ['composed'], 'pos': []}+{'word': ['of'], 'pos': []}$0#2-2": 
+    "composed_of",
+    "{'word': ['are'], 'pos': []}+{'word': ['composed'], 'pos': []}+{'word': ['primarily'], 'pos': []}+{'word': ['of'], 'pos': []}$0#2-2": 
+    "composed_of",
+    "{'word': ['composed'], 'pos': []}+{'word': [], 'pos': ['RB']}+{'word': ['of'], 'pos': []}$0#2-2": 
+    "composed_of",
+    "{'word': ['It'], 'pos': []}+{'word': ['incorporates'], 'pos': []}$0#2-2": 
+    "composed_of",
+    "{'word': ['it', 'It'], 'pos': []}+{'word': ['has'], 'pos': []}$0#2-2": 
+    "composed_of",
+    "{'word': ['The'], 'pos': []}+{'word': ['principal'], 'pos': []}+{'word': ['organs'], 'pos': []}+{'word': ['include'], 'pos': []}$0#2-2": 
+    "composed_of",
+    "{'word': ['incorporates'], 'pos': []}$0#2-2": 
+    "composed_of",
+    "{'word': ['constituents'], 'pos': []}$0#2-2": 
+    "composed_of",
+    "{'word': ['made'], 'pos': []}+{'word': ['of'], 'pos': []}$0#2-2": 
+    "composed_of",
+    "{'word': ['There'], 'pos': []}+{'word': ['are'], 'pos': []}+{'word': [], 'pos': ['CD']}+{'word': ['components'], 'pos': []}$0#2-2": 
+    "composed_of",
+    "{'word': ['is'], 'pos': []}+{'word': [], 'pos': ['JJ']}+{'word': ['in'], 'pos': []}+{'word': ['color-1'], 'pos': []}$3#2-2": 
+    "color",
+    "{'word': ['characterized'], 'pos': []}+{'word': ['by'], 'pos': []}$0#2-2": 
+    "characterized_by",
+    "{'word': ['Factor'], 'pos': []}+{'word': ['in'], 'pos': []}$0#2-2": 
+    "cause",
+    "{'word': ['affecting'], 'pos': []}$0#2-2": 
+    "cause",
+    "{'word': ['can'], 'pos': []}+{'word': ['become'], 'pos': []}$0#2-2": 
+    "cause",
+    "{'word': ['cause'], 'pos': []}$0#2-2": 
+    "cause",
+    "{'word': ['may', 'May'], 'pos': []}+{'word': ['!not'], 'pos': ['RB']}+{'word': ['be'], 'pos': []}$0#2-2": 
+    "can_be",
+    "{'word': ['can'], 'pos': []}+{'word': ['be'], 'pos': []}+{'word': [], 'pos': ['JJ', 'DT']}$1#1-2": 
+    "can_be",
+    "{'word': ['can'], 'pos': []}+{'word': ['become'], 'pos': []}+{'word': [], 'pos': ['JJ']}$1#1-2": 
+    "can_be",
+    "{'word': ['may'], 'pos': []}+{'word': ['be'], 'pos': []}+{'word': [], 'pos': ['VBN', 'JJ']}$1#2-2": 
+    "can_be",
+    "{'word': ['brand'], 'pos': []}+{'word': ['name', 'names'], 'pos': []}+{'word': [':'], 'pos': []}$0#2-2": 
+    "brand_name",
+    "{'word': ['Common'], 'pos': []}+{'word': ['brand'], 'pos': []}+{'word': [':'], 'pos': []}$0#2-2": 
+    "brand_name",
+    "{'word': ['based'], 'pos': []}+{'word': ['on'], 'pos': []}$0#2-2": 
+    "based_on",
+    "{'word': ['action', 'actions'], 'pos': []}+{'word': [':'], 'pos': []}$0#2-2": 
+    "actions",
+    "{'word': ['Provides'], 'pos': []}$1#2-2": 
+    "ability",
+    "{'word': ['allows'], 'pos': []}+{'word': ['for'], 'pos': []}$2#2-2": 
+    "ability",
+    "{'word': ['permits'], 'pos': []}$1#2-2": 
+    "ability",
+    "{'word': ['ability'], 'pos': []}+{'word': ['to'], 'pos': []}$0#2-2": 
+    "ability"
+}

@@ -1,0 +1,63 @@
+{
+    "Thing":{
+        "description_CN":"项的通用类型",
+        "description_EG":"The most generic type of item",
+        "attributes":{
+            "description":{
+                "type":"Text",
+                "description_CN":"该项的一个简单描述",
+                "description_EG":"A description of the item.",
+                "patterns":[
+                    "{NN}+is$0#1.17-0",
+                    "is+{RB}+a|an|A|An$0#2.17-2",
+                    "term+used+to$0#3.17-2",
+                    "is+a|an|A|An$0#2.0-2",
+                    "{NNP}+{NN}+is$0#1.33-0",
+                    "{NNS}+are$0#1.17-0",
+                    "is+one+of$2#3.0-2",
+                    "is+any$1#2.0-2",
+                    "is+the$0#2.0-2",
+                    "are+the+{NNS}$1#2.17-2",
+                    "{DT}+{NNS}+are$0#1.33-0",
+                    "are+two$0#2.0-2"
+                ]
+            },
+			"name":{
+				"type":"Text",
+                "description_CN":"该项的名称。",
+                "description_EG":"The name of the item.",
+				"patterns":[
+				
+                ]
+			}
+        }
+    },
+    "MedicalEntity":{
+        "parent":"Thing",
+        "description_CN":"与健康和医学实践有关的最通用实体类型。",
+        "description_EG":"The most generic a of entity related to health and the practice of medicine.",
+        "attributes":{
+            "alternateName":{
+                "type":"Text",
+                "description_CN":"该医疗实体的别名",
+                "description_EG":"An alias for the item.",
+                "patterns":[
+                    "older|Older+term+is$0#3.0-2",
+                    "colloquial|Colloquial+term+is$0#3.0-2",
+                    "Also|also+known+as$0#3.0-2",
+                    "Also|also+called$0#2.0-2",
+                    "See+also$0#2.0-0",
+                    "Also+known+as+a$0#4.0-2",
+                    "also+be+spelled$0#3.0-2",
+                    "Also+spelled$0#2.0-2",
+                    "Also|also+called+the$0#3.0-2",
+                    "Commonly+called$0#2.0-2",
+                    "Synonymous+with$0#2.0-2",
+                    "Preferred|Newer+term+is$0#3.0-2",
+                    "Synonym+:$0#2.0-2",
+                    "Now|Formerly+called$0#2.0-2"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+n/v
+adj
+n.pl	
+adv
+adj/n
+n.pr.pl
+prep
+v
+n/adj
+n/n.pl
+n.pr/pl
+n
+adj/comb

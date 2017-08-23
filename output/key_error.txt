@@ -1,0 +1,496 @@
+definition: 
+stem cell are the cells which can divide and differentiate into differing specialized cell types. First reported by McCulloch & Till at Toronto. Stem cells can be obtained from umbilical cord blood, bone marrow, adipose tissue, and blood. They have great potential for cell replacement therapy.
+Manual: 
+effect: They have great potential for cell replacement therapy
+isThe: cells which can divide and differentiate into differing specialized cell types
+obtained_from: umbilical cord blood, bone marrow, adipose tissue, and blood
+Auto: 
+material_characteristics: be obtained from umbilical cord blood, bone marrow, adipose tissue, and blood
+
+
+definition: 
+radiographic survey is the production of the minimal number of radiographic examinations necessary for a radiographic interpretation.
+Manual: 
+isThe: production of the minimal number of radiographic examinations necessary for a radiographic interpretation
+Auto: 
+ability: the minimal number of radiographic examinations necessary for a radiographic interpretation
+
+
+definition: 
+edentulism is the condition of being edentulous, without teeth.
+Manual: 
+isThe: condition of being edentulous, without teeth
+Auto: 
+ability: being edentulous, without teeth
+
+
+definition: 
+esthetics is the branch of philosophy dealing with beauty, especially with the components thereof.
+Manual: 
+isThe: branch of philosophy dealing with beauty, especially with the components thereof
+Auto: 
+ability: philosophy dealing with beauty, especially with the components thereof
+
+
+definition: 
+rigidity is the characteristic of being nonflexible, which is essential in a connector, a reciprocal arm, or an indirect retaining unit of a removable partial denture.
+Manual: 
+isThe: characteristic of being nonflexible, which is essential in a connector, a reciprocal arm, or an indirect retaining unit of a removable partial denture
+Auto: 
+ability: being nonflexible, which is essential in a connector, a reciprocal arm, or an indirect retaining unit of a removable partial denture
+
+
+definition: 
+retainer is the portion of a fixed prosthesis attaching a pontic to the abutment teeth.
+Manual: 
+isThe:  portion of a fixed prosthesis attaching a pontic to the abutment teeth
+Auto: 
+ability: a fixed prosthesis attaching a pontic to the abutment teeth
+
+
+definition: 
+placement is the act of placing an object.
+Manual: 
+isThe: act of placing an object
+Auto: 
+ability: placing an object
+
+
+definition: 
+stability is the quality of being physically or emotionally predictable, orderly, not readily moved.
+Manual: 
+isThe: quality of being physically or emotionally predictable, orderly, not readily moved
+Auto: 
+ability: being physically or emotionally predictable, orderly, not readily moved
+
+
+definition: 
+arch width is the width of a dental arch. The width, which varies in all diameters between the right and left opposites, is determined by direct measurement between the canines, between the first molars, and between the second premolars. These intercanine, interpremolar, and intermolar distances can be cited as arch width.
+Manual: 
+isThe: width of a dental arch. The width, which varies in all diameters between the right and left opposites, is determined by direct measurement between the canines, between the first molars, and between the second premolars
+synonym: intercanine, interpremolar, and intermolar distances
+Auto: 
+ability: a dental arch
+material_characteristics: be cited as arch width
+
+
+definition: 
+prosthesis is the replacement of an absent part of the body by an artificial part.
+Manual: 
+isThe: replacement of an absent part of the body by an artificial part
+Auto: 
+ability: an absent part
+resort_to: body by an artificial part
+
+
+definition: 
+dental care is the treatment of the teeth and their supporting structures.
+Manual: 
+isThe: treatment of the teeth and their supporting structures
+Auto: 
+ability: the teeth and their supporting structures
+
+
+definition: 
+ceramics is the art of making dental restorations or parts of restorations from fused porcelain.
+Manual: 
+isThe: art of making dental restorations or parts of restorations from fused porcelain
+Auto: 
+ability: making dental restorations or parts of restorations from fused porcelain
+
+
+definition: 
+undercut is the portion of a prepared cavity that creates a mechanical lock or area of retention; undercut may be desirable in a cavity to be filled with gold foil or amalgam but is undesirable in a cavity prepared for a restoration to be cemented.
+Manual: 
+can_be: desirable in a cavity to be filled with gold foil or amalgam but is undesirable in a cavity prepared for a restoration to be cemented
+isThe: portion of a prepared cavity that creates a mechanical lock or area of retention
+Auto: 
+ability: a prepared cavity that creates a mechanical lock or area of retention
+inducement: be desirable in a cavity to be filled with gold foil or amalgam but is undesirable in a cavity prepared for a restoration to be cemented
+
+
+definition: 
+disinfection is the process of destroying pathogenic organisms or rendering them inert.
+Manual: 
+isThe: process of destroying pathogenic organisms or rendering them inert
+Auto: 
+ability: destroying pathogenic organisms or rendering them inert
+
+
+definition: 
+infection control are the procedures and protocols designed to prevent or limit cross-contamination in the health care delivery environment.
+Manual: 
+isThe: procedures and protocols
+used_for: prevent or limit cross-contamination in the health care delivery environment
+Auto: 
+
+
+definition: 
+porosity is the presence of pores or voids within a structure.
+Manual: 
+isThe: presence of pores or voids within a structure
+Auto: 
+ability: pores or voids within a structure
+
+
+definition: 
+waxing is the contouring of a wax pattern or the wax base of a trial denture into the desired form. Also called waxing up.
+Manual: 
+isThe: contouring of a wax pattern or the wax base of a trial denture into the desired form
+synonym: waxing up
+Auto: 
+ability: a wax pattern or the wax base of a trial denture into the desired form
+
+
+definition: 
+macrophage is any phagocytic cell of the reticuloendothelial system including specialized Kupffer鈥檚 cells in the liver and spleen, and histiocytes in loose connective tissue. See also histiocyte and monocyte.
+Manual: 
+isThe: any phagocytic cell of the reticuloendothelial system including specialized Kupffer鈥檚 cells in the liver and spleen, and histiocytes in loose connective tissue
+synonym: histiocyte and monocyte
+Auto: 
+
+
+definition: 
+shade selection is the determination of the color of the artificial tooth or set of teeth for a given patient. Also called tooth color selection.
+Manual: 
+isThe: determination of the color of the artificial tooth or set of teeth for a given patient
+synonym: tooth color selection
+Auto: 
+ability: the color of the artificial tooth or set of teeth for a given patient
+
+
+definition: 
+diagnosis is the translation of data gathered by clinical and radiographic examination into an organized, classified definition of the conditions present.
+Manual: 
+isThe: translation of data gathered by clinical and radiographic examination into an organized, classified definition of the conditions present
+Auto: 
+ability: data gathered by clinical and radiographic examination into an organized, classified definition of the conditions present
+
+
+definition: 
+centric occlusion is the relation of opposing occlusal surfaces that provides the maximum planned contact and/or intercuspation. It should exist when the mandible is in centric relation to the maxilla. Also called central occlusion.
+Manual: 
+isThe: relation of opposing occlusal surfaces that provides the maximum planned contact and/or intercuspation
+occur_occasion: when the mandible is in centric relation to the maxilla
+synonym: central occlusion
+Auto: 
+ability: opposing occlusal surfaces that provides the maximum planned contact and/or intercuspation
+
+
+definition: 
+head and neck anatomy is the study of the head and neck regions of the body.
+Manual: 
+isThe: study of the head and neck regions of the body
+Auto: 
+ability: the head and neck regions of the body
+
+
+definition: 
+wax elimination is the procedure of removing the wax from a wax pattern invested in a mold preparatory to the introduction of another material into the resulting cavity. This may be done by dry heat alone or irrigation with boiling water followed by use of dry heat. Also called wax burnout.
+Manual: 
+isThe: procedure of removing the wax from a wax pattern invested in a mold preparatory to the introduction of another material into the resulting cavity
+resort_to: by dry heat alone or irrigation with boiling water followed by use of dry heat
+synonym: wax burnout
+Auto: 
+ability: removing the wax from a wax pattern invested in a mold preparatory to the introduction of another material into the resulting cavity
+inducement: be done by dry heat alone or irrigation with boiling water followed by use of dry heat
+
+
+definition: 
+frequency is the number of cycles per second of a wave or other periodic phenomenon. Frequency indicates the energy of a particular radiation.
+Manual: 
+indicate: the energy of a particular radiation
+isThe: number of cycles per second of a wave or other periodic phenomenon
+Auto: 
+ability: cycles per second of a wave or other periodic phenomenon; a particular radiation
+
+
+definition: 
+alveolar process is the portion of the maxillae or mandible that forms the dental arch and serves as a bony investment for the teeth. Its cortical covering is continuous with the compact bone of the body of the maxillae or mandible, whereas its trabecular portion is continuous with the spongy bone of the body of the jaws. See also ridge, alveolar.
+Manual: 
+isThe: portion of the maxillae or mandible that forms the dental arch and serves as a bony investment for the teeth
+portion: cortical covering is continuous with the compact bone of the body of the maxillae or mandible, whereas its trabecular portion is continuous with the spongy bone of the body of the jaws
+synonym: ridge, alveolar
+Auto: 
+ability: the maxillae or mandible that forms the dental arch and serves as a bony investment for the teeth; the maxillae or mandible, whereas its trabecular portion is continuous with the spongy bone of the body of the jaws
+
+
+definition: 
+three-quarter crown is a term frequently used to designate a partial veneer crown.
+Manual: 
+used_for: designate a partial veneer crown
+Auto: 
+isA: a term frequently used to designate a partial veneer crown
+
+
+definition: 
+gypsum is the dihydrate of calcium sulfate. 伪-hemihydrate and 尾-hemihydrate are derived from gypsum. See also plaster of paris.
+Manual: 
+isThe: dihydrate of calcium sulfate
+synonym: plaster of paris
+Auto: 
+ability: calcium sulfate
+
+
+definition: 
+outline form is the shape of the area of the tooth surface included within the cavosurface margins of a prepared cavity.
+Manual: 
+isThe: shape of the area of the tooth surface included within the cavosurface margins of a prepared cavity
+Auto: 
+ability: the area of the tooth surface included within the cavosurface margins of a prepared cavity
+
+
+definition: 
+connector is the part of a partial denture that unites its components.
+Manual: 
+isThe: part of a partial denture that unites its components
+Auto: 
+ability: a partial denture that unites its components
+
+
+definition: 
+multiple abutment are the abutments splinted together as a unit to support and retain a fixed prosthesis.
+Manual: 
+isThe: abutments splinted together as a unit to support and retain a fixed prosthesis
+Auto: 
+
+
+definition: 
+rotation is the act of turning about an axis or a center.
+Manual: 
+isThe: act of turning about an axis or a center
+Auto: 
+ability: turning about an axis or a center
+
+
+definition: 
+age factors are the variables affected by time since birth.
+Manual: 
+isThe: variables affected by time since birth
+Auto: 
+
+
+definition: 
+electrosurgery is the use of electrically generated energy from highfrequency alternating currents to cut or alter tissue within definite limits.
+Manual: 
+isThe: use of electrically generated energy from highfrequency alternating currents to cut or alter tissue within definite limits
+Auto: 
+ability: electrically generated energy from highfrequency alternating currents to cut or alter tissue within definite limits
+
+
+definition: 
+anatomy is the science of the form, structure, and parts of animal organisms.
+Manual: 
+isThe: science of the form, structure, and parts of animal organisms
+Auto: 
+ability: the form, structure, and parts of animal organisms
+
+
+definition: 
+polishing is the process of making a surface smooth and glossy or giving luster to a surface, usually by friction.
+Manual: 
+isThe: process of making a surface smooth and glossy or giving luster to a surface, usually by friction
+Auto: 
+ability: making a surface smooth and glossy or giving luster to a surface, usually by friction
+
+
+definition: 
+either the upper or lower structure surrounding the opening of the oral cavity.
+Manual: 
+isA: either the upper or lower structure surrounding the opening of the oral cavity
+Auto: 
+ability: the oral cavity
+
+
+definition: 
+acrylic resin is An ethylene derivative that contains a vinyl group.
+Manual: 
+isA: ethylene derivative that contains a vinyl group 
+Auto: 
+
+
+definition: 
+prosthodontics is the specialty of dentistry pertaining to the diagnosis, treatment planning, rehabilitation and maintenance of the oral function, comfort, appearance, and health of patients with missing or deficient teeth and/or oral and maxillofacial tissues using biocompatible substitutes. This is one of nine recognized specialties in dentistry.
+Manual: 
+involves: the diagnosis, treatment planning, rehabilitation and maintenance of the oral function, comfort, appearance, and health of patients with missing or deficient teeth and/or oral and maxillofacial tissues using biocompatible substitutes
+isThe: specialty of dentistry; one of nine recognized specialties in dentistry
+Auto: 
+ability: dentistry pertaining to the diagnosis, treatment planning, rehabilitation and maintenance of the oral function, comfort, appearance, and health of patients with missing or deficient teeth and/or oral and maxillofacial tissues using biocompatible substitutes
+
+
+definition: 
+tooth arrangement is the placement of teeth on a denture or temporary base with definite objectives in mind.
+Manual: 
+isThe: placement of teeth on a denture or temporary base with definite objectives in mind
+Auto: 
+ability: teeth on a denture or temporary base with definite objectives in mind
+
+
+definition: 
+maxillomandibular relation is any one of the many relations of the mandible to the maxillae, such as the centric maxillomandibular relation or eccentric maxillomandibular relation.
+Manual: 
+isThe: any one of the many relations of the mandible to the maxillae, such as the centric maxillomandibular relation or eccentric maxillomandibular relation
+Auto: 
+
+
+definition: 
+osteoplasty is a surgical procedure to modify or change the configuration of a bone.
+Manual: 
+isA: surgical procedure to modify or change the configuration of a bone
+Auto: 
+ability: a bone
+purpose: to modify or change
+
+
+definition: 
+rest is passive support.
+Manual: 
+isA: passive support
+Auto: 
+
+
+definition: 
+fluorescence is the emission of radiation of a particular wavelength by certain substances as the result of absorption of radiation of a shorter wavelength.
+Manual: 
+isThe: emission of radiation of a particular wavelength by certain substances as the result of absorption of radiation of a shorter wavelength
+Auto: 
+ability: radiation of a particular wavelength by certain substances as the result of absorption of radiation of a shorter wavelength
+
+
+definition: 
+model plaster is a plaster used for diagnostic casts and as an investing material.
+Manual: 
+isA: plaster
+used_for: diagnostic casts and as an investing material
+Auto: 
+use_occasion: used for diagnostic casts and as an investing material
+
+
+definition: 
+tooth movement is temporary or permanent deviation of a tooth from its normally fixed position in the dental arch. Also called mobility of teeth. When teeth exhibit mobility patterns, movement may be buccolingual, mesiodistal, occlusor-apical, or rotational. Movement of teeth into different positions in the dental arch may be produced by repositioning them mesially, distally, buccally, lingually, or occlusally.
+Manual: 
+isA: temporary or permanent deviation of a tooth from its normally fixed position in the dental arch
+synonym: mobility of teeth
+Auto: 
+inducement: be buccolingual, mesiodistal, occlusor-apical, or rotational; be produced by repositioning them mesially, distally, buccally, lingually, or occlusally
+
+
+definition: 
+maxillofacial prosthetics is the branch of prosthodontics concerned with the restoration of stomatognathic and associated facial structures that have been affected by disease, injury, surgery, or congenital defect.
+Manual: 
+isThe: branch of prosthodontics concerned with the restoration of stomatognathic and associated facial structures that have been affected by disease, injury, surgery, or congenital defect
+Auto: 
+ability: prosthodontics concerned with the restoration of stomatognathic and associated facial structures that have been affected by disease, injury, surgery, or congenital defect
+
+
+definition: 
+occlusion is the act of closure or state of being closed.
+Manual: 
+isThe: act of closure or state of being closed
+Auto: 
+ability: closure or state of being closed
+
+
+definition: 
+osseointegration is a term originally defined by Professor P.I. Br氓nemark and commonly used to describe the direct contact, on the light microscopic level, between living bone tissue and an implant, without an intervening fibrous connective tissue layer between the bone and the implant surface.
+Manual: 
+isThe: direct contact, on the light microscopic level, between living bone tissue and an implant, without an intervening fibrous connective tissue layer between the bone and the implant surface
+Auto: 
+isA: a term originally defined by Professor P.I
+
+
+definition: 
+tooth alignment is the arrangement of the teeth in relationship to their supporting bone, adjacent teeth, and opposing dentition.
+Manual: 
+isThe: arrangement of the teeth in relationship to their supporting bone, adjacent teeth, and opposing dentition
+Auto: 
+ability: the teeth in relationship to their supporting bone, adjacent teeth, and opposing dentition
+
+
+definition: 
+undercut is the contour of flasking stone that interlocks to prevent the separation of parts.
+Manual: 
+isThe: contour of flasking stone that interlocks to prevent the separation of parts
+Auto: 
+ability: flasking stone that interlocks to prevent the separation of parts
+
+
+definition: 
+radiographic examination is the production of the number of radiographic images necessary for the radiologic interpretation of the part or parts in question.
+Manual: 
+isThe: production of the number of radiographic images necessary for the radiologic interpretation of the part or parts in question
+Auto: 
+ability: the number of radiographic images necessary for the radiologic interpretation of the part or parts in question
+
+
+definition: 
+maxillary teeth are the teeth attached to and supported by the alveolar process of the maxilla.
+Manual: 
+isThe: teeth attached to and supported by the alveolar process of the maxilla
+Auto: 
+
+
+definition: 
+unification is the act of uniting or the condition of being united.
+Manual: 
+isThe: act of uniting or the condition of being united 
+Auto: 
+ability: uniting or the condition of being united
+
+
+definition: 
+bone is the material of the skeletons of the tissue composing bones.
+Manual: 
+isThe: material of the skeletons of the tissue composing bones
+Auto: 
+ability: the skeletons of the tissue composing bones
+
+
+definition: 
+premolar is one of the eight teeth, four in each jaw, between the canines and first molars; premolar is usually has two cusps; premolar are the replaces the molars of the primary dentition.
+Manual: 
+isA: usually has two cusps
+isThe: one of the eight teeth, four in each jaw, between the canines and first molars; replaces the molars of the primary dentition
+Auto: 
+
+
+definition: 
+mandibular movement is any movement of the lower jaw.
+Manual: 
+isThe: any movement of the lower jaw
+Auto: 
+
+
+definition: 
+retainer is the part of a dental prosthesis that unites the abutment tooth with the suspended portion of the bridge. It may be an inlay, partial crown, or complete crown.
+Manual: 
+can_be: an inlay, partial crown, or complete crown
+isThe: part of a dental prosthesis that unites the abutment tooth with the suspended portion of the bridge
+Auto: 
+ability: a dental prosthesis that unites the abutment tooth with the suspended portion of the bridge
+inducement: be an inlay, partial crown, or complete crown
+
+
+definition: 
+required arch length is the sum of the mesiodistal widths of all teeth.
+Manual: 
+isThe: sum of the mesiodistal widths of all teeth
+Auto: 
+ability: the mesiodistal widths of all teeth
+
+
+definition: 
+. See retainer, intracoronal.
+Manual: 
+cross_reference: retainer, intracoronal
+Auto: 
+
+
+definition: 
+undercut is the portion of a tooth that lies between its height of contour and the gingivae, only if that portion is of less circumference than the height of contour.
+Manual: 
+isThe: portion of a tooth that lies between its height of contour and the gingivae, only if that portion is of less circumference than the height of contour
+Auto: 
+ability: a tooth that lies between its height of contour and the gingivae, only if that portion is of less circumference than the height of contour
+
+

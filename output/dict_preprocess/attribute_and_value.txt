@@ -1,0 +1,1296 @@
+Resorption_of_bone : 
+	periodontitis  : in an apical direction results in the loss of attachment of the periodontal fibers to the bone
+
+accomplished_by : 
+	mastication  : the coordinated activity of the tongue, mandible, mandibular musculature, and structural components of the temporomandibular joints, and controlled by the neuromuscular mechanism
+
+accomplished_with : 
+	orthognathic surgery, : orthodontic therapy
+
+action : 
+	aluminum hydroxide, : neutralizes gastric acidity, binds phosphates in GI tract
+	triclosan  : inhibits enol-acyl protein reductase, leading to loss of type II fatty acid synthesis
+
+actions : 
+	aluminum carbonate gel, : neutralizes gastric acidity, binds phosphates in GI tract
+
+advocated_by : 
+	ferric sulfate, : as a pulp capping agent for pulpotomies in primary teeth
+
+affect : 
+	periodontal disease, : the periodontium of the teeth, with various classes noted
+
+allow : 
+	restoration, amalgam, : a minimum of 24 hours between placement and polishing
+
+aluminum hydroxychloride : 
+	aluminum, : the most commonly used agent in antiperspirants
+
+anterior_teeth : 
+	arch, trapezoidal  : somewhat square to abruptly rounded from canine tip to canine tip
+
+applied_to : 
+	arch wire, : two or more teeth
+	die, lubricant, : a die to serve as a separating medium so that the wax pattern will not adhere to the die but may be withdrawn from it without sticking
+	resin, acrylic, : a resinous material of the various esters of acrylic acid
+	retainer, direct, : an abutment tooth
+
+associated_with : 
+	bruxism  : fatigue, anxiety, emotional stress, or fear and frequently triggered by occlusal irregularities
+	myofascial pain, : inflammation or irritation of muscle or of the fascia surrounding the muscle
+
+attached_to : 
+	abutment, custom, : the superior part of the metal dental implant that protrudes through the gingival tissues and onto which the restoration is fitted
+	abutment, prefabricated, : the superior part of a dental implant that protrudes through the gingival tissues and onto which a restoration is fitted.
+	ligament, stylomandibular, : the mandibular gonial angle
+	muscle, geniohyoid  : the superior surface of the hyoid bone
+
+attaching_to : 
+	retainer, : a pontic(s) to the abutment teeth (e.g., inlay, three-quarter crown)
+
+attributed_to : 
+	retainer, indirect, : Dr. J. Cummer which minimizes movement of a free end denture base from tissue
+
+based_on : 
+	age, psychological, : a person’s behavior, or “how old they feel
+
+body : 
+	abutment, angulated  : is not parallel to the long axis of the implant.
+
+bone marrow : 
+	cell, stem, : from which all blood cells originate
+
+bone_structure : 
+	bone, alveolar  : contains the alveoli or sockets of the teeth and supports the teeth
+
+brand_name : 
+	aluminum carbonate gel, : Basajel
+	triclosan  : found in products such as Colgate Total
+
+brand_names : 
+	aluminum hydroxide, : AlternaGEL, Alu-Cap, Alu- Tab, Amphojel, Dialume
+
+bring_about : 
+	arm, ADD-, cantilever, : desired tooth movement
+
+built_on : 
+	rim, occlusion, : temporary or permanent denture bases
+
+by : 
+	augmentation  : the application of intermittent pressure on inspiration
+	retainer, indirect, : placing a rest opposite the fulcrum line through two direct retainers to create a Class 2 lever
+	retention, indirect, : placing rests opposite the fulcrum line to create indirect retainers
+	scanning, : recording and displaying an image of the area
+	wax elimination, : by dry heat alone or irrigation with boiling water followed by use of dry heat
+
+by_means_of : 
+	extraction, : elevators and/or forceps
+
+can_be : 
+	hydrocolloid : reversible or irreversible.
+
+can_be_due_to : 
+	open contact, : the abnormal position or absence of the teeth, oral disease, oral habits, or the overdevelopment of the frena
+
+can_become : 
+	clenching  : habitual
+
+can_cause : 
+	clenching  : damage to the periodontium
+
+canines : 
+	arch, trapezoidal  : act as corners of the arch
+
+categories : 
+	chart, periodontal, : pocket readings, furcations, tooth mobility, exudates and gingival recession
+	ligament  : Some ligaments are distinct fibrous structures; others are folds of fascia or of indurated peritoneum; still others are the relics of unused fetal organs
+	periodontium  : gingivae, cementum of the tooth, periodontal ligament, and alveolar bone
+	ramus, ascending  : right and left ascending rami
+	relation, maxillomandibular  : the centric maxillomandibular relation or eccentric maxillomandibular relation
+	relationship, occlusal, : the individual and collective relationships of the mandibular teeth to the maxillary teeth and the relationship of the adjacent teeth in the same dental arch
+
+caused_by : 
+	lesion, carious, : acid-producing bacteria, which lowers the pH of the oral cavity, causing demineralization
+	tooth, discoloration, : blood-borne pigment or blood decomposition within the pulp, usage of certain drugs, and trauma
+
+cell : 
+	gingival fibroblast, : moderates wound healing and healing after treatment
+
+characterized_by : 
+	blindness, color, : decreased ability to detect differences in color
+	melanoma  : pigment-producing cells
+	resin  : translucent or transparent and are soluble in ether, acetone, and similar substances but not in water
+	rigidity, : being nonflexible
+
+chart : 
+	chart, periodontal, : on which the findings from the periodontal examination are recorded
+
+clasp : 
+	clasp, circumferential  : encircles more than 180° of a tooth, including opposite angles, and usually contacts the tooth throughout the extent of the clasp
+
+color : 
+	melanoma  : usually is dark but may be amelanotic (i.e., free of pigment)
+
+come_from : 
+	clasp, arm, : minor connectors
+
+common_brand : 
+	stone, dental, : Hydrocal
+
+components : 
+	load, occlusal, : the vertically directed components and those components that tend to move a tooth or denture laterally
+
+composed_of : 
+	calculus  : calcium phosphate, calcium carbonate, magnesium phosphate, and other elements within an organic matrix composed of plaque, desquamated epithelium, mucin, microorganisms, and other debris
+	crown, porcelain jacket, : porcelain mixed with metal
+	mucosa  : epithelium and lamina propria
+
+concerned_with : 
+	prosthetics, maxillofacial, : the restoration of stomatognathic and associated facial structures
+
+condition : 
+	articulator, Arcon, : where the condylar controls are on the upper member as opposed to the lower member of earlier designs
+	clearance, occlusal  : in which the mandibular teeth may pass the maxillary teeth horizontally without contact or interference
+
+condition_to : 
+	rehabilitation, oral, : as near normal as possible
+
+constitutes : 
+	lymphocyte : 25% of the white blood cells
+
+contains : 
+	resin, acrylic, : vinyl group (e.g., polymethacrylate [methyl methacrylate], the principal ingredient of many plastics used in dentistry)
+
+controlled_by : 
+	chewing, : neuromuscular action
+
+cortical_covering : 
+	process, alveolar, : continuous with the compact bone of the body of the maxillae or mandible
+
+created_by : 
+	plane, sagittal, : an imaginary plane parallel to the median plane.
+
+cross_reference : 
+	acrylic resin, : resin, acrylic
+	age hardening, : hardening, age
+	alveolar process, : process, alveolar
+	alveolar ridge, : ridge, alveolar
+	arch bar, : bar, arch
+	arch, basal, : base, apical
+	arch, branchial, : branchial arches
+	arch, dental, contraction, : contraction
+	arch expansion, : expansion. arch form, See form, arch
+	arch, inferior dental, : arch, lower
+	arch, pharyngeal, : arch, branchial
+	architecture, gingival, : gingival architecture
+	arm, truss, : connector, minor
+	arm, upright, : connector, minor
+	base, record, : baseplate
+	baseplate wax, : wax, baseplate
+	border movement, : movement, border
+	burnout, wax, : burnout, inlay and wax elimination
+	casting ring, : flask, refractory
+	centric occlusion, : occlusion, centric
+	centric relation, : relation, centric
+	cervical convergence, : convergence, cervical
+	cobalt-chromium alloy, : alloy, cobalt-chromium. cocaine (C, Cadillac, Charlie
+	color blindness, : blindness, color
+	complete denture, : denture, complete
+	compound, modeling, : compound, impression
+	condyle, orbiting, : orbiting condyle
+	dental arch, : arch, dental
+	dental implant, : implant
+	dental material, : material, dental
+	dental material, : material, dental
+	dental stone, : stone, dental
+	dental stone, : stone, dental
+	diagnostic cast, : cast, diagnostic
+	direct retainer, : retainer, direct
+	extracoronal retainer, : retainer, extracoronal
+	fixed partial denture, : denture, partial, fixed
+	food impaction, : impaction, food
+	former, crucible, : sprue former
+	former, sprue, : sprue former
+	function, occlusal, : function, heavy
+	genial tubercle, : tubercle, genial
+	gingival graft, : graft, gingival
+	group function, : function, group
+	guard, night, : guard, bite
+	horizontal overlap, : overlap, horizontal
+	horizontal plane, : plane, horizontal
+	impression, material, : material, impression
+	impression tray, : tray, impression
+	incisal rest, : rest, incisal
+	indirect retention, : retention, indirect
+	interocclusal record, : record, interocclusal
+	intracoronal attachment, : attachment, intracoronal
+	jaw relation, : relation, jaw
+	lateral movement, : movement, lateral
+	linguoplate, : connector, major, linguoplate
+	major connector, : connector, major
+	mandibular movement, : movement, mandibular
+	maxillary sinus, : sinus, maxillary
+	maxillofacial prosthetics, : prosthetics, maxillofacial
+	maxillomandibular relation  : relation, maxillomandibular
+	minor connector, : connector, minor
+	modeling compound, : compound
+	molding, tissue, : border molding
+	mouth preparation, : preparation, mouth
+	nasal cavity, : cavity, nasal
+	nickel-chromium alloy, : alloy, nickel-chromium
+	night guard, : guard, night
+	occlusal adjustment, : adjustment, occlusal
+	occlusal analysis, : analysis, occlusal
+	occlusal disharmony, : disharmony, occlusal
+	occlusal force, : force, occlusal
+	occlusal function, : function, heavy. occlusal glide, See glide, occlusion
+	occlusal harmony, : harmony, occlusal
+	occlusal load, : load, occlusal
+	occlusal plane, : plane, occlusal. occlusal position, See position, occlusal
+	occlusal rest, : position, rest
+	occlusal surface, : surface, occlusal
+	occlusal template, : template, occlusal
+	occlusion, rim, : rim, occlusion
+	odontogenic tumor, : tumor, odontogenic
+	oral hygiene, : hygiene, oral
+	oral surgery, : surgery, oral
+	outline form, : form, outline
+	periodontal probe, : probe, periodontal
+	plane, guiding, : plane, guide
+	reciprocal arm  : arm, reciprocal
+	record base, : baseplate
+	relief space, : space, relief
+	residual ridge, : ridge, residual
+	resistance form, : form, resistance
+	rest seat, : area, rest
+	retention form, : form, retention
+	reversible hydrocolloid, : hydrocolloid, reversible
+	root canal, : canal, root
+	sagittal plane, : plane, sagittal
+	scheme, occlusal, : system, occlusal
+	seat, rest, : area, rest
+	squamous cell carcinoma  : carcinoma, squamous cell
+	stone die, : die, stone
+	substance abuse, : abuse, substance
+	surgical preparation, : preparation, surgical
+	survey line, : line, survey
+	teeth, : tooth
+	thermal conductivity, : conductivity, thermal
+	tinfoil, : foil, tin
+	tissue molding, : border molding
+	tooth fracture, : fracture, tooth
+	tooth movement, : movement, tooth
+	undercut gauge, : gauge, undercut
+	vertical overlap, : overlap, vertical
+	wax burnout, : burnout, inlay and wax elimination
+	wax pattern, : pattern, wax
+	wedging effect, : effect, wedging
+	wrought wire, : wire, wrought
+	zinc phosphate cement  : cement, zinc phosphate
+
+cross_reference  : 
+	attachment, intracoronal, : retainer, intracoronal
+
+crown : 
+	crown, ceramic, : which can be combined with other components such as porcelain or metal to improve long-term crown function
+
+curve : 
+	arch, U-shaped, : the curve from canine to canine is abrupt, so a dental arch in the shape of a capital U is formed.
+
+data : 
+	diagnosis, : athered by clinical and radiographic examination into an organized, classified definition of the conditions present
+
+denote : 
+	junction, mucogingival, : the separation of the gingivae and alveolar mucosa
+
+dental_waxes : 
+	wax, : are combinations of various types of waxes compounded to provide the desired physical properties
+
+dentin : 
+	dentinal tubule, : spreads outward from the tooth’s center
+
+design : 
+	articulator, fully-adjustable, : in which all nine elements of the articulator can be programmed from patient records
+	articulator, semi-adjustable, : in which some, but not all, anterior incisal and posterior condylar controls can be modified
+	articulator, Arcon, : allows for casts to have the same condylar controls when remounted
+	articulator, plasterless, : uses adjustable clamps to hold two dental models and a universal ball joint and shaft to relate the clamps
+
+designed_and_fabricated_for : 
+	occlusal splint, : patients with some types of functional temporomandibular joint disorders
+
+designed_and_used_for : 
+	probe, periodontal, : 
+
+designed_for : 
+	tissue conditioning, :  gingiva that is soft, spongy, and bleeds easily from poor oral hygiene habits
+
+designed_to : 
+	arch, removable lingual, : fit the lingual surface of the teeth
+	arch, stationary lingual, : fit the lingual surface of the teeth and soldered to the anchor bands
+	cone, : indicate the direction of the central axis of its radiographic beam and to serve as a guide in establishing a desired source-to-receptor distance
+	infection control, : prevent or limit cross-contamination in the health care delivery environment
+
+develop_during : 
+	complication  : the treatment of an earlier disorder
+
+device : 
+	implant, : is surgically inserted into or onto the oral tissue
+
+diseases : 
+	disease, periodontal  : affecting the periodontium include aggressive and necrotizing types, as well as gingivitis
+
+drug_class : 
+	aluminum carbonate gel, : antacid
+	aluminum hydroxide, : antacid
+	triclosan  : broad spectrum antibacterial agent
+
+effect : 
+	contour, tooth, : it enables the bolus of food to be deflected from gingival margins during mastication
+	dentinal tubule, : carries dentinal fluid
+	immune system, : protects the body from invasion by creating local barriers and inflammation
+	pontic  : replaces a lost natural tooth, restores its function, and usually occupies the space previously occupied by the natural crown
+	stem cell, : They have great potential for cell replacement therapy
+	undercut, : prevent the placement of a denture or other prosthesis
+	xylitol  : reduces caries activity and the growth and transmission of S. mutans
+
+engaged_to : 
+	arm, ADD-, cantilever, : one tooth or a group of teeth
+
+etiologic_factors : 
+	disease, periodontal  : may be local or systemic or may involve an interplay between the two
+
+except : 
+	soft tissue, : bone, teeth, nails, hair, and cartilage
+
+extend_from : 
+	ligament, stylomandibular, : the styloid process of the temporal bone
+	ramus, ascending  : the corpus to the condyle, and makes a joint at the temple
+
+extended_to : 
+	onlay, : cover the entire occlusal surface of the tooth
+
+extends : 
+	muscle, geniohyoid  : along the floor of the oral cavity
+
+extends_from : 
+	stylomandibular ligament  : the styloid process of the temporal bone to the ramus of the mandible
+
+extracoronal_retainer : 
+	retainer, extracoronal, : may be a partial crown or a complete crown
+
+facial_structures : 
+	prosthetics, maxillofacial, : that have been affected by disease, injury, surgery, or congenital defect
+
+factor_in : 
+	calculus  : the initiation and continuation of periodontal disease
+
+factors : 
+	age, biological, : changes in the physical structure of the body as well as changes in the performance of motor skills and sensory awareness.
+
+fashioned_to : 
+	splint, : retain in position teeth that may have been replanted or have fractured roots
+
+fibers : 
+	bone, : impregnated with a form of calcium phosphate similar to hydroxyapatite
+
+form : 
+	alginate  : an irreversible hydrocolloid gel
+	canine  : the keystone of the arch
+	stylomandibular ligament  : an accessory part of the temporomandibular joint
+
+formed : 
+	convergence, cervical, : between the cervicoaxial inclination of a tooth surface on one side and a diagnostic stylus of a dental cast surveyor in contact with the tooth at its height of contour
+
+formed_by : 
+	cast, : pouring plastic or liquid material into a mold in which it hardens
+	wire, wrought, : drawing a cast structure through a die
+
+forms : 
+	sprue former, : a crucible in the investment material
+
+frequency : 
+	adjustment, in orthodontics, : once in every 4-6 weeks
+
+from : 
+	polyp  : the nose, bladder, or rectum
+
+gained_by : 
+	retainer, : orthodontic procedure
+
+generated_by : 
+	load, occlusal, : functional or habitual contacting of the occlusal surfaces of the upper and lower teeth
+
+gingival : 
+	arch, high labial, : lies to the anterior tooth crowns
+	periodontitis  : those of gingivitis, with the clinical signs associated with gingivitis
+
+graft : 
+	graft, gingival, : in which a thin piece of tissue is taken from the palate of the oral cavity, or moved over from adjacent areas
+
+has : 
+	arch, high labial, : auxiliary springs extending downward in contact with the teeth to be moved
+	arch, removable lingual, : two posts soldered on each end that fit snugly into the vertical tubes of the molar anchor bands
+
+histologic_characteristics : 
+	periodontitis  : ulceration of the sulcular and junctional epithelium, epithelial hyperplasia, proliferation of epithelial rete pegs into the gingival tissues, apical migration of the epithelial attachment after lysis of the gingival fibers, increased cellular and exudative infiltrate, and vascularity of the lamina propria
+
+humoral_immune_response : 
+	immune system, : which produces antibodies to react with specific antigens, and the cell-mediated response, which uses T cells to mobilize tissue macrophages in the presence of a foreign body
+
+hypothesis : 
+	molybdenum  : Molybdenum is poisonous if ingested in large quantities
+
+implant : 
+	implant, endosteal, : is placed into the alveolar and/or basal bone and that protrudes through the mucoperiosteum
+	implant, transosteal  : passes completely through the buccal and lingual aspects of a toothless ridge, also, an implant whose threaded posts pass completely through the mandible in the parasymphyseal region from the inferior border to the alveolar crest, allowing the attachment of a dental prosthesis
+
+indicates : 
+	frequency, : the energy of a particular radiation
+
+instances : 
+	arch (pl. es) : bone
+	augmentation  : an implant placed over the mandibular or maxillary ridges
+	bone, : a rib or femur
+	complication  : a bacterial infection acquired by a person weakened by a viral infection
+	resin  : acrylic resin, autopolymer resin (cold-curing resin),synthetic resin, styrene resin, and vinyl resin
+
+intend_to : 
+	denture, partial, fixed, : be permanently attached to the teeth or roots that furnish support to the restoration
+
+intent_to : 
+	abuse, substance, : alter some aspect of the user’s experience
+
+involved_in : 
+	disease, periodontal  : may be involved in increasing the risk and course of systemic diseases
+
+involves : 
+	anatomy, dental, : macroscopic and microscopic components
+
+isA : 
+	abutment  : a tooth, root, or implant
+	abutment, angulated  : an abutment
+	abutment, custom, : custom-made post
+	abutment, healing, : cylinder or screw
+	abutment, intermediate, : abutment
+	abutment, multiple, : abutments splinted together as a unit to support and retain a fixed prosthesis.
+	abutment, prefabricated, : machine-manufactured post
+	abutment, preparable, : dental implant abutment can be prepared and changed from the manufacturer’s original design.
+	abutment, screw, : screw secures an abutment to an implant
+	abutment, UCLA, : cast component
+	adjustment  : modification of a restoration or of a denture 
+	adjustment, in orthodontics, : change of elastic ligatures or elastic chain and arch wire if needed
+	adjustment, occlusal, : grinding of the occluding surfaces of teeth
+	agar, hydrocolloid  : reversible hydrocolloid
+	age, biological, : the age determined by physiology rather than chronology
+	age, chronologic, : age determined by the passage of time since birth
+	age, dental, : age determined based on the eruption stage of dentition.
+	age determination, : an estimate of age
+	age distribution, : grouping of the persons within a population on the basis of birth date
+	age factors, : variables affected by time since birth
+	age of onset, : the chronologic age of the patient
+	age, psychological, : subjectively experienced age
+	age, skeletal, : the age based on skeletal measurements relative to chronological skeletal development
+	alginate  : salt of alginic acid (e.g., sodium alginate)
+	alignment, tooth  : the arrangement of the teeth in relationship to their supporting bone (alveolar process), adjacent teeth, and opposing dentition
+	alloy, cobalt-chromium, : (chromecobalt amalgam), a base metal alloy
+	alloy, nickel-chromium, : stainless steel
+	aluminum, : widely used metallic element and the third most abundant of all the elements. principal component of many compounds
+	aluminum filters/disks, : the extremely thin (0.05 cm) pieces of aluminum that are placed over the aperture of the radiographic tube to eliminate x-rays over a certain wavelength
+	aluminum oxide, : a metallic oxide that includes alpha single crystal (an inert, biocompatible strong ceramic material
+	analysis, occlusal, : a study of the relations of the occlusal surfaces of the opposing teeth and their functional harmony
+	arch (pl. es) : a structure with a curved outline
+	arch anterior, : an arch of the atlas or first cervical vertebra
+	arch, dentulous dental  : dental arch
+	arch, edentulous dental  : dental arch
+	arch, high labial, : labial arch wire adapted
+	arch, ovoid, : arch continuously from the molars on one side to the molars on the opposite side so that two such arches placed back to back describe an oval.
+	arch, partially edentulous dental, : dental arch from which one or more
+	arch, passive lingual, : orthodontic appliance
+	arch, posterior, : arch on the first cervical vertebra
+	arch, removable lingual, : arch wire
+	arch, stationary lingual, : arch wire
+	arch, tapering, : dental arch that converges from molars to central incisors to such an extent that lines passing through the central grooves of the molars and premolars intersect within 1 inch (2.5 cm) anterior to the central incisors
+	arch, trapezoidal  : arch that has the same convergence as a tapering arch but to a lesser degree
+	arch, U-shaped, : dental arch in which there is little difference in diameter (width) between the first premolars and the last molars
+	arch wire, : a wire
+	arch wire, full, : wire extending from the molar region of one side of an arch to the other
+	arch wire, sectional, : a wire extending to only a few teeth
+	arm, : extension or projection of a removable partial denture framework
+	arm, ADD-, cantilever, : end of wire
+	arm, neutral position of, : body position to be assumed
+	arm, reciprocal, : a clasp arm
+	arm, retention, : extension or projection that is part of a removable partial denture and is used to aid in the retention and stabilization of the restoration
+	arrangement, financial, : an agreement between the dental provider and patient on the method of handling the patient’s account
+	articulator, adjustable  : an articulator that may be adjusted to permit movement of the casts into various recorded eccentric relationships
+	articulator, fully-adjustable, : design
+	articulator, semi-adjustable, : design
+	articulator, Arcon, : type of articulator
+	articulator, crescent, : device
+	articulator, disposable, : a simple plastic hinge that is bonded to dental models
+	articulator, plasterless, : design
+	atrophy  : progressive, acquired decrease in the size of a normally developed cell, tissue, or organ
+	atrophy, adipose  : atrophy resulting from a reduction in fatty tissue
+	atrophy, alveolar, : depletion of the size of the alveolar process of the jaws from disuse, overuse, or pathologic disturbance of the bone
+	attachment, : a fastener, connector, associated part
+	attachment, : a mechanical device
+	augmentation  : assistance to respiration
+	augmentation  : increase in size beyond the existing size
+	authorization, : written consent
+	bar, lingual, : major connector
+	blindness, color, : defective color vision
+	bonding, : adhesion of orthodontic attachments to the teeth an interposed band
+	bone, : single element of the skeleton
+	bone augmentation, : variety of bone grafting procedures
+	bruxism  : unconscious activity, whether the individual is awake or asleep
+	bur, : rotary cutting instrument of steel or tungsten carbide, supplied with cutting heads of various shapes
+	calcination  : process of removing water by heat
+	calculus  : hard deposit on the exposed surfaces of the teeth and any oral prosthesis within the oral cavity
+	cancer, oral, : malignancies indicative of unchecked cell growth
+	canine  : one of the four pointed teeth
+	canine guidance, : a concept of occlusal function in which the canine teeth are assigned a major control role in the excursive movements of the mandible
+	cast, : object
+	cast, diagnostic, : positive likeness of dental structures
+	cast, master, : accurate replica of the prepared tooth surfaces, residual ridge areas, or other parts of the dental arch
+	cast, refractory, : cast made of materials
+	casting machine, : mechanical device
+	cement, zinc phosphate, : material
+	cementation  : ttachment of an appliance or a restoration to natural teeth or attachment of parts by means of a cement
+	chart, periodontal, : diagrammatic chart
+	clasp, arm, reciprocal, : an arm of a clasp, usually at or occlusal to the height of contour, located in such a manner as to reciprocate any force arising from an opposing clasp arm on the same tooth
+	clasp, circumferential  : clasp
+	clearance, occlusal  : condition
+	complication  : disease or injury
+	computed tomography  : a radiographic body scanning technique
+	cone, : geometric shape with a circular base tapering evenly to an apex
+	cone, : solid substance
+	cone, : accessory device on a dental x-ray tubehead
+	connector, major, : a metal plate or bar (e.g., lingual bar, linguoplate, palatal bar)
+	connector, nonrigid, : connector
+	connector, rigid, : connector
+	contour, tooth, : a shape of a tooth that is essential to a healthy gingival unit
+	crown, : artificial replacement for the natural crown of the tooth
+	crown, ceramic, : one of several materials that can make up a crown
+	crown lengthening, : surgical procedure to remove marginal gingival tissues to expose more of the crown of the tooth to facilitate a reconstructive or operative procedure
+	crown, porcelain jacket, : type of crown
+	crown, temporary, : short-term crown
+	crown, veneer, : restoration that reproduces the total clinical coronal surface contour of the tooth
+	dentinal tubule, : microscopic tube within dentin
+	denture  : artificial substitute for missing natural teeth and adjacent tissue
+	denture, partial, fixed, : toothborne partial denture
+	diamond, : crystalline carbon substance, the hardest natural substance known
+	die, lubricant, : material
+	die, stone, : positive likeness in artificial (dental) stone
+	disease, periodontal  : disturbance of the periodontium
+	disharmony, occlusal  : phenomenon in which contacts of opposing occlusal surfaces of teeth are not in harmony with other tooth contacts and with the anatomic and physiologic controls of the mandible
+	distortion, : deviation from the normal shape or condition
+	distortion, : modification of the speech sound in some way 
+	distortion, : twisting or deformation. A loss of accuracy in reproduction of cavity form
+	effect, wedging, : effect produced by food impaction that forces the teeth apart
+	examination, intraoral, : examination of all the structures contained within the oral cavity
+	facet  : flattened, highly polished wear pattern, as noted on a tooth
+	ferric sulfate, : iron salt that coagulates blood
+	flask, : metal case or tube
+	fracture, : break or rupture of a part. In the oral region, fracture is most often seen in teeth and bones
+	fracture, root, : microscopic or macroscopic cleavage of the root in any direction
+	fracture, tooth, : traumatic injury to a tooth that manifests itself as a chip, crack, or break
+	gagging, : involuntary retching reflex
+	gauge, undercut, : attachment
+	gingival fibroblast, : formative cell
+	gingivitis  : inflammation of the gingival tissue;; a major classification of periodontal disease
+	glass ionomer cement  : dental cement of low strength and toughness
+	graft, : slip or portion of tissue
+	graft, gingival, : graft
+	graft, pedicle  : stem or tube of tissue
+	hydrocolloid : materials listed as colloid solids with water
+	hydrocolloid : agar-base impression material
+	hypertrophy  : enlargement or overgrowth of an organ or part
+	immune system, : biochemical complex that protects the body against pathogenic organisms and other foreign bodies
+	implant, : device, usually alloplastic
+	implant, endosteal, : implant
+	implant, transosteal  : implant
+	incisor : cutting tooth, one of the four anterior teeth of either jaw that are the first and second from the midline and consist of both centrals and laterals, respectively
+	inlay, : restoration of metal, fired porcelain, or plastic made to fit a tapered cavity preparation and fastened to or luted into it with a cementing medium
+	lesion  : pathologic disturbance of a tissue, with loss of continuity, enlargement, and/or function
+	ligament  : tough, fibrous connective tissue band
+	ligament, stylomandibular, : ligament
+	lip, : either the upper or lower structure surrounding the opening of the oral cavity
+	lip, : rimlike structure bordering a cavity or groove
+	lymphocyte : form of white blood cell originating in lymphoid tissues
+	maxillary teeth, : teeth attached to and supported by the alveolar process of the maxilla
+	melanoma  : malignant epithelial neoplasm
+	molding, : shaping
+	molybdenum  : grayish metallic element with an atomic number of 42 and an atomic weight of 95.94
+	mouth, floor of, : area within the oral cavity
+	movement, border, : extreme muscular movement
+	movement, lateral, : movement of a body to one side of its established position
+	movement, tooth, : temporary or permanent deviation of a tooth from its normally fixed position in the dental arch
+	mucosa  : membrane
+	myofascial pain, : pain
+	occlusal splint, : bite plane
+	occlusion  : contact between the incising or masticating surfaces of the maxillary and mandibular teeth
+	occlusion, bilateral balanced, : therapeutic form designed to keep dentures seated when fine-textured foods are chewed horizontally
+	onlay, : cast type of restoration
+	onlay, : occlusal rest portion of a removable partial denture
+	open contact, : increased area between adjacent teeth without interproximal contacts
+	orthognathic surgery, : surgery
+	osteoplasty  : surgical procedure to modify or change the configuration of a bone
+	overdenture, : complete or partial removable denture
+	overlap, horizontal, : projection of the anterior or posterior teeth of one arch beyond their antagonists in a horizontal direction
+	overlap, vertical, : extension of the maxillary teeth over the mandibular teeth in a vertical direction when the opposing posterior teeth are in contact in centric occlusion
+	pattern, wax, : wax model
+	pattern, wax, : a wax form of a denture that will form the mold in which the resin denture is formed
+	periodontal disease, : a group of inflammatory and infectious diseases
+	periodontal surgery  : an operative procedure
+	periodontitis  : chronic, progressive disease of the periodontium
+	plane, occlusal, : imaginary surface
+	plane, occlusal, : line drawn between points representing one half of the incisal overbite (vertical overlap) in front and one half of the cusp height of the last molars in back
+	plane, sagittal, : plane of the body
+	plaster, model, : plaster
+	polyp  : smooth, pedunculated growth from a mucous surface
+	pontic  : artificial tooth on a fixed partial denture or an isolated tooth on a removable partial denture
+	postoperative care, : care after surgery or other invasive procedures, usually of a supportive nature
+	premolar, : one of the eight teeth, four in each jaw, between the canines and first molars; usually has two cusps; replaces the molars of the primary dentition
+	preparation, surgical, : surgical procedure
+	pressure, : stress or strain;an applied force
+	probe, periodontal, : finecalibrated instrument
+	prognosis  : forecast of the outcome of a disease
+	prognosis  : orecast of the probable result of a regimen of treatment
+	prosthesis, hybrid, : implant supported complete denture with a metal framework colloq. high water prosthesis
+	radiograph : two-dimensional representation of a three-dimensional object
+	record, interocclusal, : ecord of the positional relation of the teeth or jaws to each other
+	rehabilitation, oral, : restoration of the form and function of the masticatory apparatus
+	relation, jaw, : relationship of the mandible to the maxillae
+	resin, acrylic, : ethylene derivative
+	resin, thermoplastic, : synthetic resin
+	rest, : passive support
+	rest, : extension from a prosthesis
+	rest, incisal, : metallic extension onto the incisal angle of an anterior tooth
+	rest, lingual, : metallic extension onto the lingual surface of an anterior tooth
+	rest, occlusal, : rest (or lug)
+	restoration, amalgam, : direct restoration
+	restoration, ceramic, : indirect restoration
+	retainer, : part of a dental prosthesis that unites the abutment tooth with the suspended portion of the bridge
+	retainer, : appliance for maintaining the positions of the teeth and jaws
+	retainer, : clasp, attachment, or device
+	retainer, : orthodontic appliance, fixed or removable
+	retainer, direct, : clasp, attachment, or assembly
+	retainer, extracoronal, : type of retainer
+	retainer, extracoronal, : direct retainer of the clasp type that engages an abutment tooth on its external surface in such a way as to afford retention and stabilization to a removable partial denture; a direct retainer of the manufactured type, the male portion of which is attached to the external surface of a cast crown on an abutment tooth (e.g., Dalbo and Crismani attachments)
+	retainer, indirect, : RPD design
+	retention, indirect, : retention
+	ridge, residual, : portion of the alveolar ridge that remains
+	rim, occlusion, : occluding surface
+	rod, : straight, slim, cylindric form of material, usually metal
+	scanning, : a technique and protocol for carefully studying an area, organ, or system of the body 
+	silicone  : a compound of organic structural character in which all or some of the positions that could be occupied by carbon atoms are occupied by silicon; a plastic containing silicons
+	sodium bicarbonate, : antacid, electrolyte, and urinary alkalinizing agent
+	soft tissue, : body tissue
+	solder  : fusible alloy of metals
+	solution, pickling, : solution of acid
+	space, : delimited, three-dimensional region
+	splint, : rigid appliance
+	splint, : support or brace
+	sprue former, : cone-shaped base
+	stone, : abrading instrument or tool
+	stone, dental, : α-hemihydrate of calcium sulfate
+	stone, dental, : gypsum product that, when combined with water in proper proportions, hardens in a plasterlike form
+	stylomandibular ligament  : one of a pair of specialized bands of cervical fascia
+	sulcus  : furrow, trench, or groove, as on the surface of the brain or in the folds of mucous membranes
+	sulcus  : groove or depression on the surface of a tooth
+	survey, radiographic, : production of the minimal number of radiographic examinations necessary for a radiographic interpretation
+	swallowing, : succession of muscular contractions from above downward or from the front backward; propels food from the oral cavity toward the stomach
+	system, : set or series of organs or parts that unite in a common function
+	template, occlusal, : stone or metal (electroformed) occlusal table 
+	tissue  : aggregation of similarly specialized cells united in the performance of a particular function
+	tissue conditioning, : disciplined program of patient-performed plaque control measures
+	tooth, discoloration, : stain or change in color of a tooth
+	translation  : movement of a rigid body in which all parts move in the same direction at the same speed
+	translucency  : object’s ability to allow the passage of light through it
+	trauma  : hurt; a wound; an injury; damage; impairment; external violence producing bodily injury or degeneration
+	tray, impression, : receptacle or device
+	tubercle, genial  : small rounded elevation on the lingual surface of the mandible on either side of the midline near the inferior border of the body of the mandible
+	tuberosity reduction, : surgical excision of excessive fibrous or bony tissue in the area of the maxillary tuberosity before the construction of prosthetic appliances
+	tumor, : swelling
+	tumor, odontogenic  : neoplasm
+	wax, : one of several esters of fatty acids with higher alcohols, usually monohydric alcohols
+	wax, baseplate, : hard, pink wax
+	wax, boxing, : soft wax
+	wedge, : small, pointed, triangular, contoured piece of wood
+	wire, wrought, : wire
+	wire, wrought, : form of metal
+	xylitol  : low-calorie sweetener
+
+isAThe : 
+	arch length, required, : the sum of the mesiodistal widths of all teeth
+	fremitus  : palpable vibrations of nonvascular origin that can be noted by placing the hand on the ches
+
+isThe : 
+	anatomy  : the science of the form, structure, and parts of animal organisms
+	anatomy, dental, : the science of the structure of the teeth and the relationship of their parts
+	anatomy, head and neck, : the study of the head and neck regions of the body
+	anatomy, radiographic, : the images on a radiographic film of the combined anatomic structures
+	arch, dental, : the composite structure of the dentition and alveolar ridge or the remains thereof 
+	arch length, : the distance from a line perpendicular to the mesial surface of the permanent first molars to the contact point of the central incisors
+	arch length, available, : the space available for all teeth
+	arch length, deficiency, : the difference between required and available arch length
+	arch, lower, : the archlike curve of the cutting edges and surfaces of the teeth on the mandible
+	arch, palatine, : (glossopalatine arch), the pillars of the fauces; the two arches of mucous membrane enclosing the muscles at the sides of the passage from the oral cavity to the pharynx
+	arch, perimeter, : length of the dental arch
+	arch width, : the width of a dental arch
+	arrangement, : the pattern into which a group of things is organized
+	arrangement, tooth, : the placement of teeth on a denture or temporary base with definite objectives in mind
+	beading, : the scribing of a shallow groove (less than 0.5 mm in width or depth) on a cast that outlines the major connector
+	blockout, : the elimination of undesirable undercut areas on a cast
+	bone, : the material of the skeletons of the tissue composing bones
+	bone, : bones of the human skeleton
+	bone, alveolar  : specialized bone structure
+	bruxism  : involuntary gnashing, grinding, or clenching of teeth
+	canal, root, : informal term for the endodontic procedure
+	cavity, nasal, : the two irregular spaces
+	cell, stem, : the cells in the bone marrow 
+	ceramics, : the art of making dental restorations or parts of restorations from fused porcelain
+	chewing, : the movements of the mandible during mastication
+	clasp, arm, : the clasp extensions
+	clenching  : nonfunctional, forceful intermittent application of the mandibular teeth against the maxillary teeth
+	conductivity, thermal, : the ability of a material to transfer heat
+	connector, : part of a partial denture that unites its components
+	connector, minor, : the connecting link between the major connector or base of a removable partial denture and other units of the restoration, such as direct and indirect retainers and rests
+	convergence, cervical, : the angle
+	core, amalgam, : the foundational replacement of the badly mutilated crown of a tooth
+	crest, gingival, : the coronal margin of the gingival tissue
+	crown, : the natural portion of a tooth covered by enamel
+	dental care, : the treatment of the teeth and their supporting structures
+	dentition  : the natural teeth in position in the dental arches
+	dentition, artificial, : the artificial substitutes for the natural dentition
+	diagnosis, : the translation of data
+	diagnosis, differential, : the process of identifying a condition by differentiating all pathologic processes that may produce similar lesions
+	dimension, vertical, occlusal, : vertical dimension of the face when the teeth or occlusion rims are in contact in centric occlusion
+	disinfection, : process of destroying pathogenic organisms or rendering them inert
+	edentulism  : condition of being edentulous, without teeth
+	education, : act or process of imparting or acquiring knowledge, skill, or judgment
+	elasticity  : the quality or condition of being elastic
+	electrosurgery, : use of electrically generated energy from highfrequency alternating currents to cut or alter tissue within definite limits
+	emergence profile, : axial contour of a tooth or crown as it relates to the adjacent soft tissue
+	equipment, : nonexpendable items
+	esthetics  : branch of philosophy dealing with beauty, especially with the components thereof; (i.e., color and form)
+	examination, radiographic, : production of the number of radiographic images necessary for the radiologic interpretation of the part or parts in question
+	examination, radiographic, : study and interpretation of radiographic images of the oral cavity and associated structures
+	extraction, : removal of a tooth from the oral cavity
+	fabrication  : construction or making of a restoration
+	fibrous encapsulation, : process in which an implant (or other implanted material) becomes surrounded by fibrous connective tissue during tissue healing process as opposed to osseointegration where the implant is surrounded and in intimate contact with the bone
+	flash, : process in which an implant (or other implanted material) becomes surrounded by fibrous connective tissue during tissue healing process as opposed to osseointegration where the implant is surrounded and in intimate contact with the bone
+	fluorescence  : emission of radiation of a particular wavelength by certain substances as the result of absorption of radiation of a shorter wavelength
+	form, functional, : shape that permits optimal performance
+	form, outline, : shape of the area of the tooth surface included within the cavosurface margins of a prepared cavity
+	form, resistance, : shape given to a prepared cavity to enable the restoration and remaining tooth structure to withstand masticatory stress
+	form, retention, : provision made in a cavity preparation to prevent displacement of the restoration
+	framework, : skeletal metal portion of a removable partial denture around which and to which the remaining units are attached
+	frequency, : number of cycles per second of a wave or other periodic phenomenon
+	function, group, : simultaneous contact of opposing teeth in a segment or group
+	gingiva : fibrous tissue
+	gingival architecture, : gingival form
+	graft, bone, : transplantation of healthy bone tissue to a defective bone cavity
+	gutta-percha  :  coagulated juice of various tropical trees that has certain rubberlike properties
+	gypsum  : dihydrate of calcium sulfate (CaSO4-2H2O). α-hemihydrate and β-hemihydrate are derived from gypsum
+	harmony, occlusal, : nondisruptive relationship of an occlusion to all its factors (e.g., the neuromuscular mechanism, temporomandibular joints, teeth and their supporting structures)
+	infection control, : procedures and protocols
+	interference, occlusal, : tooth-to-tooth contact that interferes with jaw movement
+	junction, mucogingival, : calloped linear area
+	keyway, : slot into which the male portion of precision attachments fits
+	lamina dura, : plate of compact bone (alveolar bone) that lies adjacent to the periodontal ligament
+	laterotrusion  : outward thrust given by the muscles to the rotating condyle or the condyle on the bolus side
+	load, occlusal, : stresses
+	macrophage  : any phagocytic cell of the reticuloendothelial system including specialized Kupffer’s cells in the liver and spleen, and histiocytes in loose connective tissue
+	mandible, : lower jawbone
+	mastication  : process of chewing food in preparation for swallowing and digestion
+	mastication  : act of chewing
+	maxillary arch, : upper dental arch and its supporting bone
+	movement, mandibular, : any movement of the lower jaw
+	muscle, geniohyoid  : suprahyoid muscle
+	muscle, trapezius, : cervical muscle which covers the lateral and posterior surfaces of the neck
+	occlusal vertical dimension  : distance between a point on a maxillary tooth and a point on the opposing mandibular tooth during occlusion
+	occlusion  : act of closure or state of being closed
+	occlusion, bilateral balanced, : closure suitable for worn dentitions that are cuspless or have flat-sided cusps
+	occlusion, centric, : relation of opposing occlusal surfaces that provides the maximum planned contact and/or intercuspation
+	oral cavity, : mouth
+	osseointegration  : direct contact, on the light microscopic level, between living bone tissue and an implant, without an intervening fibrous connective tissue layer between the bone and the implant surface
+	path of placement, : direction in which a removable dental restoration is positioned in relation to the planned location on its supporting structures
+	periodontitis  : he alterations occurring in the periodontium with inflammation
+	periodontium  : tissues
+	polishing, : the process of making a surface smooth and glossy or giving luster to a surface, usually by friction
+	porosity  : presence of pores or voids within a structure
+	process, alveolar, : portion of the maxillae or mandible that forms the dental arch and serves as a bony investment for the teeth
+	prognosis  : foretelling of the probable course of a disease
+	prosthesis  : replacement of an absent part of the body by an artificial part
+	prosthetics, maxillofacial, : branch of prosthodontics
+	prosthodontics  : specialty of dentistry
+	ramus, ascending  : posterior, vertical portion of the mandible
+	reciprocation  : means by which one part of a removable partial denture framework
+	relation, maxillomandibular  : any one of the many relations of the mandible to the maxillae
+	relief, : mitigation or removal of pain or distress
+	relief, : reduction or elimination of pressure from a specific area under a denture base
+	resorption, root, : destruction of the cementum or dentin by cementoclastic or osteoclastic activity
+	restoration, implant, : single tooth implant crown or multiple tooth implant, crown, or bridge that replaces a missing tooth or teeth
+	retainer, :  portion of a fixed prosthesis
+	ridge, alveolar, : the bony ridge of the maxillae or mandible that contains the alveoli (sockets of the teeth)
+	rotation, : act of turning about an axis or a center
+	rotation, : movement of a tooth around its longitudinal axis
+	selection, shade, : determination of the color (hue, translucency) of the artificial tooth or set of teeth for a given patient
+	splint, : metal, acrylic resin, or modeling compound
+	stability, : quality of being physically or emotionally predictable, orderly, not readily moved
+	stem cell, : cells which can divide and differentiate into differing specialized cell types
+	sulcus  : space between the free gingival margin and the surface of the tooth
+	surface, occlusal, : anatomic superior surface of the mandibular posterior teeth and the inferior surface of the maxillary posterior teeth
+	surgery, : procedure performed by a surgeon
+	teeth, anterior, : incisor or canine front teeth
+	teeth, posterior, : maxillary and mandibular premolars and molars of the permanent dentition or the premolars and molars of prostheses
+	tooth mobility, : movability of a tooth
+	treatment, : mode or course pursued for remedial ends
+	trifurcation  : division into three parts or branches, as the three roots of a maxillary first molar
+	trismus  : spasms of the muscles of mastication
+	undercut, : portion of a tooth that lies between its height of contour and the gingivae, only if that portion is of less circumference than the height of contour
+	undercut, : contour of a cross-section of a residual ridge of dental arch
+	undercut, : contour of flasking stone
+	undercut, : portion of a prepared cavity that creates a mechanical lock or area of retention
+	unification, : act of uniting or the condition of being united (e.g., the result of joining the components of a removable partial denture by connectors)
+	wax elimination, : procedure of removing the wax from a wax pattern invested in a mold preparatory to the introduction of another material into the resulting cavity
+	waxing, : contouring of a wax pattern or the wax base of a trial denture into the desired form
+
+is_not : 
+	plane, occlusal, : a plane in the true sense of the word but represents the mean of the curvature of the surface
+
+limited_by : 
+	chewing, : the anatomic structure of the temporomandibular joints
+	movement, border, : bone, ligaments, or other soft tissues
+
+liquid : 
+	cement, zinc phosphate, : The principal constituents are phosphoric acid, water, and buffer agents
+
+located : 
+	abutment, intermediate, : between the abutments that form the ends of the prosthesis.
+	bar, lingual, : lingual to the dental arch that joins bilateral parts of a mandibular removable partial denture
+	mouth, floor of, : beneath the ventral surface of the tongue
+
+made_from : 
+	agar, hydrocolloid  : agar-agar
+	restoration, amalgam, : an alloy consisting of mercury and other metals (e.g., silver, copper, or tin), which is carved and contoured after placement in the tooth
+	restoration, ceramic, : metal and nonmetal compounds, which is carved and contoured before placement in the tooth
+	template, occlusal, : a wax occlusal path registration of jaw movements and against which the opposing supplied teeth are occluded
+
+made_of : 
+	sprue former, : metal or plastic to which the sprue is attached
+
+made_on : 
+	record, interocclusal, : occlusal surfaces of occlusal rims or teeth in a plastic material that hardens, such as plaster, wax, zinc oxide-eugenol paste, or acrylic resin.
+
+made_to : 
+	reciprocation  : counter the effect created by another part of the framework
+
+manifestations : 
+	fracture, tooth, : include dislocation or complete displacement of a tooth
+	periodontitis  : A transseptal band of reconstituted periodontal fibers (interdental) walls off the gingival inflammation from the underlying bone
+
+materials : 
+	bone augmentation, : autogenous, allogenous, xenogenous, or allopastic sources
+	cast, refractory, : that can withstand high temperatures without disintegrating and that, when used in partial denture casting techniques, expand to compensate for metal shrinkage
+
+may_be : 
+	retainer, : an inlay, partial crown, or complete crown
+	undercut, : desirable in a cavity to be filled with gold foil or amalgam but is undesirable in a cavity prepared for a restoration to be cemented
+
+may_describe : 
+	overlap, vertical, : the vertical relations of opposing cusps of posterior teeth
+
+may_occur_by : 
+	pressure, : compression, pull, or thrust
+
+may_result_from : 
+	atrophy  : a decrease in cell size, number of cells, or both
+
+maybe : 
+	bar, lingual, : the orthodontic splinting on the lingual of either the maxillary or mandibular anterior teeth to maintain position of the teeth over time
+	connector, nonrigid, : a precision or a nonprecision type of connector
+	core, amalgam, : retained by undercuts, slots, pins, or the pulp chamber of an endodontically treated tooth
+
+measured : 
+	arch, perimeter, : through the point of contacts around the arch from the mesial of the first molar to the mesial of the contralateral molar
+
+measurement_methods : 
+	occlusal vertical dimension  : including specific facial measurements that have been proved to be equal to the OVD
+
+named_by : 
+	resin  : their chemical composition, physical structure, and means for activation or curing
+
+natural teeth : 
+	arch, edentulous dental  : missing
+
+natural_teeth : 
+	arch, dental, : loss of some or all
+	arch, dentulous dental  : containing
+
+not_found : 
+	occlusion, bilateral balanced, : in young, unworn natural dentitions
+
+obtained_from : 
+	stem cell, : umbilical cord blood, bone marrow, adipose tissue, and blood
+
+obtained_in : 
+	retention, indirect, : a removable partial denture
+
+occasion : 
+	age determination, : from the stage of tooth development and/or pattern of wear.
+	age of onset, : the disease, affliction, or disability appeared
+	alginate  : when mixed with water in accurate proportions
+	arm, neutral position of, : while treating a patient that prevents cumulative trauma to the arm; incorporates proper placement of the wrist, elbow, and shoulder
+	pattern, wax, : when it is invested in a flask and the wax is eliminated
+	ridge, residual, : after the alveoli have disappeared from the alveolar process after extraction of the teeth
+
+occur_at : 
+	melanoma  : the site of a mole (mainly) or another site
+
+occur_in : 
+	melanoma  : skin as well as the oral cavity, where it usually would be a late finding
+
+one_of : 
+	prosthodontics  : nine recognized specialties in dentistry
+
+organs : 
+	immune system, : include bone marrow, thymus, and lymphoid tissue
+
+originates : 
+	muscle, geniohyoid  : on the genial tubercles of the mandible
+
+performed_to : 
+	tissue conditioning, : improve gingival health before subgingival scaling
+
+permits : 
+	occlusion, bilateral balanced, : an increase of the amount of surface contact in centric closure and provides as much closure contact as possible for horizontal chewing
+
+pertaining_to : 
+	prosthodontics  : diagnosis, treatment planning, rehabilitation and maintenance of the oral function, comfort, appearance, and health of patients with missing or deficient teeth and/or oral and maxillofacial tissues using biocompatible substitutes
+
+placed_on : 
+	rest, occlusal, : the occlusal surface of a posterior tooth
+
+position : 
+	abutment, screw, : final seating
+	arch wire, sectional, : usually on one side or in the anterior segment
+	cancer, oral, : in and around the oropharynx, gingiva, floor of the oral cavity, lower lip, and base of the tongue
+	crown, temporary, : placed on a tooth
+
+possesses : 
+	lymphocyte : a single spherical nucleus and a nongranular cytoplasm
+
+powders : 
+	cement, zinc phosphate, : are composed primarily of zinc oxide and magnesium oxides
+
+prepared_by : 
+	cement, zinc phosphate, : mixing a powder and a liquid
+
+produced_by : 
+	glass ionomer cement  : mixing a powder prepared from a calcium aluminosilicate glass and a liquid prepared from an aqueous solution of prepared polyacrylic acid
+	radiograph : radiation of structures
+
+produced_from : 
+	tumor, odontogenic  : tooth-forming tissue (e.g., odontogenic fibroma, odontogenic myxoma, ameloblastoma)
+
+prosthesis : 
+	rest, : affords vertical support for a restoration
+
+provides : 
+	occlusal splint, : a stable occlusal platform from which to reconstruct a functional occlusion
+
+purpose : 
+	adjustment, occlusal, : develop harmonious relationships between each other, their supporting structures, muscles of mastication, and temporomandibular joints.
+	orthognathic surgery, : alter relationships of dental arches and/or supporting bones
+
+purposes : 
+	abutment, healing, : to allow gingival tissues to heal prior to the placement of the permanent abutment, and to maintain proper spacing in the oral cavity before the final restoration (prosthesis) is placed.
+	arch wire, : to cause or guide orthodontic tooth movement
+	arm, reciprocal, : to oppose any force arising from an opposing clasp arm on the same tooth
+	authorization, : release protected health information
+	bone augmentation, : build or enhance a deficient area of bone
+	canal, root, : remove infected root canal tissue and replace removed tissue with restorative material
+	cast, diagnostic, : study and treatment planning
+	core, amalgam, : is to provide a rigid base for retention of a cast crown restoration
+	distortion, : so that the acoustic result only approximates the standard sound and is not accurate
+	graft, bone, : the new bone tissue meets the surrounding, unaffected surface and promotes healing and new growth
+	graft, gingival, : to provide a stable band of soft tissue around a tooth or implant
+	pattern, wax, : for making the mold in which the metal will be formed in casting
+	rest, incisal, : to supply support or indirect retention for a removable partial denture
+	rest, lingual, : to provide support or indirect retention for a removable partial denture
+	retainer, direct, : maintaining a removable restoration in its planned position in relation to oral structures
+	rim, occlusion, : making maxillomandibular relation records and arranging teeth
+
+purposes  : 
+	attachment, : retention and stabilization of a dental prosthesis
+
+radiographs_appear : 
+	cavity, nasal, : over the roots of the maxillary incisors as a large, segmented, radiolucent area
+
+removable_denture : 
+	placement, : in its planned location on the dental arch
+
+represents : 
+	articulator, crescent, : temporomandibular joints
+
+reproduced_from : 
+	cast, master, : an impression from which a prosthesis is to be fabricated
+
+required_for : 
+	preparation, surgical, : preparing the oral cavity for prosthodontic treatment
+
+resemble : 
+	restoration, ceramic, : natural teeth in strength, hardness, chemical inertness, and esthetic appearance
+
+resin : 
+	resin, thermoplastic, : may be softened by heat and hardened by cooling
+
+result_from : 
+	hypertrophy  : an increase in size of its constituent cells
+	tooth mobility, : loss of all or a portion of its attachment and supportive apparatus
+	wire, wrought, : the swaging, rolling, and drawing of a metal ingot into a desired shape and siz
+
+result_in : 
+	bruxism  : abnormal wear patterns on the teeth, periodontal breakdown, and joint or neuromuscular problems
+	trismus  : the inability to open the oral cavity
+
+retained_by : 
+	onlay, : frictional and mechanical factors in the preparation of the tooth and restores one or more cusps and adjoining occlusal surfaces of the tooth
+
+retainer : 
+	retainer, extracoronal, : in which the preparation and its cast restoration lie largely external to the body of the coronal portion of the tooth and complement the contour of the crown
+
+retching_reflex : 
+	gagging, : may be stimulated by something touching the posterior palate or throat region
+
+retention_or_resistance_to_displacement : 
+	retainer, extracoronal, : is developed between the inner surfaces of the casting and the external walls of the prepared tooth
+
+serve_as : 
+	tubercle, genial  : a point of insertion for the geniohyoid muscles
+
+should_exist : 
+	occlusion, centric, : when the mandible is in centric relation to the maxilla
+
+simulates : 
+	articulator, crescent, : jaw movement
+
+situated : 
+	canine  : one on each side of each jaw, distal to the lateral incisor
+	cavity, nasal, : on either side of the midline of the face, extend from the cranial base to the palate, and are separated from each other by a thin vertical septum
+
+stone : 
+	undercut, : interlocks to prevent the separation of parts
+
+sub_categories : 
+	abuse, substance, : medications, illicit drugs, legal substances with potential mood-altering effects (such as alcohol or tobacco), or substances whose primary use may not be for human consumption (such as inhalants).
+
+substance : 
+	cone, : guttapercha or silver having a tapered form similar in length and diameter to a root canal
+
+substances : 
+	abuse, substance, : misuse
+
+supported_by : 
+	overdenture, : retained roots that is intended to provide improved support, stability, and tactile and proprioceptive sensation and to reduce ridge resorption
+
+surface : 
+	plane, occlusal, : is related anatomically to the cranium and that theoretically touches the incisal edges of the incisors and tips of the occluding surfaces of the posterior teeth
+
+surfaces : 
+	surface, occlusal, : limited mesially and distally by marginal ridges, and buccally and lingually by the buccal and lingual boundaries of the cusp eminences
+
+symptom : 
+	trismus  : symptomatic of pericoronitis
+
+synonym : 
+	abutment  : pontic
+	abutment, UCLA, : castable abutment
+	alloy, cobalt-chromium, : Elgiloy
+	arch, branchial, : the pharyngeal arches
+	arch, edentulous dental  : the residual alveolar ridge
+	arch, lower, : the inferior dental arch
+	arch width, : intercanine distances, interpremolar distances, and intermolar distances
+	arm, reciprocal, : arm, retention
+	arm, retention, : retainer divet
+	bar, lingual, : connector, major; lingual bar
+	blindness, color, : achromatopsia
+	blockout, : waxout
+	calculus  : tartar
+	canine  : cuspid
+	cavity, nasal, : nasal fossa
+	chewing, : mastication
+	crown, : 
+	crown, veneer, : veneers
+	dentition, artificial, : denture
+	disharmony, occlusal  : contact, deflective occlusal; contact, interceptive occlusal; and malocclusion
+	esthetics  : spelled aesthetics
+	fremitus  : thrill
+	gingiva : gums
+	gingival fibroblast, : fibroblast
+	graft, : donor site; recipient site
+	gypsum  : plaster of paris
+	implant, transosteal  : transosseous implant; staple implant
+	lesion, carious, : dental caries; tooth cavities; caries
+	load, occlusal, : force, occlusal
+	macrophage  : histiocyte and monocyte
+	mastication  : chewing
+	movement, tooth, : mobility of teeth
+	mucosa  : mucous membrane
+	muscle, geniohyoid  : deglutition; mastication; muscle, hyoid
+	occlusal splint, : splint
+	open contact, : frenum and diastema
+	overdenture, : root retention; root submersion
+	overlap, horizontal, : overjet; overjut
+	path of placement, : placement, choice of path of
+	plane, occlusal, : curve of occlusion
+	pontic  : abutment
+	premolar, : bicuspid
+	process, alveolar, : ridge, alveolar
+	radiograph : x-ray
+	resin  : methyl methacrylate; varnish, cavity
+	resorption, root, : peripheral or external root resorption
+	ridge, alveolar, : process, alveolar
+	selection, shade, : tooth color selection
+	sprue former, : crucible former
+	swallowing, : deglutition
+	tooth, discoloration, : tooth, pigmentation
+	tooth mobility, : periodontitis, occlusal traumatism, and periodontosis
+	tumor, : neoplasm
+	tumor, odontogenic  : calcifying epithelial odontogenic tumor
+	wax elimination, : wax burnout
+	waxing, : waxing up
+
+synonym  : 
+	alginate  : hydrocolloid, irreversible
+
+technique : 
+	computed tomography  : in which thin or narrow layer sections of the body can be imaged for diagnostic purposes
+
+teeth : 
+	arch, partially edentulous dental, : not all are missing
+
+terminal : 
+	clasp, circumferential  : at least one being in the infrabulge area (cervical convergence)
+
+thermal_conductivity : 
+	conductivity, thermal, : is of great importance in dentistry, where a low thermal conductivity is desirable in restorative material and a high thermal conductivity is desirable when soft tissue is covered
+
+through : 
+	abutment, custom, : either machined or cast
+	anatomy, radiographic, : through which the roentgen rays (radiographs) have passed
+	arch wire, : fixed attachments
+
+tissue : 
+	bone, : dense, hard, and slightly elastic connective
+	gingiva : immediately surrounds the teeth
+	graft, pedicle  : remains attached near the donor site to nourish the graft during advancement of a skin graft
+
+tissue_band : 
+	ligament  : connects bones or supports viscera
+
+tissues : 
+	periodontium  : support the teeth
+
+trabecular_portion : 
+	process, alveolar, : continuous with the spongy bone of the body of the jaws
+
+upper_classification : 
+	periodontitis  : periodontal disease
+
+use : 
+	scanning, : using radioactive substances that have affinities for specific tissues
+	triclosan  : combined in an oral product to aid in reducing plaque within the oral cavity
+
+use_occasion : 
+	abutment, angulated  : when the implant is at a different inclination in relation to the proposed prosthesis.
+	abutment, custom, : where prefabricated abutments cannot be used.
+	abutment, healing, : during the second stage of dental restoration.
+	adjustment  : after insertion in the oral cavity
+	arch, passive lingual, : when bilateral primary molars are prematurely lost
+	bone augmentation, : in preparation for a dental implant site
+	connector, nonrigid, : where retainers or pontics are united by a joint permitting limited movement
+	crown, temporary, : while the final impression of the permanent crown is being cast
+	retainer, : during the period of functional adaptation following corrective treatment
+	wedge, : before placement of a direct restoration
+
+use_occasion  : 
+	connector, rigid, : where retainers or pontics are united by a soldered, cast, or welded joint
+
+used for : 
+	crown, porcelain jacket, : its appearance and tooth-bonding properties
+
+used_as : 
+	cement, zinc phosphate, : occasionally a temporary restoration
+	implant, : a prosthodontic abutment, it should remain quiescent and purely secondary to local tissue physiology
+	resin, acrylic, : a denture base material and also for trays and other dental restorations
+
+used_by : 
+	equipment, : the dental staff in the office in the performance of professional duties
+
+used_for : 
+	abutment  : support and retention of a fixed or removable prosthesis.
+	alginate  : making impressions or molds of the dentition
+	casting machine, : throwing or forcing a molten metal into a refractory mold
+	cement, zinc phosphate, : cementation of inlays, crowns, bridges, and orthodontic appliances
+	diamond, : used industrially and in dentistry for cutting and grinding
+	glass ionomer cement  : mainly small restorations on the proximal surfaces of anterior teeth and for restoration of eroded areas at the gingival margin
+	graft, : implantation
+	gutta-percha  : temporary sealing of dressings in cavities
+	muscle, geniohyoid  : mastication and swallowing
+	plaster, model, : diagnostic casts and as an investing material
+	retainer, : the fixation or stabilization of a prosthetic appliance
+	solution, pickling, : removing oxides and other impurities from the surface of dental castings, after recovery and before polishing (e.g., solutions of hydrochloric or sulfuric acid)
+	splint, : for the fixation of displaced or movable parts
+	stone, dental, : making casts and dies
+	wax, baseplate, : making occlusion rims and baseplates for occlusion rims
+	wax, boxing, : boxing impressions
+
+used_in : 
+	alloy, cobalt-chromium, : dentistry for metallic denture bases and partial dentures. orthodontics as an archwire
+	aluminum, : antacids, antiseptics, astringents, and styptics
+	aluminum oxide, : the fabrication of some endosseous implants) and polycrystal (a constituent of dental porcelain that increases viscosity and strength)
+	arch, passive lingual, : maintaining space and preserving arch length
+	articulator, crescent, : creating dental prostheses and evaluating casts
+	blockout, : the fabrication of a removable denture
+	calcination  : the manufacture of plaster and stone from gypsum
+	die, stone, : the fabrication of a dental restoration
+	flask, : investing procedures
+	gauge, undercut, : conjunction with a dental cast surveyor to measure the amount of infrabulge of a tooth in a horizontal plane
+	gutta-percha  : the form of cones for filling root canals and in the form of sticks for sealing cavities over treatmen
+	hydrocolloid : dentistry as elastic impression materials
+	rigidity, : in a connector, a reciprocal arm, or an indirect retaining unit of a removable partial denture
+	wire, wrought, : dentistry for partial denture clasps and orthodontic appliances
+
+used_on : 
+	arm, reciprocal, : a removable partial denture
+
+used_to : 
+	abutment, UCLA, : create a custom abutment for a prosthesis
+	beading, : transfer the design to the investment cast and ensure tissue contact of the major connector
+	cone, : fill the space once occupied by the pulp in the root of the tooth
+	connector, major, : join the units of one side of a removable partial denture to those located on the opposite side of the dental arch
+	crown, three-quarter, : designate a partial veneer crown
+	periodontal surgery  : treat disease or repair abnormalities in the periodontium and associated teeth
+	retainer, : maintain teeth in corrected positions
+	solder  : unite the edges or surfaces of two pieces of metal
+	splint, : fasten or confine
+	tray, impression, : carry impression material to the oral cavity, confine the material in apposition to the surfaces to be recorded, and control the impression material while it sets to form the impression
+	wedge, : seal the gingival margin of a cavity preparation 
+
+used_with : 
+	arch length, : interchangeably with arch perimeter
+	arch, perimeter, : interchangeably with arch length
+
+uses : 
+	aluminum carbonate gel, : antacid, prevention of phosphate stones, phosphate binder in chronic renal failure.
+	aluminum hydroxide, : antacid, hyperphosphatemia in chronic renal failure
+	computed tomography  : a computer-linked radiographic machine to focus the radiographs on a particular section of the body to be viewed
+
+width : 
+	arch width, : varies in all diameters between the right and left opposites, is determined by direct measurement between the canines, between the first molars, and between the second premolars
+
+with : 
+	arm, ADD-, cantilever, : one point contact
+

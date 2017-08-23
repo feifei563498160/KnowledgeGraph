@@ -1,0 +1,1294 @@
+(ROOT (S (NP (NN substance) (NN abuse)) (VP (VBZ is) (NP (NP (DT the) (NN misuse)) (PP (IN of) (NP (JJ legal) (CC or) (JJ illegal) (NNS substances))) (PP (IN with) (NP (DT the) (NN intent) (S (VP (TO to) (VP (VB alter) (NP (NP (DT some) (NN aspect)) (PP (IN of) (NP (DT the) (JJ user\u9225\u6a9a) (NN experience)))))))))))))
+(ROOT (S (NP (NNP May)) (VP (VBP include) (NP (NP (NNS medications)) (, ,) (NP (JJ illicit) (NNS drugs)) (, ,) (NP (NP (JJ legal) (NNS substances)) (PP (IN with) (NP (JJ potential) (JJ mood-altering) (NNS effects)))) (, ,) (CC or) (NP (NP (NNS substances)) (SBAR (WP$ whose) (S (NP (JJ primary) (NN use)) (VP (MD may) (RB not) (VP (VB be) (PP (IN for) (NP (JJ human) (NN consumption))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN abutment)) (VP (VBZ is) (NP (NP (DT a) (NN tooth) (, ,) (NN root) (, ,) (CC or) (NN implant)) (VP (VBN used) (PP (IN for) (NP (NP (NN support) (CC and) (NN retention)) (PP (IN of) (NP (DT a) (JJ fixed) (CC or) (JJ removable) (NNS prosthesis))))))))))
+(ROOT (S (VP (VB See) (ADJP (ADVP (RB also)) (JJ pontic)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ angulated) (NN abutment)) (VP (VBZ is) (NP (NP (DT an) (NN abutment)) (SBAR (WHNP (WP$ whose) (NN body)) (S (VP (VBZ is) (RB not) (ADJP (JJ parallel) (PP (TO to) (NP (NP (DT the) (JJ long) (NNS axis)) (PP (IN of) (NP (DT the) (NN implant)))))))))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (VP (VBN utilized) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN implant)) (VP (VBZ is) (PP (IN at) (NP (NP (DT a) (JJ different) (NN inclination)) (PP (IN in) (NP (NN relation))))) (PP (TO to) (NP (DT the) (VBN proposed) (NNS prosthesis))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN custom) (NN abutment)) (VP (VBZ is) (NP (NP (DT a) (ADJP (JJ custom-made)) (NN post)) (VP (VBN attached) (PP (PP (TO to) (NP (NP (DT the) (JJ superior) (NN part)) (PP (IN of) (NP (NP (DT the) (NN metal) (JJ dental) (NN implant)) (SBAR (WHNP (WDT that)) (S (VP (VBZ protrudes) (PP (IN through) (NP (DT the) (JJ gingival) (NNS tissues)))))))))) (CC and) (PP (IN onto) (SBAR (WHNP (WDT which)) (S (NP (DT the) (NN restoration)) (VP (VBZ is) (VP (VBN fitted))))))))))) (: ;) (S (ADVP (RB either)) (VP (VP (VBN machined) (CC or) (VBN cast)) (, ,) (CC and) (VP (VBN used) (PP (IN in) (NP (NP (NNS situations)) (SBAR (WHADVP (WRB where)) (S (NP (JJ prefabricated) (NNS abutments)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN used)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN healing) (NN abutment)) (VP (VBZ is) (NP (NP (DT a) (NN cylinder) (CC or) (NN screw)) (VP (VBN used) (PP (IN during) (NP (NP (DT the) (JJ second) (NN stage)) (PP (IN of) (NP (JJ dental) (NN restoration))))))))))
+(ROOT (S (NP (DT This)) (VP (VBZ serves) (NP (NP (CD two) (NNS purposes)) (: :) (S (VP (TO to) (VP (VB allow) (NP (JJ gingival) (NNS tissues)) (S (VP (VP (TO to) (VP (VB heal) (PP (RB prior) (PP (TO to) (NP (NP (DT the) (NN placement)) (PP (IN of) (NP (DT the) (JJ permanent) (NN abutment)))))))) (, ,) (CC and) (VP (TO to) (VP (VB maintain) (NP (JJ proper) (NN spacing)) (PP (IN in) (NP (DT the) (JJ oral) (NN cavity))) (SBAR (IN before) (S (NP (DT the) (JJ final) (NN restoration)) (VP (VBZ is) (ADJP (VBN placed))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ intermediate) (NN abutment)) (VP (VBZ is) (NP (NP (DT an) (NN abutment)) (VP (VBN located) (PP (IN between) (NP (NP (DT the) (NNS abutments)) (SBAR (WHNP (WDT that)) (S (VP (VBP form) (NP (NP (DT the) (NNS ends)) (PP (IN of) (NP (DT the) (NNS prosthesis))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ multiple) (NN abutment)) (VP (VBP are) (NP (NP (DT the) (NNS abutments)) (VP (VBN splinted) (PRT (RP together)) (PP (IN as) (NP (DT a) (NN unit) (S (VP (TO to) (VP (VB support) (CC and) (VB retain) (NP (DT a) (VBN fixed) (NNS prosthesis))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ prefabricated) (NN abutment)) (VP (VBZ is) (NP (NP (DT a) (JJ machine-manufactured) (NN post)) (VP (VBN attached) (PP (PP (TO to) (NP (NP (DT the) (JJ superior) (NN part)) (PP (IN of) (NP (NP (DT a) (JJ dental) (NN implant)) (SBAR (WHNP (WDT that)) (S (VP (VBZ protrudes) (PP (IN through) (NP (DT the) (JJ gingival) (NNS tissues)))))))))) (CC and) (PP (IN onto) (SBAR (WHNP (WDT which)) (S (NP (DT a) (NN restoration)) (VP (VBZ is) (VP (VBN fitted))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ preparable) (NN abutment)) (VP (VBZ is) (NP (NP (DT a) (JJ dental) (NN implant) (NN abutment)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN prepared) (CC and) (VBN changed) (PP (IN from) (NP (DT the) (JJ manufacturer\u9225\u6a9a) (JJ original) (NN design))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN screw) (NN abutment)) (VP (VBZ is) (NP (NP (DT a) (NN screw)) (SBAR (WHNP (WDT that)) (S (VP (VBZ secures) (NP (DT an) (NN abutment)) (PP (TO to) (NP (DT an) (NN implant))))))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB usually)) (VP (VBN torqued) (PP (TO to) (NP (DT a) (JJ final) (NN seating) (NN position)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NNP UCLA) (NNP abutment)) (VP (VBZ is) (NP (NP (DT a) (NN cast) (NN component)) (VP (VBN used) (S (VP (TO to) (VP (VB create) (NP (DT a) (NN custom) (NN abutment)) (PP (IN for) (NP (DT a) (NNS prosthesis)))))))))))
+(ROOT (VP (ADVP (RB Also)) (VBN known) (PP (IN as) (NP (DT a) (JJ castable) (NN abutment)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN adjustment)) (VP (VBZ is) (NP (NP (NP (DT a) (NN modification)) (PP (IN of) (NP (DT a) (NN restoration)))) (CC or) (NP (PP (IN of) (NP (NP (DT a) (NN denture)) (PP (IN after) (NP (NN insertion))))) (PP (IN in) (NP (DT the) (JJ oral) (NN cavity))))))))
+--------
+~~~~~~~
+(ROOT (S (PP (IN in) (NP (NNS orthodontics))) (NP (NN adjustment)) (VP (VBZ is) (NP (NP (DT a) (NN change)) (PP (IN of) (NP (NP (JJ elastic) (NNS ligatures)) (CC or) (NP (JJ elastic) (NN chain) (CC and) (NN arch) (NN wire))))) (SBAR (IN if) (S (VP (VBD needed) (, ,) (ADVP (RB once) (PP (IN in) (NP (DT every) (CD 4-6) (NNS weeks))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (NN adjustment)) (VP (VBZ is) (NP (NP (DT a) (VBG grinding)) (PP (IN of) (NP (NP (DT the) (VBG occluding) (NNS surfaces)) (PP (IN of) (NP (NNS teeth))))) (S (VP (TO to) (VP (VB develop) (NP (NP (JJ harmonious) (NNS relationships)) (PP (IN between) (NP (NP (DT each) (JJ other)) (, ,) (NP (PRP$ their) (JJ supporting) (NNS structures)) (, ,) (NP (NP (NNS muscles)) (PP (IN of) (NP (NN mastication)))) (, ,) (CC and) (NP (NN temporomandibular) (NNS joints))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ hydrocolloid) (NN agar)) (VP (VBZ is) (NP (NP (DT a) (JJ reversible) (NN hydrocolloid)) (VP (VBN made) (PP (IN from) (NP (NN agar-agar))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ biological) (NN age)) (VP (VBZ is) (NP (NP (DT the) (NN age)) (VP (VBN determined) (PP (IN by) (NP (NP (NN physiology)) (CONJP (RB rather) (IN than)) (NP (NN chronology)))))))))
+(ROOT (S (NP (NNS Factors)) (VP (VBP include) (NP (NP (NP (NNS changes)) (PP (IN in) (NP (NP (DT the) (JJ physical) (NN structure)) (PP (IN of) (NP (DT the) (NN body)))))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNS changes)) (PP (IN in) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NP (NN motor) (NNS skills)) (CC and) (NP (JJ sensory) (NN awareness)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ chronologic) (NN age)) (VP (VBZ is) (NP (NP (DT a) (NN age)) (VP (VBN determined) (PP (IN by) (NP (NP (DT the) (NN passage)) (PP (IN of) (NP (NN time))))) (PP (IN since) (NP (NN birth))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ dental) (NN age)) (VP (VBZ is) (NP (NP (DT a) (NN age)) (VP (VBN determined) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN eruption) (NN stage)) (PP (IN of) (NP (NN dentition)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN age) (NN determination)) (VP (VBZ is) (NP (NP (DT an) (NN estimate)) (PP (IN of) (NP (NP (NN age)) (PP (IN from) (NP (NP (DT the) (NN stage)) (PP (IN of) (NP (NP (NN tooth) (NN development) (NN and/or) (NN pattern)) (PP (IN of) (NP (NN wear)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN age) (NN distribution)) (VP (VBZ is) (NP (NP (DT a) (NN grouping)) (PP (IN of) (NP (NP (DT the) (NNS persons)) (PP (IN within) (NP (NP (DT a) (NN population)) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NN birth) (NN date)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN age) (NNS factors)) (VP (VBP are) (NP (NP (DT the) (NNS variables)) (VP (VBN affected) (PP (IN by) (NP (NN time))) (PP (IN since) (NP (NN birth))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NP (NN age)) (PP (IN of) (NP (NN onset)))) (VP (VBZ is) (NP (NP (DT the) (JJ chronologic) (NN age)) (PP (IN of) (NP (NP (DT the) (NN patient)) (SBAR (WHPP (IN at) (WHNP (WDT which))) (S (NP (NP (DT the) (NN disease)) (, ,) (NP (NN affliction)) (, ,) (CC or) (NP (NN disability))) (VP (VBD appeared))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ psychological) (NN age)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB subjectively) (VBN experienced)) (NN age)) (VP (VBN based) (PP (IN on) (NP (DT a) (NN person) (NNP \u2019) (NNP s) (NN behavior)))) (, ,) (CC or) (NP (NP (NN 'how) (JJ old)) (SBAR (S (NP (PRP they)) (VP (VBP feel)))))))))
+(ROOT (INTJ (UH ')))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ skeletal) (NN age)) (VP (VBZ is) (NP (NP (DT the) (NN age)) (PP (VBN based) (PP (IN on) (NP (NP (JJ skeletal) (NNS measurements)) (ADVP (JJ relative) (PP (TO to) (NP (JJ chronological) (JJ skeletal) (NN development)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN alginate)) (VP (VBZ is) (NP (NP (DT a) (NN salt)) (PP (IN of) (NP (NP (JJ alginic) (NN acid)) (, ,) (SBAR (WHNP (WDT which)) (S (, ,) (SBAR (WHADVP (WRB when)) (S (ADJP (JJ mixed) (PP (IN with) (NP (NP (NN water)) (PP (IN in) (NP (ADJP (JJ accurate)) (NNS proportions)))))))) (, ,) (VP (VBZ forms) (NP (NP (DT an) (JJ irreversible) (JJ hydrocolloid) (NN gel)) (VP (VBN used) (PP (IN for) (S (VP (VBG making) (NP (NP (NNS impressions) (CC or) (NNS molds)) (PP (IN of) (NP (DT the) (NN dentition))))))))))))))))))
+(ROOT (S (VP (VB See) (S (VP (ADVP (RB also)) (VBN hydrocolloid))) (, ,) (VB irreversible))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN tooth) (NN alignment)) (VP (VBZ is) (NP (NP (DT the) (NN arrangement)) (PP (IN of) (NP (NP (DT the) (NNS teeth)) (PP (IN in) (NP (NP (NN relationship)) (PP (TO to) (NP (NP (PRP$ their) (VBG supporting) (NN bone)) (, ,) (NP (JJ adjacent) (NNS teeth)) (, ,) (CC and) (NP (VBG opposing) (NN dentition))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ cobalt-chromium) (NN alloy)) (VP (VBZ is) (NP (DT a) (JJ base) (NN metal) (NN alloy)))))
+(ROOT (VP (VBN Used) (PP (IN in) (NP (NP (NN dentistry)) (PP (IN for) (NP (NP (JJ metallic) (NN denture) (NNS bases)) (CC and) (NP (JJ partial) (NNS dentures))))))))
+(ROOT (VP (ADVP (RB Also)) (VBN used) (PP (IN in) (NP (NP (NNS orthodontics)) (PP (IN as) (NP (DT an) (NN archwire)))))))
+(ROOT (NP (NP (CD Four) (NNS types)) (PP (VBN based) (PP (IN on) (NP (NP (NN level)) (PP (IN of) (NP (NN resilience))))))))
+(ROOT (VP (ADVP (RB Also)) (VBN known) (PP (IN as) (NP (NNP Elgiloy)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ nickel-chromium) (NN alloy)) (VP (VBZ is) (NP (DT a) (JJ stainless) (NN steel)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN aluminum)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB widely) (VBN used)) (JJ metallic) (NN element)) (CC and) (NP (NP (NP (DT the) (JJ third)) (ADJP (RBS most) (JJ abundant))) (PP (IN of) (NP (PDT all) (DT the) (NNS elements))))))))
+(ROOT (S (NP (NNP Aluminum)) (VP (VBZ is) (NP (NP (DT a) (JJ principal) (NN component)) (PP (IN of) (NP (NP (JJ many) (NNS compounds)) (VP (VBN used) (PP (IN in) (NP (NNS antacids) (, ,) (NNS antiseptics) (, ,) (NNS astringents) (, ,) (CC and) (NNS styptics))))))))))
+(ROOT (S (NP (NNP Aluminum) (NNP hydroxychloride)) (VP (VBZ is) (NP (NP (DT the) (ADJP (RBS most) (RB commonly) (VBN used)) (NN agent)) (PP (IN in) (NP (NNS antiperspirants)))))))
+--------
+~~~~~~~
+(ROOT (FRAG (NP (NN brand) (NN name)) (: :) (NP (NP (NNP Basajel)) (: ;) (NP (NN drug) (NN class))) (: :) (VP (VBN antacid) (S (: ;) (S (NP (NP (NNS actions)) (: :) (NP (NP (JJ neutralizes) (JJ gastric) (JJ acidity) (, ,) (JJ binds) (NNS phosphates)) (PP (IN in) (NP (NNP GI) (NN tract)))) (: ;)) (VP (VBZ uses))) (: :) (S (NP (NP (NN antacid)) (, ,) (NP (NP (NN prevention)) (PP (IN of) (NP (JJ phosphate) (NNS stones)))) (, ,)) (VP (VBP phosphate) (NP (NP (NN binder)) (PP (IN in) (NP (JJ chronic) (JJ renal) (NN failure))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN aluminum) (NNS filters/disks)) (VP (VBZ is) (NP (NP (DT the) (ADJP (RB extremely) (JJ thin)) (NNS pieces)) (PP (IN of) (NP (NN aluminum))) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN placed) (PP (IN over) (NP (NP (DT the) (NN aperture)) (PP (IN of) (NP (DT the) (JJ radiographic) (NN tube))))) (S (VP (TO to) (VP (VB eliminate) (NP (NNPS x-rays)) (PP (IN over) (NP (DT a) (JJ certain) (NN wavelength))))))))))))))
+--------
+~~~~~~~
+(ROOT (NP (NP (NN brand) (NNS names)) (: :) (NP (NP (NNP AlternaGEL)) (, ,) (NP (NN Alu-Cap)) (, ,) (NP (NNP Alu-) (NNP Tab)) (, ,) (NP (NP (NNP Amphojel)) (, ,) (NP (NNP Dialume)) (: ;) (NP (NN drug) (NN class)) (: :) (NP (NN antacid)) (: ;) (NP (NN action)) (: :) (RB neutralizes) (NP (JJ gastric) (NN acidity))) (, ,) (NP (NP (NP (JJ binds) (NNS phosphates)) (PP (IN in) (NP (NNP GI) (NN tract)))) (: ;) (NP (NP (NNS uses)) (: :) (NP (NP (NN antacid)) (, ,) (NP (NP (NN hyperphosphatemia)) (PP (IN in) (NP (JJ chronic) (JJ renal) (NN failure))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN aluminum) (NN oxide)) (VP (VBZ is) (NP (NP (DT a) (JJ metallic) (NN oxide)) (SBAR (WHNP (WDT that)) (S (VP (VBZ includes) (NP (ADJP (NN alpha) (JJ single)) (NN crystal) (CC and) (NN polycrystal)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (NN analysis)) (VP (VBZ is) (NP (NP (DT a) (NN study)) (PP (IN of) (NP (NP (DT the) (NNS relations)) (PP (IN of) (NP (NP (DT the) (JJ occlusal) (NNS surfaces)) (PP (IN of) (NP (NP (DT the) (VBG opposing) (NNS teeth)) (CC and) (NP (PRP$ their) (ADJP (JJ functional)) (NN harmony))))))))))))
+--------
+~~~~~~~
+(ROOT (SINV (ADVP (RB anatomy)) (VP (VBZ is)) (NP (NP (NP (DT the) (NN science)) (PP (IN of) (NP (DT the) (NN form)))) (, ,) (NP (NN structure)) (, ,) (CC and) (NP (NP (NNS parts)) (PP (IN of) (NP (NN animal) (NNS organisms)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ dental) (NN anatomy)) (VP (VBZ is) (NP (NP (DT the) (NN science)) (PP (IN of) (NP (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (DT the) (NNS teeth)))) (CC and) (NP (NP (DT the) (NN relationship)) (PP (IN of) (NP (PRP$ their) (NNS parts))))))))))
+(ROOT (S (NP (DT The) (NN study)) (VP (VBZ involves) (NP (JJ macroscopic) (CC and) (JJ microscopic) (NNS components)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN head) (CC and) (NN neck) (NN anatomy)) (VP (VBZ is) (NP (NP (DT the) (NN study)) (PP (IN of) (NP (NP (DT the) (NN head) (CC and) (NN neck) (NNS regions)) (PP (IN of) (NP (DT the) (NN body)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ radiographic) (NN anatomy)) (VP (VBZ is) (NP (NP (DT the) (NNS images)) (PP (IN on) (NP (NP (DT a) (JJ radiographic) (NN film)) (PP (IN of) (NP (DT the) (JJ combined) (JJ anatomic) (NNS structures))))) (SBAR (WHPP (IN through) (WHNP (WDT which))) (S (NP (DT the) (NN roentgen) (NNS rays)) (VP (VBP have) (VP (VBN passed)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN arch)) (VP (VBZ is) (NP (NP (DT a) (NN structure)) (PP (IN with) (NP (DT a) (JJ curved) (NN outline))) (, ,) (PP (JJ such) (IN as) (NP (NN bone)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ arch) (NN anterior)) (VP (VBZ is) (NP (NP (DT an) (NN arch)) (PP (IN of) (NP (NP (DT the) (NNS atlas)) (CC or) (NP (JJ first) (JJ cervical) (NN vertebra))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ dental) (NN arch)) (VP (VBZ is) (NP (NP (DT the) (JJ composite) (NN structure)) (PP (IN of) (NP (NP (DT the) (NN dentition) (CC and) (NN alveolar) (NN ridge)) (CC or) (NP (DT the) (NNS remains))))) (ADVP (RB thereof)) (PP (IN after) (NP (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (DT some)))) (CC or) (NP (NP (DT all)) (PP (IN of) (NP (DT the) (JJ natural) (NNS teeth)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ dentulous) (JJ dental) (NN arch)) (VP (VBZ is) (NP (NP (DT a) (JJ dental) (NN arch)) (VP (VBG containing) (NP (JJ natural) (NNS teeth)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ edentulous) (JJ dental) (NN arch)) (VP (VBZ is) (NP (NP (DT a) (JJ dental) (NN arch)) (SBAR (WHPP (IN from) (WHNP (WDT which))) (S (NP (DT all) (JJ natural) (NNS teeth)) (VP (VBP are) (ADJP (VBG missing)))))))))
+(ROOT (SINV (ADVP (RB Also)) (VP (VBD called)) (NP (DT the) (JJ residual) (NN alveolar) (NN ridge))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (JJ high) (JJ labial) (NN arch)) (VP (VBZ is) (NP (NP (DT a) (JJ labial) (NN arch) (NN wire)) (VP (VBN adapted) (SBAR (RB so) (IN that) (S (NP (PRP it)) (VP (VBZ lies) (NP (ADJP (JJ gingival) (PP (TO to) (NP (DT the) (NN anterior) (NN tooth)))) (NNS crowns))))))))) (: ;) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (JJ auxiliary) (NNS springs)) (VP (VBG extending) (ADVP (RB downward)) (PP (IN in) (NP (NN contact))) (PP (IN with) (NP (DT the) (NNS teeth))) (S (VP (TO to) (VP (VB be) (VP (VBN moved)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ arch) (NN length)) (VP (VBZ is) (NP (NP (DT the) (NN distance)) (PP (IN from) (NP (NP (DT a) (NN line) (NN perpendicular)) (PP (PP (TO to) (NP (NP (DT the) (JJ mesial) (NN surface)) (PP (IN of) (NP (DT the) (JJ permanent) (JJ first) (NNS molars))))) (PP (TO to) (NP (NP (DT the) (NN contact) (NN point)) (PP (IN of) (NP (DT the) (JJ central) (NNS incisors))))))))))))
+(ROOT (VP (ADVP (RB Often)) (VBN used) (ADVP (RB interchangeably)) (PP (IN with) (NP (JJ arch) (NN perimeter)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ available) (NN arch) (NN length)) (VP (VBZ is) (NP (NP (DT the) (NN space)) (ADJP (JJ available) (PP (IN for) (NP (DT all) (NNS teeth))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN deficiency) (NN arch) (NN length)) (VP (VBZ is) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NP (JJ required)) (CC and) (NP (JJ available) (NN arch) (NN length))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (VBN required) (NN arch) (NN length)) (VP (VBZ is) (NP (NP (DT the) (NN sum)) (PP (IN of) (NP (NP (DT the) (JJ mesiodistal) (NNS widths)) (PP (IN of) (NP (DT all) (NNS teeth)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJR lower) (NN arch)) (VP (VBZ is) (NP (NP (DT the) (JJ archlike) (NN curve)) (PP (IN of) (NP (NP (DT the) (JJ cutting) (NNS edges) (CC and) (NNS surfaces)) (PP (IN of) (NP (NP (DT the) (NNS teeth)) (PP (IN on) (NP (DT the) (NN mandible)))))))))))
+(ROOT (VP (ADVP (RB Also)) (VBN known) (PP (IN as) (NP (DT the) (JJ inferior) (JJ dental) (NN arch)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ ovoid) (NN arch)) (VP (VBZ is) (NP (NP (DT an) (NN arch)) (SBAR (WHNP (WDT that)) (S (VP (VBZ curves) (ADVP (RB continuously)) (PP (IN from) (NP (NP (DT the) (NNS molars)) (PP (IN on) (NP (CD one) (NN side))))) (PP (TO to) (NP (NP (DT the) (NNS molars)) (PP (IN on) (NP (DT the) (JJ opposite) (NN side))))))))) (SBAR (RB so) (IN that) (S (NP (CD two) (JJ such) (NNS arches)) (VP (VBD placed) (PRT (RP back)) (S (VP (TO to) (VP (ADVP (RB back)) (VB describe) (NP (DT an) (NN oval)))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (JJ palatine) (NN arch)) (VP (VBZ is) (NP (NP (DT the) (NNS pillars)) (PP (IN of) (NP (DT the) (NNS fauces)))))) (: ;) (S (NP (JJ palatine) (NN arch)) (VP (VBZ is) (NP (NP (DT the) (CD two) (NNS arches)) (PP (IN of) (NP (NP (NNS mucous)) (VP (VBN membrane) (S (VP (VBG enclosing) (NP (DT the) (NNS muscles)) (PP (IN at) (NP (NP (DT the) (NNS sides)) (PP (IN of) (NP (NP (DT the) (NN passage)) (PP (IN from) (NP (DT the) (JJ oral) (NN cavity))))))) (PP (TO to) (NP (DT the) (NN pharynx)))))))))))))
+--------
+~~~~~~~
+(ROOT (SINV (ADVP (RB partially)) (VP (VBZ edentulous) (SBAR (S (NP (JJ dental) (NN arch)) (VP (VBZ is) (NP (DT a) (JJ dental) (NN arch)))))) (SBAR (WHPP (IN from) (WHNP (WDT which))) (S (NP (NP (NP (CD one)) (CC or) (NP (JJR more))) (CONJP (CC but) (RB not)) (NP (DT all) (NNS teeth))) (VP (VBP are) (ADJP (VBG missing)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ passive) (JJ lingual) (NN arch)) (VP (VBZ is) (NP (NP (DT an) (JJ orthodontic) (NN appliance)) (PP (JJ effective) (IN in) (S (VP (VP (VBG maintaining) (NP (NN space))) (CC and) (VP (VBG preserving) (NP (JJ arch) (NN length)) (SBAR (WHADVP (WRB when)) (S (NP (JJ bilateral) (JJ primary) (NNS molars)) (VP (VBP are) (ADVP (RB prematurely)) (VP (VBN lost)))))))))))))
+--------
+~~~~~~~
+(ROOT (SBARQ (WHNP (WDT perimeter) (NN arch)) (SQ (VBZ is) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (DT the) (JJ dental) (NN arch)))) (VP (ADVP (RB usually)) (VBN measured) (PP (IN through) (NP (NP (DT the) (NN point)) (PP (IN of) (NP (NP (NNS contacts)) (PP (IN around) (NP (NP (DT the) (NN arch)) (PP (IN from) (NP (NP (DT the) (NN mesial)) (PP (IN of) (NP (DT the) (JJ first) (NN molar))))))))))) (PP (TO to) (NP (NP (DT the) (NN mesial)) (PP (IN of) (NP (DT the) (JJ contralateral) (NN molar)))))))))
+(ROOT (VP (ADVP (RB Often)) (VBN used) (ADVP (RB interchangeably)) (PP (IN with) (NP (JJ arch) (NN length)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN posterior) (NN arch)) (VP (VBZ is) (NP (NP (DT an) (NN arch)) (PP (IN on) (NP (DT the) (JJ first) (JJ cervical) (NN vertebra)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ removable) (JJ lingual) (NN arch)) (VP (VBZ is) (NP (NP (DT an) (JJ arch) (NN wire)) (VP (VBN designed) (S (VP (TO to) (VP (VB fit) (NP (NP (DT the) (JJ lingual) (NN surface)) (PP (IN of) (NP (DT the) (NNS teeth))))))))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ has) (NP (NP (CD two) (NNS posts)) (VP (VBN soldered) (PP (IN on) (NP (NP (DT each) (NN end)) (SBAR (WHNP (WDT that)) (S (VP (VBP fit) (ADVP (RB snugly)) (PP (IN into) (NP (NP (DT the) (JJ vertical) (NNS tubes)) (PP (IN of) (NP (DT the) (JJ molar) (CD anchor) (NNS bands)))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ stationary) (JJ lingual) (NN arch)) (VP (VBZ is) (NP (NP (DT an) (JJ arch) (NN wire)) (VP (VP (VBN designed) (S (VP (TO to) (VP (VB fit) (NP (NP (DT the) (JJ lingual) (NN surface)) (PP (IN of) (NP (DT the) (NNS teeth)))))))) (CC and) (VP (VBN soldered) (PP (TO to) (NP (DT the) (JJ anchor) (NNS bands)))))))))
+--------
+~~~~~~~
+(ROOT (SBARQ (WHNP (WDT tapering) (NN arch)) (SQ (VBZ is) (NP (NP (DT a) (JJ dental) (NN arch)) (SBAR (WHNP (WDT that)) (S (VP (VBZ converges) (PP (IN from) (NP (NP (NNS molars)) (PP (TO to) (NP (NP (JJ central) (NNS incisors)) (PP (TO to) (NP (PDT such) (DT an) (NN extent))))))) (SBAR (IN that) (S (NP (NP (NNS lines)) (VP (VBG passing) (PP (IN through) (NP (NP (DT the) (JJ central) (NN grooves)) (PP (IN of) (NP (DT the) (NNS molars) (CC and) (NNS premolars) (NN intersect))))) (PP (IN within) (NP (CD 1))))) (VP (VB inch) (NP (NN anterior)) (PP (TO to) (NP (DT the) (JJ central) (NNS incisors)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ trapezoidal) (NN arch)) (VP (VBZ is) (NP (NP (DT an) (NN arch)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (NP (NP (DT the) (JJ same) (NN convergence)) (PP (PP (IN as) (NP (DT a) (JJ tapering) (NN arch))) (CC but) (PP (TO to) (NP (DT a) (JJR lesser) (NN degree))))))))))))
+(ROOT (S (NP (DT The) (NN anterior) (NNS teeth)) (VP (VBP are) (ADJP (RB somewhat) (RB square) (PP (TO to) (VP (ADVP (RB abruptly)) (ADJP (JJ rounded) (PP (IN from) (NP (JJ canine) (NN tip)))) (PP (TO to) (NP (JJ canine) (NN tip)))))))))
+(ROOT (S (NP (DT The) (NNS canines)) (VP (VBP act) (PP (IN as) (NP (NP (NNS corners)) (PP (IN of) (NP (DT the) (NN arch))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ U-shaped) (NN arch)) (VP (VBZ is) (NP (NP (NP (DT a) (JJ dental) (NN arch)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (EX there)) (VP (VBZ is) (NP (NP (JJ little) (NN difference)) (PP (IN in) (NP (NP (NN diameter)) (PP (IN between) (NP (NP (DT the) (JJ first) (NNS premolars)) (CC and) (NP (DT the) (JJ last) (NNS molars))))))))))) (: ;) (S (S (NP (JJ U-shaped) (NN arch)) (VP (VBZ is) (NP (NP (DT the) (NN curve)) (PP (IN from) (NP (NP (QP (CD canine) (TO to) (CD canine))) (SBAR (S (VP (VBZ is) (ADJP (JJ abrupt)))))))))) (, ,) (IN so) (S (NP (NP (DT a) (JJ dental) (NN arch)) (PP (IN in) (NP (NP (DT the) (NN shape)) (PP (IN of) (NP (DT a) (NN capital) (NNP U)))))) (VP (VBZ is) (VP (VBN formed)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ arch) (NN width)) (VP (VBZ is) (NP (NP (DT the) (NN width)) (PP (IN of) (NP (DT a) (JJ dental) (NN arch)))))))
+(ROOT (S (NP (NP (DT The) (NN width)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ varies) (PP (IN in) (NP (NP (DT all) (NNS diameters)) (PP (IN between) (NP (DT the) (ADJP (JJ right) (CC and) (JJ left)) (NNS opposites)))))))) (, ,)) (VP (VBZ is) (VP (VBN determined) (PP (PP (IN by) (NP (NP (JJ direct) (NN measurement)) (PP (IN between) (NP (DT the) (NNS canines))))) (, ,) (PP (IN between) (NP (DT the) (JJ first) (NNS molars))) (, ,) (CC and) (PP (IN between) (NP (DT the) (JJ second) (NNS premolars))))))))
+(ROOT (S (NP (NP (DT These) (NN intercanine)) (, ,) (NP (NN interpremolar)) (, ,) (CC and) (NP (NN intermolar) (NNS distances))) (VP (MD can) (VP (VB be) (VP (VBN cited) (PP (IN as) (NP (JJ arch) (NN width))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ arch) (NN wire)) (VP (VBZ is) (NP (NP (DT a) (NN wire)) (VP (VBN applied) (PP (TO to) (NP (QP (CD two) (CC or) (JJR more)) (NNS teeth))) (PP (IN through) (NP (JJ fixed) (NNS attachments))) (S (VP (TO to) (VP (VB cause) (CC or) (VB guide) (NP (JJ orthodontic) (NN tooth) (NN movement))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ full) (NN arch) (NN wire)) (VP (VBZ is) (NP (NP (DT a) (NN wire)) (VP (VBG extending) (PP (IN from) (NP (NP (DT the) (NN molar) (NN region)) (PP (IN of) (NP (NP (CD one) (NN side)) (PP (IN of) (NP (DT an) (NN arch))))))) (PP (TO to) (NP (DT the) (JJ other))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ sectional) (NN arch) (NN wire)) (VP (VBZ is) (NP (NP (DT a) (NN wire)) (VP (VBG extending) (PP (PP (TO to) (NP (QP (RB only) (DT a) (JJ few)) (NNS teeth))) (, ,) (RB usually) (PP (IN on) (NP (CD one) (NN side))) (CC or) (PP (IN in) (NP (DT the) (NN anterior) (NN segment)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN arm)) (VP (VBZ is) (NP (NP (DT an) (NN extension) (CC or) (NN projection)) (PP (IN of) (NP (DT a) (JJ removable) (JJ partial) (NN denture) (NN framework)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN cantilever) (NN ADD-) (NN arm)) (VP (VBZ is) (NP (NP (DT an) (NN end)) (PP (IN of) (NP (NP (NN wire)) (VP (VBN engaged) (PP (TO to) (NP (NP (CD one) (NN tooth)) (CC or) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NP (NNS teeth)) (PP (IN with) (NP (CD one) (NN point) (NN contact)))))))) (S (VP (TO to) (VP (VB bring) (PP (IN about) (NP (VBN desired) (NN tooth) (NN movement)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NP (JJ neutral) (NN position)) (PP (IN of) (NP (NN arm)))) (VP (VBZ is) (NP (DT a) (NN body) (NN position) (S (VP (TO to) (VP (VB be) (VP (VBN assumed) (PP (IN while) (S (VP (VBG treating) (NP (NP (DT a) (NN patient)) (SBAR (WHNP (WDT that)) (S (VP (VBZ prevents) (NP (JJ cumulative) (NN trauma)) (PP (TO to) (NP (DT the) (NN arm))))))))))))))))) (: ;) (S (NP (NP (JJ neutral) (NN position)) (PP (IN of) (NP (NN arm)))) (VP (VBP are) (NP (NP (DT the) (JJ incorporates) (JJ proper) (NN placement)) (PP (IN of) (NP (NP (DT the) (NN wrist)) (, ,) (NP (NN elbow)) (, ,) (CC and) (NP (NN shoulder)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ reciprocal) (NN arm)) (VP (VBZ is) (NP (NP (DT a) (NN clasp) (NN arm)) (VP (VBN used) (PP (IN on) (NP (DT a) (JJ removable) (JJ partial) (NN denture))) (S (VP (TO to) (VP (VB oppose) (NP (NP (DT any) (NN force)) (VP (VBG arising) (PP (IN from) (NP (NP (DT an) (JJ opposing) (NN clasp) (NN arm)) (PP (IN on) (NP (DT the) (JJ same) (NN tooth)))))))))))))))
+(ROOT (VP (VB See) (ADVP (RB also)) (NP (NP (NN arm)) (, ,) (NP (NN retention)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN retention) (NN arm)) (VP (VBZ is) (NP (NP (DT an) (NN extension) (CC or) (NN projection)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (DT a) (JJ removable) (JJ partial) (NN denture))))) (CC and) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB aid) (PP (IN in) (NP (NP (DT the) (NN retention) (CC and) (NN stabilization)) (PP (IN of) (NP (DT the) (NN restoration)))))))))))))))))
+(ROOT (SINV (VP (VB See) (ADVP (RB also))) (NP (CD retainer) (NN divet))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN arrangement)) (VP (VBZ is) (NP (NP (DT the) (NN pattern)) (SBAR (WHPP (IN into) (WHNP (WDT which))) (S (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NNS things)))) (VP (VBZ is) (VP (VBN organized)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ financial) (NN arrangement)) (VP (VBZ is) (NP (NP (DT an) (NN agreement)) (PP (IN between) (NP (NP (DT the) (JJ dental) (NN provider) (CC and) (NN patient)) (PP (IN on) (NP (NP (DT the) (NN method)) (PP (IN of) (S (VP (VBG handling) (NP (DT the) (JJ patient\u9225\u6a9a) (NN account)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN tooth) (NN arrangement)) (VP (VBZ is) (NP (NP (DT the) (NN placement)) (PP (IN of) (NP (NP (NNS teeth)) (PP (IN on) (NP (NP (DT a) (ADJP (JJ denture) (CC or) (JJ temporary)) (NN base)) (PP (IN with) (NP (NP (JJ definite) (NNS objectives)) (PP (IN in) (NP (NN mind)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ adjustable) (NN articulator)) (VP (VBZ is) (NP (NP (DT an) (NN articulator)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VB be) (VP (VBN adjusted) (S (VP (TO to) (VP (VB permit) (NP (NP (NN movement)) (PP (IN of) (NP (DT the) (NN casts)))) (PP (IN into) (NP (JJ various) (VBN recorded) (JJ eccentric) (NNS relationships)))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ fully-adjustable) (NN articulator)) (VP (VBZ is) (NP (NP (DT a) (NN design)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT all) (CD nine) (NNS elements)) (PP (IN of) (NP (DT the) (NN articulator)))) (VP (MD can) (VP (VB be) (VP (VBN programmed) (PP (IN from) (NP (JJ patient) (NNS records))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ semi-adjustable) (NN articulator)) (VP (VBZ is) (NP (NP (DT a) (NN design)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT some)) (, ,) (CONJP (CC but) (RB not)) (NP (DT all)) (, ,)) (VP (VBP anterior) (SBAR (S (NP (NN incisal) (CC and) (NN posterior) (NN condylar) (NNS controls)) (VP (MD can) (VP (VB be) (VP (VBN modified)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN Arcon) (NN articulator)) (VP (VBZ is) (NP (NP (DT a) (NN type)) (PP (IN of) (NP (NN articulator))) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN condylar) (NNS controls)) (VP (VBP are) (PP (IN on) (NP (DT the) (JJ upper) (NN member))) (ADJP (RB as) (VBN opposed) (PP (TO to) (NP (NP (DT the) (JJR lower) (NN member)) (PP (IN of) (NP (JJR earlier) (NNS designs)))))))))))))
+(ROOT (S (NP (DT This) (NN design)) (VP (VBZ allows) (SBAR (IN for) (S (VP (VBZ casts) (S (VP (TO to) (VP (VB have) (NP (DT the) (JJ same) (NN condylar) (NNS controls)) (SBAR (WHADVP (WRB when)) (S (VP (VBD remounted)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN crescent) (NN articulator)) (VP (VBZ is) (NP (NP (DT a) (NN device)) (VP (VBN used) (PP (IN in) (S (VP (VP (VBG creating) (NP (JJ dental) (NNS prostheses))) (CC and) (VP (VBG evaluating) (VP (VBZ casts)))))))))))
+(ROOT (S (NP (PRP It)) (VP (VP (VBZ represents) (NP (DT the) (NN temporomandibular) (NNS joints))) (CC and) (VP (VBZ simulates) (NP (NN jaw) (NN movement))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ disposable) (NN articulator)) (VP (VBZ is) (NP (NP (DT a) (JJ simple) (JJ plastic) (NN hinge)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ bonded) (PP (TO to) (NP (JJ dental) (NNS models)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ plasterless) (NN articulator)) (VP (VBZ is) (NP (NP (DT a) (NN design)) (SBAR (WHNP (WDT that)) (S (VP (VBZ uses) (S (NP (JJ adjustable) (NNS clamps)) (VP (TO to) (VP (VB hold) (S (NP (NP (CD two) (JJ dental) (NNS models)) (CC and) (NP (DT a) (JJ universal) (NN ball) (NN joint) (CC and) (NN shaft))) (VP (TO to) (VP (VB relate) (NP (DT the) (NNS clamps)))))))))))))))
+--------
+~~~~~~~
+(ROOT (SINV (ADVP (RB atrophy)) (VP (VBZ is)) (NP (NP (DT a) (JJ progressive)) (, ,) (NP (NP (VBN acquired) (NN decrease)) (PP (IN in) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NP (DT a) (ADJP (ADVP (RB normally)) (JJ developed)) (NN cell)) (, ,) (NP (NN tissue)) (, ,) (CC or) (NP (NN organ))))))))))
+(ROOT (SINV (ADVP (RB Atrophy)) (VP (MD may) (VP (VB result) (PP (IN from) (NP (NP (DT a) (NN decrease)) (PP (IN in) (NP (NN cell))))))) (NP (NP (NN size)) (, ,) (NP (NP (NP (NN number)) (PP (IN of) (NP (NNS cells)))) (, ,) (CC or) (NP (DT both))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ adipose) (NN atrophy)) (VP (VBZ is) (NP (NP (DT an) (NN atrophy)) (VP (VBG resulting) (PP (IN from) (NP (NP (DT a) (NN reduction)) (PP (IN in) (NP (JJ fatty) (NN tissue))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN alveolar) (NN atrophy)) (VP (VBZ is) (NP (NP (DT a) (NN depletion)) (PP (IN of) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NP (DT the) (NN alveolar) (NN process)) (PP (IN of) (NP (NP (DT the) (NNS jaws)) (PP (IN from) (NP (NN disuse) (, ,) (NN overuse) (, ,) (CC or) (NN pathologic) (NN disturbance))))))))) (PP (IN of) (NP (DT the) (NN bone)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN attachment)) (VP (VBZ is) (NP (DT a) (NN fastener) (, ,) (NN connector) (, ,) (JJ associated) (NN part)))))
+--------
+(ROOT (S (NP (NN attachment)) (VP (VBZ is) (NP (NP (DT a) (JJ mechanical) (NN device)) (PP (IN for) (NP (NN retention) (CC and) (NN stabilization))) (PP (IN of) (NP (DT a) (JJ dental) (NNS prosthesis)))))))
+--------
+~~~~~~~
+(ROOT (S (VP (VB See) (NP (NN retainer)) (, ,) (VB intracoronal))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN augmentation)) (VP (VBZ is) (NP (DT a) (NN assistance) (S (VP (TO to) (VP (VB respiration) (PP (IN by) (NP (NP (DT the) (NN application)) (PP (IN of) (NP (JJ intermittent) (NN pressure))))) (PP (IN on) (NP (NN inspiration))))))))))
+--------
+(ROOT (S (NP (NN augmentation)) (VP (VBZ is) (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (NP (NN size)) (PP (IN beyond) (NP (NP (DT the) (VBG existing) (NN size)) (, ,) (PP (JJ such) (IN as) (NP (NP (DT an) (NN implant)) (VP (VBN placed) (PP (IN over) (NP (DT the) (NN mandibular) (CC or) (NN maxillary) (NNS ridges))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN authorization)) (VP (VBZ is) (NP (DT a) (JJ written) (NN consent) (S (VP (TO to) (VP (VB release) (NP (JJ protected) (NN health) (NN information)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ lingual) (NN bar)) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN connector)) (VP (VBN located) (ADJP (JJ lingual) (PP (TO to) (NP (NP (DT the) (JJ dental) (NN arch)) (SBAR (WHNP (WDT that)) (S (VP (VBZ joins) (NP (NP (JJ bilateral) (NNS parts)) (PP (IN of) (NP (DT a) (JJ mandibular) (JJ removable) (JJ partial) (NN denture)))))))))))))))
+(ROOT (SINV (VP (MD May) (ADVP (RB also)) (VP (VB be) (NP (NP (DT the) (JJ orthodontic) (NN splinting)) (PP (IN on) (NP (NP (DT the) (NN lingual)) (PP (IN of) (NP (CC either) (NP (DT the) (NN maxillary)) (CC or) (NP (NN mandibular) (NN anterior) (NNS teeth)))))) (S (VP (TO to) (VP (VB maintain))))))) (NP (NP (NN position)) (PP (IN of) (NP (NP (DT the) (NNS teeth)) (PP (IN over) (NP (NN time))))))))
+(ROOT (VP (VB See) (ADVP (RB also)) (NP (NN connector) (, ,) (JJ major) (, ,) (JJ lingual) (NN bar))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN beading)) (VP (VBZ is) (NP (NP (DT the) (NN scribing)) (PP (IN of) (NP (NP (DT a) (JJ shallow) (NN groove)) (PP (IN on) (NP (NP (DT a) (NN cast)) (SBAR (WHNP (WDT that)) (S (VP (VBZ outlines) (NP (DT the) (JJ major) (NN connector)))))))))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VP (VB transfer) (NP (DT the) (NN design)) (PP (TO to) (NP (DT the) (NN investment) (NN cast)))) (CC and) (VP (VB ensure) (NP (NP (NN tissue) (NN contact)) (PP (IN of) (NP (DT the) (JJ major) (NN connector))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN color) (NN blindness)) (VP (VBZ is) (NP (NP (DT the) (JJ defective) (NN color) (NN vision)) (VP (VBN characterized) (PP (IN by) (NP (VBN decreased) (NN ability))) (S (VP (TO to) (VP (VB detect) (NP (NNS differences)) (PP (IN in) (NP (NN color)))))))))))
+(ROOT (S (VP (VB See) (ADJP (ADVP (RB also)) (JJ achromatopsia)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN blockout)) (VP (VBZ is) (NP (NP (DT the) (NN elimination)) (PP (IN of) (NP (NP (ADJP (JJ undesirable) (JJ undercut)) (NNS areas)) (PP (IN on) (NP (DT a) (NN cast) (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN fabrication)) (PP (IN of) (NP (DT a) (JJ removable) (NN denture)))))))))))))))))
+(ROOT (VP (ADVP (RB Also)) (VBN known) (PP (IN as) (NP (NN waxout)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN bonding)) (VP (VBZ is) (NP (NP (DT an) (NN adhesion)) (PP (IN of) (NP (NP (JJ orthodontic) (NNS attachments)) (PP (TO to) (NP (NP (DT the) (NNS teeth)) (PP (IN without) (NP (NP (NN use)) (PP (IN of) (NP (DT an) (JJ interposed) (NN band)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN bone)) (VP (VBZ is) (NP (NP (DT the) (NN material)) (PP (IN of) (NP (NP (DT the) (NNS skeletons)) (PP (IN of) (NP (NP (DT the) (NN tissue)) (VP (VBG composing) (NP (NNS bones)))))))))))
+--------
+(ROOT (S (NP (NN bone)) (VP (VBZ is) (NP (NP (DT a) (JJ dense) (, ,) (ADJP (ADJP (JJ hard)) (, ,) (CC and) (ADJP (RB slightly) (JJ elastic))) (NN connective) (NN tissue)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NNS fibers)) (VP (VBP are) (VP (VBN impregnated) (PP (IN with) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (NP (NN calcium) (NN phosphate)) (ADJP (JJ similar) (TO to) (JJ hydroxyapatite))))))))))))))
+--------
+(ROOT (S (NP (NN bone)) (VP (VBZ is) (NP (NP (DT the) (NNS bones)) (PP (IN of) (NP (DT the) (JJ human) (NN skeleton)))))))
+--------
+(ROOT (S (NP (NN bone)) (VP (VBZ is) (NP (NP (DT a) (JJ single) (NN element)) (PP (IN of) (NP (NP (DT the) (NN skeleton)) (PP (JJ such) (IN as) (NP (NP (DT a) (NN rib)) (CC or) (NP (NN femur))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN alveolar) (NN bone)) (VP (VBZ is) (NP (NP (DT the) (VBN specialized) (NN bone) (NN structure)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ contains) (NP (NP (DT the) (NNS alveoli) (CC or) (NNS sockets)) (PP (IN of) (NP (DT the) (NNS teeth))))) (CC and) (VP (VBZ supports) (NP (DT the) (NNS teeth))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN bone) (NN augmentation)) (VP (VBZ is) (NP (NP (DT a) (NN term)) (VP (VBN used) (S (VP (TO to) (VP (VB describe) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NN bone) (NN grafting) (NNS procedures)))) (S (VP (TO to) (VP (VB build) (CC or) (VB enhance) (NP (NP (DT a) (JJ deficient) (NN area)) (PP (IN of) (NP (NN bone))) (, ,) (ADVP (RB usually))) (PP (IN in) (NP (NP (NN preparation)) (PP (IN for) (NP (DT a) (JJ dental) (NN implant) (NN site))))))))))))))))
+(ROOT (S (NP (JJ Bone) (NN augmentation) (NNS materials)) (VP (MD can) (VP (VB be) (NP (NP (NNS autogenous)) (, ,) (NP (NNS allogenous)) (, ,) (NP (NNS xenogenous)) (, ,) (CC or) (NP (JJ allopastic) (NNS sources)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN bruxism)) (VP (VBZ is) (NP (NP (DT the) (JJ involuntary) (NN gnashing)) (, ,) (NP (VBG grinding)) (, ,) (CC or) (NP (NP (VBG clenching)) (PP (IN of) (NP (NNS teeth))))))))
+(ROOT (S (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB usually)) (NP (DT an) (ADJP (JJ unconscious)) (NN activity)) (, ,) (SBAR (IN whether) (S (NP (DT the) (NN individual)) (VP (VBZ is) (ADJP (ADJP (RB awake)) (CC or) (ADJP (JJ asleep)))))))) (: ;) (S (ADVP (RB often)) (VP (VP (VBN associated) (PP (IN with) (NP (NP (NN fatigue)) (, ,) (NP (NN anxiety)) (, ,) (NP (JJ emotional) (NN stress)) (, ,) (CC or) (NP (NN fear))))) (CC and) (VP (ADVP (RB frequently)) (VBN triggered) (PP (IN by) (NP (JJ occlusal) (NNS irregularities))) (, ,) (ADVP (RB usually))) (S (VP (VBG resulting) (PP (IN in) (NP (JJ abnormal) (NN wear) (NNS patterns))) (PP (IN on) (NP (NP (DT the) (NNS teeth)) (, ,) (NP (JJ periodontal) (NN breakdown)) (, ,) (CC and) (NP (NN joint) (CC or) (NN neuromuscular) (NNS problems))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN bur)) (VP (VBZ is) (NP (NP (DT a) (JJ rotary) (NN cutting) (NN instrument)) (PP (IN of) (NP (NN steel) (CC or) (NN tungsten) (NN carbide))) (, ,) (VP (VBN supplied) (PP (IN with) (S (VP (VBG cutting) (NP (NP (NNS heads)) (PP (IN of) (NP (JJ various) (NNS shapes))))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN calcination)) (VP (VBZ is) (NP (NP (DT a) (NN process)) (PP (IN of) (S (VP (VBG removing) (NP (NN water)) (PP (IN by) (NP (NN heat))))))))) (: ;) (S (NP (NN calcination)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN manufacture)) (PP (IN of) (NP (NN plaster) (CC and) (NN stone))))) (PP (IN from) (NP (NN gypsum))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NNS calculus)) (VP (VBZ is) (NP (NP (DT a) (JJ hard) (NN deposit)) (PP (IN on) (NP (NP (NP (DT the) (VBN exposed) (NNS surfaces)) (PP (IN of) (NP (DT the) (NNS teeth)))) (CC and) (NP (NP (DT any) (JJ oral) (NNS prosthesis)) (PP (IN within) (NP (DT the) (JJ oral) (NN cavity))))))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (VP (VBN composed) (PP (IN of) (NP (NP (NN calcium) (NN phosphate)) (, ,) (NP (NN calcium) (NN carbonate)) (, ,) (NP (NN magnesium) (NN phosphate)) (, ,) (CC and) (NP (JJ other) (NNS elements)))) (PP (IN within) (NP (NP (DT an) (JJ organic) (NN matrix)) (VP (VBN composed) (PP (IN of) (NP (NP (NN plaque)) (, ,) (NP (JJ desquamated) (NN epithelium)) (, ,) (NP (NN mucin)) (, ,) (NP (NNS microorganisms)) (, ,) (CC and) (NP (JJ other) (NN debris)))))))))))
+(ROOT (S (VP (VB Factor) (PP (IN in) (NP (NP (DT the) (NN initiation) (CC and) (NN continuation)) (PP (IN of) (NP (JJ periodontal) (NN disease))))))))
+(ROOT (S (NP (DT The) (JJ colloquial) (NN term)) (VP (VBZ is) (ADJP (JJ tartar)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN root) (NN canal)) (VP (VBZ is) (NP (NP (DT the) (JJ informal) (NN term)) (PP (IN for) (NP (DT the) (JJ endodontic) (NN procedure) (S (VP (TO to) (VP (VP (VB remove) (NP (JJ infected) (NN root) (NN canal) (NN tissue))) (CC and) (VP (VB replace) (NP (JJ removed) (NN tissue)) (PP (IN with) (NP (JJ restorative) (NN material)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ oral) (NN cancer)) (VP (VBP are) (NP (NP (DT the) (JJ malignancies) (ADJP (JJ indicative) (PP (IN of) (ADJP (JJ unchecked)))) (NN cell) (NN growth)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB mainly)) (VP (VBN found) (PP (IN in) (CC and) (IN around) (NP (DT the) (NN oropharynx))))))) (, ,) (NP (NN gingiva)) (, ,) (NP (NP (NN floor)) (PP (IN of) (NP (NP (DT the) (JJ oral) (NN cavity)) (, ,) (NP (JJR lower) (NN lip)) (, ,)))) (CC and) (NP (NP (NN base)) (PP (IN of) (NP (DT the) (NN tongue))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (JJ canine)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (CD four) (JJ pointed) (NNS teeth)) (VP (VBN situated) (NP (CD one)) (PP (IN on) (NP (NP (DT each) (NN side)) (PP (IN of) (NP (DT each) (NN jaw))))) (, ,) (ADJP (JJ distal) (PP (TO to) (NP (DT the) (JJ lateral) (NN incisor)))))))))) (: ;) (S (NP (JJ canine)) (VP (VBP are) (NP (NP (DT the) (NNS forms)) (NP (NP (DT the) (NN keystone)) (PP (IN of) (NP (DT the) (NN arch)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ canine) (NN guidance)) (VP (VBZ is) (NP (NP (DT a) (NN concept)) (PP (IN of) (NP (JJ occlusal) (NN function))) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (JJ canine) (NNS teeth)) (VP (VBP are) (VP (VBN assigned) (NP (DT a) (JJ major) (NN control) (NN role)) (PP (IN in) (NP (NP (DT the) (JJ excursive) (NNS movements)) (PP (IN of) (NP (DT the) (NN mandible)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN cast)) (VP (VBZ is) (NP (NP (DT an) (NN object)) (VP (VBN formed) (PP (IN by) (S (VP (VBG pouring) (NP (NN plastic) (CC or) (NN liquid) (NN material)) (PP (IN into) (NP (NP (DT a) (NN mold)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP it)) (VP (VBZ hardens))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ diagnostic) (NN cast)) (VP (VBZ is) (NP (NP (DT a) (JJ positive) (NN likeness)) (PP (IN of) (NP (NP (JJ dental) (NNS structures)) (PP (IN for) (NP (NP (DT the) (NN purpose)) (PP (IN of) (NP (NN study) (CC and) (NN treatment) (NN planning)))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN master) (NN cast)) (VP (VBZ is) (NP (NP (DT an) (ADJP (JJ accurate)) (NN replica)) (PP (IN of) (NP (NP (DT the) (JJ prepared) (NN tooth) (NNS surfaces)) (, ,) (NP (JJ residual) (NN ridge) (NNS areas))))))) (, ,) (CC or) (S (NP (NP (JJ other) (NNS parts)) (PP (IN of) (NP (DT the) (JJ dental) (NN arch)))) (VP (VBD reproduced) (PP (IN from) (NP (DT an) (NN impression))) (PP (IN from) (SBAR (WHNP (WDT which)) (S (NP (DT a) (NNS prosthesis)) (VP (VBZ is) (S (VP (TO to) (VP (VB be) (VP (VBN fabricated)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ refractory) (NN cast)) (VP (VBZ is) (NP (NP (DT a) (NN cast)) (VP (VBN made) (PP (IN of) (NP (NNS materials))) (SBAR (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB withstand) (NP (JJ high) (NNS temperatures)) (PP (IN without) (NP (VBG disintegrating))))))) (CC and) (SBAR (IN that) (S (, ,) (SBAR (WHADVP (WRB when)) (S (VP (VBN used) (PP (IN in) (NP (JJ partial) (NN denture) (NN casting) (NNS techniques)))))) (, ,) (VP (VBP expand) (S (VP (TO to) (VP (VB compensate) (PP (IN for) (NP (NN metal) (NN shrinkage)))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (VBG casting) (NN machine)) (VP (VBZ is) (NP (NP (DT a) (JJ mechanical) (NN device)) (VP (VBN used) (PP (IN for) (S (VP (VBG throwing) (CC or) (VBG forcing) (NP (DT a) (NN molten) (NN metal)) (PP (IN into) (NP (DT a) (JJ refractory) (NN mold)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ nasal) (NN cavity)) (VP (VBZ is) (NP (NP (DT the) (CD two) (NN irregular) (NNS spaces)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP are) (VP (VBN situated) (PP (IN on) (NP (NP (DT either) (NN side)) (PP (IN of) (NP (NP (DT the) (NN midline)) (PP (IN of) (NP (DT the) (NN face))))))))) (, ,) (VP (VBP extend) (PP (IN from) (NP (NP (DT the) (JJ cranial) (NN base)) (PP (TO to) (NP (DT the) (NN palate)))))) (, ,) (CC and) (VP (VBP are) (VP (VBN separated) (PP (IN from) (NP (DT each) (JJ other))) (PP (IN by) (NP (DT a) (JJ thin) (JJ vertical) (NN septum))))))))))))
+(ROOT (S (PP (IN In) (NP (NNS radiographs))) (NP (PRP it)) (VP (VBZ appears) (PP (IN over) (NP (NP (DT the) (NNS roots)) (PP (IN of) (NP (NP (DT the) (JJ maxillary) (NNS incisors)) (PP (IN as) (NP (DT a) (JJ large) (, ,) (JJ segmented) (, ,) (JJ radiolucent) (NN area))))))))))
+(ROOT (SINV (ADVP (RB Also)) (VP (VBD called)) (NP (JJ nasal) (NN fossa))))
+--------
+~~~~~~~
+(ROOT (S (VP (VB stem) (SBAR (S (NP (NN cell)) (VP (VBZ is) (NP (NP (DT the) (NNS cells)) (PP (IN in) (NP (DT the) (NN bone) (NN marrow))) (SBAR (WHPP (IN from) (WHNP (WDT which))) (S (NP (DT all) (NN blood) (NNS cells)) (VP (VB originate)))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN zinc) (NN phosphate) (NN cement)) (VP (VBZ is) (NP (NP (DT a) (NN material)) (VP (VBN used) (PP (IN for) (NP (NP (NN cementation)) (PP (IN of) (NP (NNS inlays) (, ,) (NNS crowns) (, ,) (NNS bridges) (, ,) (CC and) (NN orthodontic) (NNS appliances))))))))) (: ;) (S (NP (NN zinc) (NN phosphate) (NN cement)) (VP (VBZ is) (ADVP (RB occasionally)) (VP (VBN used) (PP (IN as) (NP (DT a) (JJ temporary) (NN restoration))))))))
+(ROOT (VP (VBN Prepared) (PP (IN by) (S (VP (VBG mixing) (NP (NP (DT a) (NN powder)) (CC and) (NP (DT a) (NN liquid))))))))
+(ROOT (S (NP (DT The) (NNS powders)) (VP (VBP are) (VP (VBN composed) (ADVP (RB primarily)) (PP (IN of) (NP (NN zinc) (NN oxide) (CC and) (NN magnesium) (NNS oxides)))))))
+(ROOT (S (NP (NP (DT The) (JJ principal) (NNS constituents)) (PP (IN of) (NP (DT the) (NN liquid)))) (VP (VBP are) (NP (NP (JJ phosphoric) (NN acid)) (, ,) (NP (NN water)) (, ,) (CC and) (NP (NN buffer) (NNS agents))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN cementation)) (VP (VBZ is) (NP (NP (NP (DT a) (NN attachment)) (PP (IN of) (NP (DT an) (NN appliance)))) (CC or) (NP (NP (NP (DT a) (NN restoration)) (PP (TO to) (NP (JJ natural) (NNS teeth)))) (CC or) (NP (NP (NN attachment)) (PP (IN of) (NP (NP (NNS parts)) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (DT a) (NN cement)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NNS ceramics)) (VP (VBZ is) (NP (NP (DT the) (NN art)) (PP (IN of) (S (VP (VBG making) (NP (NP (JJ dental) (NNS restorations) (CC or) (NNS parts)) (PP (IN of) (NP (NNS restorations)))) (PP (IN from) (NP (JJ fused) (NN porcelain))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ periodontal) (NN chart)) (VP (VBZ is) (NP (NP (DT a) (JJ diagrammatic) (NN chart)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (NP (DT the) (NNS findings)) (PP (IN from) (NP (DT the) (JJ periodontal) (NN examination)))) (VP (VBP are) (VP (VBN recorded)))))))))
+(ROOT (S (NP (DT This)) (VP (VBZ includes) (NP (NP (NN pocket) (NNS readings)) (, ,) (NP (NNS furcations)) (, ,) (NP (NN tooth) (NN mobility)) (, ,) (NP (NNS exudates)) (CC and) (NP (JJ gingival) (NN recession))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (VBG chewing)) (VP (VBZ is) (NP (NP (DT the) (NNS movements)) (PP (IN of) (NP (NP (DT the) (NN mandible)) (PP (IN during) (NP (NN mastication)))))))) (: ;) (S (NP (VBG chewing)) (VP (VBZ is) (VP (VP (VBN controlled) (PP (IN by) (NP (NN neuromuscular) (NN action)))) (CC and) (VP (VBN limited) (PP (IN by) (NP (NP (DT the) (JJ anatomic) (NN structure)) (PP (IN of) (NP (DT the) (NN temporomandibular) (NNS joints)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN arm) (NN clasp)) (VP (VBZ is) (NP (NP (DT the) (NN clasp) (NNS extensions)) (, ,) (RRC (ADVP (RB usually)) (PP (IN from) (NP (JJ minor) (NNS connectors)))) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBP provide) (NP (NN retention) (, ,) (NN reciprocation) (, ,) (CC or) (NN stabilization)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ reciprocal) (NN arm) (NN clasp)) (VP (VBZ is) (NP (NP (DT an) (NN arm)) (PP (IN of) (NP (DT a) (NN clasp))) (, ,) (VP (VP (ADVP (RB usually)) (PP (IN at))) (CC or) (VP (ADJP (JJ occlusal)) (PP (TO to) (NP (NP (DT the) (NN height)) (PP (IN of) (NP (NN contour))))))) (, ,) (VP (VBN located) (PP (IN in) (NP (PDT such) (DT a) (NN manner) (RB as))) (S (VP (TO to) (VP (VB reciprocate) (NP (NP (DT any) (NN force)) (VP (VBG arising) (PP (IN from) (NP (NP (DT an) (JJ opposing) (NN clasp) (NN arm)) (PP (IN on) (NP (DT the) (JJ same) (NN tooth)))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ circumferential) (NN clasp)) (VP (VBZ is) (NP (NP (DT a) (NN clasp)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ encircles) (NP (NP (QP (JJR more) (IN than) (CD 180\u63b3))) (PP (IN of) (NP (DT a) (NN tooth))) (, ,) (PP (VBG including) (NP (JJ opposite) (NNS angles))))) (, ,) (CC and) (VP (ADVP (RB usually)) (VBZ contacts) (NP (DT the) (NN tooth)) (PP (IN throughout) (NP (NP (DT the) (NN extent)) (PP (IN of) (NP (NP (DT the) (NN clasp)) (, ,) (ADVP (IN at) (JJS least)) (NP (CD one) (NN terminal)))))) (S (VP (VBG being) (PP (IN in) (NP (DT the) (JJ infrabulge) (NN area)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (NN clearance)) (VP (VBZ is) (NP (NP (DT a) (NN condition)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN mandibular) (NNS teeth)) (VP (MD may) (VP (VB pass) (NP (DT the) (JJ maxillary) (NNS teeth)) (ADVP (RB horizontally)) (PP (IN without) (NP (NN contact) (CC or) (NN interference)))))))))))
+--------
+~~~~~~~
+(ROOT (SINV (VP (VBG clenching)) (VP (VBZ is)) (NP (NP (DT the) (NN nonfunctional)) (, ,) (NP (NP (JJ forceful) (JJ intermittent) (NN application)) (PP (IN of) (NP (NP (DT the) (NN mandibular) (NNS teeth)) (PP (IN against) (NP (DT the) (JJ maxillary) (NNS teeth)))))))))
+(ROOT (S (NP (PRP It)) (VP (MD can) (VP (VB become) (NP (NN habitual) (CC and) (NN cause) (NN damage)) (PP (TO to) (NP (DT the) (NN periodontium)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN complication)) (VP (VBZ is) (NP (NP (DT a) (NN disease) (CC or) (NN injury)) (SBAR (WHNP (WDT that)) (S (VP (VBZ develops) (PP (IN during) (NP (NP (DT the) (NN treatment)) (PP (IN of) (NP (DT an) (JJR earlier) (NN disorder))))))))))))
+(ROOT (S (NP (DT An) (NN example)) (VP (VBZ is) (NP (NP (DT a) (JJ bacterial) (NN infection)) (VP (VBN acquired) (PP (IN by) (NP (NP (DT a) (NN person)) (VP (VBN weakened) (PP (IN by) (NP (DT a) (JJ viral) (NN infection)))))))))))
+--------
+~~~~~~~
+(ROOT (SINV (VP (VBN computed) (ADVP (RB tomography))) (VP (VBZ is)) (NP (NP (DT a) (JJ radiographic) (NN body)) (VP (VBG scanning) (NP (NN technique))) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (ADJP (JJ thin) (CC or) (JJ narrow)) (NN layer) (NNS sections)) (PP (IN of) (NP (DT the) (NN body)))) (VP (MD can) (VP (VB be) (VP (VBN imaged) (PP (IN for) (NP (JJ diagnostic) (NNS purposes)))))))))))
+(ROOT (S (NP (DT The) (NN technique)) (VP (VBZ uses) (NP (DT a) (JJ computer-linked) (JJ radiographic) (NN machine)) (S (VP (TO to) (VP (VB focus) (NP (DT the) (NNS radiographs)) (PP (IN on) (NP (NP (DT a) (JJ particular) (NN section)) (PP (IN of) (NP (DT the) (NN body) (S (VP (TO to) (VP (VB be) (VP (VBN viewed)))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ thermal) (NN conductivity)) (VP (VBZ is) (NP (NP (DT the) (NN ability)) (PP (IN of) (NP (DT a) (NN material) (S (VP (TO to) (VP (VB transfer) (NP (NN heat)))))))))))
+(ROOT (S (NP (JJ Thermal) (NN conductivity)) (VP (VBZ is) (PP (IN of) (NP (NP (JJ great) (NN importance)) (PP (IN in) (NP (NN dentistry))))) (, ,) (SBAR (WHADVP (WRB where)) (S (S (NP (DT a) (JJ low) (JJ thermal) (NN conductivity)) (VP (VBZ is) (ADJP (JJ desirable) (PP (IN in) (NP (JJ restorative) (NN material)))))) (CC and) (S (NP (DT a) (JJ high) (JJ thermal) (NN conductivity)) (VP (VBZ is) (ADJP (JJ desirable)) (SBAR (WHADVP (WRB when)) (S (NP (JJ soft) (NN tissue)) (VP (VBZ is) (VP (VBN covered))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN cone)) (VP (VBZ is) (NP (NP (DT a) (JJ geometric) (NN shape)) (PP (IN with) (NP (NP (DT a) (JJ circular) (NN base)) (VP (VBG tapering) (ADVP (RB evenly)) (PP (TO to) (NP (DT an) (NN apex))))))))))
+--------
+(ROOT (S (S (NP (NN cone)) (VP (VBZ is) (NP (NP (NP (DT a) (JJ solid) (NN substance)) (, ,) (NP (RB usually) (NN guttapercha) (CC or) (NN silver)) (, ,)) (VP (VBG having) (NP (NP (DT a) (JJ tapered) (NN form)) (ADJP (JJ similar) (PP (IN in) (NP (NN length) (CC and) (NN diameter))) (PP (TO to) (NP (DT a) (NN root) (NN canal))))))))) (: ;) (S (NP (NN cone)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB fill) (NP (NP (DT the) (NN space)) (ADJP (RB once) (VBN occupied))) (PP (IN by) (NP (DT the) (NN pulp))) (PP (IN in) (NP (NP (DT the) (NN root)) (PP (IN of) (NP (DT the) (NN tooth)))))))))))))
+--------
+(ROOT (S (NP (NN cone)) (VP (VBZ is) (NP (NP (DT an) (JJ accessory) (NN device)) (PP (IN on) (NP (NP (DT a) (JJ dental) (JJ x-ray) (NN tubehead)) (, ,) (VP (VBN designed) (S (VP (VP (TO to) (VP (VB indicate) (NP (NP (DT the) (NN direction)) (PP (IN of) (NP (NP (DT the) (JJ central) (NNS axis)) (PP (IN of) (NP (PRP$ its) (JJ radiographic) (NN beam)))))))) (CC and) (VP (TO to) (VP (VB serve) (PP (IN as) (NP (DT a) (NN guide))) (PP (IN in) (S (VP (VBG establishing) (NP (DT a) (VBN desired) (JJ source-to-receptor) (NN distance))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN connector)) (VP (VBZ is) (NP (NP (DT the) (NN part)) (PP (IN of) (NP (NP (DT a) (JJ partial) (NN denture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ unites) (NP (PRP$ its) (NNS components)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ major) (NN connector)) (VP (VBZ is) (NP (NP (DT a) (NN metal) (NN plate) (CC or) (NN bar)) (VP (VBN used) (S (VP (TO to) (VP (VB join) (NP (NP (DT the) (NNS units)) (PP (IN of) (NP (NP (CD one) (NN side)) (PP (IN of) (NP (DT a) (JJ removable) (JJ partial) (NN denture)))))) (PP (TO to) (NP (NP (DT those)) (VP (VBN located) (PP (IN on) (NP (NP (DT the) (JJ opposite) (NN side)) (PP (IN of) (NP (DT the) (JJ dental) (NN arch))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ minor) (NN connector)) (VP (VP (VBZ is) (NP (NP (DT the) (JJ connecting) (NN link)) (PP (IN between) (NP (NP (NP (DT the) (JJ major) (NN connector) (CC or) (NN base)) (PP (IN of) (NP (DT a) (JJ removable) (JJ partial) (NN denture)))) (CC and) (NP (NP (JJ other) (NNS units)) (PP (IN of) (NP (DT the) (NN restoration))) (, ,) (PP (JJ such) (IN as) (NP (JJ direct) (CC and) (JJ indirect) (NNS retainers)))))))) (CC and) (VP (VBZ rests)))))
+--------
+~~~~~~~
+(ROOT (SINV (VP (VBD nonrigid) (SBAR (S (NP (NN connector)) (VP (VBZ is) (NP (NP (DT a) (NN connector)) (VP (VBN used) (SBAR (WHADVP (WRB where)) (S (NP (NNS retainers) (CC or) (NNS pontics)) (VP (VBP are) (VP (VBN united) (PP (IN by) (NP (DT a) (JJ joint) (NN permitting))))))))))))) (NP (VBN limited) (NN movement))))
+(ROOT (S (NP (PRP It)) (VP (MD may) (VP (VB be) (NP (NP (DT a) (NN precision)) (CC or) (NP (NP (DT a) (NN nonprecision) (NN type)) (PP (IN of) (NP (NN connector)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ rigid) (NN connector)) (VP (VBZ is) (NP (NP (DT a) (NN connector)) (VP (VBN used) (SBAR (WHADVP (WRB where)) (S (NP (NNS retainers) (CC or) (NNS pontics)) (VP (VBP are) (VP (VBN united) (PP (IN by) (NP (NP (DT a) (NN soldered)) (, ,) (NP (NN cast)) (, ,) (CC or) (NP (JJ welded) (NN joint)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN tooth) (NN contour)) (VP (VBZ is) (NP (NP (DT a) (NN shape)) (PP (IN of) (NP (NP (DT a) (NN tooth)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ essential) (PP (TO to) (NP (DT a) (JJ healthy) (JJ gingival) (NN unit)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ enables) (S (NP (NP (DT the) (NNS bolus)) (PP (IN of) (NP (NN food)))) (VP (TO to) (VP (VB be) (VP (VBN deflected) (PP (IN from) (NP (JJ gingival) (NNS margins))) (PP (IN during) (NP (NN mastication)))))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ cervical) (NN convergence)) (VP (VBZ is) (NP (NP (DT the) (NN angle)) (VP (VBN formed) (PP (IN between) (NP (NP (DT the) (JJ cervicoaxial) (NN inclination)) (PP (IN of) (NP (NP (NP (DT a) (NN tooth) (NN surface)) (PP (IN on) (NP (CD one) (NN side)))) (CC and) (NP (NP (DT a) (JJ diagnostic) (NNS stylus)) (PP (IN of) (NP (NP (DT a) (JJ dental) (NN cast) (NN surveyor)) (PP (IN in) (NP (NN contact)))))))))) (PP (IN with) (NP (NP (DT the) (NN tooth)) (PP (IN at) (NP (NP (PRP$ its) (NN height)) (PP (IN of) (NP (NN contour))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN amalgam) (NN core)) (VP (VBZ is) (NP (NP (DT the) (JJ foundational) (NN replacement)) (PP (IN of) (NP (NP (DT the) (ADJP (RB badly) (JJ mutilated)) (NN crown)) (PP (IN of) (NP (NP (DT a) (NN tooth)) (SBAR (WHNP (WP$ whose) (NN purpose)) (S (VP (VBZ is) (S (VP (TO to) (VP (VB provide) (NP (DT a) (JJ rigid) (NN base)) (PP (IN for) (NP (NP (NN retention)) (PP (IN of) (NP (DT a) (NN cast) (NN crown) (NN restoration)))))))))))))))))))
+(ROOT (S (NP (DT The) (NN core)) (VP (MD may) (VP (VB be) (VP (VBN retained) (PP (IN by) (NP (NP (NNS undercuts)) (, ,) (NP (NNS slots)) (, ,) (NP (NNS pins)) (, ,) (CC or) (NP (DT the) (NN pulp) (NN chamber)))) (PP (IN of) (NP (NP (DT an) (NN endodontically)) (VP (VBN treated) (ADVP (NN tooth))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ gingival) (NN crest)) (VP (VBZ is) (NP (NP (DT the) (JJ coronal) (NN margin)) (PP (IN of) (NP (DT the) (JJ gingival) (NN tissue)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN crown)) (VP (VBZ is) (NP (NP (DT the) (JJ natural) (NN portion)) (PP (IN of) (NP (NP (DT a) (NN tooth)) (VP (VBN covered) (PP (IN by) (NP (NN enamel))))))))))
+--------
+(ROOT (S (NP (NN crown)) (VP (VBZ is) (NP (NP (DT an) (JJ artificial) (NN replacement)) (PP (IN for) (NP (NP (DT the) (JJ natural) (NN crown)) (PP (IN of) (NP (DT the) (NN tooth)))))))))
+(ROOT (S (NP (JJ Colloquial) (NN term)) (VP (VBZ is) (NP (NN cap)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ ceramic) (NN crown)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (JJ several) (NNS materials))) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB make) (PRT (RP up)) (NP (NP (DT a) (NN crown)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN combined) (PP (IN with) (NP (NP (JJ other) (NNS components)) (PP (JJ such) (IN as) (NP (NN porcelain) (CC or) (NN metal))))) (S (VP (TO to) (VP (VB improve) (NP (JJ long-term) (NN crown) (NN function)))))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN crown) (NN lengthening)) (VP (VBZ is) (NP (DT a) (JJ surgical) (NN procedure) (S (VP (TO to) (VP (VB remove) (NP (JJ marginal) (JJ gingival) (NNS tissues)) (S (VP (TO to) (VP (VB expose) (NP (NP (JJR more)) (PP (IN of) (NP (NP (DT the) (NN crown)) (PP (IN of) (NP (DT the) (NN tooth)))))) (S (VP (TO to) (VP (VB facilitate) (NP (NP (DT a) (NN reconstructive)) (CC or) (NP (JJ operative) (NN procedure))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN porcelain) (NN jacket) (NN crown)) (VP (VBZ is) (NP (NP (DT a) (NN type)) (PP (IN of) (NP (NP (NN crown)) (VP (VBN composed) (PP (IN of) (NP (NP (NN porcelain)) (ADJP (JJ mixed) (PP (IN with) (NP (NN metal)))) (, ,) (VP (ADVP (RB commonly)) (VBN used) (PP (IN for) (NP (PRP$ its) (NN appearance) (CC and) (NN tooth-bonding) (NNS properties)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ temporary) (NN crown)) (VP (VBZ is) (NP (NP (DT a) (JJ short-term) (NN crown)) (VP (VBN placed) (PP (IN on) (NP (DT a) (NN tooth))) (SBAR (IN while) (S (NP (NP (DT the) (JJ final) (NN impression)) (PP (IN of) (NP (DT the) (JJ permanent) (NN crown)))) (VP (VBZ is) (VP (VBG being) (VP (VBN cast)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ three-quarter) (NN crown)) (VP (VBZ is) (ADVP (NP (DT a) (NN term)) (RB frequently)) (VP (VBN used) (S (VP (TO to) (VP (VB designate) (NP (DT a) (JJ partial) (NN veneer) (NN crown)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN veneer) (NN crown)) (VP (VBZ is) (NP (NP (DT a) (NN restoration)) (SBAR (WHNP (WDT that)) (S (VP (VBZ reproduces) (NP (NP (DT the) (JJ total) (JJ clinical) (JJ coronal) (NN surface) (NN contour)) (PP (IN of) (NP (DT the) (NN tooth)))))))))))
+(ROOT (S (NP (JJ Colloquial) (NN term)) (VP (VBZ is) (ADJP (JJ veneers)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ dental) (NN care)) (VP (VBZ is) (NP (NP (DT the) (NN treatment)) (PP (IN of) (NP (NP (DT the) (NNS teeth)) (CC and) (NP (PRP$ their) (VBG supporting) (NNS structures))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ dentinal) (NN tubule)) (VP (VBZ is) (NP (NP (DT a) (JJ microscopic) (NN tube)) (PP (IN within) (NP (NN dentin)))) (SBAR (IN that) (S (NP (NNS spreads)) (VP (VBD outward) (PP (IN from) (NP (DT the) (JJ tooth\u9225\u6a9a) (NN center)))))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ carries) (NP (JJ dentinal) (NN fluid)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN dentition)) (VP (VBZ is) (NP (NP (DT the) (JJ natural) (NNS teeth)) (PP (IN in) (NP (NP (NN position)) (PP (IN in) (NP (DT the) (JJ dental) (NNS arches)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ artificial) (NN dentition)) (VP (VBZ is) (NP (NP (DT the) (JJ artificial) (NNS substitutes)) (PP (IN for) (NP (DT the) (JJ natural) (NN dentition)))))))
+(ROOT (S (VP (VB See) (ADJP (ADVP (RB also)) (JJ denture)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN denture)) (VP (VBZ is) (NP (NP (DT an) (JJ artificial) (NN substitute)) (PP (IN for) (S (VP (VBG missing) (NP (NP (JJ natural) (NNS teeth)) (CC and) (NP (JJ adjacent) (NN tissue))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (VBN fixed) (JJ partial) (NN denture)) (VP (VBZ is) (NP (NP (DT a) (JJ toothborne) (JJ partial) (NN denture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN intended) (S (VP (TO to) (VP (VB be) (VP (ADVP (RB permanently)) (VBN attached) (PP (TO to) (NP (NP (DT the) (NNS teeth) (CC or) (NNS roots)) (SBAR (WHNP (WDT that)) (S (VP (VB furnish) (NP (NN support)) (PP (TO to) (NP (DT the) (NN restoration))))))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN diagnosis)) (VP (VBZ is) (NP (NP (DT the) (NN translation)) (PP (IN of) (NP (NP (NNS data)) (VP (VBN gathered) (PP (IN by) (NP (JJ clinical) (CC and) (JJ radiographic) (NN examination))) (PP (IN into) (NP (NP (DT an) (VBN organized) (, ,) (JJ classified) (NN definition)) (PP (IN of) (NP (DT the) (NNS conditions) (NN present))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN differential) (NN diagnosis)) (VP (VBZ is) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VBG identifying) (NP (DT a) (NN condition)) (PP (IN by) (S (VP (VBG differentiating) (NP (NP (DT all) (JJ pathologic) (NNS processes)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VB produce) (NP (JJ similar) (NNS lesions)))))))))))))))))
+--------
+~~~~~~~
+(ROOT (NP (NP (NP (NN diamond)) (SBAR (S (VP (VBZ is) (NP (NP (DT a) (JJ crystalline) (NN carbon) (NN substance)) (, ,) (NP (NP (DT the) (RBS hardest) (JJ natural) (NN substance)) (UCP (ADJP (VBN known)) (, ,) (VP (VBN used) (ADVP (RB industrially))) (CC and) (PP (IN in) (NP (NN dentistry)))))))))) (PP (IN for) (NP (VBG cutting) (CC and) (VBG grinding)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN lubricant)) (VP (NN die) (SBAR (SBAR (S (VP (VBZ is) (NP (NP (DT a) (NN material)) (VP (VBN applied) (PP (TO to) (NP (DT a) (NN die))) (S (VP (TO to) (VP (VB serve) (PP (IN as) (NP (DT a) (JJ separating) (NN medium))))))))))) (CC so) (SBAR (IN that) (S (NP (DT the) (NN wax) (NN pattern)) (VP (VP (MD will) (RB not) (VP (VB adhere) (PP (TO to) (NP (DT the) (NN die))))) (CC but) (VP (MD may) (VP (VB be) (VP (VBN withdrawn) (PP (IN from) (NP (PRP it))) (PP (IN without) (S (VP (VBG sticking))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN stone) (NNS die)) (VP (VBZ is) (NP (NP (DT a) (JJ positive) (NN likeness)) (PP (IN in) (NP (JJ artificial) (NN stone)))))) (: ;) (S (NP (NN stone) (NNS die)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (NN fabrication)) (PP (IN of) (NP (DT a) (JJ dental) (NN restoration))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (JJ vertical) (NN dimension)) (VP (VBZ is) (NP (NP (DT the) (JJ vertical) (NN dimension)) (PP (IN of) (NP (NP (DT the) (NN face)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS teeth) (CC or) (NN occlusion) (NNS rims)) (VP (VBP are) (PP (IN in) (NP (NP (NN contact)) (PP (IN in) (NP (JJ centric) (NN occlusion))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ periodontal) (NN disease)) (VP (VBZ is) (NP (NP (DT a) (NN disturbance)) (PP (IN of) (NP (DT the) (NN periodontium)))))))
+(ROOT (S (NP (NP (NNS Diseases)) (VP (VBG affecting) (NP (DT the) (NN periodontium)))) (VP (VBP include) (NP (NP (JJ aggressive) (CC and) (JJ necrotizing) (NNS types)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NNS gingivitis))))))
+(ROOT (S (NP (JJ Etiologic) (NNS factors)) (VP (VP (MD may) (VP (VB be) (UCP (JJ local) (CC or) (NN systemic)))) (CC or) (VP (MD may) (VP (VB involve) (NP (NP (DT an) (NN interplay)) (PP (IN between) (NP (DT the) (CD two)))))))))
+(ROOT (S (NP (JJ Periodontal) (NNS diseases)) (VP (MD may) (VP (VB be) (VP (VBN involved) (PP (IN in) (S (VP (VBG increasing) (NP (NP (DT the) (NN risk) (CC and) (NN course)) (PP (IN of) (NP (JJ systemic) (NNS diseases))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (NN disharmony)) (VP (VBZ is) (NP (NP (DT a) (NN phenomenon)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (NNS contacts)) (PP (IN of) (S (VP (VBG opposing) (NP (NP (JJ occlusal) (NNS surfaces)) (PP (IN of) (NP (NNS teeth)))))))) (VP (VBP are) (RB not) (PP (PP (IN in) (NP (NP (NN harmony)) (PP (IN with) (NP (JJ other) (NN tooth) (NNS contacts))))) (CC and) (PP (IN with) (NP (NP (DT the) (ADJP (JJ anatomic) (CC and) (JJ physiologic)) (NNS controls)) (PP (IN of) (NP (DT the) (NN mandible)))))))))))))
+(ROOT (S (VP (VB See) (NP (NP (ADVP (RB also)) (NP (NN contact)) (, ,) (NP (JJ deflective) (NN occlusal))) (: ;) (NP (NP (NN contact)) (, ,) (NP (JJ interceptive) (NN occlusal))) (: ;) (CC and) (NP (NN malocclusion))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN disinfection)) (VP (VBZ is) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VP (VBG destroying) (NP (JJ pathogenic) (NNS organisms))) (CC or) (VP (VBG rendering) (S (NP (PRP them)) (ADJP (JJ inert)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN distortion)) (VP (VBZ is) (NP (NP (DT a) (NN deviation)) (PP (IN from) (NP (DT the) (JJ normal) (NN shape) (CC or) (NN condition)))))))
+--------
+(ROOT (S (NP (NN distortion)) (VP (VBZ is) (NP (NP (DT a) (NN modification)) (PP (IN of) (NP (NP (DT the) (NN speech) (NN sound)) (PP (IN in) (NP (DT some) (NN way)))))) (SBAR (RB so) (IN that) (S (NP (DT the) (JJ acoustic) (NN result)) (VP (VP (ADVP (RB only)) (VBZ approximates) (NP (DT the) (JJ standard) (NN sound))) (CC and) (VP (VBZ is) (RB not) (ADJP (JJ accurate)))))))))
+--------
+(ROOT (S (NP (NN distortion)) (VP (VBZ is) (NP (DT a) (NN twisting) (CC or) (NN deformation)))))
+(ROOT (S (NP (NN distortion)) (VP (VBZ is) (NP (NP (DT A) (NN loss)) (PP (IN of) (NP (NP (NN accuracy)) (PP (IN in) (NP (NP (NN reproduction)) (PP (IN of) (NP (JJ cavity) (NN form)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN edentulism)) (VP (VBZ is) (NP (NP (DT the) (NN condition)) (PP (IN of) (S (VP (VBG being) (NP (NNS edentulous)))))) (, ,) (PP (IN without) (NP (NNS teeth))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN education)) (VP (VBZ is) (NP (NP (DT the) (NN act) (CC or) (NN process)) (PP (IN of) (S (VP (VBG imparting) (CC or) (VBG acquiring) (NP (NN knowledge) (, ,) (NN skill) (, ,) (CC or) (NN judgment)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (VBG wedging) (NN effect)) (VP (VBZ is) (NP (NP (DT an) (NN effect)) (VP (VBN produced) (PP (IN by) (NP (NP (NN food) (NN impaction)) (SBAR (WHNP (WDT that)) (S (VP (VBZ forces) (NP (DT the) (NNS teeth)) (ADVP (RB apart))))))))))))
+--------
+~~~~~~~
+(ROOT (SINV (ADVP (RB elasticity)) (VP (VBZ is)) (NP (NP (DT the) (NN quality) (CC or) (NN condition)) (PP (IN of) (S (VP (VBG being) (ADJP (JJ elastic))))))))
+--------
+~~~~~~~
+(ROOT (SINV (ADVP (RB electrosurgery)) (VP (VBZ is)) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NNP electrically))) (VP (VBN generated) (NP (NN energy)) (PP (IN from) (S (ADVP (RB highfrequency)) (VP (VBG alternating) (NP (NNS currents)) (S (VP (TO to) (VP (VB cut) (CC or) (VB alter) (NP (NN tissue)) (PP (IN within) (NP (JJ definite) (NNS limits)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN emergence) (NN profile)) (VP (VBZ is) (NP (NP (DT the) (JJ axial) (NN contour)) (PP (IN of) (NP (DT a) (NN tooth) (CC or) (NN crown)))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ relates) (PP (TO to) (NP (DT the) (JJ adjacent) (JJ soft) (NN tissue)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN equipment)) (VP (VBZ is) (NP (NP (DT the) (JJ nonexpendable) (NNS items)) (VP (VBN used) (PP (IN by) (NP (NP (DT the) (JJ dental) (NN staff)) (PP (IN in) (NP (NP (DT the) (NN office)) (PP (IN in) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (JJ professional) (NNS duties))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NNS esthetics)) (VP (VBZ is) (NP (NP (DT the) (NN branch)) (PP (IN of) (NP (NP (NN philosophy)) (VP (VBG dealing) (PP (IN with) (NP (NN beauty))) (, ,) (ADVP (RB especially)) (PP (IN with) (NP (DT the) (NNS components) (RB thereof))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ intraoral) (NN examination)) (VP (VBZ is) (NP (NP (DT an) (NN examination)) (PP (IN of) (NP (NP (PDT all) (DT the) (NNS structures)) (VP (VBN contained) (PP (IN within) (NP (DT the) (JJ oral) (NN cavity))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ radiographic) (NN examination)) (VP (VBZ is) (NP (NP (DT the) (NN production)) (PP (IN of) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (JJ radiographic) (NNS images)) (ADJP (JJ necessary) (PP (IN for) (NP (NP (NP (DT the) (JJ radiologic) (NN interpretation)) (PP (IN of) (NP (DT the) (NN part)))) (CC or) (NP (NP (NNS parts)) (PP (IN in) (NP (NN question)))))))))))))))
+--------
+(ROOT (S (NP (JJ radiographic) (NN examination)) (VP (VBZ is) (NP (NP (DT the) (NN study) (CC and) (NN interpretation)) (PP (IN of) (NP (NP (JJ radiographic) (NNS images)) (PP (IN of) (NP (NP (DT the) (JJ oral) (NN cavity)) (CC and) (NP (VBN associated) (NNS structures))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN extraction)) (VP (VP (VBZ is) (NP (NP (DT the) (NN removal)) (PP (IN of) (NP (NP (DT a) (NN tooth)) (PP (IN from) (NP (NP (DT the) (JJ oral) (NN cavity)) (PP (IN by) (NP (NP (NNS means)) (PP (IN of) (NP (NNS elevators))))))))))) (CC and/or) (VP (VBZ forceps)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN fabrication)) (VP (VBZ is) (NP (NP (DT the) (NN construction) (CC or) (NN making)) (PP (IN of) (NP (DT a) (NN restoration)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN facet)) (VP (VBZ is) (NP (NP (DT a) (JJ flattened) (, ,) (ADJP (RB highly) (VBN polished)) (NN wear) (NN pattern)) (, ,) (SBAR (IN as) (S (VP (VBD noted) (PP (IN on) (NP (DT a) (NN tooth))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ ferric) (NN sulfate)) (VP (VBZ is) (NP (NP (DT an) (NN iron) (NN salt)) (SBAR (WHNP (WDT that)) (S (VP (VBZ coagulates) (NP (NN blood)))))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (VP (VBN advocated) (PP (IN by) (NP (DT some) (NNS dentists))) (PP (IN as) (NP (NP (DT a) (NN pulp)) (VP (VBG capping) (NP (NN agent)) (PP (IN for) (NP (NP (NNS pulpotomies)) (PP (IN in) (NP (JJ primary) (NNS teeth))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ fibrous) (NN encapsulation)) (VP (VBZ is) (NP (NP (DT the) (NN process)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT an) (NN implant)) (VP (VBZ becomes) (S (VP (VP (VBN surrounded) (PP (IN by) (NP (JJ fibrous) (NN connective) (NN tissue))) (PP (IN during) (NP (NP (NN tissue) (NN healing) (NN process)) (ADJP (RB as) (VBN opposed) (S (VP (TO to) (VP (VB osseointegration) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN implant)) (VP (VBZ is) (VP (VBN surrounded)))))))))))) (CC and) (VP (PP (IN in) (NP (JJ intimate) (NN contact))) (PP (IN with) (NP (DT the) (NN bone)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN flash)) (VP (VBZ is) (NP (NP (DT the) (JJ excess) (NN material)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN squeezed) (PRT (RP out)) (PP (IN of) (NP (DT the) (NN mold)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN flask)) (VP (VBZ is) (NP (NP (DT a) (NN metal) (NN case) (CC or) (NN tube)) (VP (VBN used) (PP (IN in) (NP (VBG investing) (NNS procedures))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN fluorescence)) (VP (VBZ is) (NP (NP (DT the) (NN emission)) (PP (IN of) (NP (NP (NN radiation)) (PP (IN of) (NP (NP (DT a) (JJ particular) (NN wavelength)) (PP (IN by) (NP (NP (JJ certain) (NNS substances)) (PP (IN as) (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NP (NN absorption)) (PP (IN of) (NP (NP (NN radiation)) (PP (IN of) (NP (DT a) (JJR shorter) (NN wavelength)))))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ functional) (NN form)) (VP (VBZ is) (NP (NP (DT the) (NN shape)) (SBAR (WHNP (WDT that)) (S (VP (VBZ permits) (NP (JJ optimal) (NN performance)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN outline) (NN form)) (VP (VBZ is) (NP (NP (DT the) (NN shape)) (PP (IN of) (NP (NP (DT the) (NN area)) (PP (IN of) (NP (NP (DT the) (NN tooth) (NN surface)) (VP (VBN included) (PP (IN within) (NP (NP (DT the) (JJ cavosurface) (NNS margins)) (PP (IN of) (NP (DT a) (JJ prepared) (NN cavity))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN resistance) (NN form)) (VP (VBZ is) (NP (NP (DT the) (NN shape)) (PP (VBN given) (PP (TO to) (NP (DT a) (ADJP (JJ prepared) (RB cavity) (S (VP (TO to) (VP (VB enable) (NP (NP (DT the) (NN restoration)) (CC and) (NP (VBG remaining) (NN tooth))))))) (NN structure) (S (VP (TO to) (VP (VB withstand) (NP (JJ masticatory) (NN stress))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN retention) (NN form)) (VP (VBZ is) (NP (NP (DT the) (NN provision)) (VP (VBN made) (PP (IN in) (NP (DT a) (JJ cavity) (NN preparation))) (S (VP (TO to) (VP (VB prevent) (NP (NP (NN displacement)) (PP (IN of) (NP (DT the) (NN restoration))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN fracture)) (VP (VBZ is) (NP (NP (DT a) (NN break) (CC or) (NN rupture)) (PP (IN of) (NP (DT a) (NN part)))))))
+(ROOT (S (PP (IN In) (NP (DT the) (JJ oral) (NN region))) (, ,) (NP (NN fracture)) (VP (VBZ is) (ADVP (RBS most) (RB often)) (VP (VBN seen) (PP (IN in) (NP (NNS teeth) (CC and) (NNS bones)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN root) (NN fracture)) (VP (VBZ is) (NP (NP (DT a) (JJ microscopic) (CC or) (JJ macroscopic) (NN cleavage)) (PP (IN of) (NP (NP (DT the) (NN root)) (PP (IN in) (NP (DT any) (NN direction)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN tooth) (NN fracture)) (VP (VBZ is) (NP (NP (DT a) (JJ traumatic) (NN injury)) (PP (TO to) (NP (NP (DT a) (NN tooth)) (SBAR (WHNP (WDT that)) (S (VP (VBZ manifests) (NP (PRP itself)) (PP (IN as) (NP (NP (DT a) (NN chip)) (, ,) (NP (NN crack)) (, ,) (CC or) (NP (NN break)))))))))))))
+(ROOT (S (NP (NNS Manifestations)) (VP (MD may) (ADVP (RB also)) (VP (VB include) (NP (NP (NN dislocation) (CC or) (JJ complete) (NN displacement)) (PP (IN of) (NP (DT a) (NN tooth))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN framework)) (VP (VBZ is) (NP (NP (DT the) (JJ skeletal) (NN metal) (NN portion)) (PP (IN of) (NP (DT a) (JJ removable) (JJ partial) (NN denture))) (UCP (FRAG (WHPP (IN around) (WHNP (WDT which)))) (CC and) (SBAR (WHPP (TO to) (WHNP (WDT which))) (S (NP (DT the) (VBG remaining) (NNS units)) (VP (VBP are) (VP (VBN attached))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NNS fremitus)) (VP (VBZ is) (NP (NP (DT the) (JJ palpable) (NNS vibrations)) (PP (IN of) (NP (NN nonvascular) (NN origin))) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN noted) (PP (IN by) (S (VP (VBG placing) (NP (DT the) (NN hand)) (PP (IN on) (NP (DT the) (NN chest)))))))))))))))
+(ROOT (S (VP (VB See) (NP (ADVP (RB also)) (NN thrill)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN frequency)) (VP (VBZ is) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS cycles)) (PP (IN per) (NP (NP (JJ second)) (PP (IN of) (NP (NP (DT a) (NN wave)) (CC or) (NP (JJ other) (JJ periodic) (NN phenomenon))))))))))))
+(ROOT (SINV (ADVP (RB Frequency)) (VP (VBZ indicates)) (NP (NP (DT the) (NN energy)) (PP (IN of) (NP (DT a) (JJ particular) (NN radiation))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN group) (NN function)) (VP (VBZ is) (NP (NP (DT the) (JJ simultaneous) (NN contact)) (PP (IN of) (S (VP (VBG opposing) (NP (NNS teeth)) (PP (IN in) (NP (DT a) (NN segment) (CC or) (NN group))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN gagging)) (VP (VBZ is) (NP (NP (DT an) (JJ involuntary) (NN retching) (NN reflex)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VB be) (VP (VBN stimulated) (PP (IN by) (NP (NN something))) (S (VP (VBG touching) (NP (DT the) (NN posterior) (NN palate) (CC or) (NN throat) (NN region)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (VP (VB undercut) (SBAR (S (NP (NN gauge)) (VP (VBZ is) (NP (NP (DT an) (NN attachment)) (VP (VBN used) (PP (IN in) (NP (NP (NN conjunction)) (PP (IN with) (NP (DT a) (JJ dental) (NN cast) (NN surveyor))))) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NP (NN infrabulge)) (PP (IN of) (NP (NP (DT a) (NN tooth)) (PP (IN in) (NP (DT a) (JJ horizontal) (NN plane)))))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN gingiva)) (VP (VBZ is) (NP (NP (DT the) (JJ fibrous) (NN tissue)) (SBAR (WHNP (WDT that)) (S (ADVP (RB immediately)) (VP (VBZ surrounds) (NP (DT the) (NNS teeth)))))))))
+(ROOT (S (NP (JJ Colloquial) (NN term)) (VP (VBZ is) (NP (NNS gums)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ gingival) (NN architecture)) (VP (VBZ is) (NP (DT the) (JJ gingival) (NN form)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ gingival) (NN fibroblast)) (VP (VBZ is) (NP (DT a) (JJ formative) (NN cell)) (SBAR (IN that) (S (NP (NNS moderates)) (VP (VBD wound) (S (VP (VBG healing) (CC and) (VBG healing) (PP (IN after) (NP (NN treatment)))))))))))
+(ROOT (S (VP (VB See) (ADJP (ADVP (RB also)) (JJ fibroblast)))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NNS gingivitis)) (VP (VBZ is) (NP (NP (DT an) (NN inflammation)) (PP (IN of) (NP (DT the) (JJ gingival) (NN tissue)))))) (: ;) (S (NP (NNS gingivitis)) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN classification)) (PP (IN of) (NP (JJ periodontal) (NN disease))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN glass) (NN ionomer) (NN cement)) (VP (VBZ is) (NP (NP (DT a) (JJ dental) (NN cement)) (PP (IN of) (NP (NP (JJ low) (NN strength) (CC and) (NN toughness)) (VP (VBN produced) (PP (IN by) (S (VP (VBG mixing) (NP (NP (NP (DT a) (NN powder)) (VP (VBN prepared) (PP (IN from) (NP (DT a) (NN calcium) (NN aluminosilicate) (NN glass))))) (CC and) (NP (NP (DT a) (NN liquid)) (VP (VBN prepared) (PP (IN from) (NP (NP (DT an) (JJ aqueous) (NN solution)) (PP (IN of) (NP (JJ prepared) (JJ polyacrylic) (NN acid))))))))))))))))) (: ;) (S (NP (NN glass) (NN ionomer) (NN cement)) (VP (VBZ is) (VP (VBN used) (ADVP (RB mainly)) (PP (PP (IN for) (NP (NP (JJ small) (NNS restorations)) (PP (IN on) (NP (NP (DT the) (JJ proximal) (NNS surfaces)) (PP (IN of) (NP (NN anterior) (NNS teeth))))))) (CC and) (PP (IN for) (NP (NP (NN restoration)) (PP (IN of) (NP (JJ eroded) (NNS areas)))))) (PP (IN at) (NP (DT the) (JJ gingival) (NN margin))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN graft)) (VP (VBZ is) (NP (NP (DT a) (NN slip) (CC or) (NN portion)) (PP (IN of) (NP (NP (NN tissue)) (VP (VBN used) (PP (IN for) (NP (NN implantation))))))))))
+(ROOT (FRAG (: See) (ADVP (RB also)) (NP (NP (NN donor) (NN site)) (: ;) (NP (JJ recipient) (NN site)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN bone) (NN graft)) (VP (VBZ is) (NP (NP (DT the) (NN transplantation)) (PP (IN of) (NP (NP (JJ healthy) (NN bone) (NN tissue)) (PP (TO to) (NP (DT a) (JJ defective) (NN bone) (NN cavity)))))) (SBAR (RB so) (IN that) (S (NP (DT the) (JJ new) (NN bone) (NN tissue)) (VP (VP (VBZ meets) (NP (DT the) (VBG surrounding) (, ,) (JJ unaffected) (NN surface))) (CC and) (VP (VBZ promotes) (NP (NP (NN healing)) (CC and) (NP (JJ new) (NN growth))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ gingival) (NN graft)) (VP (VBZ is) (NP (NP (DT a) (NN graft)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT a) (JJ thin) (NN piece)) (PP (IN of) (NP (NN tissue)))) (VP (VP (VBZ is) (VP (VBN taken) (PP (IN from) (NP (NP (DT the) (NN palate)) (PP (IN of) (NP (DT the) (JJ oral) (NN cavity))))))) (, ,) (CC or) (VP (VBD moved) (PRT (RP over)) (PP (IN from) (NP (JJ adjacent) (NNS areas)))) (, ,) (S (VP (TO to) (VP (VB provide) (NP (NP (DT a) (JJ stable) (NN band)) (PP (IN of) (NP (JJ soft) (NN tissue)))) (PP (IN around) (NP (DT a) (NN tooth) (CC or) (NN implant)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ pedicle) (NN graft)) (VP (VBZ is) (NP (NP (DT a) (NN stem) (CC or) (NN tube)) (PP (IN of) (NP (NN tissue))) (SBAR (WHNP (WDT that)) (S (VP (VBZ remains) (VP (VBN attached) (PP (IN near) (NP (DT the) (NN donor) (NN site))) (S (VP (TO to) (VP (VB nourish) (NP (DT the) (NN graft)) (PP (IN during) (NP (NP (NN advancement)) (PP (IN of) (NP (DT a) (NN skin) (NN graft))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN gutta-percha)) (VP (VBZ is) (NP (NP (DT the) (JJ coagulated) (NN juice)) (PP (IN of) (NP (JJ various) (JJ tropical) (NNS s))) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (NP (JJ certain) (NN rubberlike) (NNS properties)))))))))
+(ROOT (NP (S (S (VP (VBN Used) (PP (IN for) (NP (NP (JJ temporary) (NNS sealing)) (PP (IN of) (NP (NP (NNS dressings)) (PP (IN in) (NP (NNS cavities))))))))) (: ;) (S (VP (ADVP (RB also)) (VBN used) (PP (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NP (NNS cones)) (PP (IN for) (S (VP (VBG filling) (NP (NN root) (NNS canals))))))))) (CC and) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NP (NNP sticks)) (PP (IN for) (S (VP (VBG sealing) (NP (NNS cavities)) (PP (IN over) (NP (NN treatment))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN gypsum)) (VP (VBZ is) (NP (NP (DT the) (NN dihydrate)) (PP (IN of) (NP (NN calcium) (NN sulfate)))))))
+(ROOT (S (NP (NN \u4f2a-hemihydrate) (CC and) (NN \u5c3e-hemihydrate)) (VP (VBP are) (VP (VBN derived) (PP (IN from) (NP (NN gypsum)))))))
+(ROOT (VP (VB See) (ADVP (RB also)) (NP (NP (NN plaster)) (PP (IN of) (NP (NNS paris))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (NN harmony)) (VP (VBZ is) (NP (NP (DT the) (JJ nondisruptive) (NN relationship)) (PP (IN of) (NP (NP (DT an) (NN occlusion)) (PP (TO to) (NP (PDT all) (PRP$ its) (NNS factors)))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN hydrocolloid)) (VP (VBZ is) (NP (NP (DT the) (NNS materials)) (VP (VBN listed) (PP (IN as) (NP (JJ colloid) (NNS solids))) (PP (IN with) (NP (NN water))))))) (: ;) (S (NP (NN hydrocolloid)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (NN dentistry))) (PP (IN as) (NP (JJ elastic) (NN impression) (NNS materials))))))))
+--------
+(ROOT (SINV (VP (VBN hydrocolloid)) (VP (VBZ is)) (NP (DT an) (JJ agar-base) (NN impression) (NN material))))
+--------
+~~~~~~~
+(ROOT (SINV (ADVP (RB hypertrophy)) (VP (VBZ is)) (NP (NP (DT an) (NN enlargement) (CC or) (NN overgrowth)) (PP (IN of) (NP (NP (DT an) (NN organ) (CC or) (NN part)) (VP (VBG resulting) (PP (IN from) (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (NP (NN size)) (PP (IN of) (NP (PRP$ its) (JJ constituent) (NNS cells)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ immune) (NN system)) (VP (VBZ is) (NP (NP (DT a) (JJ biochemical) (NN complex)) (SBAR (WHNP (WDT that)) (S (VP (VBZ protects) (NP (NP (DT the) (NN body)) (PP (IN against) (NP (NP (JJ pathogenic) (NNS organisms)) (CC and) (NP (JJ other) (JJ foreign) (NNS bodies))))))))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ incorporates) (NP (NP (NP (DT the) (JJ humoral) (JJ immune) (NN response)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ produces) (S (NP (NNS antibodies)) (VP (TO to) (VP (VB react) (PP (IN with) (NP (JJ specific) (NNS antigens)))))))))) (, ,) (CC and) (NP (NP (DT the) (JJ cell-mediated) (NN response)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ uses) (S (NP (NNP T) (NNS cells)) (VP (TO to) (VP (VB mobilize) (NP (NN tissue) (NNS macrophages)) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (DT a) (JJ foreign) (NN body))))))))))))))))
+(ROOT (S (NP (PRP It)) (VP (ADVP (RB also)) (VBZ protects) (NP (NP (DT the) (NN body)) (PP (IN from) (NP (NN invasion)))) (PP (IN by) (S (VP (VBG creating) (NP (JJ local) (NNS barriers) (CC and) (NNS inflammation))))))))
+(ROOT (S (NP (DT The) (JJ principal) (NNS organs)) (VP (VBP include) (NP (NP (DT the) (NN bone) (NN marrow)) (, ,) (NP (NNS thymus)) (, ,) (CC and) (NP (JJ lymphoid) (NN tissue))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN implant)) (VP (VBZ is) (NP (NP (DT a) (NN device)) (, ,) (ADJP (RB usually) (JJ alloplastic)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADVP (RB surgically)) (VP (VBN inserted) (PP (IN into) (CC or) (IN onto) (NP (DT the) (JJ oral) (NN tissue)))))))))))
+(ROOT (S (S (VP (TO To) (VP (VB be) (VP (VBN used) (PP (IN as) (NP (DT a) (JJ prosthodontic) (NN abutment))))))) (, ,) (NP (PRP it)) (VP (MD should) (VP (VB remain) (ADJP (ADJP (JJ quiescent)) (CC and) (ADJP (RB purely) (JJ secondary))) (PP (TO to) (NP (JJ local) (NN tissue) (NN physiology)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ endosteal) (NN implant)) (VP (VBZ is) (NP (NP (DT an) (NN implant)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN placed) (PP (IN into) (NP (NP (DT the) (JJ alveolar) (JJ and/or) (NN basal) (NN bone)) (CC and) (NP (DT that) (NNS protrudes)))) (PP (IN through) (NP (DT the) (NN mucoperiosteum)))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (JJ transosteal) (NN implant)) (VP (VBZ is) (NP (NP (DT an) (NN implant)) (SBAR (WHNP (WDT that)) (S (VP (VBZ passes) (ADVP (RB completely)) (PP (IN through) (NP (NP (DT the) (ADJP (JJ buccal) (CC and) (JJ lingual)) (NNS aspects)) (PP (IN of) (NP (DT a) (JJ toothless) (NN ridge))))))))))) (: ;) (S (NP (JJ transosteal) (NN implant)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT an) (NN implant)) (SBAR (WP$ whose) (S (NP (JJ threaded) (NNS posts)) (VP (VBP pass) (ADVP (RB completely)) (PP (IN through) (NP (NP (DT the) (NN mandible)) (PP (IN in) (NP (NP (DT the) (JJ parasymphyseal) (NN region)) (PP (IN from) (NP (NP (DT the) (JJ inferior) (NN border)) (PP (TO to) (NP (DT the) (NN alveolar) (NN crest))))))))) (, ,) (S (VP (VBG allowing) (NP (NP (DT the) (NN attachment)) (PP (IN of) (NP (DT a) (JJ dental) (NNS prosthesis))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN incisor)) (VP (VBZ is) (NP (NP (DT a) (VBG cutting) (NN tooth)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (CD four) (NN anterior) (NNS teeth)) (PP (IN of) (NP (NP (DT either) (NN jaw)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP are) (ADJP (DT the) (JJ first) (CC and) (JJ second)) (PP (IN from) (NP (DT the) (NN midline)))) (CC and) (VP (VBP consist) (PP (IN of) (NP (DT both) (NNS centrals) (CC and) (NNS laterals)))))))))))) (, ,) (ADVP (RB respectively))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN infection) (NN control)) (VP (VBP are) (NP (NP (DT the) (NNS procedures) (CC and) (NNS protocols)) (VP (VBN designed) (S (VP (TO to) (VP (VB prevent) (CC or) (VB limit) (NP (NP (NN cross-contamination)) (PP (IN in) (NP (DT the) (NN health) (NN care) (NN delivery) (NN environment))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN inlay)) (VP (VBZ is) (NP (NP (NP (DT a) (NN restoration)) (PP (IN of) (NP (NN metal))) (, ,) (VP (VBN fired) (NP (NN porcelain)))) (, ,) (CC or) (NP (NP (NN plastic)) (VP (VP (VBN made) (S (VP (TO to) (VP (VB fit) (NP (DT a) (JJ tapered) (NN cavity) (NN preparation)))))) (CC and) (VP (VP (VBN fastened) (S (VP (TO to)))) (CC or) (VP (VBN luted) (PP (IN into) (NP (PRP it)))) (PP (IN with) (NP (DT a) (VBG cementing) (NN medium))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (NN interference)) (VP (VBZ is) (NP (NP (DT a) (JJ tooth-to-tooth) (NN contact)) (SBAR (WHNP (WDT that)) (S (VP (VBZ interferes) (PP (IN with) (NP (NN jaw) (NN movement))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ mucogingival) (NN junction)) (VP (VBZ is) (NP (NP (DT the) (JJ scalloped) (JJ linear) (NN area)) (VP (VBG denoting) (NP (NP (DT the) (NN separation)) (PP (IN of) (NP (DT the) (NN gingivae) (CC and) (NN alveolar) (NN mucosa)))))))))
+--------
+~~~~~~~
+(ROOT (SINV (ADVP (RB keyway)) (VP (VBZ is)) (NP (DT the) (NN slot) (SBAR (WHPP (IN into) (WHNP (WDT which))) (S (NP (NP (DT the) (JJ male) (NN portion)) (PP (IN of) (NP (NN precision) (NNS attachments)))) (VP (VBZ fits)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN lamina) (NN dura)) (VP (VBZ is) (NP (NP (DT a) (JJ radiographic) (NN term)) (VP (VBG denoting) (NP (NP (DT the) (NN plate)) (PP (IN of) (NP (JJ compact) (NN bone))) (SBAR (WHNP (WDT that)) (S (VP (VBZ lies) (ADJP (JJ adjacent) (PP (TO to) (NP (DT the) (JJ periodontal) (NN ligament)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN laterotrusion)) (VP (VBZ is) (NP (NP (DT the) (JJ outward) (NN thrust)) (PP (VBN given) (PP (IN by) (NP (NP (DT the) (NNS muscles)) (PP (TO to) (NP (NP (DT the) (VBG rotating) (NN condyle)) (CC or) (NP (NP (DT the) (NN condyle)) (PP (IN on) (NP (DT the) (JJ bolus) (NN side)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN lesion)) (VP (VP (VBZ is) (NP (NP (DT a) (JJ pathologic) (NN disturbance)) (PP (IN of) (NP (DT a) (NN tissue))) (, ,) (PP (IN with) (NP (NP (NN loss)) (PP (IN of) (NP (NP (NN continuity)) (, ,) (NP (NN enlargement)))))))) (, ,) (CC and/or) (VP (VBP function)))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (JJ carious) (NN lesion)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN known) (PP (IN as) (NP (JJ dental) (NNS caries) (CC or) (NN tooth) (NNS cavities)))))) (: ;) (S (NP (JJ carious) (NN lesion)) (VP (VBZ is) (ADVP (RB typically)) (VP (VBN caused) (PP (IN by) (NP (NP (JJ acid-producing) (NNS bacteria)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ lowers) (NP (NP (DT the) (NN pH)) (PP (IN of) (NP (DT the) (JJ oral) (NN cavity)))) (, ,) (S (VP (VBG causing) (NP (NN demineralization))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN ligament)) (VP (VBZ is) (NP (NP (DT a) (JJ tough) (, ,) (JJ fibrous) (JJ connective) (NN tissue) (NN band)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ connects) (NP (NNS bones))) (CC or) (VP (VBZ supports) (NP (NN viscera))))))))))
+(ROOT (S (S (NP (DT Some) (NNS ligaments)) (VP (VBP are) (NP (JJ distinct) (NN fibrous) (NNS structures)))) (: ;) (S (S (NP (NNS others)) (VP (VBP are) (UCP (NP (NP (NNS folds)) (PP (IN of) (NP (NN fascia)))) (CC or) (PP (IN of) (NP (JJ indurated) (NN peritoneum)))))) (: ;) (S (ADVP (RB still)) (NP (NNS others)) (VP (VBP are) (NP (NP (DT the) (NNS relics)) (PP (IN of) (NP (JJ unused) (JJ fetal) (NNS organs)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN stylomandibular) (NN ligament)) (VP (VBZ is) (NP (NP (DT a) (NN ligament)) (VP (VP (VBG extending) (PP (IN from) (NP (NP (DT the) (NN styloid) (NN process)) (PP (IN of) (NP (DT the) (JJ temporal) (NN bone)))))) (CC and) (VP (VBN attached) (PP (TO to) (NP (DT the) (NN mandibular) (NN gonial) (NN angle)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NP (RB either) (DT the) (JJ upper)) (CC or) (NP (NP (JJR lower) (NN structure)) (VP (VBG surrounding) (NP (NP (DT the) (NN opening)) (PP (IN of) (NP (DT the) (JJ oral) (NN cavity)))))))))
+--------
+(ROOT (S (NP (NN lip)) (VP (VBZ is) (NP (NP (DT a) (JJ rimlike) (NN structure)) (VP (VBG bordering) (NP (DT a) (NN cavity) (CC or) (NN groove)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (NN load)) (VP (VBZ is) (NP (NP (DT the) (NN stresses)) (VP (VBN generated) (PP (IN by) (NP (NP (ADJP (JJ functional) (CC or) (JJ habitual)) (NNS contacting)) (PP (IN of) (NP (NP (DT the) (JJ occlusal) (NNS surfaces)) (PP (IN of) (NP (NP (DT the) (JJ upper)) (CC and) (NP (JJR lower) (NNS teeth)))))))))))))
+(ROOT (S (NP (EX There)) (VP (VBP are) (NP (NP (NP (CD two) (NNS components)) (PP (IN of) (NP (JJ such) (NN stress) (NNS loads)))) (: :) (NP (NP (DT the) (ADJP (RB vertically) (VBN directed)) (NNS components)) (CC and) (NP (NP (DT those) (NNS components)) (SBAR (WHNP (WDT that)) (S (VP (VBP tend) (S (VP (TO to) (VP (VB move) (NP (DT a) (NN tooth) (CC or) (NN denture) (NN laterally))))))))))))))
+(ROOT (VP (VB See) (ADVP (RB also)) (NP (NN force)) (, ,) (ADJP (JJ occlusal))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN lymphocyte)) (VP (VBZ is) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (NP (JJ white) (NN blood) (NN cell)) (VP (VBG originating) (PP (IN in) (NP (JJ lymphoid) (NNS tissues))))))))) (: ;) (S (NP (NN lymphocyte)) (VP (VBP are) (NP (NP (NP (DT the) (NN possesses)) (NP (DT a) (JJ single) (JJ spherical) (NN nucleus))) (CC and) (NP (DT a) (NN nongranular) (NN cytoplasm)))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ constitutes) (NP (NP (CD 25) (NN %)) (PP (IN of) (NP (DT the) (JJ white) (NN blood) (NNS cells)))))))
+(ROOT (S (NP (NP (DT Some)) (, ,) (ADVP (IN along) (PP (IN with) (NP (NN plasma) (NNS cells) (CC and) (NNS histiocytes)))) (, ,)) (VP (VBP are) (VP (VBN found) (PP (IN in) (NP (ADJP (RB clinically) (JJ normal)) (NN gingivae)))))))
+(ROOT (S (NP (NP (PRP$ Their) (NNS numbers)) (PP (IN within) (NP (DT the) (JJ gingival) (NN connective) (NN tissue)))) (VP (VBP are) (VP (VBN increased) (PP (IN in) (NP (JJ periodontal) (NN disease)))))))
+(ROOT (S (PP (IN With) (NP (NP (NN progress)) (PP (IN of) (NP (NP (JJ gingival) (NN inflammation)) (PP (TO to) (NP (DT the) (JJ underlying) (NN bone))))))) (, ,) (NP (PRP they)) (VP (VBP are) (ADVP (RB also)) (VP (VBN found) (PP (IN within) (NP (NP (DT the) (NN marrow) (NNS spaces)) (PP (IN of) (NP (DT the) (JJ supporting) (NN bone)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN macrophage)) (VP (VBZ is) (NP (NP (DT any) (JJ phagocytic) (NN cell)) (PP (IN of) (NP (NP (DT the) (JJ reticuloendothelial) (NN system)) (PP (VBG including) (NP (NP (NP (JJ specialized) (JJ Kupffer\u9225\u6a9a) (NNS cells)) (PP (IN in) (NP (DT the) (NN liver) (CC and) (NN spleen)))) (, ,) (CC and) (NP (NP (NNS histiocytes)) (PP (IN in) (NP (JJ loose) (NN connective) (NN tissue))))))))))))
+(ROOT (S (VP (VB See) (ADJP (RB also) (JJ histiocyte) (CC and) (JJ monocyte)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN mandible)) (VP (VBZ is) (NP (DT the) (JJR lower) (NN jawbone)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN mastication)) (VP (VBZ is) (NP (NP (DT the) (NN process)) (PP (IN of) (NP (NP (VBG chewing) (NN food)) (PP (IN in) (NP (NP (NN preparation)) (PP (IN for) (NP (NN swallowing) (CC and) (NN digestion)))))))))))
+--------
+(ROOT (S (NP (NN mastication)) (VP (VBZ is) (NP (NP (DT the) (NN act)) (PP (IN of) (NP (NP (VBG chewing)) (VP (VP (VBN accomplished) (PP (IN by) (NP (NP (DT the) (JJ coordinated) (NN activity)) (PP (IN of) (NP (NP (DT the) (NN tongue)) (, ,) (NP (NN mandible)) (, ,) (NP (NN mandibular) (NN musculature)) (, ,) (CC and) (NP (NP (JJ structural) (NNS components)) (PP (IN of) (NP (DT the) (NN temporomandibular) (NNS joints))))))))) (, ,) (CC and) (VP (JJ controlled) (PP (IN by) (NP (DT the) (NN neuromuscular) (NN mechanism)))))))))))
+(ROOT (S (VP (VB See) (VP (ADVP (RB also)) (VBG chewing)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ maxillary) (NN arch)) (VP (VBZ is) (NP (NP (DT the) (JJ upper) (JJ dental) (NN arch)) (CC and) (NP (PRP$ its) (VBG supporting) (NN bone))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ maxillary) (NNS teeth)) (VP (VBP are) (NP (NP (DT the) (NNS teeth)) (VP (VP (VBN attached) (S (VP (TO to)))) (CC and) (VP (VBN supported) (PP (IN by) (NP (NP (DT the) (NN alveolar) (NN process)) (PP (IN of) (NP (DT the) (NN maxilla)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN melanoma)) (VP (VBZ is) (NP (NP (DT a) (JJ malignant) (JJ epithelial) (NN neoplasm)) (VP (VBN characterized) (PP (IN by) (NP (JJ pigment-producing) (NNS cells))))))))
+(ROOT (FRAG (S (NP (PRP It)) (ADVP (RB usually)) (VP (VP (VBZ is) (ADJP (JJ dark) (PP (IN in) (NP (NN color))))) (CC but) (VP (MD may) (VP (VB be) (ADJP (JJ amelanotic))))))))
+(ROOT (S (NP (PRP It)) (VP (MD can) (VP (VB occur) (PP (IN in) (NP (NP (NN skin)) (CONJP (RB as) (RB well) (IN as)) (NP (DT the) (JJ oral) (NN cavity)))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (ADVP (RB usually)) (VP (MD would) (VP (VB be) (NP (DT a) (JJ late) (NN finding))))))))))
+(ROOT (S (NP (PRP It)) (VP (MD can) (VP (VB occur) (PP (IN at) (NP (NP (DT the) (NN site)) (PP (IN of) (NP (NP (DT a) (NN mole)) (CC or) (NP (DT another) (NN site))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN molding)) (VP (VBZ is) (NP (DT a) (NN shaping)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN molybdenum)) (VP (VBZ is) (NP (NP (DT a) (JJ grayish) (JJ metallic) (NN element)) (PP (IN with) (NP (NP (NP (DT an) (JJ atomic) (NN number)) (PP (IN of) (NP (CD 42)))) (CC and) (NP (NP (DT an) (JJ atomic) (NN weight)) (PP (IN of) (NP (CD 95.94))))))))))
+(ROOT (SINV (ADVP (RB Molybdenum)) (VP (VBZ is) (ADJP (JJ poisonous))) (SBAR (IN if) (S (VP (VBN ingested) (PP (IN in) (NP (JJ large) (NNS quantities))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NP (NN floor)) (PP (IN of) (NP (NN mouth)))) (VP (VBZ is) (NP (NP (DT a) (NN area)) (PP (IN within) (NP (NP (DT the) (JJ oral) (NN cavity)) (VP (VBN located) (PP (IN beneath) (NP (NP (DT the) (JJ ventral) (NN surface)) (PP (IN of) (NP (DT the) (NN tongue))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN border) (NN movement)) (VP (VBZ is) (NP (NP (DT an) (JJ extreme) (JJ muscular) (NN movement)) (VP (VBN limited) (PP (IN by) (NP (NP (NN bone)) (, ,) (NP (NNS ligaments)) (, ,) (CC or) (NP (JJ other) (JJ soft) (NNS tissues)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ lateral) (NN movement)) (VP (VBZ is) (NP (NP (DT a) (NN movement)) (PP (IN of) (NP (NP (DT a) (NN body)) (PP (TO to) (NP (NP (CD one) (NN side)) (PP (IN of) (NP (PRP$ its) (VBN established) (NN position)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN mandibular) (NN movement)) (VP (VBZ is) (NP (NP (DT any) (NN movement)) (PP (IN of) (NP (DT the) (JJR lower) (NN jaw)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN tooth) (NN movement)) (VP (VBZ is) (NP (NP (ADJP (JJ temporary) (CC or) (JJ permanent)) (NN deviation)) (PP (IN of) (NP (NP (DT a) (NN tooth)) (PP (IN from) (NP (NP (PRP$ its) (JJ normally) (VBN fixed) (NN position)) (PP (IN in) (NP (DT the) (JJ dental) (NN arch)))))))))))
+(ROOT (SINV (ADVP (RB Also)) (VP (VBD called)) (NP (NP (NN mobility)) (PP (IN of) (NP (NNS teeth))))))
+(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (NNS teeth)) (VP (VB exhibit) (NP (JJ mobility) (NNS patterns))))) (, ,) (NP (NN movement)) (VP (MD may) (VP (VB be) (ADJP (ADJP (JJ buccolingual)) (, ,) (ADJP (JJ mesiodistal)) (, ,) (ADJP (JJ occlusor-apical)) (, ,) (CC or) (ADJP (JJ rotational)))))))
+(ROOT (S (NP (NP (NNP Movement)) (PP (IN of) (NP (NP (NNS teeth)) (PP (IN into) (NP (NP (JJ different) (NNS positions)) (PP (IN in) (NP (DT the) (JJ dental) (NN arch)))))))) (VP (MD may) (VP (VB be) (VP (VBN produced) (PP (IN by) (S (VP (VBG repositioning) (S (NP (PRP them)) (UCP (ADJP (JJ mesially)) (, ,) (ADJP (JJ distally)) (, ,) (ADJP (JJ buccally)) (, ,) (ADJP (JJ lingually)) (, ,) (CC or) (NP (NN occlusally))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN mucosa)) (VP (VBZ is) (NP (NP (DT a) (NN membrane)) (, ,) (VP (VBN composed) (PP (IN of) (NP (NP (NN epithelium) (CC and) (NN lamina) (NN propria)) (VP (ADVP (RB also)) (VBN called) (NP (DT the) (JJ mucous) (NN membrane))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ geniohyoid) (NN muscle)) (VP (VBZ is) (NP (NP (JJ suprahyoid) (NN muscle)) (VP (VBN attached) (PP (TO to) (NP (NP (DT the) (JJ superior) (NN surface)) (PP (IN of) (NP (DT the) (JJ hyoid) (NN bone))))))))))
+(ROOT (S (NP (NP (DT This) (NN muscle)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN used) (PP (IN for) (NP (NN mastication) (CC and) (NN swallowing))))))) (, ,)) (VP (VP (VBZ originates) (PP (IN on) (NP (NP (DT the) (ADJP (JJ genial)) (NNS tubercles)) (PP (IN of) (NP (DT the) (NN mandible)))))) (CC and) (VP (VBZ extends) (PRT (RP along)) (NP (NP (DT the) (NN floor)) (PP (IN of) (NP (DT the) (JJ oral) (NN cavity))))))))
+(ROOT (S (VP (VB See) (NP (ADVP (RB also)) (NP (NN deglutition)) (: ;) (NP (NN mastication)) (: ;) (NP (NP (NN muscle)) (, ,) (NP (NN hyoid)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ trapezius) (NN muscle)) (VP (VBZ is) (NP (NP (DT the) (JJ cervical) (NN muscle)) (SBAR (WHNP (WDT which)) (S (VP (VBZ covers) (NP (NP (DT the) (NN lateral) (CC and) (NN posterior) (NNS surfaces)) (PP (IN of) (NP (DT the) (NN neck)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ myofascial) (NN pain)) (VP (VBZ is) (NP (NP (DT a) (NN pain)) (VP (VBN associated) (PP (PP (IN with) (NP (NP (NN inflammation) (CC or) (NN irritation)) (PP (IN of) (NP (NN muscle))))) (CC or) (PP (IN of) (NP (NP (DT the) (NN fascia)) (VP (VBG surrounding) (NP (DT the) (NN muscle)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (NN splint)) (VP (VBZ is) (NP (NP (DT a) (NN bite) (NN plane)) (VP (VBN designed) (CC and) (VBN fabricated) (PP (IN for) (NP (NP (NNS patients)) (PP (IN with) (NP (NP (DT some) (NNS types)) (PP (IN of) (NP (ADJP (JJ functional) (JJ temporomandibular)) (JJ joint) (NNS disorders))))))))))))
+(ROOT (S (VP (VB Provides) (NP (DT a) (JJ stable) (JJ occlusal) (NN platform)) (PP (IN from) (SBAR (WHNP (WDT which)) (S (VP (TO to) (VP (VB reconstruct) (NP (DT a) (ADJP (JJ functional)) (NN occlusion))))))))))
+(ROOT (S (VP (VB See) (ADJP (ADVP (RB also)) (JJ splint)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (JJ vertical) (NN dimension)) (VP (VBZ is) (NP (NP (DT the) (NN distance)) (PP (IN between) (NP (NP (NP (DT a) (NN point)) (PP (IN on) (NP (DT a) (JJ maxillary) (NN tooth)))) (CC and) (NP (NP (DT a) (NN point)) (PP (IN on) (NP (NP (DT the) (VBG opposing) (NN mandibular) (NN tooth)) (PP (IN during) (NP (NN occlusion))))))))))))
+(ROOT (S (NP (JJ Several)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB determine) (NP (DT this) (NN measurement))))) (, ,) (PP (VBG including) (NP (NP (JJ specific) (JJ facial) (NNS measurements)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN been) (VP (VBN proved) (S (VP (TO to) (VP (VB be) (ADJP (JJ equal) (PP (TO to) (NP (DT the) (NNP OVD))))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN occlusion)) (VP (VBZ is) (NP (NP (DT the) (NN act)) (PP (IN of) (NP (NN closure) (CC or) (NN state))) (PP (IN of) (S (VP (VBG being) (VP (VBN closed)))))))))
+--------
+(ROOT (S (NP (NN occlusion)) (VP (VBZ is) (NP (NP (DT a) (NN contact)) (PP (IN between) (NP (NP (DT the) (VBG incising) (CC or) (VBG masticating) (NNS surfaces)) (PP (IN of) (NP (DT the) (NN maxillary) (CC and) (NN mandibular) (NNS teeth)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ bilateral) (JJ balanced) (NN occlusion)) (VP (VBZ is) (NP (NP (DT the) (NN closure)) (ADJP (JJ suitable) (PP (IN for) (NP (NP (JJ worn) (NNS dentitions)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP are) (ADJP (JJ cuspless))) (CC or) (VP (VBP have) (NP (JJ flat-sided) (NNS cusps)))))))))))))
+(ROOT (S (NP (PRP It)) (VP (VP (VBZ permits) (NP (NP (DT an) (NN increase)) (PP (IN of) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NN surface) (NN contact)))))) (PP (IN in) (NP (JJ centric) (NN closure)))) (CC and) (VP (VBZ provides) (PP (IN as) (NP (NP (JJ much) (NN closure) (NN contact)) (PP (RB as) (RB possible) (IN for) (NP (JJ horizontal) (VBG chewing)))))))))
+(ROOT (S (NP (NP (DT This) (NN kind)) (PP (IN of) (NP (NN occlusion)))) (VP (VBZ is) (NP (NP (DT a) (JJ therapeutic) (NN form)) (VP (VBN designed) (S (VP (TO to) (VP (VB keep) (NP (NP (NNS dentures)) (VP (VBN seated) (SBAR (WHADVP (WRB when)) (S (NP (JJ fine-textured) (NNS foods)) (VP (VBP are) (VP (VBG chewed) (ADVP (RB horizontally))))))))))))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (RB not) (VP (VBN found) (PP (IN in) (NP (JJ young) (, ,) (JJ unworn) (JJ natural) (NNS dentitions)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ centric) (NN occlusion)) (VP (VBZ is) (NP (NP (DT the) (NN relation)) (PP (IN of) (S (VP (VBG opposing) (NP (NP (JJ occlusal) (NNS surfaces)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ provides) (NP (DT the) (JJ maximum) (JJ planned) (NN contact))) (CC and/or) (VP (VBP intercuspation)))))))))))))
+(ROOT (S (NP (PRP It)) (VP (MD should) (VP (VB exist) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN mandible)) (VP (VBZ is) (PP (IN in) (NP (JJ centric) (NN relation))) (PP (TO to) (NP (DT the) (NN maxilla))))))))))
+(ROOT (SINV (ADVP (RB Also)) (VP (VBD called)) (NP (JJ central) (NN occlusion))))
+--------
+~~~~~~~
+(ROOT (SINV (ADVP (RB onlay)) (VP (VBZ is) (NP (NP (DT a) (NN cast) (NN type)) (PP (IN of) (NP (NN restoration))) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN retained) (PP (IN by) (NP (JJ frictional) (CC and) (JJ mechanical) (NNS factors))) (PP (IN in) (NP (NP (DT the) (NN preparation)) (PP (IN of) (NP (NP (DT the) (NN tooth)) (CC and) (NP (NNS restores)))))))))))) (NP (NP (QP (CD one) (CC or) (JJR more)) (NNS cusps)) (CC and) (NP (NP (JJ adjoining) (JJ occlusal) (NNS surfaces)) (PP (IN of) (NP (DT the) (NN tooth)))))))
+--------
+(ROOT (SINV (ADVP (RB onlay)) (VP (VBZ is) (NP (NP (DT an) (JJ occlusal) (NN rest) (NN portion)) (PP (IN of) (NP (DT a) (JJ removable) (JJ partial) (NN denture))))) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN extended) (S (VP (TO to) (VP (VB cover) (NP (NP (DT the) (JJ entire) (JJ occlusal) (NN surface)) (PP (IN of) (NP (DT the) (NN tooth)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ open) (NN contact)) (VP (VBZ is) (NP (NP (DT an) (VBN increased) (NN area)) (PP (IN between) (NP (NP (JJ adjacent) (NNS teeth)) (PP (IN without) (NP (JJ interproximal) (NNS contacts)))))))))
+(ROOT (S (NP (PRP It)) (VP (MD can) (VP (VB be) (ADJP (JJ due) (PP (TO to) (NP (NP (DT the) (JJ abnormal) (NN position) (CC or) (NN absence)) (PP (IN of) (NP (NP (DT the) (NNS teeth)) (, ,) (NP (JJ oral) (NN disease)) (, ,) (NP (JJ oral) (NNS habits)) (, ,) (CC or) (NP (NP (DT the) (NN overdevelopment)) (PP (IN of) (NP (DT the) (NN frena)))))))))))))
+(ROOT (SINV (VP (VB See) (ADVP (RB also))) (NP (NN frenum) (CC and) (NN diastema))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ oral) (NN cavity)) (VP (VBZ is) (NP (DT the) (NN mouth)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ orthognathic) (NN surgery)) (VP (VBZ is) (NP (DT a) (NN surgery) (S (VP (TO to) (VP (VB alter) (NP (NP (NNS relationships)) (PP (IN of) (NP (NP (JJ dental) (NNS arches)) (VP (CC and/or) (VP (VBG supporting) (NP (NNS bones))) (, ,) (VP (ADVP (RB usually)) (VBG accomplished) (PP (IN with) (NP (JJ orthodontic) (NN therapy)))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN osseointegration)) (VP (VBZ is) (NP (NP (DT a) (NN term)) (VP (ADVP (RB originally)) (VBN defined) (PP (IN by) (NP (NNP Professor) (NNP P.I))))))))
+(ROOT (UCP (ADJP (JJ Br\u6c13nemark)) (CC and) (VP (ADVP (RB commonly)) (VBN used) (S (VP (TO to) (VP (VB describe) (NP (NP (DT the) (JJ direct) (NN contact)) (, ,) (PP (IN on) (NP (DT the) (JJ light) (JJ microscopic) (NN level))) (, ,)) (PP (IN between) (NP (NP (NN living) (NN bone) (NN tissue)) (CC and) (NP (DT an) (NN implant)))) (, ,) (PP (IN without) (NP (NP (DT an) (ADJP (NP (CD intervening) (NNS fibrous)) (JJ connective)) (NN tissue) (NN layer)) (PP (IN between) (NP (NP (DT the) (NN bone)) (CC and) (NP (DT the) (JJ implant) (NN surface))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN osteoplasty)) (VP (VBZ is) (NP (DT a) (JJ surgical) (NN procedure) (S (VP (TO to) (VP (VB modify) (CC or) (VB change) (NP (NP (DT the) (NN configuration)) (PP (IN of) (NP (DT a) (NN bone)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN overdenture)) (VP (VBZ is) (NP (NP (DT a) (ADJP (JJ complete) (CC or) (JJ partial)) (JJ removable) (NN denture)) (VP (VBN supported) (PP (IN by) (NP (JJ retained) (NNS roots)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN intended) (S (VP (VP (TO to) (VP (VB provide) (NP (NP (NP (VBN improved) (NN support)) (, ,) (NP (NN stability)) (, ,)) (CC and) (NP (ADJP (JJ tactile) (CC and) (JJ proprioceptive)) (NN sensation))))) (CC and) (VP (TO to) (VP (VB reduce) (NP (JJ ridge) (NN resorption))))))))))))))
+(ROOT (S (VP (VB See) (RB also) (VP (VB root) (NP (NN retention) (CC and) (NN root) (NN submersion))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ horizontal) (NNS overlap)) (VP (VBZ is) (NP (NP (DT a) (NN projection)) (PP (IN of) (NP (NP (DT the) (NN anterior) (CC or) (NN posterior) (NNS teeth)) (PP (IN of) (NP (NP (CD one) (NN arch)) (PP (IN beyond) (NP (NP (PRP$ their) (NNS antagonists)) (PP (IN in) (NP (DT a) (JJ horizontal) (NN direction)))))))))))))
+(ROOT (SINV (ADVP (RB Also)) (VP (VBD called)) (NP (NP (NN overjet)) (, ,) (NP (NN overjut)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ vertical) (NNS overlap)) (VP (VBZ is) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (NP (DT the) (JJ maxillary) (NNS teeth)) (PP (IN over) (NP (NP (DT the) (NN mandibular) (NNS teeth)) (PP (IN in) (NP (DT a) (JJ vertical) (NN direction))))))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (VBG opposing) (NN posterior) (NNS teeth)) (VP (VBP are) (PP (IN in) (NP (NP (NN contact)) (PP (IN in) (NP (JJ centric) (NN occlusion))))))))))))
+(ROOT (S (NP (PRP It)) (VP (MD may) (ADVP (RB also)) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB describe) (NP (NP (DT the) (JJ vertical) (NNS relations)) (PP (IN of) (NP (NP (VBG opposing) (NNS cusps)) (PP (IN of) (NP (NN posterior) (NNS teeth))))))))))))))
+(ROOT (VP (ADVP (RB Also)) (VBN called) (S (ADJP (JJ overbite)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NP (NN path)) (PP (IN of) (NP (NN placement)))) (VP (VBZ is) (NP (NP (DT the) (NN direction)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT a) (JJ removable) (JJ dental) (NN restoration)) (VP (VBZ is) (VP (VBN positioned) (PP (IN in) (NP (NN relation))) (PP (TO to) (NP (NP (DT the) (VBN planned) (NN location)) (PP (IN on) (NP (PRP$ its) (JJ supporting) (NNS structures)))))))))))))
+(ROOT (S (NP (DT The) (NN restoration)) (VP (VBZ is) (VP (VBN removed) (PP (IN in) (NP (DT the) (JJ opposite) (NN direction)))))))
+(ROOT (SINV (VP (VBD See) (ADVP (RB also))) (NP (NP (NN placement)) (, ,) (NP (NP (NN choice)) (PP (IN of) (NP (NP (NN path)) (PP (IN of))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN wax) (NN pattern)) (VP (VBZ is) (NP (NP (DT a) (NN wax) (NN model)) (PP (IN for) (S (VP (VBG making) (NP (NP (DT the) (NN mold)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN metal)) (VP (MD will) (VP (VB be) (VP (VBN formed) (PP (IN in) (NP (NN casting))))))))))))))))
+--------
+(ROOT (S (NP (NN wax) (NN pattern)) (VP (VBZ is) (NP (NP (DT a) (NN wax) (NN form)) (PP (IN of) (NP (DT a) (NN denture)))) (SBAR (IN that) (S (, ,) (SBAR (WHADVP (WRB when)) (S (S (NP (PRP it)) (VP (VBZ is) (VP (VBN invested) (PP (IN in) (NP (DT a) (NN flask)))))) (CC and) (S (NP (DT the) (NN wax)) (VP (VBZ is) (VP (VBN eliminated)))))) (, ,) (VP (MD will) (VP (VB form) (NP (NP (DT the) (NN mold)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN resin) (NN denture)) (VP (VBZ is) (VP (VBN formed)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ periodontal) (NN disease)) (VP (VBZ is) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (JJ inflammatory) (CC and) (JJ infectious) (NNS diseases))) (VP (VBG affecting) (NP (NP (DT the) (NN periodontium)) (PP (IN of) (NP (DT the) (NNS teeth)))) (, ,) (PP (IN with) (NP (NP (JJ various) (NNS classes)) (VP (VBN noted)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ periodontal) (NN surgery)) (VP (VBZ is) (NP (NP (DT an) (JJ operative) (NN procedure)) (VP (VBN used) (S (VP (TO to) (VP (VB treat) (NP (NN disease) (CC or) (NN repair) (NNS abnormalities)) (PP (IN in) (NP (NP (DT the) (NN periodontium)) (CC and) (NP (VBN associated) (NNS teeth))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NNS periodontitis)) (VP (VBZ is) (NP (NP (DT the) (NNS alterations)) (VP (VBG occurring) (PP (IN in) (NP (NP (DT the) (NN periodontium)) (PP (IN with) (NP (NN inflammation))))))))))
+(ROOT (S (NP (JJ Gingival) (NNS changes)) (VP (VBP are) (NP (NP (DT those)) (PP (IN of) (NP (NNS gingivitis)))) (, ,) (PP (IN with) (NP (NP (DT the) (JJ clinical) (NNS signs)) (VP (VBN associated) (PP (IN with) (NP (NNS gingivitis)))))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ has) (NP (NP (JJ histologic) (NNS characteristics)) (, ,) (PP (JJ such) (IN as) (NP (NP (NN ulceration)) (PP (IN of) (NP (NP (NP (DT the) (ADJP (JJ sulcular) (CC and) (JJ junctional)) (NN epithelium)) (, ,) (NP (ADJP (JJ epithelial)) (NN hyperplasia)) (, ,) (NP (NP (NN proliferation)) (PP (IN of) (NP (NP (JJ epithelial) (NN rete)) (SBAR (S (VP (VBZ pegs) (PP (IN into) (NP (NP (DT the) (JJ gingival) (NNS tissues)) (, ,) (NP (NP (JJ apical) (NN migration)) (PP (IN of) (NP (DT the) (JJ epithelial) (NN attachment)))))) (PP (IN after) (NP (NP (NNS lysis)) (PP (IN of) (NP (DT the) (JJ gingival) (NNS fibers))))))))))) (, ,) (NP (VBN increased) (UCP (JJ cellular) (CC and) (NP (NN exudative))) (NNS infiltrate))) (, ,) (CC and) (NP (NP (NN vascularity)) (PP (IN of) (NP (DT the) (NN lamina) (NN propria))))))))))))
+(ROOT (NP (NP (NP (NNP Resorption)) (PP (IN of) (NP (NP (NN bone)) (PP (IN in) (NP (DT an) (JJ apical) (NN direction)))))) (NP (NP (NNS results)) (PP (IN in) (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (NP (NN attachment)) (PP (IN of) (NP (NP (DT the) (JJ periodontal) (NNS fibers)) (PP (TO to) (NP (DT the) (NN bone))))))))))))
+(ROOT (FRAG (NP (NP (DT A) (JJ transseptal) (NN band)) (PP (IN of) (NP (JJ reconstituted) (JJ periodontal) (NNS fibers) (NNS walls)))) (PP (IN off) (NP (DT the) (JJ gingival) (NN inflammation))) (PP (IN from) (NP (DT the) (JJ underlying) (NN bone)))))
+--------
+(ROOT (S (NP (NNS periodontitis)) (VP (VBZ is) (NP (NP (DT a) (JJ chronic) (, ,) (JJ progressive) (NN disease)) (PP (IN of) (NP (DT the) (NN periodontium)))))))
+(ROOT (VP (VBN Considered) (PP (IN under) (NP (NP (DT the) (NN classification)) (PP (IN of) (NP (JJ periodontal) (NN disease)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN periodontium)) (VP (VBZ is) (NP (NP (DT the) (NNS tissues)) (SBAR (WHNP (WDT that)) (S (VP (VBP support) (NP (NP (DT the) (NNS teeth)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP include) (NP (NP (DT the) (NN gingivae)) (, ,) (NP (NP (NN cementum)) (PP (IN of) (NP (DT the) (NN tooth)))) (, ,) (NP (JJ periodontal) (NN ligament)) (, ,) (CC and) (NP (NN alveolar) (NN bone))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN placement)) (VP (VBZ is) (NP (NP (DT the) (NN act)) (PP (IN of) (S (VP (VBG placing) (NP (DT an) (NN object)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (NN plane)) (VP (VBZ is) (NP (NP (DT an) (JJ imaginary) (NN surface)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (VBN related) (RB anatomically) (PP (TO to) (NP (NP (DT the) (NN cranium)) (CC and) (NP (NP (NP (DT that) (JJ theoretically) (NNS touches)) (NP (DT the) (JJ incisal) (NNS edges))) (PP (IN of) (NP (NP (DT the) (NNS incisors) (CC and) (NNS tips)) (PP (IN of) (NP (NP (DT the) (VBG occluding) (NNS surfaces)) (PP (IN of) (NP (DT the) (NN posterior) (NNS teeth))))))))))))))))))
+(ROOT (S (NP (PRP It)) (VP (VP (VBZ is) (RB not) (NP (NP (DT a) (NN plane)) (PP (IN in) (NP (NP (DT the) (JJ true) (NN sense)) (PP (IN of) (NP (DT the) (NN word))))))) (CC but) (VP (VBZ represents) (NP (NP (DT the) (NN mean)) (PP (IN of) (NP (NP (DT the) (NN curvature)) (PP (IN of) (NP (DT the) (NN surface))))))))))
+--------
+(ROOT (S (NP (JJ occlusal) (NN plane)) (VP (VBZ is) (NP (NP (DT a) (NN line)) (VP (VBN drawn) (PP (IN between) (NP (NP (NNS points)) (VP (VBG representing) (NP (NP (CD one) (NN half)) (PP (IN of) (NP (NP (NP (DT the) (JJ incisal) (NN overbite)) (PP (IN in) (NP (NN front)))) (CC and) (NP (NP (CD one) (NN half)) (PP (IN of) (NP (NP (DT the) (NN cusp) (NN height)) (PP (IN of) (NP (DT the) (JJ last) (NNS molars))))))))) (PP (IN in) (ADVP (RB back)))))))))))
+(ROOT (VP (VB See) (ADVP (RB also)) (NP (NP (NN curve)) (PP (IN of) (NP (NN occlusion))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ sagittal) (NN plane)) (VP (VBZ is) (NP (NP (DT a) (NN plane)) (PP (IN of) (NP (NP (DT the) (NN body)) (VP (VBN created) (PP (IN by) (NP (DT an) (JJ imaginary) (NN plane) (NN parallel))) (PP (TO to) (NP (DT the) (JJ median) (NN plane))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN model) (NN plaster)) (VP (VBZ is) (NP (NP (DT a) (NN plaster)) (VP (VBN used) (PP (PP (IN for) (NP (JJ diagnostic) (NNS casts))) (CC and) (PP (IN as) (NP (DT an) (VBG investing) (NN material)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (VBG polishing)) (VP (VBZ is) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VP (VBG making) (NP (DT a) (JJ surface) (JJ smooth) (CC and) (JJ glossy))) (CC or) (VP (VBG giving) (NP (NN luster)) (PP (PP (TO to) (NP (DT a) (NN surface))) (, ,) (RB usually) (PP (IN by) (NP (NN friction))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN polyp)) (VP (VBZ is) (NP (NP (DT a) (JJ smooth) (, ,) (JJ pedunculated) (NN growth)) (PP (IN from) (NP (NP (DT a) (JJ mucous) (NN surface)) (PP (JJ such) (IN as) (PP (IN from) (NP (NP (DT the) (NN nose)) (, ,) (NP (NN bladder)) (, ,) (CC or) (NP (NN rectum)))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN pontic)) (VP (VBZ is) (NP (NP (DT the) (VBN suspended) (NN member)) (PP (IN of) (NP (DT a) (JJ fixed) (JJ partial) (NN denture)))))) (: ;) (S (NP (NN pontic)) (VP (VBZ is) (NP (NP (DT an) (JJ artificial) (NN tooth)) (PP (IN on) (NP (NP (DT a) (VBN fixed) (JJ partial) (NN denture)) (CC or) (NP (NP (DT an) (VBN isolated) (NN tooth)) (PP (IN on) (NP (DT a) (JJ removable) (JJ partial) (NN denture)))))))))))
+--------
+~~~~~~~
+(ROOT (SINV (ADVP (RB porosity)) (VP (VBZ is)) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NP (NNS pores) (CC or) (NNS voids)) (PP (IN within) (NP (DT a) (NN structure))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ postoperative) (NN care)) (VP (VBZ is) (NP (NP (NP (NP (DT a) (NN care)) (PP (IN after) (NP (NN surgery) (CC or) (JJ other) (NN invasive) (NNS procedures)))) (, ,) (ADVP (RB usually))) (PP (IN of) (NP (DT a) (ADJP (JJ supportive)) (NN nature)))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN premolar)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (NP (DT the) (CD eight) (NNS teeth)) (, ,) (NP (NP (CD four)) (PP (IN in) (NP (DT each) (NN jaw)))) (, ,)) (PP (IN between) (NP (NP (DT the) (NNS canines)) (CC and) (NP (JJ first) (NNS molars))))))))) (: ;) (S (S (NP (NN premolar)) (VP (VBZ is) (VP (ADVP (RB usually)) (VBZ has) (NP (CD two) (NNS cusps))))) (: ;) (S (NP (NN premolar)) (VP (VBP are) (NP (DT the) (CD replaces) (NP (NP (DT the) (NNS molars)) (PP (IN of) (NP (DT the) (JJ primary) (NN dentition))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ surgical) (NN preparation)) (VP (VBZ is) (NP (NP (DT a) (JJ surgical) (NN procedure)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN required) (PP (IN for) (S (VP (VBG preparing) (NP (DT the) (JJ oral) (NN cavity)) (PP (IN for) (NP (JJ prosthodontic) (NN treatment))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN pressure)) (VP (VBZ is) (NP (NP (DT a) (NN stress) (CC or) (NN strain)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VB occur) (PP (IN by) (NP (NP (NN compression)) (, ,) (NP (NN pull)) (, ,) (CC or) (NP (NN thrust))))))))))) (: ;) (S (NP (NN pressure)) (VP (VBZ is) (NP (DT an) (JJ applied) (NN force))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ periodontal) (NN probe)) (VP (VBZ is) (NP (NP (DT a) (JJ finecalibrated) (NN instrument)) (VP (VBN designed) (CC and) (VBN used) (PP (IN for) (S (VP (VBG measuring) (NP (NP (DT the) (NN depth) (CC and) (NN topography)) (PP (IN of) (NP (JJ gingival) (CC and) (JJ periodontal) (NNS pockets))))))))))))
+(ROOT (SINV (ADVP (RB Also)) (VP (VBD used) (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (NN degree)) (PP (IN of) (NP (NN attachment) (CC and) (NN adaptation))) (PP (IN of) (NP (DT the) (NN gingival)))))))) (NP (NP (NNS tissues)) (PP (TO to) (NP (DT the) (NN tooth))))))
+(ROOT (S (NP (VBN Automated) (NNS devices)) (VP (VBP are) (ADVP (RB now)) (ADJP (JJ available) (PP (IN for) (NP (JJ dental) (NX (NX (NNS offices)) (CC and) (NX (NNS clinics)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN alveolar) (NN process)) (VP (VBZ is) (NP (NP (DT the) (NN portion)) (PP (IN of) (NP (NP (DT the) (NN maxillae) (CC or) (NN mandible)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ forms) (NP (DT the) (JJ dental) (NN arch))) (CC and) (VP (VBZ serves) (PP (IN as) (NP (NP (DT a) (JJ bony) (NN investment)) (PP (IN for) (NP (DT the) (NNS teeth)))))))))))))))
+(ROOT (S (NP (PRP$ Its) (JJ cortical) (NN covering)) (VP (VBZ is) (ADJP (JJ continuous) (PP (IN with) (NP (NP (DT the) (JJ compact) (NN bone)) (PP (IN of) (NP (NP (DT the) (NN body)) (PP (IN of) (NP (DT the) (NN maxillae) (CC or) (NN mandible)))))))) (, ,) (SBAR (IN whereas) (S (NP (PRP$ its) (NN trabecular) (NN portion)) (VP (VBZ is) (ADJP (JJ continuous) (PP (IN with) (NP (NP (DT the) (JJ spongy) (NN bone)) (PP (IN of) (NP (NP (DT the) (NN body)) (PP (IN of) (NP (DT the) (NNS jaws))))))))))))))
+(ROOT (S (VP (VB See) (ADJP (ADJP (ADVP (RB also)) (JJ ridge)) (, ,) (ADJP (JJ alveolar))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN prognosis)) (VP (VBZ is) (NP (NP (DT the) (NN foretelling)) (PP (IN of) (NP (NP (DT the) (JJ probable) (NN course)) (PP (IN of) (NP (DT a) (NN disease)))))))) (: ;) (S (NP (NN prognosis)) (VP (VBZ is) (NP (NP (DT a) (NN forecast)) (PP (IN of) (NP (NP (DT the) (NN outcome)) (PP (IN of) (NP (DT a) (NN disease))))))))))
+--------
+(ROOT (S (NP (NN prognosis)) (VP (VBZ is) (NP (NP (DT a) (NN forecast)) (PP (IN of) (NP (NP (DT the) (JJ probable) (NN result)) (PP (IN of) (NP (NP (DT a) (NN regimen)) (PP (IN of) (NP (NN treatment)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NNS prosthesis)) (VP (VBZ is) (NP (NP (DT the) (NN replacement)) (PP (IN of) (NP (NP (DT an) (ADJP (JJ absent)) (NN part)) (PP (IN of) (NP (NP (DT the) (NN body)) (PP (IN by) (NP (DT an) (JJ artificial) (NN part)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ hybrid) (NNS prosthesis)) (VP (VBZ is) (NP (NP (DT an) (NN implant)) (VP (VBN supported) (NP (JJ complete) (NN denture)) (PP (IN with) (NP (DT a) (NN metal) (NN framework) (NN colloq))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ maxillofacial) (NNS prosthetics)) (VP (VBZ is) (NP (NP (DT the) (NN branch)) (PP (IN of) (NP (NP (NNS prosthodontics)) (VP (VP (VBN concerned) (PP (IN with) (NP (NP (DT the) (NN restoration)) (PP (IN of) (NP (NN stomatognathic)))))) (CC and) (VP (VBN associated) (NP (NP (JJ facial) (NNS structures)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN been) (VP (VBN affected) (PP (IN by) (NP (NN disease) (, ,) (NN injury) (, ,) (NN surgery) (, ,) (CC or) (NN congenital) (NN defect)))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NNS prosthodontics)) (VP (VBZ is) (NP (NP (DT the) (NN specialty)) (PP (IN of) (NP (NP (NN dentistry)) (VP (VP (VBG pertaining) (PP (TO to) (NP (NP (DT the) (NN diagnosis)) (, ,) (NP (NN treatment) (NN planning)) (, ,) (NP (NN rehabilitation)) (CC and) (NP (NP (NN maintenance)) (PP (IN of) (NP (NP (DT the) (JJ oral) (NN function)) (, ,) (NP (NP (NN comfort) (, ,) (NN appearance) (, ,) (CC and) (NN health)) (PP (IN of) (NP (NP (NNS patients)) (PP (IN with) (NP (ADJP (VBG missing) (CC or) (JJ deficient)) (NNS teeth)))))))))))) (CC and/or) (VP (NP (NP (JJ oral) (CC and) (JJ maxillofacial) (NNS tissues)) (VP (VBG using) (NP (JJ biocompatible) (NNS substitutes))))))))))))
+(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (CD nine) (VBN recognized) (NNS specialties)) (PP (IN in) (NP (NN dentistry)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN radiograph)) (VP (VBZ is) (NP (NP (DT a) (JJ two-dimensional) (NN representation)) (PP (IN of) (NP (NP (DT a) (JJ three-dimensional) (NN object)) (, ,) (VP (VBN produced) (PP (IN by) (NP (NP (NN radiation)) (PP (IN of) (NP (NNS structures))))))))))))
+(ROOT (S (NP (JJR Older) (NN term)) (VP (VBZ is) (ADJP (JJ x-ray)))))
+--------
+~~~~~~~
+(ROOT (SINV (VP (VBG ascending) (NP (NNS ramus))) (VP (VBZ is)) (NP (NP (DT the) (NN posterior)) (, ,) (NP (NP (JJ vertical) (NN portion)) (PP (IN of) (NP (NP (DT the) (NN mandible)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ extends) (PP (IN from) (NP (DT the) (NN corpus))) (PP (TO to) (NP (DT the) (NN condyle)))) (, ,) (CC and) (VP (VBZ makes) (NP (DT a) (NN joint)) (PP (IN at) (NP (DT the) (NN temple)))))))))))))
+(ROOT (S (NP (EX There)) (VP (VBP are) (ADVP (RB right) (CC and) (RB left)) (VP (VBG ascending) (NP (NNS rami))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN reciprocation)) (VP (VBZ is) (NP (NP (DT the) (NN means)) (SBAR (WHPP (IN by) (WHNP (WDT which))) (S (NP (NP (CD one) (NN part)) (PP (IN of) (NP (DT a) (JJ removable) (JJ partial) (NN denture) (NN framework)))) (VP (VBZ is) (VP (VBN made) (S (VP (TO to) (VP (VB counter) (NP (NP (DT the) (NN effect)) (VP (VBN created) (PP (IN by) (NP (NP (DT another) (NN part)) (PP (IN of) (NP (DT the) (NN framework))))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (JJ interocclusal) (NN record)) (VP (VBZ is) (NP (NP (DT a) (NN record)) (PP (IN of) (NP (NP (DT the) (JJ positional) (NN relation)) (PP (IN of) (NP (NP (DT the) (NNS teeth) (CC or) (NNS jaws)) (PP (TO to) (NP (DT each) (JJ other)))))))))) (: ;) (S (NP (JJ interocclusal) (NN record)) (VP (VBZ is) (VP (VBN made) (PP (IN on) (NP (NP (JJ occlusal) (NNS surfaces)) (PP (IN of) (NP (JJ occlusal) (NNS rims) (CC or) (NNS teeth))))) (PP (IN in) (NP (NP (DT a) (JJ plastic) (NN material)) (SBAR (WHNP (WDT that)) (S (VP (VBZ hardens)))) (, ,) (PP (JJ such) (IN as) (NP (NP (NN plaster)) (, ,) (NP (NN wax)) (, ,) (NP (NN zinc) (JJ oxide-eugenol) (NN paste)) (, ,) (CC or) (NP (JJ acrylic) (NN resin)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ oral) (NN rehabilitation)) (VP (VBZ is) (NP (NP (DT a) (NN restoration)) (PP (IN of) (NP (NP (DT the) (NN form) (CC and) (NN function)) (PP (IN of) (NP (NP (DT the) (JJ masticatory) (NN apparatus) (NN condition)) (PP (TO to) (NP (NP (ADJP (RB as) (JJ near)) (JJ normal)) (ADJP (RB as) (JJ possible))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN jaw) (NN relation)) (VP (VBZ is) (NP (NP (DT a) (NN relationship)) (PP (IN of) (NP (NP (DT the) (NN mandible)) (PP (TO to) (NP (DT the) (NN maxillae)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN maxillomandibular) (NN relation)) (VP (VBZ is) (NP (NP (DT any) (NN one)) (PP (IN of) (NP (NP (DT the) (JJ many) (NNS relations)) (PP (IN of) (NP (NP (DT the) (NN mandible)) (PP (TO to) (NP (DT the) (NN maxillae))) (, ,) (PP (JJ such) (IN as) (NP (NP (DT the) (JJ centric) (NN maxillomandibular) (NN relation)) (CC or) (NP (JJ eccentric) (NN maxillomandibular) (NN relation))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (NN relationship)) (VP (VBZ is) (NP (NP (DT the) (JJ individual) (CC and) (JJ collective) (NNS relationships)) (PP (IN of) (NP (NP (NP (DT the) (NN mandibular) (NNS teeth)) (PP (TO to) (NP (DT the) (JJ maxillary) (NNS teeth)))) (CC and) (NP (NP (DT the) (NN relationship)) (PP (IN of) (NP (NP (DT the) (JJ adjacent) (NNS teeth)) (PP (IN in) (NP (DT the) (JJ same) (JJ dental) (NN arch))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN relief)) (VP (VBZ is) (NP (NP (DT the) (NN mitigation) (CC or) (NN removal)) (PP (IN of) (NP (NN pain) (CC or) (NN distress)))))))
+--------
+(ROOT (S (NP (NN relief)) (VP (VBZ is) (NP (NP (DT the) (NN reduction) (CC or) (NN elimination)) (PP (IN of) (NP (NP (NN pressure)) (PP (IN from) (NP (NP (DT a) (JJ specific) (NN area)) (PP (IN under) (NP (DT a) (JJ denture) (NN base)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN resin)) (VP (VBZ is) (NP (NP (JJ broad) (NN term)) (VP (VBN used) (S (VP (TO to) (VP (VB indicate) (NP (NP (JJ organic) (NNS substances)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP are) (ADVP (RB usually)) (ADJP (JJ translucent) (CC or) (JJ transparent))) (CC and) (VP (VBP are) (ADJP (JJ soluble)) (PP (PP (IN in) (NP (NP (NN ether)) (, ,) (NP (NN acetone)) (, ,) (CC and) (NP (JJ similar) (NNS substances)))) (CONJP (CC but) (RB not)) (PP (IN in) (NP (NN water)))))))))))))))))
+(ROOT (S (NP (PRP They)) (VP (VP (VBP are) (VP (VBN named) (PP (VBG according) (PP (TO to) (NP (NP (PRP$ their) (JJ chemical) (NN composition)) (, ,) (NP (JJ physical) (NN structure)) (, ,)))))) (CC and) (VP (VBZ means) (PP (IN for) (NP (NN activation) (CC or) (NN curing)))))))
+(ROOT (S (NP (NNS Examples)) (VP (VBP are) (NP (NP (JJ acrylic) (NN resin)) (, ,) (NP (NN autopolymer) (NN resin)) (, ,) (NP (JJ synthetic) (NN resin)) (, ,) (NP (JJ styrene) (NN resin)) (, ,) (CC and) (NP (NN vinyl) (NN resin))))))
+(ROOT (NP (NP (NNP See)) (X (ADVP (RB also)) (NP (NN methyl) (NN methacrylate))) (: ;) (NP (NP (NN varnish)) (, ,) (ADVP (RB cavity)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ acrylic) (NN resin)) (VP (VBZ is) (NP (NP (JJ general) (NN term)) (VP (VBN applied) (PP (TO to) (NP (NP (DT a) (JJ resinous) (NN material)) (PP (IN of) (NP (NP (DT the) (JJ various) (NNS esters)) (PP (IN of) (NP (JJ acrylic) (NN acid))))))))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (VP (VBN used) (PP (PP (IN as) (NP (DT a) (JJ denture) (NN base) (NN material))) (CC and) (PP (ADVP (RB also)) (IN for) (NP (NP (NNS trays)) (CC and) (NP (JJ other) (JJ dental) (NNS restorations)))))))))
+--------
+(ROOT (S (NP (JJ acrylic) (NN resin)) (VP (VBZ is) (NP (NP (DT An) (NN ethylene) (NN derivative)) (SBAR (WHNP (WDT that)) (S (VP (VBZ contains) (NP (DT a) (NN vinyl) (NN group)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ thermoplastic) (NN resin)) (VP (VBZ is) (NP (NP (DT a) (JJ synthetic) (NN resin)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VB be) (VP (VBN softened) (PP (IN by) (NP (NN heat) (CC and) (NN hardened))) (PP (IN by) (S (VP (VBG cooling)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN root) (NN resorption)) (VP (VBZ is) (NP (NP (DT a) (NN destruction)) (PP (IN of) (NP (NP (DT the) (NN cementum) (CC or) (NN dentin)) (PP (IN by) (NP (ADJP (JJ cementoclastic) (CC or) (JJ osteoclastic)) (NN activity)))))))))
+(ROOT (VP (ADVP (RB Also)) (VBN known) (PP (IN as) (NP (JJ peripheral) (CC or) (JJ external) (NN root) (NNS resorption)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN rest)) (VP (VBZ is) (NP (JJ passive) (NN support)))))
+--------
+(ROOT (S (NP (NN rest)) (VP (VBZ is) (NP (NP (DT an) (NN extension)) (PP (IN from) (NP (NP (DT a) (NNS prosthesis)) (SBAR (WHNP (WDT that)) (S (VP (VBZ affords) (NP (NP (JJ vertical) (NN support)) (PP (IN for) (NP (DT a) (NN restoration)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ incisal) (NN rest)) (VP (VBZ is) (NP (DT a) (JJ metallic) (NN extension)) (PP (IN onto) (NP (NP (DT the) (JJ incisal) (NN angle)) (PP (IN of) (NP (DT an) (NN anterior) (NN tooth))) (S (VP (TO to) (VP (VB supply) (NP (NP (NN support) (CC or) (JJ indirect) (NN retention)) (PP (IN for) (NP (DT a) (JJ removable) (JJ partial) (NN denture))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ lingual) (NN rest)) (VP (VBZ is) (NP (DT a) (JJ metallic) (NN extension)) (PP (IN onto) (NP (NP (DT the) (JJ lingual) (NN surface)) (PP (IN of) (NP (DT an) (NN anterior) (NN tooth))) (S (VP (TO to) (VP (VB provide) (NP (NP (NN support) (CC or) (JJ indirect) (NN retention)) (PP (IN for) (NP (DT a) (JJ removable) (JJ partial) (NN denture))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (NN rest)) (VP (VBZ is) (NP (NP (DT a) (NN rest)) (VP (VBN placed) (PP (IN on) (NP (NP (DT the) (JJ occlusal) (NN surface)) (PP (IN of) (NP (DT a) (NN posterior) (NN tooth))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN amalgam) (NN restoration)) (VP (VBZ is) (NP (NP (DT a) (JJ direct) (NN restoration)) (VP (VBN made) (PP (IN from) (NP (NP (DT an) (NN alloy)) (VP (VBG consisting) (PP (IN of) (NP (NP (NN mercury) (CC and) (JJ other) (NNS metals)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN carved) (CC and) (VBN contoured) (PP (IN after) (NP (NP (NN placement)) (PP (IN in) (NP (DT the) (NN tooth))))))))))))))) (: ;) (SBAR (S (VP (VBP allow) (NP (NP (DT a) (NN minimum)) (PP (IN of) (NP (NP (CD 24) (NNS hours)) (PP (IN between) (NP (NN placement) (CC and) (NN polishing)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (JJ ceramic) (NN restoration)) (VP (VBZ is) (NP (NP (DT an) (JJ indirect) (NN restoration)) (VP (VBN made) (PP (IN from) (NP (NP (ADJP (NN metal) (CC and) (JJ nonmetal)) (NNS compounds)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN carved) (CC and) (VBN contoured) (PP (IN before) (NP (NP (NN placement)) (PP (IN in) (NP (DT the) (NN tooth))))))))))))))) (: ;) (S (NP (JJ ceramic) (NN restoration)) (VP (VBZ is) (VP (ADVP (RB closely)) (VBZ resembles) (NP (JJ natural) (NNS teeth)) (PP (IN in) (NP (NP (NN strength)) (, ,) (NP (NNS hardness)) (, ,) (NP (NN chemical) (NNS inertness)) (, ,) (CC and) (NP (JJ esthetic) (NN appearance)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN implant) (NN restoration)) (VP (VBZ is) (NP (NP (DT the) (JJ single) (NN tooth) (NN implant) (NN crown) (CC or) (JJ multiple) (NN tooth) (NN implant)) (, ,) (NP (NN crown)) (, ,) (CC or) (NP (NP (NN bridge)) (SBAR (WHNP (WDT that)) (S (VP (VBZ replaces) (NP (NP (DT a) (VBG missing) (NN tooth)) (CC or) (NP (NNS teeth)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN retainer)) (VP (VBZ is) (NP (NP (DT the) (NN part)) (PP (IN of) (NP (NP (DT a) (JJ dental) (NNS prosthesis)) (SBAR (WHNP (WDT that)) (S (VP (VBZ unites) (NP (DT the) (JJ abutment) (NN tooth)) (PP (IN with) (NP (NP (DT the) (VBN suspended) (NN portion)) (PP (IN of) (NP (DT the) (NN bridge))))))))))))))
+(ROOT (S (NP (PRP It)) (VP (MD may) (VP (VB be) (NP (DT an) (NX (NX (NNS inlay)) (, ,) (NX (JJ partial) (NN crown)) (, ,) (CC or) (NX (ADJP (JJ complete)) (NN crown))))))))
+--------
+(ROOT (S (NP (NN retainer)) (VP (VBZ is) (NP (NP (DT an) (NN appliance)) (PP (IN for) (S (VP (VBG maintaining) (NP (NP (DT the) (NNS positions)) (PP (IN of) (NP (NP (DT the) (NNS teeth) (CC and) (NNS jaws)) (VP (VBN gained) (PP (IN by) (NP (JJ orthodontic) (NNS procedures))))))))))))))
+--------
+(ROOT (S (NP (NN retainer)) (VP (VBZ is) (NP (NP (DT the) (NN portion)) (PP (IN of) (NP (NP (DT a) (VBN fixed) (NNS prosthesis)) (VP (VBG attaching) (NP (DT a) (NN pontic)) (PP (TO to) (NP (DT the) (JJ abutment) (NNS teeth))))))))))
+--------
+(ROOT (S (NP (NN retainer)) (VP (VBZ is) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (NP (NN clasp) (, ,) (NN attachment) (, ,) (CC or) (NN device)) (VP (VBN used) (PP (IN for) (NP (NP (DT the) (NN fixation) (CC or) (NN stabilization)) (PP (IN of) (NP (DT a) (JJ prosthetic) (NN appliance))))))))))))
+--------
+(ROOT (S (NP (NN retainer)) (VP (VBZ is) (NP (NP (DT an) (JJ orthodontic) (NN appliance)) (PRN (, ,) (NP (JJ fixed) (CC or) (JJ removable)) (, ,)) (VP (VBN used) (S (VP (TO to) (VP (VB maintain) (NP (NP (NNS teeth)) (PP (IN in) (NP (VBN corrected) (NNS positions)))) (PP (IN during) (NP (NP (DT the) (NN period)) (PP (IN of) (NP (NP (JJ functional) (NN adaptation)) (PP (VBG following) (NP (JJ corrective) (NN treatment)))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ direct) (NN retainer)) (VP (VBZ is) (NP (NP (DT a) (NN clasp) (, ,) (NN attachment) (, ,) (CC or) (NN assembly)) (VP (VBN applied) (PP (TO to) (NP (NP (DT an) (JJ abutment) (NN tooth)) (PP (IN for) (NP (NP (DT the) (NN purpose)) (PP (IN of) (S (VP (VBG maintaining) (NP (DT a) (JJ removable) (NN restoration)) (PP (IN in) (NP (NP (PRP$ its) (JJ planned) (NN position)) (PP (IN in) (NP (NN relation))))) (PP (TO to) (NP (JJ oral) (NNS structures)))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ extracoronal) (NN retainer)) (VP (VBZ is) (NP (NP (DT a) (NN type)) (PP (IN of) (NP (NN retainer))) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT the) (NN preparation)) (CC and) (NP (PRP$ its) (NN cast) (NN restoration))) (VP (VP (VB lie) (ADJP (RB largely) (JJ external) (PP (TO to) (NP (NP (DT the) (NN body)) (PP (IN of) (NP (NP (DT the) (JJ coronal) (NN portion)) (PP (IN of) (NP (DT the) (NN tooth))))))))) (CC and) (VP (VB complement) (NP (NP (DT the) (NN contour)) (PP (IN of) (NP (DT the) (NN crown))))))))))))
+(ROOT (S (NP (NP (DT The) (NN retention) (CC or) (NN resistance)) (PP (TO to) (NP (NN displacement)))) (VP (VBZ is) (VP (VBN developed) (PP (IN between) (NP (NP (NP (DT the) (JJ inner) (NNS surfaces)) (PP (IN of) (NP (DT the) (NN casting)))) (CC and) (NP (NP (DT the) (JJ external) (NNS walls)) (PP (IN of) (NP (DT the) (JJ prepared) (NN tooth))))))))))
+(ROOT (S (NP (DT The) (JJ extracoronal) (NN retainer)) (VP (MD may) (VP (VB be) (NP (NP (DT a) (JJ partial) (NN crown)) (CC or) (NP (DT a) (JJ complete) (NN crown)))))))
+--------
+(ROOT (S (S (NP (JJ extracoronal) (NN retainer)) (VP (VBZ is) (NP (NP (DT a) (JJ direct) (NN retainer)) (PP (IN of) (NP (DT the) (NN clasp) (NN type))) (SBAR (WHNP (WDT that)) (S (VP (VBZ engages) (NP (DT an) (JJ abutment) (NN tooth)) (PP (IN on) (NP (NP (PRP$ its) (JJ external) (NN surface)) (PP (IN in) (NP (PDT such) (DT a) (NN way))))) (SBAR (IN as) (S (VP (TO to) (VP (VB afford) (NP (NN retention) (CC and) (NN stabilization)) (PP (TO to) (NP (DT a) (JJ removable) (JJ partial) (NN denture))))))))))))) (: ;) (S (NP (JJ extracoronal) (NN retainer)) (VP (VBZ is) (NP (NP (DT a) (JJ direct) (NN retainer)) (PP (IN of) (NP (NP (DT the) (JJ manufactured) (NN type)) (, ,) (NP (NP (DT the) (JJ male) (NN portion)) (PP (IN of) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN attached) (PP (TO to) (NP (NP (DT the) (JJ external) (NN surface)) (PP (IN of) (NP (DT a) (NN cast) (NN crown))))) (PP (IN on) (NP (DT an) (JJ abutment) (NN tooth))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ indirect) (NN retention)) (VP (VBZ is) (NP (NP (DT a) (NN retention)) (VP (VBN obtained) (PP (IN in) (NP (DT a) (JJ removable) (JJ partial) (NN denture))) (PP (IN by) (S (VP (VBG placing) (NP (NNS rests)) (PP (IN opposite) (NP (DT the) (NN fulcrum) (NN line))) (S (VP (TO to) (VP (VB create) (NP (JJ indirect) (NNS retainers)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN alveolar) (NN ridge)) (VP (VBZ is) (NP (NP (DT the) (JJ bony) (NN ridge)) (PP (IN of) (NP (NP (DT the) (NN maxillae) (CC or) (NN mandible)) (SBAR (WHNP (WDT that)) (S (VP (VBZ contains) (NP (DT the) (NNS alveoli)))))))))))
+(ROOT (VP (VB See) (ADVP (RB also)) (NP (NP (NN process)) (, ,) (NP (NN alveolar)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ residual) (NN ridge)) (VP (VBZ is) (NP (NP (DT the) (NN portion)) (PP (IN of) (NP (DT the) (NN alveolar) (NN ridge))) (SBAR (WHNP (WDT that)) (S (VP (VBZ remains) (SBAR (IN after) (S (NP (DT the) (NNS alveoli)) (VP (VBP have) (VP (VBN disappeared) (PP (IN from) (NP (DT the) (NN alveolar) (NN process))) (PP (IN after) (NP (NP (NN extraction)) (PP (IN of) (NP (DT the) (NNS teeth))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN rigidity)) (VP (VBZ is) (NP (NP (NP (DT the) (NN characteristic)) (PP (IN of) (S (VP (VBG being) (ADJP (JJ nonflexible))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ essential) (PP (IN in) (NP (NP (DT a) (NN connector)) (, ,) (NP (DT a) (JJ reciprocal) (NN arm))))))))) (, ,) (CC or) (NP (NP (DT an) (JJ indirect) (VBG retaining) (NN unit)) (PP (IN of) (NP (DT a) (JJ removable) (JJ partial) (NN denture))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN occlusion) (NN rim)) (VP (VBZ is) (NP (NP (DT an) (VBG occluding) (NN surface)) (VP (VBN built) (PP (IN on) (NP (NP (JJ temporary) (CC or) (JJ permanent) (NN denture) (NNS bases)) (PP (IN for) (NP (NP (DT the) (NN purpose)) (PP (IN of) (S (VP (VP (VBG making) (NP (NN maxillomandibular) (NN relation) (NNS records))) (CC and) (VP (VBG arranging) (NP (NNS teeth)))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN rod)) (VP (VBZ is) (NP (NP (DT a) (JJ straight) (, ,) (JJ slim) (, ,) (JJ cylindric) (NN form)) (PP (IN of) (NP (NP (NN material)) (, ,) (RB usually) (NP (NN metal))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN rotation)) (VP (VBZ is) (NP (NP (DT the) (NN act)) (PP (IN of) (S (VP (VBG turning) (PP (IN about) (NP (NP (DT an) (NNS axis)) (CC or) (NP (DT a) (NN center)))))))))))
+--------
+(ROOT (S (NP (NN rotation)) (VP (VBZ is) (NP (NP (DT a) (NN movement)) (PP (IN of) (NP (NP (DT a) (NN tooth)) (PP (IN around) (NP (PRP$ its) (JJ longitudinal) (NNS axis)))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NNP scanning)) (VP (VBZ is) (NP (NP (DT a) (NN technique) (CC and) (NN protocol)) (PP (IN for) (S (VP (VP (ADVP (RB carefully)) (VBG studying) (NP (NP (DT an) (NN area) (, ,) (NN organ) (, ,) (CC or) (NN system)) (PP (IN of) (NP (DT the) (NN body)))) (PP (IN by) (NP (VBG recording)))) (CC and) (VP (VBG displaying) (NP (NP (DT an) (NN image)) (PP (IN of) (NP (NP (DT the) (NN area)) (VP (VBG using) (NP (NP (JJ radioactive) (NNS substances)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN affinities) (PP (IN for) (NP (JJ specific) (NNS tissues))))))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN shade) (NN selection)) (VP (VBZ is) (NP (NP (DT the) (NN determination)) (PP (IN of) (NP (NP (DT the) (NN color)) (PP (IN of) (NP (NP (DT the) (JJ artificial) (NN tooth) (CC or) (NN set)) (PP (IN of) (NP (NP (NNS teeth)) (PP (IN for) (NP (DT a) (VBN given) (NN patient)))))))))))))
+(ROOT (SINV (ADVP (RB Also)) (VP (VBD called)) (NP (CD tooth) (NN color) (NN selection))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN silicone)) (VP (VBZ is) (NP (NP (DT a) (NN compound)) (PP (IN of) (NP (JJ organic) (JJ structural) (NN character))) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT all)) (CC or) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS positions))) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB be) (ADJP (VBN occupied) (PP (IN by) (NP (NN carbon) (NNS atoms)))))))))) (VP (VBP are) (ADJP (VBN occupied) (PP (IN by) (NP (NN silicon)))))))))) (: ;) (S (NP (NN silicone)) (VP (VBZ is) (NP (NP (DT a) (NN plastic)) (VP (VBG containing) (NP (NNS silicons))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN sodium) (NN bicarbonate)) (VP (VBZ is) (NP (NP (DT an) (NN antacid)) (, ,) (NP (NN electrolyte)) (, ,) (CC and) (NP (JJ urinary) (VBG alkalinizing) (NN agent))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ soft) (NN tissue)) (VP (VBZ is) (NP (NP (DT a) (NN body) (NN tissue)) (PP (IN except) (NP (NP (NN bone)) (, ,) (NP (NNS teeth)) (, ,) (NP (NNS nails)) (, ,) (NP (NN hair)) (, ,) (CC and) (NP (NN cartilage))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN solder)) (VP (VBZ is) (NP (NP (DT a) (JJ fusible) (NN alloy)) (PP (IN of) (NP (NP (NNS metals)) (VP (VBN used) (S (VP (TO to) (VP (VB unite) (NP (NP (DT the) (NNS edges) (CC or) (NNS surfaces)) (PP (IN of) (NP (NP (CD two) (NNS pieces)) (PP (IN of) (NP (NN metal))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (VBG pickling) (NN solution)) (VP (VBZ is) (NP (NP (DT a) (NN solution)) (PP (IN of) (NP (NP (NN acid)) (VP (VP (VBN used) (PP (IN for) (S (VP (VBG removing) (NP (NNS oxides)))))) (CC and) (VP (NP (JJ other) (NNS impurities)) (PP (IN from) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (JJ dental) (NNS castings)))))) (, ,) (PP (PP (IN after) (NP (NN recovery))) (CC and) (PP (IN before) (NP (VBG polishing)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN space)) (VP (VBZ is) (NP (DT a) (JJ delimited) (, ,) (JJ three-dimensional) (NN region)))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN splint)) (VP (VBZ is) (NP (NP (DT a) (JJ rigid) (NN appliance)) (PP (IN for) (NP (NP (DT the) (NN fixation)) (PP (IN of) (NP (NN displaced) (CC or) (NN movable) (NNS parts)))))))))
+--------
+(ROOT (S (NP (NN splint)) (VP (VBZ is) (NP (NP (DT a) (NN support) (CC or) (NN brace)) (VP (VBN used) (PP (TO to) (NP (NN fasten) (CC or) (NN confine))))))))
+--------
+(ROOT (S (NP (NN splint)) (VP (VBZ is) (NP (NP (DT a) (NN metal)) (, ,) (NP (JJ acrylic) (NN resin)) (, ,) (CC or) (NP (NP (NN modeling) (NN compound)) (VP (VBN fashioned) (S (VP (TO to) (VP (VB retain) (PP (IN in) (NP (NP (NN position) (NNS teeth)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VP (VB have) (VP (VBN been) (VP (VBN replanted)))) (CC or) (VP (VB have) (NP (JJ fractured) (NNS roots))))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN sprue) (JJ former)) (VP (VBZ is) (NP (NP (DT a) (JJ cone-shaped) (NN base)) (VP (VBN made) (PP (IN of) (NP (NN metal) (CC or) (NN plastic)))) (SBAR (WHPP (TO to) (WHNP (WDT which))) (S (NP (DT the) (NN sprue)) (VP (VBZ is) (VP (VBN attached)))))))))
+(ROOT (NP (NP (NNS Forms)) (NP (NP (DT a) (NN crucible)) (PP (IN in) (NP (DT the) (NN investment) (NN material))))))
+(ROOT (VP (ADVP (RB Also)) (VBN called) (NP (NN crucible) (JJ former))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN stability)) (VP (VBZ is) (NP (NP (DT the) (NN quality)) (PP (IN of) (S (VP (VBG being) (ADJP (ADJP (JJ physically)) (CC or) (ADJP (RB emotionally) (JJ predictable)) (, ,) (ADJP (JJ orderly)) (, ,) (RB not) (ADJP (RB readily) (JJ moved))))))))))
+--------
+~~~~~~~
+(ROOT (S (VP (VB stem) (SBAR (S (NP (NN cell)) (VP (VBP are) (NP (NP (DT the) (NNS cells)) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VP (VB divide)) (CC and) (VP (VB differentiate) (PP (IN into) (S (VP (VBG differing) (NP (VBN specialized) (NN cell) (NNS types)))))))))))))))))
+(ROOT (S (NP (NNP First)) (VP (VBD reported) (PP (IN by) (NP (NNP McCulloch) (CC &) (NNP Till))) (PP (IN at) (NP (NNP Toronto))))))
+(ROOT (S (NP (JJ Stem) (NNS cells)) (VP (MD can) (VP (VB be) (VP (VBN obtained) (PP (IN from) (NP (NP (JJ umbilical) (NN cord) (NN blood)) (, ,) (NP (NN bone) (NN marrow)) (, ,) (NP (JJ adipose) (NN tissue)) (, ,) (CC and) (NP (NN blood)))))))))
+(ROOT (S (NP (PRP They)) (VP (VBP have) (NP (NP (JJ great) (NN potential)) (PP (IN for) (NP (NN cell) (NN replacement) (NN therapy)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN stone)) (VP (VBZ is) (NP (NP (DT an) (VBG abrading) (NN instrument)) (CC or) (NP (NN tool))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ dental) (NN stone)) (VP (VBZ is) (NP (NP (DT a) (NN \u4f2a-hemihydrate)) (PP (IN of) (NP (NN calcium) (NN sulfate)))))))
+--------
+(ROOT (S (NP (JJ dental) (NN stone)) (VP (VBZ is) (NP (DT a) (NN gypsum) (NN product)) (SBAR (IN that) (S (, ,) (SBAR (WHADVP (WRB when)) (S (VP (VBN combined) (PP (IN with) (NP (NP (NN water)) (PP (IN in) (NP (JJ proper) (NNS proportions)))))))) (, ,) (VP (VBZ hardens) (PP (IN in) (NP (DT a) (JJ plasterlike) (NN form)))))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (VP (VBN used) (PP (IN for) (S (VP (VBG making) (SBAR (S (VP (VP (VBZ casts)) (CC and) (VP (VBZ dies))))))))))))
+(ROOT (NP (NP (JJ Common) (NN brand)) (: :) (NP (NNP Hydrocal))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN stylomandibular) (NN ligament)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT a) (NN pair)) (PP (IN of) (NP (NP (VBN specialized) (NNS bands)) (PP (IN of) (NP (JJ cervical) (NN fascia))))))) (, ,) (VP (VBG forming) (NP (NP (DT an) (JJ accessory) (NN part)) (PP (IN of) (NP (DT the) (NN temporomandibular) (NN joint)))))))))
+(ROOT (S (NP (PRP It)) (VP (VBZ extends) (PP (IN from) (NP (NP (DT the) (NN styloid) (NN process)) (PP (IN of) (NP (DT the) (JJ temporal) (NN bone))))) (PP (TO to) (NP (NP (DT the) (NNS ramus)) (PP (IN of) (NP (DT the) (NN mandible))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NNS sulcus)) (VP (VBZ is) (NP (NP (DT a) (NN furrow) (, ,) (NN trench) (, ,) (CC or) (NN groove) (, ,)) (PP (PP (IN as) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN brain)))))) (CC or) (PP (IN in) (NP (NP (DT the) (NNS folds)) (PP (IN of) (NP (JJ mucous) (NNS membranes))))))))))
+--------
+(ROOT (S (NP (NNS sulcus)) (VP (VBZ is) (NP (NP (DT a) (NN groove) (CC or) (NN depression)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT a) (NN tooth)))))))))
+--------
+(ROOT (S (NP (NNS sulcus)) (VP (VBZ is) (NP (NP (NP (DT the) (NN space)) (PP (IN between) (NP (DT the) (JJ free) (JJ gingival) (NN margin)))) (CC and) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN tooth))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (NN surface)) (VP (VBZ is) (NP (NP (NP (DT the) (JJ anatomic) (JJ superior) (NN surface)) (PP (IN of) (NP (DT the) (JJ mandibular) (NN posterior) (NNS teeth)))) (CC and) (NP (NP (DT the) (JJ inferior) (NN surface)) (PP (IN of) (NP (DT the) (JJ maxillary) (NN posterior) (NNS teeth))))))))
+(ROOT (S (NP (DT These) (NNS surfaces)) (VP (VBP are) (VP (VP (VBN limited) (ADJP (JJ mesially) (CC and) (JJ distally)) (PP (IN by) (NP (JJ marginal) (NNS ridges)))) (, ,) (CC and) (VP (ADJP (JJ buccally) (CC and) (JJ lingually)) (PP (IN by) (NP (NP (DT the) (ADJP (JJ buccal) (CC and) (JJ lingual)) (NNS boundaries)) (PP (IN of) (NP (DT the) (NN cusp) (NNS eminences))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN surgery)) (VP (VBZ is) (NP (NP (DT a) (NN procedure)) (VP (VBN performed) (PP (IN by) (NP (DT a) (NN surgeon))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ radiographic) (NN survey)) (VP (VBZ is) (NP (NP (DT the) (NN production)) (PP (IN of) (NP (NP (DT the) (JJ minimal) (NN number)) (PP (IN of) (NP (NP (JJ radiographic) (NNS examinations)) (ADJP (JJ necessary) (PP (IN for) (NP (DT a) (JJ radiographic) (NN interpretation))))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NNP swallowing)) (VP (VBZ is) (NP (NP (DT a) (NN succession)) (PP (IN of) (NP (NP (JJ muscular) (NNS contractions)) (PP (PP (IN from) (PP (IN above) (ADVP (RB downward)))) (CC or) (PP (IN from) (NP (DT the) (NN front) (RB backward))))))))) (: ;) (S (NP (NNP swallowing)) (VP (VBP are) (NP (NP (DT the) (JJ propels) (NN food)) (PP (IN from) (NP (NP (DT the) (JJ oral) (NN cavity)) (PP (IN toward) (NP (DT the) (NN stomach))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN system)) (VP (VBZ is) (NP (NP (DT a) (NN set) (CC or) (NN series)) (PP (IN of) (NP (NNS organs) (CC or) (NNS parts))) (SBAR (WHNP (WDT that)) (S (VP (VB unite) (PP (IN in) (NP (DT a) (JJ common) (NN function))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ occlusal) (NN template)) (VP (VBZ is) (NP (NP (DT a) (NN stone) (CC or) (NN metal) (NN occlusal) (NN table)) (VP (VBN made) (PP (PP (IN from) (NP (NP (DT a) (JJ wax) (JJ occlusal) (NN path) (NN registration)) (PP (IN of) (NP (NN jaw) (NNS movements))))) (CC and) (PP (IN against) (SBAR (WHNP (WDT which)) (S (NP (DT the) (VBG opposing)) (VP (VBD supplied) (SBAR (S (NP (NNS teeth)) (VP (VBP are) (VP (VBN occluded)))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN tissue)) (VP (VBZ is) (NP (NP (DT an) (NN aggregation)) (PP (IN of) (NP (NP (JJ similarly) (JJ specialized) (NNS cells)) (VP (VBN united) (PP (IN in) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (DT a) (JJ particular) (NN function))))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN tissue) (NN conditioning)) (VP (VBZ is) (NP (NP (DT a) (VBN disciplined) (NN program)) (PP (IN of) (NP (NP (JJ patient-performed) (NN plaque) (NN control) (NNS measures)) (VP (VBN designed) (PP (IN for) (NP (NP (NN gingiva)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ soft))))))))))))) (, ,) (ADVP (RB spongy)) (, ,) (CC and) (S (NP (NP (NNS bleeds)) (RRC (ADVP (RB easily)) (PP (IN from) (NP (JJ poor) (JJ oral) (NN hygiene) (NNS habits)))) (, ,)) (VP (VBZ is) (VP (VBN performed) (S (VP (TO to) (VP (VB improve) (NP (JJ gingival) (NN health)) (PP (IN before) (NP (JJ subgingival) (NN scaling)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN anterior) (NNS teeth)) (VP (VBZ is) (NP (NP (DT the) (NN incisor)) (CC or) (NP (JJ canine) (NN front) (NNS teeth))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN posterior) (NNS teeth)) (VP (VBZ is) (NP (NP (NP (DT the) (NN maxillary)) (CC and) (NP (NP (NN mandibular) (NNS premolars) (CC and) (NNS molars)) (PP (IN of) (NP (DT the) (JJ permanent) (NN dentition))))) (CC or) (NP (NP (DT the) (NNS premolars) (CC and) (NNS molars)) (PP (IN of) (NP (NNS prostheses))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN discoloration) (NN tooth)) (VP (VBZ is) (NP (NP (DT a) (NN stain) (CC or) (NN change)) (PP (IN in) (NP (NP (NN color)) (PP (IN of) (NP (NP (DT a) (NN tooth)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (VP (VB be) (VP (VBN caused) (PP (IN by) (NP (JJ blood-borne) (NN pigment) (CC or) (NN blood) (NN decomposition))) (PP (IN within) (NP (NP (DT the) (NN pulp)) (, ,) (NP (NP (NN usage)) (PP (IN of) (NP (JJ certain) (NNS drugs)))) (, ,) (CC and) (NP (NN trauma)))))))))))))))))
+(ROOT (S (VP (VB See) (RB also) (ADVP (NN tooth)) (, ,) (VB pigmentation))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN tooth) (NN mobility)) (VP (VBZ is) (NP (NP (DT the) (NN movability)) (PP (IN of) (NP (NP (DT a) (NN tooth)) (VP (VBG resulting) (PP (IN from) (NP (NP (NP (NN loss)) (PP (IN of) (NP (DT all)))) (CC or) (NP (NP (DT a) (NN portion)) (PP (IN of) (NP (PRP$ its) (ADJP (JJ attachment) (CC and) (JJ supportive)) (NN apparatus)))))))))))))
+(ROOT (UCP (VP (VBN Seen) (PP (IN in) (NP (NP (NNS periodontitis)) (, ,) (NP (JJ occlusal) (NN traumatism)) (, ,)))) (CC and) (ADJP (JJ periodontosis))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN translation)) (VP (VBZ is) (NP (NP (DT a) (NN movement)) (PP (IN of) (NP (NP (DT a) (JJ rigid) (NN body)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT all) (NNS parts)) (VP (VBP move) (PP (IN in) (NP (NP (DT the) (JJ same) (NN direction)) (PP (IN at) (NP (DT the) (JJ same) (NN speed))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN translucency)) (VP (VBZ is) (NP (DT an) (JJ object\u9225\u6a9a) (NN ability) (S (VP (TO to) (VP (VB allow) (NP (NP (DT the) (NN passage)) (PP (IN of) (NP (NN light)))) (PP (IN through) (NP (PRP it))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NN trauma)) (VP (VBZ is) (NP (DT a) (NN hurt)))) (: ;) (S (NP (NN trauma)) (VP (VBZ is) (NP (NP (DT a) (NN wound)) (: ;) (S (S (NP (NN trauma)) (VP (VBZ is) (NP (DT an) (NN injury)))) (: ;) (S (NP (NN trauma)) (VP (VBZ is) (NP (NP (DT a) (NN damage)) (: ;) (S (S (NP (NN trauma)) (VP (VBZ is) (NP (DT a) (NN impairment)))) (: ;) (S (NP (NN trauma)) (VP (VBZ is) (NP (NP (DT a) (JJ external) (NN violence)) (VP (VBG producing) (NP (JJ bodily) (NN injury) (CC or) (NN degeneration))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN impression) (NN tray)) (VP (VBZ is) (NP (NP (DT a) (NN receptacle) (CC or) (NN device)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VP (VB carry) (NP (NN impression) (NN material)) (PP (TO to) (NP (DT the) (JJ oral) (NN cavity)))) (, ,) (VP (VB confine) (NP (NP (DT the) (NN material)) (PP (IN in) (NP (NN apposition)))) (PP (TO to) (NP (DT the) (NNS surfaces))) (S (VP (TO to) (VP (VB be) (VP (VBN recorded)))))) (, ,) (CC and) (VP (VB control) (NP (DT the) (NN impression) (NN material)) (SBAR (IN while) (S (NP (PRP it)) (VP (VBZ sets) (S (VP (TO to) (VP (VB form) (NP (DT the) (NN impression))))))))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN treatment)) (VP (VBZ is) (NP (NP (DT the) (NN mode) (CC or) (NN course)) (VP (VBN pursued) (PP (IN for) (NP (JJ remedial) (NNS ends))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NP (NN brand) (NN name)) (: :) (VP (VBN found) (PP (IN in) (NP (NP (NNS products)) (PP (JJ such) (IN as) (NP (NP (NNP Colgate) (NNP Total)) (: ;) (NP (NN drug) (NN class)) (: :) (NP (JJ broad) (NN spectrum) (NN antibacterial) (NN agent)) (: ;) (NP (NN action)) (: :) (NP (NP (JJ inhibits) (JJ enol-acyl) (NN protein) (NN reductase)) (, ,) (NP (ADJP (JJ leading) (PP (TO to) (NP (NP (NN loss)) (PP (IN of) (NP (NN type) (NNP II) (JJ fatty) (NN acid)))))) (NN synthesis))) (: ;) (NP (NN use))))))) (: :)) (VP (VBD combined) (PP (IN in) (NP (DT an) (JJ oral) (NN product))) (S (VP (TO to) (VP (VB aid) (PP (IN in) (S (VP (VBG reducing) (NP (NN plaque)) (PP (IN within) (NP (DT the) (JJ oral) (NN cavity))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN trifurcation)) (VP (VBZ is) (NP (NP (DT a) (NN division)) (PP (IN into) (NP (NP (CD three) (NNS parts)) (CC or) (NP (NNS branches))))) (, ,) (PP (IN as) (NP (NP (DT the) (CD three) (NNS roots)) (PP (IN of) (NP (DT a) (JJ maxillary) (JJ first) (NN molar))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (NNS trismus)) (VP (VBP are) (NP (NP (DT the) (NNS spasms)) (PP (IN of) (NP (NP (DT the) (NNS muscles)) (PP (IN of) (NP (NP (NN mastication)) (VP (VBG resulting) (PP (IN in) (NP (DT the) (NN inability))) (S (VP (TO to) (VP (VB open) (NP (DT the) (JJ oral) (NN cavity))))))))))))) (: ;) (S (NP (NNS trismus)) (VP (VBZ is) (ADJP (RB often) (JJ symptomatic) (PP (IN of) (NP (NNS pericoronitis))))))))
+--------
+~~~~~~~
+(ROOT (FRAG (ADJP (JJ genial) (JJ tubercle)) (S (VP (VBZ is) (NP (NP (DT a) (ADJP (JJ small) (JJ rounded)) (NN elevation)) (PP (IN on) (NP (NP (DT the) (JJ lingual) (NN surface)) (PP (IN of) (NP (NP (DT the) (NN mandible)) (PP (IN on) (NP (NP (DT either) (NN side)) (PP (IN of) (NP (NP (DT the) (NN midline)) (PP (IN near) (NP (NP (DT the) (JJ inferior) (NN border)) (PP (IN of) (NP (NP (DT the) (NN body)) (PP (IN of) (NP (DT the) (NN mandible))))))))))))))) (, ,) (VP (VBG serving) (PP (IN as) (NP (NP (DT a) (NN point)) (PP (IN of) (NP (NP (NN insertion)) (PP (IN for) (NP (DT the) (JJ geniohyoid) (NNS muscles)))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ tuberosity) (NN reduction)) (VP (VBZ is) (NP (NP (NP (DT a) (JJ surgical) (NN excision)) (PP (IN of) (NP (JJ excessive) (NNS fibrous)))) (CC or) (NP (NP (JJ bony) (NN tissue)) (PP (IN in) (NP (NP (DT the) (NN area)) (PP (IN of) (NP (NP (DT the) (JJ maxillary) (NN tuberosity)) (PP (IN before) (NP (NP (DT the) (NN construction)) (PP (IN of) (NP (JJ prosthetic) (NNS appliances))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN tumor)) (VP (VBZ is) (NP (DT a) (VBG swelling)))))
+(ROOT (S (PP (IN Through) (NP (NN usage))) (NP (DT the) (NN term)) (VP (VBZ is) (ADVP (RB now)) (ADJP (JJ synonymous) (PP (IN with) (NP (NN neoplasm)))))))
+(ROOT (S (VP (VB See) (NP (ADVP (RB also)) (NN neoplasm)))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ odontogenic) (NN tumor)) (VP (VBZ is) (NP (NP (DT a) (NN neoplasm)) (VP (VBN produced) (PP (IN from) (NP (JJ tooth-forming) (NN tissue))))))))
+(ROOT (S (VP (VB See) (ADVP (RB also)) (S (VP (VBG calcifying) (NP (JJ epithelial) (JJ odontogenic) (NN tumor)))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NNP undercut)) (VP (VBZ is) (NP (NP (DT the) (NN portion)) (PP (IN of) (NP (NP (DT a) (NN tooth)) (SBAR (WHNP (WDT that)) (S (VP (VBZ lies) (PP (IN between) (NP (NP (PRP$ its) (NN height)) (PP (IN of) (NP (NP (NN contour)) (CC and) (NP (DT the) (NN gingivae)))))) (, ,) (SBAR (RB only) (IN if) (S (NP (DT that) (NN portion)) (VP (VBZ is) (PP (IN of) (NP (NP (JJR less) (NN circumference)) (PP (IN than) (NP (NP (DT the) (NN height)) (PP (IN of) (NP (NN contour)))))))))))))))))))
+--------
+(ROOT (S (NP (NNP undercut)) (VP (VBZ is) (NP (NP (DT the) (NN contour)) (PP (IN of) (NP (NP (DT a) (NN cross-section)) (PP (IN of) (NP (NP (DT a) (JJ residual) (NN ridge)) (PP (IN of) (NP (JJ dental) (NN arch))))))) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB prevent) (NP (NP (DT the) (NN placement)) (PP (IN of) (NP (NP (DT a) (NN denture)) (CC or) (NP (JJ other) (NNS prosthesis)))))))))))))
+--------
+(ROOT (S (NP (NNP undercut)) (VP (VBZ is) (NP (NP (DT the) (NN contour)) (PP (IN of) (NP (VBG flasking) (NN stone) (SBAR (WHNP (WDT that)) (S (VP (VBZ interlocks) (S (VP (TO to) (VP (VB prevent) (NP (NP (DT the) (NN separation)) (PP (IN of) (NP (NNS parts))))))))))))))))
+--------
+(ROOT (S (S (NP (NNP undercut)) (VP (VBZ is) (NP (NP (DT the) (NN portion)) (PP (IN of) (NP (NP (DT a) (JJ prepared) (NN cavity)) (SBAR (WHNP (WDT that)) (S (VP (VBZ creates) (NP (NP (DT a) (JJ mechanical) (NN lock) (CC or) (NN area)) (PP (IN of) (NP (NN retention)))))))))))) (: ;) (S (NP (NNP undercut)) (VP (VP (MD may) (VP (VB be) (ADJP (JJ desirable) (PP (IN in) (NP (DT a) (NN cavity) (S (VP (TO to) (VP (VB be) (VP (VBN filled) (PP (IN with) (NP (NN gold) (NN foil) (CC or) (NN amalgam)))))))))))) (CC but) (VP (VBZ is) (ADJP (JJ undesirable) (PP (IN in) (NP (NP (DT a) (NN cavity)) (VP (VBN prepared) (PP (IN for) (NP (DT a) (NN restoration))) (S (VP (TO to) (VP (VB be) (VP (VBN cemented))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN unification)) (VP (VBZ is) (NP (NP (NP (DT the) (NN act)) (PP (IN of) (NP (NN uniting)))) (CC or) (NP (NP (DT the) (NN condition)) (PP (IN of) (S (VP (VBG being) (VP (VBN united))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN wax)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (JJ several) (NNS esters)) (PP (IN of) (NP (NP (JJ fatty) (NNS acids)) (PP (IN with) (NP (NP (JJR higher) (NNS alcohols)) (, ,) (RB usually) (NP (JJ monohydric) (NNS alcohols))))))))))))
+(ROOT (S (NP (JJ Dental) (NNS waxes)) (VP (VBP are) (NP (NP (NNS combinations)) (PP (IN of) (NP (NP (JJ various) (NNS types)) (PP (IN of) (NP (NP (NNS waxes)) (VP (VBN compounded) (S (VP (TO to) (VP (VB provide) (NP (DT the) (VBN desired) (JJ physical) (NNS properties))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (JJ baseplate) (NN wax)) (VP (VBZ is) (NP (NP (DT a) (JJ hard) (, ,) (JJ pink) (NN wax)) (VP (VBN used) (PP (IN for) (S (VP (VBG making) (NP (NN occlusion) (NNS rims) (CC and) (NNS baseplates)) (PP (IN for) (NP (NN occlusion) (NNS rims)))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN boxing) (NN wax)) (VP (VBZ is) (NP (NP (DT a) (JJ soft) (NN wax)) (VP (VBN used) (PP (IN for) (NP (NN boxing) (NNS impressions))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN wax) (NN elimination)) (VP (VBZ is) (NP (NP (DT the) (NN procedure)) (PP (IN of) (S (VP (VBG removing) (NP (DT the) (NN wax)) (PP (IN from) (NP (NP (DT a) (NN wax) (NN pattern)) (VP (VBN invested) (PP (IN in) (NP (NP (DT a) (NN mold) (NN preparatory)) (PP (TO to) (NP (NP (DT the) (NN introduction)) (PP (IN of) (NP (DT another) (NN material))))))) (PP (IN into) (NP (DT the) (VBG resulting) (NN cavity)))))))))))))
+(ROOT (S (NP (DT This)) (VP (MD may) (VP (VB be) (VP (VP (VBN done) (PP (IN by) (NP (JJ dry) (NN heat))) (ADVP (RB alone))) (CC or) (VP (VBN irrigation) (PP (IN with) (NP (NP (JJ boiling) (NN water)) (VP (VBN followed) (PP (IN by) (NP (NP (NN use)) (PP (IN of) (NP (JJ dry) (NN heat))))))))))))))
+(ROOT (SINV (ADVP (RB Also)) (VP (VBD called)) (NP (NNP wax) (NNP burnout))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN waxing)) (VP (VBZ is) (NP (NP (NP (DT the) (NN contouring)) (PP (IN of) (NP (DT a) (NN wax) (NN pattern)))) (CC or) (NP (NP (DT the) (NN wax) (NN base)) (PP (IN of) (NP (DT a) (NN trial) (NN denture))))) (PP (IN into) (NP (DT the) (VBN desired) (NN form))))))
+(ROOT (VP (ADVP (RB Also)) (VBN called) (S (VP (VBG waxing) (PRT (RP up))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN wedge)) (VP (VBZ is) (NP (NP (DT a) (JJ small) (, ,) (JJ pointed) (, ,) (JJ triangular) (, ,) (JJ contoured) (NN piece)) (PP (IN of) (NP (NP (NN wood)) (VP (VBN used) (S (VP (TO to) (VP (VB seal) (NP (NP (DT the) (JJ gingival) (NN margin)) (PP (IN of) (NP (DT a) (JJ cavity) (NN preparation)))) (PP (IN before) (NP (NP (NN placement)) (PP (IN of) (NP (DT a) (JJ direct) (NN restoration)))))))))))))))
+--------
+~~~~~~~
+(ROOT (S (S (NP (JJ wrought) (NN wire)) (VP (VBZ is) (NP (NP (DT a) (NN wire)) (VP (VBN formed) (PP (IN by) (S (VP (VBG drawing) (NP (DT a) (NN cast) (NN structure)) (PP (IN through) (NP (DT a) (NN die)))))))))) (: ;) (S (NP (JJ wrought) (NN wire)) (VP (VBZ is) (VP (VBN used) (PP (IN in) (NP (NP (NN dentistry)) (PP (IN for) (NP (NP (JJ partial) (NN denture) (NNS clasps)) (CC and) (NP (JJ orthodontic) (NNS appliances)))))))))))
+--------
+(ROOT (S (NP (JJ wrought) (NN wire)) (VP (VBZ is) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (NN metal)))) (S (VP (VP (VBG resulting) (PP (IN from) (NP (DT the) (NN swaging)))) (, ,) (VP (VBG rolling)) (, ,) (CC and) (VP (VBG drawing) (PP (IN of) (NP (DT a) (NN metal) (NN ingot))) (PP (IN into) (NP (NP (DT a) (VBN desired) (NN shape)) (CC and) (NP (NN size))))))))))
+--------
+~~~~~~~
+(ROOT (S (NP (NN xylitol)) (VP (VBZ is) (NP (NP (DT a) (JJ low-calorie) (NN sweetener)) (SBAR (WHNP (WDT that)) (S (VP (VBZ reduces) (NP (NP (JJ caries) (NN activity)) (CC and) (NP (NP (DT the) (NN growth) (CC and) (NN transmission)) (PP (IN of) (NP (NNP S.) (NNS mutans))))))))))))
+--------
+~~~~~~~

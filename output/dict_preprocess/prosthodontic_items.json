@@ -1,0 +1,4729 @@
+[
+  {
+    "pronunciation": "", 
+    "concept": "abuse, substance,", 
+    "pos2definition": [
+      {
+        "definition": "the misuse of legal or illegal substances with the intent to alter some aspect of the user’s experience. May include medications, illicit drugs, legal substances with potential mood-altering effects (such as alcohol or tobacco), or substances whose primary use may not be for human consumption (such as inhalants).", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "əbut′mənt", 
+    "concept": "abutment ", 
+    "pos2definition": [
+      {
+        "definition": "a tooth, root, or implant used for support and retention of a fixed or removable prosthesis. See also pontic.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "acrylic resin,", 
+    "pos2definition": [
+      {
+        "definition": "See resin, acrylic.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "əjust′ment", 
+    "concept": "adjustment ", 
+    "pos2definition": [
+      {
+        "definition": "a modification of a restoration or of a denture after insertion in the oral cavity.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "adjustment, occlusal,", 
+    "pos2definition": [
+      {
+        "definition": "a grinding of the occluding surfaces of teeth to develop harmonious relationships between each other, their supporting structures, muscles of mastication, and temporomandibular joints.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "adult,", 
+    "pos2definition": [
+      {
+        "definition": "a person who has the fully developed characteristics of a mature person.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a person who has reached full legal age.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "ä′gär", 
+    "concept": "agar, hydrocolloid ", 
+    "pos2definition": [
+      {
+        "definition": "a reversible hydrocolloid made from agar-agar.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "age,", 
+    "pos2definition": [
+      {
+        "definition": "the period of time a person has existed or an object has existed.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "ä′gär", 
+    "concept": "agar, hydrocolloid ", 
+    "pos2definition": [
+      {
+        "definition": "a reversible hydrocolloid made from agar-agar.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "age,", 
+    "pos2definition": [
+      {
+        "definition": "the period of time a person has existed or an object has existed.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "al′jināt", 
+    "concept": "alginate ", 
+    "pos2definition": [
+      {
+        "definition": "a salt of alginic acid (e.g., sodium alginate), which, when mixed with water in accurate proportions, forms an irreversible hydrocolloid gel used for making impressions or molds of the dentition. See also hydrocolloid, irreversible.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "alloy, cobalt-chromium,", 
+    "pos2definition": [
+      {
+        "definition": "(chromecobalt amalgam), a base metal alloy. Used in dentistry for metallic denture bases and partial dentures. Also used in orthodontics as an archwire. Four types (color coded) based on level of resilience. Also known as Elgiloy.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "alloy, nickel-chromium,", 
+    "pos2definition": [
+      {
+        "definition": "a stainless steel.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "aluminum,", 
+    "pos2definition": [
+      {
+        "definition": "a widely used metallic element and the third most abundant of all the elements. Aluminum is a principal component of many compounds used in antacids, antiseptics, astringents, and styptics. Aluminum hydroxychloride is the most commonly used agent in antiperspirants.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "alveolar process,", 
+    "pos2definition": [
+      {
+        "definition": "See process, alveolar.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "alveolar ridge,", 
+    "pos2definition": [
+      {
+        "definition": "See ridge, alveolar.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "analysis, occlusal,", 
+    "pos2definition": [
+      {
+        "definition": "a study of the relations of the occlusal surfaces of the opposing teeth and their functional harmony.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "ənat′ōmē", 
+    "concept": "anatomy ", 
+    "pos2definition": [
+      {
+        "definition": "the science of the form, structure, and parts of animal organisms.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "arch, dental,", 
+    "pos2definition": [
+      {
+        "definition": "the composite structure of the dentition and alveolar ridge or the remains thereof after the loss of some or all of the natural teeth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "architecture, gingival,", 
+    "pos2definition": [
+      {
+        "definition": "See gingival architecture.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "arm,", 
+    "pos2definition": [
+      {
+        "definition": "an extension or projection of a removable partial denture framework.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "arm, reciprocal,", 
+    "pos2definition": [
+      {
+        "definition": "a clasp arm used on a removable partial denture to oppose any force arising from an opposing clasp arm on the same tooth. See also arm, retention.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "arrangement,", 
+    "pos2definition": [
+      {
+        "definition": "the pattern into which a group of things is organized.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "arrangement, tooth,", 
+    "pos2definition": [
+      {
+        "definition": "the placement of teeth on a denture or temporary base with definite objectives in mind.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "at′rōfē", 
+    "concept": "atrophy ", 
+    "pos2definition": [
+      {
+        "definition": "a progressive, acquired decrease in the size of a normally developed cell, tissue, or organ. Atrophy may result from a decrease in cell size, number of cells, or both.", 
+        "pos": "n/v"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "attachment,", 
+    "pos2definition": [
+      {
+        "definition": "a fastener, connector, associated part.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a mechanical device for retention and stabilization of a dental prosthesis.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "attachment, intracoronal,", 
+    "pos2definition": [
+      {
+        "definition": "(precision attachment, slotted attachment). See retainer, intracoronal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "ôg′mentā′shən", 
+    "concept": "augmentation ", 
+    "pos2definition": [
+      {
+        "definition": "assistance to respiration by the application of intermittent pressure on inspiration.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "an increase in size beyond the existing size, such as an implant placed over the mandibular or maxillary ridges.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "authorization,", 
+    "pos2definition": [
+      {
+        "definition": "a written consent to release protected health information.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "bar, lingual,", 
+    "pos2definition": [
+      {
+        "definition": "a major connector located lingual to the dental arch that joins bilateral parts of a mandibular removable partial denture. May also be the orthodontic splinting on the lingual of either the maxillary or mandibular anterior teeth to maintain position of the teeth over time. See also connector, major, lingual bar.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "base, record,", 
+    "pos2definition": [
+      {
+        "definition": "See baseplate.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "baseplate wax,", 
+    "pos2definition": [
+      {
+        "definition": "See wax, baseplate.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "beading,", 
+    "pos2definition": [
+      {
+        "definition": "the scribing of a shallow groove (less than 0.5 mm in width or depth) on a cast that outlines the major connector. It is used to transfer the design to the investment cast and ensure tissue contact of the major connector.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "blindness, color,", 
+    "pos2definition": [
+      {
+        "definition": "defective color vision characterized by decreased ability to detect differences in color. See also achromatopsia.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "blockout,", 
+    "pos2definition": [
+      {
+        "definition": "the elimination of undesirable undercut areas on a cast to be used in the fabrication of a removable denture. Also known as waxout.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "bonding,", 
+    "pos2definition": [
+      {
+        "definition": "an adhesion of orthodontic attachments to the teeth without use of an interposed band.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "bone,", 
+    "pos2definition": [
+      {
+        "definition": "the material of the skeletons of the tissue composing bones.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "dense, hard, and slightly elastic connective tissue in which the fibers are impregnated with a form of calcium phosphate similar to hydroxyapatite.", 
+        "pos": "n 2."
+      }, 
+      {
+        "definition": "the bones of the human skeleton.", 
+        "pos": "n 3."
+      }, 
+      {
+        "definition": "a single element of the skeleton such as a rib or femur.", 
+        "pos": "n 4."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "alvē′ələr", 
+    "concept": "bone, alveolar ", 
+    "pos2definition": [
+      {
+        "definition": "the specialized bone structure that contains the alveoli or sockets of the teeth and supports the teeth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "bone augmentation,", 
+    "pos2definition": [
+      {
+        "definition": "a term used to describe a variety of bone grafting procedures to build or enhance a deficient area of bone, usually in preparation for a dental implant site. Bone augmentation materials can be autogenous, allogenous, xenogenous, or allopastic sources.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "border movement,", 
+    "pos2definition": [
+      {
+        "definition": "See movement, border.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "bruk′sizəm", 
+    "concept": "bruxism ", 
+    "pos2definition": [
+      {
+        "definition": "the involuntary gnashing, grinding, or clenching of teeth. It is usually an unconscious activity, whether the individual is awake or asleep; often associated with fatigue, anxiety, emotional stress, or fear and frequently triggered by occlusal irregularities, usually resulting in abnormal wear patterns on the teeth, periodontal breakdown, and joint or neuromuscular problems.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "bur,", 
+    "pos2definition": [
+      {
+        "definition": "a rotary cutting instrument of steel or tungsten carbide, supplied with cutting heads of various shapes.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "bur,", 
+    "pos2definition": [
+      {
+        "definition": "a rotary cutting instrument of steel or tungsten carbide, supplied with cutting heads of various shapes.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "burnout, wax,", 
+    "pos2definition": [
+      {
+        "definition": "See burnout, inlay and wax elimination.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "kal′sinā′shən", 
+    "concept": "calcination ", 
+    "pos2definition": [
+      {
+        "definition": "a process of removing water by heat; used in the manufacture of plaster and stone from gypsum.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "calculus ", 
+    "pos2definition": [
+      {
+        "definition": "a hard deposit on the exposed surfaces of the teeth and any oral prosthesis within the oral cavity. It is composed of calcium phosphate, calcium carbonate, magnesium phosphate, and other elements within an organic matrix composed of plaque, desquamated epithelium, mucin, microorganisms, and other debris. Factor in the initiation and continuation of periodontal disease. The colloquial term is tartar.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "canal, root,", 
+    "pos2definition": [
+      {
+        "definition": "the informal term for the endodontic procedure to remove infected root canal tissue and replace removed tissue with restorative material.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "cancer, oral,", 
+    "pos2definition": [
+      {
+        "definition": "malignancies indicative of unchecked cell growth that are mainly found in and around the oropharynx, gingiva, floor of the oral cavity, lower lip, and base of the tongue.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "kā′nīn", 
+    "concept": "canine ", 
+    "pos2definition": [
+      {
+        "definition": "one of the four pointed teeth situated one on each side of each jaw, distal to the lateral incisor; forms the keystone of the arch. Older term is cuspid.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "canine guidance,", 
+    "pos2definition": [
+      {
+        "definition": "a concept of occlusal function in which the canine teeth are assigned a major control role in the excursive movements of the mandible.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "cast,", 
+    "pos2definition": [
+      {
+        "definition": "an object formed by pouring plastic or liquid material into a mold in which it hardens.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "to throw metal into an impression to form the casting.", 
+        "pos": "v 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "cast, diagnostic,", 
+    "pos2definition": [
+      {
+        "definition": "a positive likeness of dental structures for the purpose of study and treatment planning.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "cast, master,", 
+    "pos2definition": [
+      {
+        "definition": "an accurate replica of the prepared tooth surfaces, residual ridge areas, or other parts of the dental arch reproduced from an impression from which a prosthesis is to be fabricated.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "cast, refractory,", 
+    "pos2definition": [
+      {
+        "definition": "a cast made of materials that can withstand high temperatures without disintegrating and that, when used in partial denture casting techniques, expand to compensate for metal shrinkage.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "casting machine,", 
+    "pos2definition": [
+      {
+        "definition": "a mechanical device used for throwing or forcing a molten metal into a refractory mold.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "casting ring,", 
+    "pos2definition": [
+      {
+        "definition": "See flask, refractory.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "cavity, nasal,", 
+    "pos2definition": [
+      {
+        "definition": "the two irregular spaces that are situated on either side of the midline of the face, extend from the cranial base to the palate, and are separated from each other by a thin vertical septum. In radiographs it appears over the roots of the maxillary incisors as a large, segmented, radiolucent area. Also called nasal fossa.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "cell, stem,", 
+    "pos2definition": [
+      {
+        "definition": "the cells in the bone marrow from which all blood cells originate.", 
+        "pos": "n.pl"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "cement, zinc phosphate,", 
+    "pos2definition": [
+      {
+        "definition": "a material used for cementation of inlays, crowns, bridges, and orthodontic appliances; occasionally used as a temporary restoration. Prepared by mixing a powder and a liquid. The powders are composed primarily of zinc oxide and magnesium oxides. The principal constituents of the liquid are phosphoric acid, water, and buffer agents.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "sē′mentā′shən", 
+    "concept": "cementation ", 
+    "pos2definition": [
+      {
+        "definition": "attachment of an appliance or a restoration to natural teeth or attachment of parts by means of a cement.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "centric occlusion,", 
+    "pos2definition": [
+      {
+        "definition": "See occlusion, centric.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "centric relation,", 
+    "pos2definition": [
+      {
+        "definition": "See relation, centric.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "ceramics,", 
+    "pos2definition": [
+      {
+        "definition": "the art of making dental restorations or parts of restorations from fused porcelain.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "cervical convergence,", 
+    "pos2definition": [
+      {
+        "definition": "See convergence, cervical.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "chart, periodontal,", 
+    "pos2definition": [
+      {
+        "definition": "a diagrammatic chart on which the findings from the periodontal examination are recorded. This includes pocket readings, furcations, tooth mobility, exudates and gingival recession.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "chewing,", 
+    "pos2definition": [
+      {
+        "definition": "the movements of the mandible during mastication; controlled by neuromuscular action and limited by the anatomic structure of the temporomandibular joints. See also mastication.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "clasp, arm,", 
+    "pos2definition": [
+      {
+        "definition": "the clasp extensions, usually from minor connectors, that provide retention, reciprocation, or stabilization.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "clasp, arm, reciprocal,", 
+    "pos2definition": [
+      {
+        "definition": "an arm of a clasp, usually at or occlusal to the height of contour, located in such a manner as to reciprocate any force arising from an opposing clasp arm on the same tooth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "sərkum′fəre n′shəl", 
+    "concept": "clasp, circumferential ", 
+    "pos2definition": [
+      {
+        "definition": "a clasp that encircles more than 180° of a tooth, including opposite angles, and usually contacts the tooth throughout the extent of the clasp, at least one terminal being in the infrabulge area (cervical convergence).", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "əklōō′səl", 
+    "concept": "clearance, occlusal ", 
+    "pos2definition": [
+      {
+        "definition": "a condition in which the mandibular teeth may pass the maxillary teeth horizontally without contact or interference.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "klen′ching", 
+    "concept": "clenching ", 
+    "pos2definition": [
+      {
+        "definition": "the nonfunctional, forceful intermittent application of the mandibular teeth against the maxillary teeth. It can become habitual and cause damage to the periodontium.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "cobalt-chromium alloy,", 
+    "pos2definition": [
+      {
+        "definition": "See alloy, cobalt-chromium. cocaine (C, Cadillac, Charlie,", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "color blindness,", 
+    "pos2definition": [
+      {
+        "definition": "See blindness, color.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "complete denture,", 
+    "pos2definition": [
+      {
+        "definition": "See denture, complete.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "kom′plikā′shən", 
+    "concept": "complication ", 
+    "pos2definition": [
+      {
+        "definition": "a disease or injury that develops during the treatment of an earlier disorder. An example is a bacterial infection acquired by a person weakened by a viral infection.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "compound, modeling,", 
+    "pos2definition": [
+      {
+        "definition": "See compound, impression.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "computed tomography ", 
+    "pos2definition": [
+      {
+        "definition": "a radiographic body scanning technique in which thin or narrow layer sections of the body can be imaged for diagnostic purposes. The technique uses a computer-linked radiographic machine to focus the radiographs on a particular section of the body to be viewed.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "conductivity, thermal,", 
+    "pos2definition": [
+      {
+        "definition": "the ability of a material to transfer heat. Thermal conductivity is of great importance in dentistry, where a low thermal conductivity is desirable in restorative material and a high thermal conductivity is desirable when soft tissue is covered.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "condyle, orbiting,", 
+    "pos2definition": [
+      {
+        "definition": "See orbiting condyle.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "cone,", 
+    "pos2definition": [
+      {
+        "definition": "a geometric shape with a circular base tapering evenly to an apex.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a solid substance, usually guttapercha or silver, having a tapered form similar in length and diameter to a root canal; used to fill the space once occupied by the pulp in the root of the tooth.", 
+        "pos": "n 2."
+      }, 
+      {
+        "definition": "an accessory device on a dental x-ray tubehead, designed to indicate the direction of the central axis of its radiographic beam and to serve as a guide in establishing a desired source-to-receptor distance.", 
+        "pos": "n 3."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "connector,", 
+    "pos2definition": [
+      {
+        "definition": "the part of a partial denture that unites its components.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "connector, major,", 
+    "pos2definition": [
+      {
+        "definition": "a metal plate or bar (e.g., lingual bar, linguoplate, palatal bar) used to join the units of one side of a removable partial denture to those located on the opposite side of the dental arch.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "connector, minor,", 
+    "pos2definition": [
+      {
+        "definition": "the connecting link between the major connector or base of a removable partial denture and other units of the restoration, such as direct and indirect retainers and rests.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "connector, nonrigid,", 
+    "pos2definition": [
+      {
+        "definition": "a connector used where retainers or pontics are united by a joint permitting limited movement. It may be a precision or a nonprecision type of connector.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "connector, rigid,", 
+    "pos2definition": [
+      {
+        "definition": "a connector used where retainers or pontics are united by a soldered, cast, or welded joint.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "contour, tooth,", 
+    "pos2definition": [
+      {
+        "definition": "a shape of a tooth that is essential to a healthy gingival unit because it enables the bolus of food to be deflected from gingival margins during mastication.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "convergence, cervical,", 
+    "pos2definition": [
+      {
+        "definition": "the angle formed between the cervicoaxial inclination of a tooth surface on one side and a diagnostic stylus of a dental cast surveyor in contact with the tooth at its height of contour.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "core, amalgam,", 
+    "pos2definition": [
+      {
+        "definition": "the foundational replacement of the badly mutilated crown of a tooth whose purpose is to provide a rigid base for retention of a cast crown restoration. The core may be retained by undercuts, slots, pins, or the pulp chamber of an endodontically treated tooth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "crest, gingival,", 
+    "pos2definition": [
+      {
+        "definition": "the coronal margin of the gingival tissue.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "crown,", 
+    "pos2definition": [
+      {
+        "definition": "the natural portion of a tooth covered by enamel.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "an artificial replacement for the natural crown of the tooth. Colloquial term is cap.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "crown, ceramic,", 
+    "pos2definition": [
+      {
+        "definition": "one of several materials that can make up a crown, which can be combined with other components such as porcelain or metal to improve long-term crown function.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "crown lengthening,", 
+    "pos2definition": [
+      {
+        "definition": "a surgical procedure to remove marginal gingival tissues to expose more of the crown of the tooth to facilitate a reconstructive or operative procedure.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "crown, porcelain jacket,", 
+    "pos2definition": [
+      {
+        "definition": "a type of crown composed of porcelain mixed with metal, commonly used for its appearance and tooth-bonding properties.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "crown, temporary,", 
+    "pos2definition": [
+      {
+        "definition": "a short-term crown placed on a tooth while the final impression of the permanent crown is being cast.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "crown, three-quarter,", 
+    "pos2definition": [
+      {
+        "definition": "a term frequently used to designate a partial veneer crown.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "crown, veneer,", 
+    "pos2definition": [
+      {
+        "definition": "a restoration that reproduces the total clinical coronal surface contour of the tooth. Colloquial term is veneers.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "dental arch,", 
+    "pos2definition": [
+      {
+        "definition": "See arch, dental.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "dental care,", 
+    "pos2definition": [
+      {
+        "definition": "the treatment of the teeth and their supporting structures.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "dental implant,", 
+    "pos2definition": [
+      {
+        "definition": "See implant.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "dental material,", 
+    "pos2definition": [
+      {
+        "definition": "See material, dental.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "dental material,", 
+    "pos2definition": [
+      {
+        "definition": "See material, dental.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "dental stone,", 
+    "pos2definition": [
+      {
+        "definition": "See stone, dental.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "dental stone,", 
+    "pos2definition": [
+      {
+        "definition": "See stone, dental.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "dentinal tubule,", 
+    "pos2definition": [
+      {
+        "definition": "a microscopic tube within dentin that spreads outward from the tooth’s center. It carries dentinal fluid.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "dentish′ən", 
+    "concept": "dentition ", 
+    "pos2definition": [
+      {
+        "definition": "the natural teeth in position in the dental arches.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "dentition, artificial,", 
+    "pos2definition": [
+      {
+        "definition": "the artificial substitutes for the natural dentition. See also denture.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "den′chər", 
+    "concept": "denture ", 
+    "pos2definition": [
+      {
+        "definition": "an artificial substitute for missing natural teeth and adjacent tissue.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "denture, partial, fixed,", 
+    "pos2definition": [
+      {
+        "definition": "a toothborne partial denture that is intended to be permanently attached to the teeth or roots that furnish support to the restoration.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "diagnosis,", 
+    "pos2definition": [
+      {
+        "definition": "the translation of data gathered by clinical and radiographic examination into an organized, classified definition of the conditions present.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "diagnosis, differential,", 
+    "pos2definition": [
+      {
+        "definition": "the process of identifying a condition by differentiating all pathologic processes that may produce similar lesions.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "ikwil′əbrā′ shən", 
+    "concept": "diagnostic cast,", 
+    "pos2definition": [
+      {
+        "definition": "See cast, diagnostic. diagnostic equilibration (ikwil′əbrā′ shən), a measuring method of determining and recording on dentodes the amount and direction that interfering cusps deflect the closure direction of the mandible, as can be seen in mountings.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "diamond,", 
+    "pos2definition": [
+      {
+        "definition": "a crystalline carbon substance, the hardest natural substance known, used industrially and in dentistry for cutting and grinding.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "die, lubricant,", 
+    "pos2definition": [
+      {
+        "definition": "a material applied to a die to serve as a separating medium so that the wax pattern will not adhere to the die but may be withdrawn from it without sticking.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "die, stone,", 
+    "pos2definition": [
+      {
+        "definition": "a positive likeness in artificial (dental) stone; used in the fabrication of a dental restoration.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "dimension, vertical, occlusal,", 
+    "pos2definition": [
+      {
+        "definition": "the vertical dimension of the face when the teeth or occlusion rims are in contact in centric occlusion.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "direct retainer,", 
+    "pos2definition": [
+      {
+        "definition": "See retainer, direct.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "per′ēōdon′t əl", 
+    "concept": "disease, periodontal ", 
+    "pos2definition": [
+      {
+        "definition": "a disturbance of the periodontium. Diseases affecting the periodontium include aggressive and necrotizing types, as well as gingivitis. Etiologic factors may be local or systemic or may involve an interplay between the two. Periodontal diseases may be involved in increasing the risk and course of systemic diseases.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "əkloo′səl", 
+    "concept": "disharmony, occlusal ", 
+    "pos2definition": [
+      {
+        "definition": "a phenomenon in which contacts of opposing occlusal surfaces of teeth are not in harmony with other tooth contacts and with the anatomic and physiologic controls of the mandible. See also contact, deflective occlusal; contact, interceptive occlusal; and malocclusion.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "disinfection,", 
+    "pos2definition": [
+      {
+        "definition": "the process of destroying pathogenic organisms or rendering them inert.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "distortion,", 
+    "pos2definition": [
+      {
+        "definition": "a deviation from the normal shape or condition.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a modification of the speech sound in some way so that the acoustic result only approximates the standard sound and is not accurate.", 
+        "pos": "n 2."
+      }, 
+      {
+        "definition": "a twisting or deformation. A loss of accuracy in reproduction of cavity form.", 
+        "pos": "n 3."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "ēden′tūlizəm", 
+    "concept": "edentulism ", 
+    "pos2definition": [
+      {
+        "definition": "the condition of being edentulous, without teeth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "education,", 
+    "pos2definition": [
+      {
+        "definition": "the act or process of imparting or acquiring knowledge, skill, or judgment.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "effect, wedging,", 
+    "pos2definition": [
+      {
+        "definition": "an effect produced by food impaction that forces the teeth apart.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "ilastis′itē", 
+    "concept": "elasticity ", 
+    "pos2definition": [
+      {
+        "definition": "the quality or condition of being elastic.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "elderly,", 
+    "pos2definition": [
+      {
+        "definition": "used to describe a person who is beyond middle age and approaching old age. Also called senior citizens. See also geriatric dentistry.", 
+        "pos": "adj"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "electrosurgery,", 
+    "pos2definition": [
+      {
+        "definition": "the use of electrically generated energy from highfrequency alternating currents to cut or alter tissue within definite limits.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "emergence profile,", 
+    "pos2definition": [
+      {
+        "definition": "the axial contour of a tooth or crown as it relates to the adjacent soft tissue.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "equipment,", 
+    "pos2definition": [
+      {
+        "definition": "the nonexpendable items used by the dental staff in the office in the performance of professional duties.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "esthet′iks", 
+    "concept": "esthetics ", 
+    "pos2definition": [
+      {
+        "definition": "the branch of philosophy dealing with beauty, especially with the components thereof; (i.e., color and form). Can also be spelled aesthetics.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "evaluation,", 
+    "pos2definition": [
+      {
+        "definition": "to make a judgment or appraisal of a condition or situation. In dentistry, used to describe the clinical judgment of a patient’s dental health or an appraisal of staff performance.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "examination,", 
+    "pos2definition": [
+      {
+        "definition": "inspection; search; investigation; inquiry; scrutiny; testing.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "the inspection or investigation of part or all of the body to measure and evaluate the state of health or disease. The examination may include visual inspection, percussion, palpation, auscultation, and measurement of mobility as well as various laboratory and radiographic procedures.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "examination, intraoral,", 
+    "pos2definition": [
+      {
+        "definition": "an examination of all the structures contained within the oral cavity.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "examination, radiographic,", 
+    "pos2definition": [
+      {
+        "definition": "the production of the number of radiographic images necessary for the radiologic interpretation of the part or parts in question.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "the study and interpretation of radiographic images of the oral cavity and associated structures.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "expansion, hygroscopic,", 
+    "pos2definition": [
+      {
+        "definition": "an expansion, caused by absorption of water during setting of an investment, used to compensate for the shrinkage of metal from the molten to the solid state.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "extracoronal retainer,", 
+    "pos2definition": [
+      {
+        "definition": "See retainer, extracoronal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "extraction,", 
+    "pos2definition": [
+      {
+        "definition": "the removal of a tooth from the oral cavity by means of elevators and/or forceps.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "fab′rikā′sh ən", 
+    "concept": "fabrication ", 
+    "pos2definition": [
+      {
+        "definition": "the construction or making of a restoration.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "fas′et", 
+    "concept": "facet ", 
+    "pos2definition": [
+      {
+        "definition": "a flattened, highly polished wear pattern, as noted on a tooth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "ferric sulfate,", 
+    "pos2definition": [
+      {
+        "definition": "an iron salt that coagulates blood. It is advocated by some dentists as a pulp capping agent for pulpotomies in primary teeth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "fibrous encapsulation,", 
+    "pos2definition": [
+      {
+        "definition": "the process in which an implant (or other implanted material) becomes surrounded by fibrous connective tissue during tissue healing process as opposed to osseointegration where the implant is surrounded and in intimate contact with the bone.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "fixed partial denture,", 
+    "pos2definition": [
+      {
+        "definition": "See denture, partial, fixed.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "flash,", 
+    "pos2definition": [
+      {
+        "definition": "the excess material that is squeezed out of the mold (e.g., during packing of a denture by compression technique).", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "flask,", 
+    "pos2definition": [
+      {
+        "definition": "a metal case or tube used in investing procedures.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "fləres′əns", 
+    "concept": "fluorescence ", 
+    "pos2definition": [
+      {
+        "definition": "the emission of radiation of a particular wavelength by certain substances as the result of absorption of radiation of a shorter wavelength.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "food debris,", 
+    "pos2definition": [
+      {
+        "definition": "the particles of food remaining in the oral cavity after eating, which collect in tooth crevices and between the teeth and may contribute to the formation of dental caries. See also materia alba.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "food impaction,", 
+    "pos2definition": [
+      {
+        "definition": "See impaction, food.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "form, functional,", 
+    "pos2definition": [
+      {
+        "definition": "the shape that permits optimal performance.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "form, outline,", 
+    "pos2definition": [
+      {
+        "definition": "the shape of the area of the tooth surface included within the cavosurface margins of a prepared cavity.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "form, resistance,", 
+    "pos2definition": [
+      {
+        "definition": "the shape given to a prepared cavity to enable the restoration and remaining tooth structure to withstand masticatory stress.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "form, retention,", 
+    "pos2definition": [
+      {
+        "definition": "the provision made in a cavity preparation to prevent displacement of the restoration.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "former, crucible,", 
+    "pos2definition": [
+      {
+        "definition": "See sprue former.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "former, sprue,", 
+    "pos2definition": [
+      {
+        "definition": "See sprue former.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "fracture,", 
+    "pos2definition": [
+      {
+        "definition": "a break or rupture of a part. In the oral region, fracture is most often seen in teeth and bones.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "fracture, root,", 
+    "pos2definition": [
+      {
+        "definition": "a microscopic or macroscopic cleavage of the root in any direction.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "fracture, tooth,", 
+    "pos2definition": [
+      {
+        "definition": "a traumatic injury to a tooth that manifests itself as a chip, crack, or break. Manifestations may also include dislocation or complete displacement of a tooth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "framework,", 
+    "pos2definition": [
+      {
+        "definition": "the skeletal metal portion of a removable partial denture around which and to which the remaining units are attached.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "frem′itus", 
+    "concept": "fremitus ", 
+    "pos2definition": [
+      {
+        "definition": "the palpable vibrations of nonvascular origin that can be noted by placing the hand on the chest. See also thrill.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "frequency,", 
+    "pos2definition": [
+      {
+        "definition": "the number of cycles per second of a wave or other periodic phenomenon. Frequency indicates the energy of a particular radiation.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "function,", 
+    "pos2definition": [
+      {
+        "definition": "the normal or special action of a part. As a noun, function has the following synonyms: role, capacity, task, use, purpose, service, activity, and direction. As a verb, it has the following synonyms: act, operate, work, perform, go, take effect, and serve. Use of the term to express intended purpose may be misleading.", 
+        "pos": "n/v"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "function, group,", 
+    "pos2definition": [
+      {
+        "definition": "the simultaneous contact of opposing teeth in a segment or group.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "function, occlusal,", 
+    "pos2definition": [
+      {
+        "definition": "See function, heavy.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "gagging,", 
+    "pos2definition": [
+      {
+        "definition": "an involuntary retching reflex that may be stimulated by something touching the posterior palate or throat region.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "gauge, undercut,", 
+    "pos2definition": [
+      {
+        "definition": "an attachment used in conjunction with a dental cast surveyor to measure the amount of infrabulge of a tooth in a horizontal plane.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "genial tubercle,", 
+    "pos2definition": [
+      {
+        "definition": "See tubercle, genial.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "gingiva", 
+    "pos2definition": [
+      {
+        "definition": "the fibrous tissue that immediately surrounds the teeth. Colloquial term is gums.", 
+        "pos": "n/n.pl"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "gingival architecture,", 
+    "pos2definition": [
+      {
+        "definition": "the gingival form.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "gingival fibroblast,", 
+    "pos2definition": [
+      {
+        "definition": "a formative cell that moderates wound healing and healing after treatment. See also fibroblast.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "gingival graft,", 
+    "pos2definition": [
+      {
+        "definition": "See graft, gingival.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "jin′jivī′tis", 
+    "concept": "gingivitis ", 
+    "pos2definition": [
+      {
+        "definition": "an inflammation of the gingival tissue; a major classification of periodontal disease.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "īon′əmər", 
+    "concept": "glass ionomer cement ", 
+    "pos2definition": [
+      {
+        "definition": "a dental cement of low strength and toughness produced by mixing a powder prepared from a calcium aluminosilicate glass and a liquid prepared from an aqueous solution of prepared polyacrylic acid; used mainly for small restorations on the proximal surfaces of anterior teeth and for restoration of eroded areas at the gingival margin.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "graft,", 
+    "pos2definition": [
+      {
+        "definition": "a slip or portion of tissue used for implantation. See also donor site; recipient site.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "graft, bone,", 
+    "pos2definition": [
+      {
+        "definition": "the transplantation of healthy bone tissue to a defective bone cavity so that the new bone tissue meets the surrounding, unaffected surface and promotes healing and new growth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "graft, gingival,", 
+    "pos2definition": [
+      {
+        "definition": "a graft in which a thin piece of tissue is taken from the palate of the oral cavity, or moved over from adjacent areas, to provide a stable band of soft tissue around a tooth or implant.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "ped′ikəl", 
+    "concept": "graft, pedicle ", 
+    "pos2definition": [
+      {
+        "definition": "a stem or tube of tissue that remains attached near the donor site to nourish the graft during advancement of a skin graft.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "group function,", 
+    "pos2definition": [
+      {
+        "definition": "See function, group.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "guard, night,", 
+    "pos2definition": [
+      {
+        "definition": "See guard, bite.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "gut′ə-pur′chə", 
+    "concept": "gutta-percha ", 
+    "pos2definition": [
+      {
+        "definition": "the coagulated juice of various tropical trees that has certain rubberlike properties. Used for temporary sealing of dressings in cavities; also used in the form of cones for filling root canals and in the form of sticks for sealing cavities over treatment.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "jip′sum", 
+    "concept": "gypsum ", 
+    "pos2definition": [
+      {
+        "definition": "the dihydrate of calcium sulfate (CaSO4-2H2O). α-hemihydrate and β-hemihydrate are derived from gypsum. See also plaster of paris.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "harmony, occlusal,", 
+    "pos2definition": [
+      {
+        "definition": "the nondisruptive relationship of an occlusion to all its factors (e.g., the neuromuscular mechanism, temporomandibular joints, teeth and their supporting structures).", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "heat,", 
+    "pos2definition": [
+      {
+        "definition": "the state of a body or matter that is perceived as being opposite of cold and is characterized by elevation of temperature.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "herringbone pattern,", 
+    "pos2definition": [
+      {
+        "definition": "an image seen on a processed dental film that has been placed backwards in the mouth and exposed to radiation.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "horizontal overlap,", 
+    "pos2definition": [
+      {
+        "definition": "See overlap, horizontal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "horizontal plane,", 
+    "pos2definition": [
+      {
+        "definition": "See plane, horizontal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "hydrocolloid", 
+    "pos2definition": [
+      {
+        "definition": "the materials listed as colloid solids with water; used in dentistry as elastic impression materials. They can be reversible or irreversible.", 
+        "pos": "n/n.pl 1."
+      }, 
+      {
+        "definition": "an agar-base impression material.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "hydrocolloid", 
+    "pos2definition": [
+      {
+        "definition": "the materials listed as colloid solids with water; used in dentistry as elastic impression materials. They can be reversible or irreversible.", 
+        "pos": "n/n.pl 1."
+      }, 
+      {
+        "definition": "an agar-base impression material.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "hī′jēn", 
+    "concept": "hygiene ", 
+    "pos2definition": [
+      {
+        "definition": "the science of health and its preservation.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "hīpur′trōfē", 
+    "concept": "hypertrophy ", 
+    "pos2definition": [
+      {
+        "definition": "an enlargement or overgrowth of an organ or part resulting from an increase in size of its constituent cells.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "immune system,", 
+    "pos2definition": [
+      {
+        "definition": "a biochemical complex that protects the body against pathogenic organisms and other foreign bodies. It incorporates the humoral immune response, which produces antibodies to react with specific antigens, and the cell-mediated response, which uses T cells to mobilize tissue macrophages in the presence of a foreign body. It also protects the body from invasion by creating local barriers and inflammation. The principal organs include the bone marrow, thymus, and lymphoid tissue.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "impaction, food,", 
+    "pos2definition": [
+      {
+        "definition": "the impaction of food generally interproximally because of open contact areas, uneven marginal ridge height, or “plunger” cusps.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "implant,", 
+    "pos2definition": [
+      {
+        "definition": "a device, usually alloplastic, that is surgically inserted into or onto the oral tissue. To be used as a prosthodontic abutment, it should remain quiescent and purely secondary to local tissue physiology.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "implant, endosteal,", 
+    "pos2definition": [
+      {
+        "definition": "an implant that is placed into the alveolar and/or basal bone and that protrudes through the mucoperiosteum.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "transos ′tēəl", 
+    "concept": "implant, transosteal ", 
+    "pos2definition": [
+      {
+        "definition": "an implant that passes completely through the buccal and lingual aspects of a toothless ridge; also, an implant whose threaded posts pass completely through the mandible in the parasymphyseal region from the inferior border to the alveolar crest, allowing the attachment of a dental prosthesis. Also known as a transosseous implant. See also staple implant.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "impression, material,", 
+    "pos2definition": [
+      {
+        "definition": "See material, impression.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "impression tray,", 
+    "pos2definition": [
+      {
+        "definition": "See tray, impression.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "incisal rest,", 
+    "pos2definition": [
+      {
+        "definition": "See rest, incisal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "incisor", 
+    "pos2definition": [
+      {
+        "definition": "a cutting tooth, one of the four anterior teeth of either jaw that are the first and second from the midline and consist of both centrals and laterals, respectively.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "indirect retention,", 
+    "pos2definition": [
+      {
+        "definition": "See retention, indirect.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "infection control,", 
+    "pos2definition": [
+      {
+        "definition": "procedures and protocols designed to prevent or limit cross-contamination in the health care delivery environment.", 
+        "pos": "n.pl"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "inlay,", 
+    "pos2definition": [
+      {
+        "definition": "a restoration of metal, fired porcelain, or plastic made to fit a tapered cavity preparation and fastened to or luted into it with a cementing medium.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "to perform such a procedure.", 
+        "pos": "v 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "instruction,", 
+    "pos2definition": [
+      {
+        "definition": "a set of characters, together with one or more addresses, that defines a computer operation and, as a unit, causes the computer to operate accordingly on the indicated quantities; a term associated with software operation.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "interference, occlusal,", 
+    "pos2definition": [
+      {
+        "definition": "tooth-totooth contact that interferes with jaw movement.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "interocclusal record,", 
+    "pos2definition": [
+      {
+        "definition": "See record, interocclusal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "intracoronal attachment,", 
+    "pos2definition": [
+      {
+        "definition": "See attachment, intracoronal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "jaw relation,", 
+    "pos2definition": [
+      {
+        "definition": "See relation, jaw.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "junction, mucogingival,", 
+    "pos2definition": [
+      {
+        "definition": "the scalloped linear area denoting the separation of the gingivae and alveolar mucosa.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "keyway,", 
+    "pos2definition": [
+      {
+        "definition": "the slot into which the male portion of precision attachments fits.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "lamina dura,", 
+    "pos2definition": [
+      {
+        "definition": "a radiographic term denoting the plate of compact bone (alveolar bone) that lies adjacent to the periodontal ligament.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "lateral movement,", 
+    "pos2definition": [
+      {
+        "definition": "See movement, lateral.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "lat′ərōtroo′zhən", 
+    "concept": "laterotrusion ", 
+    "pos2definition": [
+      {
+        "definition": "the outward thrust given by the muscles to the rotating condyle or the condyle on the bolus side.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "lē′zhən", 
+    "concept": "lesion ", 
+    "pos2definition": [
+      {
+        "definition": "a pathologic disturbance of a tissue, with loss of continuity, enlargement, and/or function.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "lesion, carious,", 
+    "pos2definition": [
+      {
+        "definition": "also known as dental caries or tooth cavities; typically caused by acid-producing bacteria, which lowers the pH of the oral cavity, causing demineralization. See also caries.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "lig′əment", 
+    "concept": "ligament ", 
+    "pos2definition": [
+      {
+        "definition": "a tough, fibrous connective tissue band that connects bones or supports viscera. Some ligaments are distinct fibrous structures; others are folds of fascia or of indurated peritoneum; still others are the relics of unused fetal organs.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "ligament, stylomandibular,", 
+    "pos2definition": [
+      {
+        "definition": "a ligament extending from the styloid process of the temporal bone and attached to the mandibular gonial angle.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "light,", 
+    "pos2definition": [
+      {
+        "definition": "the electromagnetic radiation of the wavelength and frequency that stimulate visual receptor cells in the retina to produce nerve impulses that are perceived as vision. Visible light ranges from 400 to 800 nm.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "line, survey,", 
+    "pos2definition": [
+      {
+        "definition": "a line produced on the various portions of a dental cast by a surveyor, scriber, or marker. It designates the greatest height of contour in relation to the orientation of the cast to the vertical scriber.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "linguoplate,", 
+    "pos2definition": [
+      {
+        "definition": "See connector, major, linguoplate.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "lip,", 
+    "pos2definition": [
+      {
+        "definition": "either the upper or lower structure surrounding the opening of the oral cavity.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a rimlike structure bordering a cavity or groove.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "load, occlusal,", 
+    "pos2definition": [
+      {
+        "definition": "the stresses generated by functional or habitual contacting of the occlusal surfaces of the upper and lower teeth. There are two components of such stress loads: the vertically directed components and those components that tend to move a tooth or denture laterally. See also force, occlusal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "lymphocyte", 
+    "pos2definition": [
+      {
+        "definition": "a form of white blood cell originating in lymphoid tissues; possesses a single spherical nucleus and a nongranular cytoplasm. It constitutes 25% of the white blood cells. Some, along with plasma cells and histiocytes, are found in clinically normal gingivae. Their numbers within the gingival connective tissue are increased in periodontal disease. With progress of gingival inflammation to the underlying bone, they are also found within the marrow spaces of the supporting bone.", 
+        "pos": "n/n.pl"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "mak′rəfāj", 
+    "concept": "macrophage ", 
+    "pos2definition": [
+      {
+        "definition": "any phagocytic cell of the reticuloendothelial system including specialized Kupffer’s cells in the liver and spleen, and histiocytes in loose connective tissue. See also histiocyte and monocyte.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "major connector,", 
+    "pos2definition": [
+      {
+        "definition": "See connector, major.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "mandible,", 
+    "pos2definition": [
+      {
+        "definition": "the lower jawbone.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "mandib′yələr", 
+    "concept": "mandibular ", 
+    "pos2definition": [
+      {
+        "definition": "pertaining to the lower jaw.", 
+        "pos": "adj"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "mandibular movement,", 
+    "pos2definition": [
+      {
+        "definition": "See movement, mandibular.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "margin,", 
+    "pos2definition": [
+      {
+        "definition": "the extreme edge of something.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "the boundary of a surface.", 
+        "pos": "n 2."
+      }, 
+      {
+        "definition": "in a cavity preparation for a restoration, the margin is the outside limit of the surgical preparation. See also cavosurface angle.", 
+        "pos": "n 3."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "mas′tikā′shən", 
+    "concept": "mastication ", 
+    "pos2definition": [
+      {
+        "definition": "the process of chewing food in preparation for swallowing and digestion.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "the act of chewing accomplished by the coordinated activity of the tongue, mandible, mandibular musculature, and structural components of the temporomandibular joints, and controlled by the neuromuscular mechanism. See also chewing.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "mak′siler′ē", 
+    "concept": "maxillary ", 
+    "pos2definition": [
+      {
+        "definition": "pertaining to the upper jaw.", 
+        "pos": "adj"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "maxillary arch,", 
+    "pos2definition": [
+      {
+        "definition": "the upper dental arch and its supporting bone.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "maxillary sinus,", 
+    "pos2definition": [
+      {
+        "definition": "See sinus, maxillary.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "maxillary teeth,", 
+    "pos2definition": [
+      {
+        "definition": "teeth attached to and supported by the alveolar process of the maxilla.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "maxillofacial prosthetics,", 
+    "pos2definition": [
+      {
+        "definition": "See prosthetics, maxillofacial.", 
+        "pos": "n.pl"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "maks il′ōmandib′ūlur", 
+    "concept": "maxillomandibular relation ", 
+    "pos2definition": [
+      {
+        "definition": "See relation, maxillomandibular.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "mel′ənō′mə", 
+    "concept": "melanoma ", 
+    "pos2definition": [
+      {
+        "definition": "a malignant epithelial neoplasm characterized by pigment-producing cells. It usually is dark in color but may be amelanotic (i.e., free of pigment). It can occur in skin as well as the oral cavity, where it usually would be a late finding. It can occur at the site of a mole (mainly) or another site.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "metal,", 
+    "pos2definition": [
+      {
+        "definition": "an element possessing luster, malleability, ductility, and conductivity of electricity and heat.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "microscope,", 
+    "pos2definition": [
+      {
+        "definition": "an instrument containing a powerful lens system for magnifying and viewing near objects.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "minor connector,", 
+    "pos2definition": [
+      {
+        "definition": "See connector, minor.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "modeling compound,", 
+    "pos2definition": [
+      {
+        "definition": "See compound.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "molar,", 
+    "pos2definition": []
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "molding,", 
+    "pos2definition": [
+      {
+        "definition": "shaping.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "molding, tissue,", 
+    "pos2definition": [
+      {
+        "definition": "See border molding.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "molybdenum ", 
+    "pos2definition": [
+      {
+        "definition": "a grayish metallic element with an atomic number of 42 and an atomic weight of 95.94. Molybdenum is poisonous if ingested in large quantities.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "mouth, floor of,", 
+    "pos2definition": [
+      {
+        "definition": "area within the oral cavity located beneath the ventral surface of the tongue.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "mouth preparation,", 
+    "pos2definition": [
+      {
+        "definition": "See preparation, mouth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "movement, border,", 
+    "pos2definition": [
+      {
+        "definition": "an extreme muscular movement limited by bone, ligaments, or other soft tissues.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "movement, lateral,", 
+    "pos2definition": [
+      {
+        "definition": "a movement of a body to one side of its established position.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "movement, mandibular,", 
+    "pos2definition": [
+      {
+        "definition": "any movement of the lower jaw.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "movement, tooth,", 
+    "pos2definition": [
+      {
+        "definition": "temporary or permanent deviation of a tooth from its normally fixed position in the dental arch. Also called mobility of teeth. When teeth exhibit mobility patterns, movement may be buccolingual, mesiodistal, occlusor-apical, or rotational. Movement of teeth into different positions in the dental arch may be produced by repositioning them mesially, distally, buccally, lingually, or occlusally.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "mūkō′sə", 
+    "concept": "mucosa ", 
+    "pos2definition": [
+      {
+        "definition": "a membrane, composed of epithelium and lamina propria also called the mucous membrane..", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "dīgas′trik", 
+    "concept": "muscle, digastric ", 
+    "pos2definition": [
+      {
+        "definition": "suprahyoid muscle that helps activate the jaw for mastication and swallowing. It has both an anterior and a posterior belly. See also deglutition; mastication; muscle, hyoid.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "jē′nēōhī′oid", 
+    "concept": "muscle, geniohyoid ", 
+    "pos2definition": [
+      {
+        "definition": "suprahyoid muscle attached to the superior surface of the hyoid bone. This muscle, which is used for mastication and swallowing, originates on the genial tubercles of the mandible and extends along the floor of the oral cavity. See also deglutition; mastication; muscle, hyoid.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "jē′nēōhī′oid", 
+    "concept": "muscle, geniohyoid ", 
+    "pos2definition": [
+      {
+        "definition": "suprahyoid muscle attached to the superior surface of the hyoid bone. This muscle, which is used for mastication and swallowing, originates on the genial tubercles of the mandible and extends along the floor of the oral cavity. See also deglutition; mastication; muscle, hyoid.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "muscle, trapezius,", 
+    "pos2definition": [
+      {
+        "definition": "the cervical muscle which covers the lateral and posterior surfaces of the neck.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "mus′kūləchur", 
+    "concept": "musculature ", 
+    "pos2definition": [
+      {
+        "definition": "a part of the muscular apparatus of the body; the source of power for the movement of the body or its parts.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "myofascial pain,", 
+    "pos2definition": [
+      {
+        "definition": "pain associated with inflammation or irritation of muscle or of the fascia surrounding the muscle.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "nā′nōteknol′əjē", 
+    "concept": "nanotechnology ", 
+    "pos2definition": [
+      {
+        "definition": "the study of manipulating matter on an atomic and molecular scale. Generally, nanotechnology deals with developing materials, devices, or other structures possessing at least one dimension sized from 1 to 100 nanometers. This term attributed to Norio Taniguchi in 1974.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "nasal cavity,", 
+    "pos2definition": [
+      {
+        "definition": "See cavity, nasal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "neglect,", 
+    "pos2definition": [
+      {
+        "definition": "the failure to do something that one is bound to do; lack of due care. See also child neglect.", 
+        "pos": "n/v"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "nickel,", 
+    "pos2definition": [
+      {
+        "definition": "a silvery-white metallic element. Its atomic number is 28 and its atomic weight is 58.69. Large numbers of people are allergic to nickel. Nickel causes more cases of allergic contact dermatitis than all other metals combined. Many cases of allergic contact dermatitis occur from exposure to the nickel content of jewelry, coins, buckles, and snaps, and from continued use of “carbonless” business forms.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "nickel-chromium alloy,", 
+    "pos2definition": [
+      {
+        "definition": "See alloy, nickel-chromium.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "night guard,", 
+    "pos2definition": [
+      {
+        "definition": "See guard, night.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusal adjustment,", 
+    "pos2definition": [
+      {
+        "definition": "See adjustment, occlusal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusal analysis,", 
+    "pos2definition": [
+      {
+        "definition": "See analysis, occlusal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusal disharmony,", 
+    "pos2definition": [
+      {
+        "definition": "See disharmony, occlusal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusal force,", 
+    "pos2definition": [
+      {
+        "definition": "See force, occlusal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusal function,", 
+    "pos2definition": [
+      {
+        "definition": "See function, heavy. occlusal glide, See glide, occlusion.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusal harmony,", 
+    "pos2definition": [
+      {
+        "definition": "See harmony, occlusal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusal load,", 
+    "pos2definition": [
+      {
+        "definition": "See load, occlusal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusal plane,", 
+    "pos2definition": [
+      {
+        "definition": "See plane, occlusal. occlusal position, See position, occlusal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusal rest,", 
+    "pos2definition": [
+      {
+        "definition": "See position, rest.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusal splint,", 
+    "pos2definition": [
+      {
+        "definition": "a bite plane designed and fabricated for patients with some types of functional temporomandibular joint disorders. Provides a stable occlusal platform from which to reconstruct a functional occlusion. See also splint.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusal surface,", 
+    "pos2definition": [
+      {
+        "definition": "See surface, occlusal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusal template,", 
+    "pos2definition": [
+      {
+        "definition": "See template, occlusal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusal vertical dimension ", 
+    "pos2definition": [
+      {
+        "definition": "the distance between a point on a maxillary tooth and a point on the opposing mandibular tooth during occlusion. Several methods are used to determine this measurement, including specific facial measurements that have been proved to be equal to the OVD.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "əklōō′zhən", 
+    "concept": "occlusion ", 
+    "pos2definition": [
+      {
+        "definition": "the act of closure or state of being closed.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a contact between the incising or masticating surfaces of the maxillary and mandibular teeth.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusion, bilateral balanced,", 
+    "pos2definition": [
+      {
+        "definition": "the closure suitable for worn dentitions that are cuspless or have flat-sided cusps. It permits an increase of the amount of surface contact in centric closure and provides as much closure contact as possible for horizontal chewing. This kind of occlusion is a therapeutic form designed to keep dentures seated when fine-textured foods are chewed horizontally. It is not found in young, unworn natural dentitions.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusion, centric,", 
+    "pos2definition": [
+      {
+        "definition": "the relation of opposing occlusal surfaces that provides the maximum planned contact and/or intercuspation. It should exist when the mandible is in centric relation to the maxilla. Also called central occlusion.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "occlusion, rim,", 
+    "pos2definition": [
+      {
+        "definition": "See rim, occlusion.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "odontogenic tumor,", 
+    "pos2definition": [
+      {
+        "definition": "See tumor, odontogenic.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "onlay,", 
+    "pos2definition": [
+      {
+        "definition": "a cast type of restoration that is retained by frictional and mechanical factors in the preparation of the tooth and restores one or more cusps and adjoining occlusal surfaces of the tooth.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "an occlusal rest portion of a removable partial denture that is extended to cover the entire occlusal surface of the tooth.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "open contact,", 
+    "pos2definition": [
+      {
+        "definition": "an increased area between adjacent teeth without interproximal contacts. It can be due to the abnormal position or absence of the teeth, oral disease, oral habits, or the overdevelopment of the frena. See also frenum and diastema.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "oral cavity,", 
+    "pos2definition": [
+      {
+        "definition": "the mouth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "oral hygiene,", 
+    "pos2definition": [
+      {
+        "definition": "See hygiene, oral.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "oral surgery,", 
+    "pos2definition": [
+      {
+        "definition": "See surgery, oral.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "orthognathic surgery,", 
+    "pos2definition": [
+      {
+        "definition": "surgery to alter relationships of dental arches and/or supporting bones, usually accomplished with orthodontic therapy.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "os′eoin′təgra′sh ən", 
+    "concept": "osseointegration ", 
+    "pos2definition": [
+      {
+        "definition": "a term originally defined by Professor P.I. Brånemark and commonly used to describe the direct contact, on the light microscopic level, between living bone tissue and an implant, without an intervening fibrous connective tissue layer between the bone and the implant surface.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "os′tēō blast", 
+    "concept": "osteoblast ", 
+    "pos2definition": [
+      {
+        "definition": "the cell associated with the growth and development of bone; cuboidal in shape. In active growth, they form a continuous layer on mature bone like a sheet of epithelial cells; when the bone growth is arrested, the cells assume an elongated appearance like fibroblasts.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "os′tēōklast", 
+    "concept": "osteoclast ", 
+    "pos2definition": [
+      {
+        "definition": "a large, multinucleated giant cell associated with the resorption of bone. The nuclei resemble the nuclei of the osteoblasts and osteocytes. The cytoplasm is often foamy, and the cell frequently has branching processes. They may arise from stromal cells of the bone marrow. They may represent fused osteoblasts or may include fused osteocytes liberated from resorbing bone. They are usually found in close relationship to the resorption of bone and frequently lie in areas of resorption (Howship’s lacunae).", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "os′tēō plastē", 
+    "concept": "osteoplasty ", 
+    "pos2definition": [
+      {
+        "definition": "a surgical procedure to modify or change the configuration of a bone.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "os′tēōpôrō′sis", 
+    "concept": "osteoporosis ", 
+    "pos2definition": [
+      {
+        "definition": "an enlargement of the soft marrow and haversian spaces resulting from a decreased rate of formation of the hard bone matrix. With the exception of immobilized parts, it is a systemic disorder that occurs in advanced age (senile osteoporosis), during ACTH and cortisone therapy, during and after menopause, in limited physical activity, in Cushing syndrome, during malnutrition, and in other disorders of matrix formation such as hyperadrenalism, hyperthyroidism, vitamin C deficiencies, and deficiency of androgenic steroids. See also atrophy, bone and bone rarefaction.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "outline form,", 
+    "pos2definition": [
+      {
+        "definition": "See form, outline.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "overdenture,", 
+    "pos2definition": [
+      {
+        "definition": "a complete or partial removable denture supported by retained roots that is intended to provide improved support, stability, and tactile and proprioceptive sensation and to reduce ridge resorption. See also root retention and root submersion.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "overlap, horizontal,", 
+    "pos2definition": [
+      {
+        "definition": "a projection of the anterior or posterior teeth of one arch beyond their antagonists in a horizontal direction. Also called overjet, overjut.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "overlap, vertical,", 
+    "pos2definition": [
+      {
+        "definition": "an extension of the maxillary teeth over the mandibular teeth in a vertical direction when the opposing posterior teeth are in contact in centric occlusion. It may also be used to describe the vertical relations of opposing cusps of posterior teeth. Also called overbite.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "pain,", 
+    "pos2definition": [
+      {
+        "definition": "an unpleasant sensation created by a noxious stimulus mediated along specific nerve pathways to the central nervous system, where it is interpreted. The sensation of pain is a protective mechanism that warns of danger without giving too much information about the specific nature of the danger. It initiates nociceptive reflexes.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "palladium ", 
+    "pos2definition": [
+      {
+        "definition": "a hard, silvery metallic element that is highly resistant to tarnish and corrosion. Its atomic number is 46 and its atomic weight is 106.42. Palladium is used in high-grade surgical instruments and in dental inlays, bridgework, and orthodontic appliances.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "papilla", 
+    "pos2definition": [
+      {
+        "definition": "a small, nipple-shaped elevation.", 
+        "pos": "n/n.pl"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "pap′ilō′mə", 
+    "concept": "papilloma ", 
+    "pos2definition": [
+      {
+        "definition": "an exophytic, pedunculated, cauliflower-like benign neoplasm of epithelium, often having a “warty appearance.”", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "path of placement,", 
+    "pos2definition": [
+      {
+        "definition": "the direction in which a removable dental restoration is positioned in relation to the planned location on its supporting structures. The restoration is removed in the opposite direction. See also placement, choice of path of.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "patient,", 
+    "pos2definition": [
+      {
+        "definition": "a person under medical or dental care.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "trəbek′yələr", 
+    "concept": "pattern, trabecular ", 
+    "pos2definition": [
+      {
+        "definition": "the trabecular arrangement of alveolar bone in relation to marrow spaces; may be radiographically interpreted.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "pattern, wax,", 
+    "pos2definition": [
+      {
+        "definition": "a wax model for making the mold in which the metal will be formed in casting.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a wax form of a denture that, when it is invested in a flask and the wax is eliminated, will form the mold in which the resin denture is formed.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "periodontal disease,", 
+    "pos2definition": [
+      {
+        "definition": "a group of inflammatory and infectious diseases affecting the periodontium of the teeth, with various classes noted.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "periodontal probe,", 
+    "pos2definition": [
+      {
+        "definition": "See probe, periodontal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "per′ēōdon′t əl", 
+    "concept": "periodontal surgery ", 
+    "pos2definition": [
+      {
+        "definition": "an operative procedure used to treat disease or repair abnormalities in the periodontium and associated teeth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "per′ēōdontī′tis", 
+    "concept": "periodontitis ", 
+    "pos2definition": [
+      {
+        "definition": "the alterations occurring in the periodontium with inflammation. Gingival changes are those of gingivitis, with the clinical signs associated with gingivitis. It has histologic characteristics, such as ulceration of the sulcular and junctional epithelium, epithelial hyperplasia, proliferation of epithelial rete pegs into the gingival tissues, apical migration of the epithelial attachment after lysis of the gingival fibers, increased cellular and exudative infiltrate, and vascularity of the lamina propria. Resorption of bone in an apical direction results in the loss of attachment of the periodontal fibers to the bone. A transseptal band of reconstituted periodontal fibers (interdental) walls off the gingival inflammation from the underlying bone.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a chronic, progressive disease of the periodontium. Considered under the classification of periodontal disease.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "per′ēōdon′shēum", 
+    "concept": "periodontium ", 
+    "pos2definition": [
+      {
+        "definition": "the tissues that support the teeth, which include the gingivae, cementum of the tooth, periodontal ligament, and alveolar bone.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "placement,", 
+    "pos2definition": [
+      {
+        "definition": "the act of placing an object (i.e., removable denture in its planned location on the dental arch).", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "plane, frontal,", 
+    "pos2definition": [
+      {
+        "definition": "the frontal plane, in anatomy, is an imaginary plane that divides the body into anterior (ventral) and posterior (dorsal) halves along the longitudinal (left-right) axis.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "plane, guiding,", 
+    "pos2definition": [
+      {
+        "definition": "See plane, guide.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "plane, horizontal,", 
+    "pos2definition": [
+      {
+        "definition": "the plane created by an imaginary line that divides the body at any level into superior and inferior portions.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "plane, occlusal,", 
+    "pos2definition": [
+      {
+        "definition": "an imaginary surface that is related anatomically to the cranium and that theoretically touches the incisal edges of the incisors and tips of the occluding surfaces of the posterior teeth. It is not a plane in the true sense of the word but represents the mean of the curvature of the surface.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a line drawn between points representing one half of the incisal overbite (vertical overlap) in front and one half of the cusp height of the last molars in back. See also curve of occlusion.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "plane, sagittal,", 
+    "pos2definition": [
+      {
+        "definition": "a plane of the body created by an imaginary plane parallel to the median plane.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "plaster, impression,", 
+    "pos2definition": [
+      {
+        "definition": "plaster used for making impressions. Sets rapidly and is characterized by low-setting expansion and strength.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "plaster, model,", 
+    "pos2definition": [
+      {
+        "definition": "plaster used for diagnostic casts and as an investing material.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "polishing,", 
+    "pos2definition": [
+      {
+        "definition": "the process of making a surface smooth and glossy or giving luster to a surface, usually by friction.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "pol′ip", 
+    "concept": "polyp ", 
+    "pos2definition": [
+      {
+        "definition": "a smooth, pedunculated growth from a mucous surface such as from the nose, bladder, or rectum.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "pol′ip", 
+    "concept": "polyp ", 
+    "pos2definition": [
+      {
+        "definition": "a smooth, pedunculated growth from a mucous surface such as from the nose, bladder, or rectum.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "pon′tik", 
+    "concept": "pontic ", 
+    "pos2definition": [
+      {
+        "definition": "the suspended member of a fixed partial denture; an artificial tooth on a fixed partial denture or an isolated tooth on a removable partial denture. It replaces a lost natural tooth, restores its function, and usually occupies the space previously occupied by the natural crown. See also abutment.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "pōros′itē", 
+    "concept": "porosity ", 
+    "pos2definition": [
+      {
+        "definition": "the presence of pores or voids within a structure.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "postoperative care,", 
+    "pos2definition": [
+      {
+        "definition": "care after surgery or other invasive procedures, usually of a supportive nature.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "premolar,", 
+    "pos2definition": [
+      {
+        "definition": "one of the eight teeth, four in each jaw, between the canines and first molars; usually has two cusps; replaces the molars of the primary dentition. Older term: bicuspid.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "preparation, surgical,", 
+    "pos2definition": [
+      {
+        "definition": "a surgical procedure that is required for preparing the oral cavity for prosthodontic treatment.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "pressure,", 
+    "pos2definition": [
+      {
+        "definition": "a stress or strain that may occur by compression, pull, or thrust; an applied force.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "probe, periodontal,", 
+    "pos2definition": [
+      {
+        "definition": "a finecalibrated instrument designed and used for measuring the depth and topography of gingival and periodontal pockets. Also used to determine the degree of attachment and adaptation of the gingival tissues to the tooth. Automated devices are now available for dental offices and clinics.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "process, alveolar,", 
+    "pos2definition": [
+      {
+        "definition": "the portion of the maxillae or mandible that forms the dental arch and serves as a bony investment for the teeth. Its cortical covering is continuous with the compact bone of the body of the maxillae or mandible, whereas its trabecular portion is continuous with the spongy bone of the body of the jaws. See also ridge, alveolar.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "prognō′sis", 
+    "concept": "prognosis ", 
+    "pos2definition": [
+      {
+        "definition": "the foretelling of the probable course of a disease; a forecast of the outcome of a disease.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a forecast of the probable result of a regimen of treatment.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "prosthē′sis", 
+    "concept": "prosthesis ", 
+    "pos2definition": [
+      {
+        "definition": "the replacement of an absent part of the body by an artificial part.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "prosthesis, hybrid,", 
+    "pos2definition": [
+      {
+        "definition": "an implant supported complete denture with a metal framework colloq. high water prosthesis.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "prosthetics, maxillofacial,", 
+    "pos2definition": [
+      {
+        "definition": "the branch of prosthodontics concerned with the restoration of stomatognathic and associated facial structures that have been affected by disease, injury, surgery, or congenital defect.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "pros′thōdon′tiks", 
+    "concept": "prosthodontics ", 
+    "pos2definition": [
+      {
+        "definition": "the specialty of dentistry pertaining to the diagnosis, treatment planning, rehabilitation and maintenance of the oral function, comfort, appearance, and health of patients with missing or deficient teeth and/or oral and maxillofacial tissues using biocompatible substitutes. This is one of nine recognized specialties in dentistry.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "quality,", 
+    "pos2definition": [
+      {
+        "definition": "in reference to the voice, the acoustic characteristics of vowels resulting from their overtone structure or the relative intensities of their frequency component.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "radiograph", 
+    "pos2definition": [
+      {
+        "definition": "a two-dimensional representation of a three-dimensional object, produced by radiation of structures. Older term is x-ray.", 
+        "pos": "n/n.pl"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "rā′məs", 
+    "concept": "ramus, ascending ", 
+    "pos2definition": [
+      {
+        "definition": "the posterior, vertical portion of the mandible, which extends from the corpus to the condyle, and makes a joint at the temple. There are right and left ascending rami.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "rēsip′rəkəl", 
+    "concept": "reciprocal arm ", 
+    "pos2definition": [
+      {
+        "definition": "See arm, reciprocal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "rēsip′rōkā′shən", 
+    "concept": "reciprocation ", 
+    "pos2definition": [
+      {
+        "definition": "the means by which one part of a removable partial denture framework is made to counter the effect created by another part of the framework.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "record base,", 
+    "pos2definition": [
+      {
+        "definition": "See baseplate.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "record, interocclusal,", 
+    "pos2definition": [
+      {
+        "definition": "a record of the positional relation of the teeth or jaws to each other; made on occlusal surfaces of occlusal rims or teeth in a plastic material that hardens, such as plaster, wax, zinc oxide-eugenol paste, or acrylic resin.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "rehabilitation, oral,", 
+    "pos2definition": [
+      {
+        "definition": "restoration of the form and function of the masticatory apparatus condition to as near normal as possible.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "relation, centric,", 
+    "pos2definition": [
+      {
+        "definition": "the relation of the mandible to the maxillae when the condyles are in their most posterosuperior unstrained positions in the glenoid fossae, from which lateral movements can be made at the occluding vertical relation normal for the individual. Centric relation is a relation that can exist at any degree of jaw separation. Also called centric jaw relation.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "relation, jaw,", 
+    "pos2definition": [
+      {
+        "definition": "a relationship of the mandible to the maxillae.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "maksi l′omandib′ūlur", 
+    "concept": "relation, maxillomandibular ", 
+    "pos2definition": [
+      {
+        "definition": "any one of the many relations of the mandible to the maxillae, such as the centric maxillomandibular relation or eccentric maxillomandibular relation.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "relationship, occlusal,", 
+    "pos2definition": [
+      {
+        "definition": "the individual and collective relationships of the mandibular teeth to the maxillary teeth and the relationship of the adjacent teeth in the same dental arch.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "relief,", 
+    "pos2definition": [
+      {
+        "definition": "the mitigation or removal of pain or distress.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "the reduction or elimination of pressure from a specific area under a denture base.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "relief space,", 
+    "pos2definition": [
+      {
+        "definition": "See space, relief.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "residual ridge,", 
+    "pos2definition": [
+      {
+        "definition": "See ridge, residual.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "rez′in", 
+    "concept": "resin ", 
+    "pos2definition": [
+      {
+        "definition": "broad term used to indicate organic substances that are usually translucent or transparent and are soluble in ether, acetone, and similar substances but not in water. They are named according to their chemical composition, physical structure, and means for activation or curing. Examples are acrylic resin, autopolymer resin (cold-curing resin),synthetic resin, styrene resin, and vinyl resin. See also methyl methacrylate; varnish, cavity.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "resin, acrylic,", 
+    "pos2definition": [
+      {
+        "definition": "general term applied to a resinous material of the various esters of acrylic acid. It is used as a denture base material and also for trays and other dental restorations.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "An ethylene derivative that contains a vinyl group (e.g., polymethacrylate [methyl methacrylate], the principal ingredient of many plastics used in dentistry).", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "resin, thermoplastic,", 
+    "pos2definition": [
+      {
+        "definition": "a synthetic resin that may be softened by heat and hardened by cooling.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "resistance form,", 
+    "pos2definition": [
+      {
+        "definition": "See form, resistance.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "resorption, root,", 
+    "pos2definition": [
+      {
+        "definition": "destruction of the cementum or dentin by cementoclastic or osteoclastic activity. Also known as peripheral or external root resorption.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "rest,", 
+    "pos2definition": [
+      {
+        "definition": "passive support.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "an extension from a prosthesis that affords vertical support for a restoration.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "rest, incisal,", 
+    "pos2definition": [
+      {
+        "definition": "a metallic extension onto the incisal angle of an anterior tooth to supply support or indirect retention for a removable partial denture.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "rest, lingual,", 
+    "pos2definition": [
+      {
+        "definition": "a metallic extension onto the lingual surface of an anterior tooth to provide support or indirect retention for a removable partial denture.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "rest, occlusal,", 
+    "pos2definition": [
+      {
+        "definition": "a rest (or lug) placed on the occlusal surface of a posterior tooth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "rest seat,", 
+    "pos2definition": [
+      {
+        "definition": "See area, rest.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "restoration, amalgam,", 
+    "pos2definition": [
+      {
+        "definition": "a direct restoration made from an alloy consisting of mercury and other metals (e.g., silver, copper, or tin), which is carved and contoured after placement in the tooth; allow a minimum of 24 hours between placement and polishing.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "restoration, ceramic,", 
+    "pos2definition": [
+      {
+        "definition": "an indirect restoration made from metal and nonmetal compounds, which is carved and contoured before placement in the tooth; closely resembles natural teeth in strength, hardness, chemical inertness, and esthetic appearance.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "restoration, implant,", 
+    "pos2definition": [
+      {
+        "definition": "the single tooth implant crown or multiple tooth implant, crown, or bridge that replaces a missing tooth or teeth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "retainer,", 
+    "pos2definition": [
+      {
+        "definition": "the part of a dental prosthesis that unites the abutment tooth with the suspended portion of the bridge. It may be an inlay, partial crown, or complete crown.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "an appliance for maintaining the positions of the teeth and jaws gained by orthodontic procedures.", 
+        "pos": "n 2."
+      }, 
+      {
+        "definition": "the portion of a fixed prosthesis attaching a pontic(s) to the abutment teeth (e.g., inlay, three-quarter crown).", 
+        "pos": "n 3."
+      }, 
+      {
+        "definition": "a form of clasp, attachment, or device used for the fixation or stabilization of a prosthetic appliance.", 
+        "pos": "n 4."
+      }, 
+      {
+        "definition": "an orthodontic appliance, fixed or removable, used to maintain teeth in corrected positions during the period of functional adaptation following corrective treatment.", 
+        "pos": "n 5."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "retainer, direct,", 
+    "pos2definition": [
+      {
+        "definition": "a clasp, attachment, or assembly applied to an abutment tooth for the purpose of maintaining a removable restoration in its planned position in relation to oral structures.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "retainer, extracoronal,", 
+    "pos2definition": [
+      {
+        "definition": "a type of retainer in which the preparation and its cast restoration lie largely external to the body of the coronal portion of the tooth and complement the contour of the crown. The retention or resistance to displacement is developed between the inner surfaces of the casting and the external walls of the prepared tooth. The extracoronal retainer may be a partial crown or a complete crown.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a direct retainer of the clasp type that engages an abutment tooth on its external surface in such a way as to afford retention and stabilization to a removable partial denture; a direct retainer of the manufactured type, the male portion of which is attached to the external surface of a cast crown on an abutment tooth (e.g., Dalbo and Crismani attachments).", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "retainer, indirect,", 
+    "pos2definition": [
+      {
+        "definition": "a RPD design attributed to Dr. J. Cummer which minimizes movement of a free end denture base from tissue by placing a rest opposite the fulcrum line through two direct retainers to create a Class 2 lever.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "retention form,", 
+    "pos2definition": [
+      {
+        "definition": "See form, retention.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "retention, indirect,", 
+    "pos2definition": [
+      {
+        "definition": "retention obtained in a removable partial denture by placing rests opposite the fulcrum line to create indirect retainers.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "reversible hydrocolloid,", 
+    "pos2definition": [
+      {
+        "definition": "See hydrocolloid, reversible.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "ridge, alveolar,", 
+    "pos2definition": [
+      {
+        "definition": "the bony ridge of the maxillae or mandible that contains the alveoli (sockets of the teeth). See also process, alveolar.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "ridge, residual,", 
+    "pos2definition": [
+      {
+        "definition": "the portion of the alveolar ridge that remains after the alveoli have disappeared from the alveolar process after extraction of the teeth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "rigidity,", 
+    "pos2definition": [
+      {
+        "definition": "the characteristic of being nonflexible, which is essential in a connector, a reciprocal arm, or an indirect retaining unit of a removable partial denture.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "rim, occlusion,", 
+    "pos2definition": [
+      {
+        "definition": "an occluding surface built on temporary or permanent denture bases for the purpose of making maxillomandibular relation records and arranging teeth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "rod,", 
+    "pos2definition": [
+      {
+        "definition": "a straight, slim, cylindric form of material, usually metal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "root canal,", 
+    "pos2definition": [
+      {
+        "definition": "See canal, root.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "rotation,", 
+    "pos2definition": [
+      {
+        "definition": "the act of turning about an axis or a center.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "movement of a tooth around its longitudinal axis.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "sagittal plane,", 
+    "pos2definition": [
+      {
+        "definition": "See plane, sagittal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "səlī′və", 
+    "concept": "saliva ", 
+    "pos2definition": [
+      {
+        "definition": "the clear mucoserous secretion formed mainly in the major glands of the parotid, submandibular, and sublingual, as well as minor glands. It has lubricative, cleansing, antimicrobial, excretory, and digestive functions and also is an aid to deglutition. Although its pH level is slightly more acidic than blood—6.3 to 6.9— it is more basic than dental plaque and acts as a buffering agent within the oral cavity.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "scanning,", 
+    "pos2definition": [
+      {
+        "definition": "a technique and protocol for carefully studying an area, organ, or system of the body by recording and displaying an image of the area using radioactive substances that have affinities for specific tissues.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "scheme, occlusal,", 
+    "pos2definition": [
+      {
+        "definition": "See system, occlusal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "seat, rest,", 
+    "pos2definition": [
+      {
+        "definition": "See area, rest.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "selection, shade,", 
+    "pos2definition": [
+      {
+        "definition": "the determination of the color (hue, translucency) of the artificial tooth or set of teeth for a given patient. Also called tooth color selection.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "sil′ikōn", 
+    "concept": "silicone ", 
+    "pos2definition": [
+      {
+        "definition": "a compound of organic structural character in which all or some of the positions that could be occupied by carbon atoms are occupied by silicon; a plastic containing silicons.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "sleep,", 
+    "pos2definition": [
+      {
+        "definition": "a period of rest for the body and mind, during which volition and consciousness are in partial or complete abeyance and the bodily functions partially suspended.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "sodium bicarbonate,", 
+    "pos2definition": [
+      {
+        "definition": "an antacid, electrolyte, and urinary alkalinizing agent.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "soft tissue,", 
+    "pos2definition": [
+      {
+        "definition": "body tissue except bone, teeth, nails, hair, and cartilage.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "sod′ur", 
+    "concept": "solder ", 
+    "pos2definition": [
+      {
+        "definition": "a fusible alloy of metals used to unite the edges or surfaces of two pieces of metal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "solution, pickling,", 
+    "pos2definition": [
+      {
+        "definition": "a solution of acid used for removing oxides and other impurities from the surface of dental castings, after recovery and before polishing (e.g., solutions of hydrochloric or sulfuric acid).", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "space,", 
+    "pos2definition": [
+      {
+        "definition": "a delimited, three-dimensional region.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "space relief,", 
+    "pos2definition": [
+      {
+        "definition": "fabrication of a prosthesis so that certain predetermined, non–stress-bearing areas will not be contacted by the appliance.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "splint,", 
+    "pos2definition": [
+      {
+        "definition": "a rigid appliance for the fixation of displaced or movable parts.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a support or brace used to fasten or confine.", 
+        "pos": "n 2."
+      }, 
+      {
+        "definition": "metal, acrylic resin, or modeling compound fashioned to retain in position teeth that may have been replanted or have fractured roots.", 
+        "pos": "n 3."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "sprue former,", 
+    "pos2definition": [
+      {
+        "definition": "a cone-shaped base made of metal or plastic to which the sprue is attached. Forms a crucible in the investment material. Also called crucible former.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "skwā′ mus", 
+    "concept": "squamous cell carcinoma ", 
+    "pos2definition": [
+      {
+        "definition": "See carcinoma, squamous cell.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "stability,", 
+    "pos2definition": [
+      {
+        "definition": "the quality of being physically or emotionally predictable, orderly, not readily moved.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "stem cell,", 
+    "pos2definition": [
+      {
+        "definition": "cells which can divide and differentiate into differing specialized cell types. First reported by McCulloch & Till at Toronto. Stem cells can be obtained from umbilical cord blood, bone marrow, adipose tissue, and blood. They have great potential for cell replacement therapy.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "stone,", 
+    "pos2definition": [
+      {
+        "definition": "an abrading instrument or tool.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "stone, dental,", 
+    "pos2definition": [
+      {
+        "definition": "α-hemihydrate of calcium sulfate.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a gypsum product that, when combined with water in proper proportions, hardens in a plasterlike form. It is used for making casts and dies. Common brand: Hydrocal.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "stone die,", 
+    "pos2definition": [
+      {
+        "definition": "See die, stone.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "stī′lōm andib′yələr", 
+    "concept": "stylomandibular ligament ", 
+    "pos2definition": [
+      {
+        "definition": "one of a pair of specialized bands of cervical fascia, forming an accessory part of the temporomandibular joint. It extends from the styloid process of the temporal bone to the ramus of the mandible.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "substance abuse,", 
+    "pos2definition": [
+      {
+        "definition": "See abuse, substance.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "sul′kəs", 
+    "concept": "sulcus ", 
+    "pos2definition": [
+      {
+        "definition": "a furrow, trench, or groove, as on the surface of the brain or in the folds of mucous membranes.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a groove or depression on the surface of a tooth.", 
+        "pos": "n 2."
+      }, 
+      {
+        "definition": "the space between the free gingival margin and the surface of the tooth.", 
+        "pos": "n 3."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "surface, occlusal,", 
+    "pos2definition": [
+      {
+        "definition": "the anatomic superior surface of the mandibular posterior teeth and the inferior surface of the maxillary posterior teeth. These surfaces are limited mesially and distally by marginal ridges, and buccally and lingually by the buccal and lingual boundaries of the cusp eminences.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "surgery,", 
+    "pos2definition": [
+      {
+        "definition": "procedure performed by a surgeon.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "surgical preparation,", 
+    "pos2definition": [
+      {
+        "definition": "See preparation, surgical.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "survey, radiographic,", 
+    "pos2definition": [
+      {
+        "definition": "the production of the minimal number of radiographic examinations necessary for a radiographic interpretation.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "survey line,", 
+    "pos2definition": [
+      {
+        "definition": "See line, survey.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "swallowing,", 
+    "pos2definition": [
+      {
+        "definition": "a succession of muscular contractions from above downward or from the front backward; propels food from the oral cavity toward the stomach. See also deglutition.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "system,", 
+    "pos2definition": [
+      {
+        "definition": "a set or series of organs or parts that unite in a common function.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "teeth,", 
+    "pos2definition": [
+      {
+        "definition": "See tooth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "template, occlusal,", 
+    "pos2definition": [
+      {
+        "definition": "a stone or metal (electroformed) occlusal table made from a wax occlusal path registration of jaw movements and against which the opposing supplied teeth are occluded.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "test, vitality,", 
+    "pos2definition": [
+      {
+        "definition": "the procedure using thermal, electrical, or mechanical stimuli to determine the response of the pulp in a tooth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "thermal conductivity,", 
+    "pos2definition": [
+      {
+        "definition": "See conductivity, thermal.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "tinfoil,", 
+    "pos2definition": [
+      {
+        "definition": "See foil, tin.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "tish′oo", 
+    "concept": "tissue ", 
+    "pos2definition": [
+      {
+        "definition": "an aggregation of similarly specialized cells united in the performance of a particular function.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "tissue conditioning,", 
+    "pos2definition": [
+      {
+        "definition": "a disciplined program of patient-performed plaque control measures designed for gingiva that is soft, spongy, and bleeds easily from poor oral hygiene habits, is performed to improve gingival health before subgingival scaling.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "tissue, engineering,", 
+    "pos2definition": [
+      {
+        "definition": "the interdisciplinary field that uses life science and engineering principles in the development of biologic substitutes for tissue restoration or replacement.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "tissue molding,", 
+    "pos2definition": [
+      {
+        "definition": "See border molding.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "tītā′nēəm", 
+    "concept": "titanium ", 
+    "pos2definition": [
+      {
+        "definition": "a lightweight, strong, corrosion-resistant chemical element with a white-silver color and metallic luster. Commercially pure titanium and titanium alloys are used in the fabrication of dental implants. Titanium is also used in the manufacture of alloys, such as aluminum and iron, and in powdered form in materials such as graphite composites.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "teeth, anterior,", 
+    "pos2definition": [
+      {
+        "definition": "the incisor or canine front teeth.", 
+        "pos": "n.pl"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "teeth, posterior,", 
+    "pos2definition": [
+      {
+        "definition": "the maxillary and mandibular premolars and molars of the permanent dentition or the premolars and molars of prostheses.", 
+        "pos": "n.pl"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "tooth, discoloration,", 
+    "pos2definition": [
+      {
+        "definition": "a stain or change in color of a tooth, which can be caused by blood-borne pigment or blood decomposition within the pulp, usage of certain drugs, and trauma. See also tooth, pigmentation.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "tooth fracture,", 
+    "pos2definition": [
+      {
+        "definition": "See fracture, tooth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "tooth mobility,", 
+    "pos2definition": [
+      {
+        "definition": "the movability of a tooth resulting from loss of all or a portion of its attachment and supportive apparatus. Seen in periodontitis, occlusal traumatism, and periodontosis.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "tooth movement,", 
+    "pos2definition": [
+      {
+        "definition": "See movement, tooth.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "toothbrush,", 
+    "pos2definition": [
+      {
+        "definition": "a handheld device with an arrangement of bristles at one end, and a handle designed to reach effectively all exposed surfaces of the teeth and gingiva. A dentifrice is usually applied to the bristles for the purpose of cleaning the teeth and gingiva.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "tranzlā′shən", 
+    "concept": "translation ", 
+    "pos2definition": [
+      {
+        "definition": "movement of a rigid body in which all parts move in the same direction at the same speed.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "transloo′sənsē", 
+    "concept": "translucency ", 
+    "pos2definition": [
+      {
+        "definition": "an object’s ability to allow the passage of light through it.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "trou′mə, trô′mə", 
+    "concept": "trauma ", 
+    "pos2definition": [
+      {
+        "definition": "a hurt; a wound; an injury; damage; impairment; external violence producing bodily injury or degeneration.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "tray, impression,", 
+    "pos2definition": [
+      {
+        "definition": "a receptacle or device that is used to carry impression material to the oral cavity, confine the material in apposition to the surfaces to be recorded, and control the impression material while it sets to form the impression.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "treatment,", 
+    "pos2definition": [
+      {
+        "definition": "the mode or course pursued for remedial ends.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "trīklō′san", 
+    "concept": "triclosan ", 
+    "pos2definition": [
+      {
+        "definition": "brand name: found in products such as Colgate Total; drug class: broad spectrum antibacterial agent; action: inhibits enol-acyl protein reductase, leading to loss of type II fatty acid synthesis; use: combined in an oral product to aid in reducing plaque within the oral cavity.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "trīfurkā′shən", 
+    "concept": "trifurcation ", 
+    "pos2definition": [
+      {
+        "definition": "division into three parts or branches, as the three roots of a maxillary first molar.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "triz′məs", 
+    "concept": "trismus ", 
+    "pos2definition": [
+      {
+        "definition": "spasms of the muscles of mastication resulting in the inability to open the oral cavity; often symptomatic of pericoronitis.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "jēnē′əl", 
+    "concept": "tubercle, genial ", 
+    "pos2definition": [
+      {
+        "definition": "a small rounded elevation on the lingual surface of the mandible on either side of the midline near the inferior border of the body of the mandible, serving as a point of insertion for the geniohyoid muscles.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "tuberosity reduction,", 
+    "pos2definition": [
+      {
+        "definition": "a surgical excision of excessive fibrous or bony tissue in the area of the maxillary tuberosity before the construction of prosthetic appliances.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "tumor,", 
+    "pos2definition": [
+      {
+        "definition": "a swelling. Through usage the term is now synonymous with neoplasm. See also neoplasm.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "ōdon′tōjen′ik", 
+    "concept": "tumor, odontogenic ", 
+    "pos2definition": [
+      {
+        "definition": "a neoplasm produced from tooth-forming tissue (e.g., odontogenic fibroma, odontogenic myxoma, ameloblastoma). See also calcifying epithelial odontogenic tumor.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "undercut,", 
+    "pos2definition": [
+      {
+        "definition": "the portion of a tooth that lies between its height of contour and the gingivae, only if that portion is of less circumference than the height of contour.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "the contour of a cross-section of a residual ridge of dental arch that would prevent the placement of a denture or other prosthesis.", 
+        "pos": "n 2."
+      }, 
+      {
+        "definition": "the contour of flasking stone that interlocks to prevent the separation of parts.", 
+        "pos": "n 3."
+      }, 
+      {
+        "definition": "the portion of a prepared cavity that creates a mechanical lock or area of retention; may be desirable in a cavity to be filled with gold foil or amalgam but is undesirable in a cavity prepared for a restoration to be cemented.", 
+        "pos": "n 4."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "undercut gauge,", 
+    "pos2definition": [
+      {
+        "definition": "See gauge, undercut.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "unification,", 
+    "pos2definition": [
+      {
+        "definition": "the act of uniting or the condition of being united (e.g., the result of joining the components of a removable partial denture by connectors).", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "vənir′", 
+    "concept": "veneer ", 
+    "pos2definition": [
+      {
+        "definition": "in the construction of crowns or pontics, a layer of tooth-colored material, usually porcelain or acrylic resin, attached to the surface by direct fusion, cementation, or mechanical retention.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a thin layer of tooth colored material, usually porcelain but sometimes acrylic, that is attached directly to a facial tooth surface using bonding techniques to improve the esthetic appearance of the tooth. techniques to improve the esthetic appearance of the tooth.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "vertical overlap,", 
+    "pos2definition": [
+      {
+        "definition": "See overlap, vertical.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "void,", 
+    "pos2definition": [
+      {
+        "definition": "empty or unfilled space.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "space not filled with anything solid.", 
+        "pos": "n 2."
+      }, 
+      {
+        "definition": "ineffectual; having no legal, binding effect.", 
+        "pos": "adj 3."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "wax,", 
+    "pos2definition": [
+      {
+        "definition": "one of several esters of fatty acids with higher alcohols, usually monohydric alcohols. Dental waxes are combinations of various types of waxes compounded to provide the desired physical properties.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "wax, baseplate,", 
+    "pos2definition": [
+      {
+        "definition": "a hard, pink wax used for making occlusion rims and baseplates for occlusion rims.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "wax, boxing,", 
+    "pos2definition": [
+      {
+        "definition": "a soft wax used for boxing impressions.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "wax burnout,", 
+    "pos2definition": [
+      {
+        "definition": "See burnout, inlay and wax elimination.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "wax elimination,", 
+    "pos2definition": [
+      {
+        "definition": "the procedure of removing the wax from a wax pattern invested in a mold preparatory to the introduction of another material into the resulting cavity. This may be done by dry heat alone or irrigation with boiling water followed by use of dry heat. Also called wax burnout.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "wax pattern,", 
+    "pos2definition": [
+      {
+        "definition": "See pattern, wax.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "waxing,", 
+    "pos2definition": [
+      {
+        "definition": "the contouring of a wax pattern or the wax base of a trial denture into the desired form. Also called waxing up.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "wedge,", 
+    "pos2definition": [
+      {
+        "definition": "a small, pointed, triangular, contoured piece of wood used to seal the gingival margin of a cavity preparation before placement of a direct restoration.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "wedging effect,", 
+    "pos2definition": [
+      {
+        "definition": "See effect, wedging.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "weight,", 
+    "pos2definition": [
+      {
+        "definition": "the product of the gravitational acceleration of one body and the mass of an attracted body; the measurement in pounds and ounces of how heavy an object is. In the metric system, weight (force) is measured in kg × m/sec2.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "wire, wrought,", 
+    "pos2definition": [
+      {
+        "definition": "a wire formed by drawing a cast structure through a die; used in dentistry for partial denture clasps and orthodontic appliances.", 
+        "pos": "n 1."
+      }, 
+      {
+        "definition": "a form of metal resulting from the swaging, rolling, and drawing of a metal ingot into a desired shape and size.", 
+        "pos": "n 2."
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "", 
+    "concept": "wrought wire,", 
+    "pos2definition": [
+      {
+        "definition": "See wire, wrought.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "zir′əstō′mēə", 
+    "concept": "xerostomia ", 
+    "pos2definition": [
+      {
+        "definition": "dryness of the oral cavity resulting from functional or organic disturbances of the salivary glands including obstruction and autoimmune disease (Sjögren’s syndrome) and lack of the normal secretion, most commonly caused by prescribed medications. Dryness, loss of basic environment, and resultant overgrowth of oral microorganisms frequently lead to rampant caries. See also hyposalivation.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "zī′litôl", 
+    "concept": "xylitol ", 
+    "pos2definition": [
+      {
+        "definition": "a low-calorie sweetener that reduces caries activity and the growth and transmission of S. mutans.", 
+        "pos": "n"
+      }
+    ]
+  }, 
+  {
+    "pronunciation": "zingk fos′fāt", 
+    "concept": "zinc phosphate cement ", 
+    "pos2definition": [
+      {
+        "definition": "See cement, zinc phosphate.", 
+        "pos": "n"
+      }
+    ]
+  }
+]

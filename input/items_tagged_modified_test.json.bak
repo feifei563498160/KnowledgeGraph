@@ -1,0 +1,17 @@
+[
+  {
+    "pronunciation": "", 
+    "concept": "dental stone", 
+    "pos2definition": [
+      {
+        "definition": "dental stone is a gypsum product that, when combined with water in proper proportions, hardens in a plasterlike form. It is used for making casts and dies. Common brand : Hydrocal.", 
+        "pos": "n 2", 
+        "attributes": {
+          "isA": "gypsum product that, when combined with water in proper proportions, hardens in a plasterlike form", 
+          "brand_names": "Hydrocal", 
+          "used_for": "making casts and dies"
+        }
+      }
+    ]
+  }
+]
