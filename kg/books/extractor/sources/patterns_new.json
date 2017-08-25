@@ -8,12 +8,9 @@
                 "description_CN":"该项的一个简单描述",
                 "description_EG":"A description of the item.",
                 "patterns":[
-                    "{NN}+is$0#1.17-0",
                     "is+{?RB}^[!not,]+a|an|A|An$0#2.17-2",
                     "term+used+to$0#3.17-2",
-                    "is+a|an|A|An$0#2.0-2",
                     "{NNP}+{NN}+is$0#1.33-0",
-                    "{NNS}+are$0#1.17-0",
                     "is+one+of$2#3.0-2",
                     "is+any$1#2.0-2",
                     "is+the$0#2.0-2",
