@@ -4,8 +4,6 @@ Created on 2017��7��6��
 
 @author: FeiFei
 '''
-import re
-from matplotlib.pyplot import flag
 
 def match_mini_unit(word_pos,word_pattern_sec):
     #匹配最小的单元 词性{RB}或者词not
@@ -16,7 +14,40 @@ def match_mini_unit(word_pos,word_pattern_sec):
     else:
         if word_pos[0]==word_pattern_sec:
             return True
-    return False        
+    return False    
+    
+def match_token_sec(word_pos,word_pattern_sec):
+    #!not ?{RB} {RB}
+    flag=0
+    if word_pattern_sec.startswith('!'):
+        if match_mini_unit(word_pos,word_pattern_sec[1:])==True:
+            flag=0
+        else:
+            flag=1
+    elif word_pattern_sec.startswith('?'):
+        if match_mini_unit(word_pos,word_pattern_sec[1:])==True:
+            flag=1
+        else:
+            flag=2
+    else:
+        if match_mini_unit(word_pos,word_pattern_sec)==True:
+            flag=1
+        else:
+            flag=0
+    return flag
+
+def match_token_unit(word_pos,word_pattern_sec):
+    #匹配最小的划分如 {RB},?{RB},!not,[?{RB},?not]
+    flag=0
+    if word_pattern_sec=='*':
+        flag=1
+    elif '[' in word_pattern_sec:
+        token_secs=word_pattern_sec[1:-1].split(',')
+        flag=op_list(match_token_sec,word_pos,token_secs,'|')
+    else:
+        flag=match_token_sec(word_pos,word_pattern_sec)
+    
+    return flag
 
 def match_or_unit(word_pos,or_unit):
     flag=0
@@ -58,29 +89,9 @@ def op_list(fun,word_pos,l1,op_):
         return
     result=fun(word_pos,l1[0])
     for i in range(1,len(l1)):
-#         print result,fun(word_pos,l1[i]),op_
         result=op(result,fun(word_pos,l1[i]),op_)
     return result
            
-def match_token_sec(word_pos,word_pattern_sec):
-    flag=0
-    if word_pattern_sec.startswith('!'):
-        if match_mini_unit(word_pos,word_pattern_sec[1:])==True:
-            flag=0
-        else:
-            flag=1
-    elif word_pattern_sec.startswith('?'):
-        if match_mini_unit(word_pos,word_pattern_sec[1:])==True:
-            flag=1
-        else:
-            flag=2
-    else:
-        if match_mini_unit(word_pos,word_pattern_sec)==True:
-            flag=1
-        else:
-            flag=0
-    return flag
-
 def op(n1,n2,op):
     if n1==1 and n2==1 and op=='&':
         return 1
@@ -117,71 +128,6 @@ def op(n1,n2,op):
     elif n1==0 and n2==0 and op=='|':
         return 0
          
-def match_token_unit(word_pos,word_pattern_sec):
-    #匹配最小的划分如 {RB},?{RB},!not,[?{RB},?not]
-    flag=0
-    if word_pattern_sec=='*':
-        flag=1
-    elif '[' in word_pattern_sec:
-        token_secs=word_pattern_sec[1:-1].split(',')
-        flag=op_list(match_token_sec,word_pos,token_secs,'|')
-#         result=match_token_sec(word_pos,token_secs[0])
-#         for i in range(1,len(token_secs)):
-#             if i>=len(token_secs)-1:
-#                 break
-#             result_i=match_token_sec(word_pos,token_secs[i])
-#             #result_i_1=match_token_sec(word_pos,token_secs[i+1])
-#             result=op(result,result_i,'|')
-#             #sum+=match_token_sec(word_pos,token_sec)
-#         flag=result    
-    else:
-        flag=match_token_sec(word_pos,word_pattern_sec)
-    
-    return flag
-        
-#     if '{' in word_pattern:
-#             real_match_word=word_pattern[word_pattern.find('{')+1:word_pattern.find('}')]
-#             if real_match_word.startswith('^'):
-#                 if real_match_word[1:]==word_sent_pos[1]:
-#                     flag=0
-#                 else:
-#                     flag=1
-#             else:
-#                 if real_match_word==word_sent_pos[1]:
-#                     if '^' in word_pattern:
-#                         #{RB}^[!not,]
-#                         negative_words=re.findall('\!(.*?),', word_pattern)
-#                         if word_sent_pos[0] not in negative_words:
-#                             flag=1
-#                     else:
-#                         flag=1
-#             if '?' in word_pattern:
-#                 if '^' in word_pattern:
-#                     #{?RB}^[!not,]
-#                     negative_words=re.findall('\!(.*?),', word_pattern)
-#                     if word_sent_pos[0] not in negative_words: 
-#                         can_word=word_pattern[word_pattern.find('?')+1:word_pattern.find('}')]
-#                         if can_word==word_sent_pos[1]:
-#                             flag=1
-#                         else:
-#                             flag=2
-#                 else: 
-#                     #{?RB}              
-#                     can_word=word_pattern[word_pattern.find('?')+1:word_pattern.find('}')]
-#                     if can_word==word_sent_pos[1]:
-#                         flag=1
-#                     else:
-#                         if flag==1:
-#                             pass
-#                         else:
-#                             flag=2
-#         elif word_pattern.startswith('^'):
-#             #are
-#             negative_words=re.findall('\!(.*?),', word_pattern)
-#             if word_sent_pos[0] not in negative_words:
-#                 flag=1
-#         elif word_pattern==word_sent_pos[0]:  
-#             flag=1
 def match_pt2pt(pw1,pw2):
 #pt --> pattern token
 # whether two pattern token are equal
@@ -241,10 +187,7 @@ def find_postfix(pattern_words,i):
 def KMP_match(pattern, sent_pos):
     real_pattern=pattern[:pattern.index("$")]
     pattern_words=real_pattern.split("+")
-#     start=datetime.datetime.now()
     table=caculate_partial_table(pattern_words)
-#     end=datetime.datetime.now()
-#     print (end-start).microseconds
     m=len(sent_pos)
     n=len(pattern_words)
     cur=0
@@ -253,7 +196,6 @@ def KMP_match(pattern, sent_pos):
         j=i
         while j<n:
             flag=match_compound_token(sent_pos[i+cur], pattern_words[j])
-#             print flag,sent_pos[i+cur],pattern_words[j],cur
             if flag==0:
                 cur += max(j - table[j-1], 1)#有了部分匹配表,我们不只是单纯的1位1位往右移,可以一次移动多位  
                 break
