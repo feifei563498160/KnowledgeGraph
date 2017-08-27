@@ -1,0 +1,223 @@
+{
+    "Thing":{
+        "description_CN":"项的通用类型",
+        "description_EG":"The most generic type of item",
+        "attributes":{
+            "description":{
+                "type":"Text",
+                "description_CN":"该项的一个简单描述",
+                "description_EG":"A description of the item.",
+                "patterns":[
+                    "is+?{RB}&!not+a|an|A|An$0#2.17-2",
+                    "term+used+to$0#3.17-2",
+                    "{NNP}+{NN}+is$0#1.33-0",
+                    "is+one+of$2#3.0-2",
+                    "is+any$1#2.0-2",
+                    "is+the$0#2.0-2",
+                    "are+the+{NNS}$1#2.17-2"
+                ]
+            },
+			"name":{
+				"type":"Text",
+                "description_CN":"该项的名称。",
+                "description_EG":"The name of the item.",
+				"patterns":[
+				
+                ]
+			}
+        }
+    },
+    "MedicalEntity":{
+        "parent":"Thing",
+        "description_CN":"与健康和医学实践有关的最通用实体类型。",
+        "description_EG":"The most generic a of entity related to health and the practice of medicine.",
+        "attributes":{
+            "alternateName":{
+                "type":"Text",
+                "description_CN":"该医疗实体的别名",
+                "description_EG":"An alias for the item.",
+                "patterns":[
+                    "older|Older+term+is$0#3.0-2",
+                    "colloquial|Colloquial+term+is$0#3.0-2",
+                    "Also|also+known+as$0#3.0-2",
+                    "Also|also+called$0#2.0-2",
+                    "See+also$0#2.0-0",
+                    "Also+known+as+a$0#4.0-2",
+                    "also+be+spelled$0#3.0-2",
+                    "Also+spelled$0#2.0-2",
+                    "Also|also+called+the$0#3.0-2",
+                    "Commonly+called$0#2.0-2",
+                    "Synonymous+with$0#2.0-2",
+                    "Preferred|Newer+term+is$0#3.0-2",
+                    "Synonym+:$0#2.0-2",
+                    "Now|Formerly+called$0#2.0-2"
+                ]
+            }
+        }
+    },
+	"AnatomicalStructure":{
+        "parent":"MedicalEntity",
+        "description_CN":"人体的任何一部分，通常是一个解剖系统的组成部分。比如器官，组织和细胞都是解剖结构。人体的任何一部分，通常是一个解剖系统的组成部分。比如器官，组织和细胞都是解剖结构。",
+        "description_EG":"Any part of the human body, typically a component of an anatomical system. Organs, tissues, and cells are all anatomical structures.",
+        "attributes":{
+            "bodyLocation":{
+                "type":"Text",
+                "description_CN":"在解剖结构体内的位置",
+                "description_EG":"Location in the body of the anatomical structure.",
+                "patterns":[
+
+                ]
+            }
+        }
+    },
+	"":{
+        "parent":"",
+        "description_CN":"",
+        "description_EG":"",
+        "attributes":{
+            "":{
+                "type":"",
+                "description_CN":"",
+                "description_EG":"",
+                "patterns":[
+
+                ]
+            }
+        }
+    },
+	"":{
+        "parent":"",
+        "description_CN":"",
+        "description_EG":"",
+        "attributes":{
+            "":{
+                "type":"",
+                "description_CN":"",
+                "description_EG":"",
+                "patterns":[
+
+                ]
+            }
+        }
+    },
+	"":{
+        "parent":"",
+        "description_CN":"",
+        "description_EG":"",
+        "attributes":{
+            "":{
+                "type":"",
+                "description_CN":"",
+                "description_EG":"",
+                "patterns":[
+
+                ]
+            }
+        }
+    },
+	"":{
+        "parent":"",
+        "description_CN":"",
+        "description_EG":"",
+        "attributes":{
+            "":{
+                "type":"",
+                "description_CN":"",
+                "description_EG":"",
+                "patterns":[
+
+                ]
+            }
+        }
+    },
+	"":{
+        "parent":"",
+        "description_CN":"",
+        "description_EG":"",
+        "attributes":{
+            "":{
+                "type":"",
+                "description_CN":"",
+                "description_EG":"",
+                "patterns":[
+
+                ]
+            }
+        }
+    },
+	"":{
+        "parent":"",
+        "description_CN":"",
+        "description_EG":"",
+        "attributes":{
+            "":{
+                "type":"",
+                "description_CN":"",
+                "description_EG":"",
+                "patterns":[
+
+                ]
+            }
+        }
+    },
+	"":{
+        "parent":"",
+        "description_CN":"",
+        "description_EG":"",
+        "attributes":{
+            "":{
+                "type":"",
+                "description_CN":"",
+                "description_EG":"",
+                "patterns":[
+
+                ]
+            }
+        }
+    },
+	"":{
+        "parent":"",
+        "description_CN":"",
+        "description_EG":"",
+        "attributes":{
+            "":{
+                "type":"",
+                "description_CN":"",
+                "description_EG":"",
+                "patterns":[
+
+                ]
+            }
+        }
+    },
+	"":{
+        "parent":"",
+        "description_CN":"",
+        "description_EG":"",
+        "attributes":{
+            "":{
+                "type":"",
+                "description_CN":"",
+                "description_EG":"",
+                "patterns":[
+
+                ]
+            }
+        }
+    },
+	"":{
+        "parent":"",
+        "description_CN":"",
+        "description_EG":"",
+        "attributes":{
+            "":{
+                "type":"",
+                "description_CN":"",
+                "description_EG":"",
+                "patterns":[
+
+                ]
+            }
+        }
+    },
+}

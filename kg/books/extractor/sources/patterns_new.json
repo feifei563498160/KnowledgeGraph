@@ -1,60 +1,917 @@
-{
-    "Thing":{
-        "description_CN":"项的通用类型",
-        "description_EG":"The most generic type of item",
-        "attributes":{
-            "description":{
-                "type":"Text",
-                "description_CN":"该项的一个简单描述",
-                "description_EG":"A description of the item.",
-                "patterns":[
-                    "is+{?RB}^[!not,]+a|an|A|An$0#2.17-2",
-                    "term+used+to$0#3.17-2",
-                    "{NNP}+{NN}+is$0#1.33-0",
-                    "is+one+of$2#3.0-2",
-                    "is+any$1#2.0-2",
-                    "is+the$0#2.0-2",
-                    "are+the+{NNS}$1#2.17-2",
-                    "{DT}+{NNS}+are$0#1.33-0",
-                    "are+two$0#2.0-2"
-                ]
+[
+    {
+        "Thing":{
+            "attributes":{
+                "url":{
+                    "description_CN":"该项的URL地址，（可以是百科网页地址）",
+                    "patterns":[
+
+                    ],
+                    "type":"URL",
+                    "description_EG":"URL of the item."
+                },
+                "sameAs":{
+                    "description_CN":"引用Web页面的URL，该页面明确地表示该项目的标识。例如，条目的维基百科页面，维基数据条目，或官方网站。",
+                    "patterns":[
+
+                    ],
+                    "type":"URL ",
+                    "description_EG":"URL of a reference Web page that unambiguously indicates the item's identity. E.g. the URL of the item's Wikipedia page, Wikidata entry, or official website."
+                },
+                "image":{
+                    "description_CN":"该项的图像URL地址",
+                    "patterns":[
+
+                    ],
+                    "type":"URL",
+                    "description_EG":"An image of the item. This can be a URL or a fully described ImageObject."
+                },
+                "description":{
+                    "description_CN":"该项的一个简单描述",
+                    "patterns":[
+						"is+?{RB}&!not+a|an|A|An$0#2.17-2",
+						"term+used+to$0#3.17-2",
+						"{NNP}+{NN}+is$0#1.33-0",
+						"is+one+of$2#3.0-2",
+						"is+any$1#2.0-2",
+						"is+the$0#2.0-2",
+						"are+the+{NNS}$1#2.17-2"
+                    ],
+                    "type":"Text",
+                    "description_EG":"A description of the item."
+                },
+                "name":{
+                    "description_CN":"该项的名称。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"The name of the item."
+                }
             },
-			"name":{
-				"type":"Text",
-                "description_CN":"该项的名称。",
-                "description_EG":"The name of the item.",
-				"patterns":[
-				
-                ]
-			}
+            "description_CN":"项的通用类型",
+            "description_EG":"The most generic type of item"
         }
     },
-    "MedicalEntity":{
-        "parent":"Thing",
-        "description_CN":"与健康和医学实践有关的最通用实体类型。",
-        "description_EG":"The most generic a of entity related to health and the practice of medicine.",
-        "attributes":{
-            "alternateName":{
-                "type":"Text",
-                "description_CN":"该医疗实体的别名",
-                "description_EG":"An alias for the item.",
-                "patterns":[
-                    "older|Older+term+is$0#3.0-2",
-                    "colloquial|Colloquial+term+is$0#3.0-2",
-                    "Also|also+known+as$0#3.0-2",
-                    "Also|also+called$0#2.0-2",
-                    "See+also$0#2.0-0",
-                    "Also+known+as+a$0#4.0-2",
-                    "also+be+spelled$0#3.0-2",
-                    "Also+spelled$0#2.0-2",
-                    "Also|also+called+the$0#3.0-2",
-                    "Commonly+called$0#2.0-2",
-                    "Synonymous+with$0#2.0-2",
-                    "Preferred|Newer+term+is$0#3.0-2",
-                    "Synonym+:$0#2.0-2",
-                    "Now|Formerly+called$0#2.0-2"
-                ]
-            }
+    {
+        "MedicalEntity":{
+            "attributes":{
+                "relevantSpecialty":{
+                    "description_CN":"该实体所对应的医学专业相关。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalSpecialty",
+                    "description_EG":"If applicable, a medical specialty in which this entity is relevant."
+                },
+                "alternateName":{
+                    "description_CN":"该医疗实体的别名",
+                    "patterns":[
+						"[older,Older,colloquial,Colloquial]+term+is$0#3.0-2",
+						"[Also,also]+known+as+[?a,?the]$0#3.0-2",
+						"[Also,also]+called+?the$0#2.0-2",
+						"See+also$0#2.0-0",
+						"also+be+spelled$0#3.0-2",
+						"Also+spelled$0#2.0-2",
+						"Commonly+called$0#2.0-2",
+						"Synonymous+with$0#2.0-2",
+						"Preferred|Newer+term+is$0#3.0-2",
+						"Synonym+:$0#2.0-2",
+						"Now|Formerly+called$0#2.0-2"
+                    ],
+                    "type":"Text",
+                    "description_EG":"An alias for the item."
+                },
+                "code":{
+                    "description_CN":"该实体的医疗代码，来源于受控的词表或语义，例如ICD-9, DiseasesDB, MeSH, SNOMED-CT, RxNorm，等等",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalCode",
+                    "description_EG":"A medical code for the entity, taken from a controlled vocabulary or ontology such as ICD-9, DiseasesDB, MeSH, SNOMED-CT, RxNorm, etc."
+                }
+            },
+			"parent":"Thing",
+            "description_CN":"与健康和医学实践有关的最通用实体类型。",
+            "description_EG":"The most generic a of entity related to health and the practice of medicine."
+        }
+    },
+    {
+        "AnatomicalStructure":{
+            "attributes":{
+                "function":{
+                    "description_CN":"解剖结构的功能",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"Function of the anatomical structure"
+                },
+                "associatedPathophysiology":{
+                    "description_CN":"如果有关联, 那么它描述的是与解剖系统相关的病理生理学，其中包括系统中机械、物理和生化功能所潜在的异常变化",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"If applicable, a description of the pathophysiology associated with the anatomical system, including potential abnormal changes in the mechanical, physical, and biochemical functions of the system."
+                },
+                "bodyLocation":{
+                    "description_CN":"在解剖结构体内的位置",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"Location in the body of the anatomical structure."
+                },
+                "relatedTherapy":{
+                    "description_CN":"与此解剖结构相关的医学疗法。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalTherapy",
+                    "description_EG":"A medical therapy related to this anatomy."
+                },
+                "connectedTo":{
+                    "description_CN":"与该结构关联的其它解剖结构",
+                    "patterns":[
+
+                    ],
+                    "type":"AnatomicalStructure",
+                    "description_EG":"Other anatomical structures to which this structure is connected."
+                },
+                "partOfSystem":{
+                    "description_CN":"该结构所属的解剖或器官系统。",
+                    "patterns":[
+
+                    ],
+                    "type":"AnatomicalSystem",
+                    "description_EG":"The anatomical or organ system that this structure is part of."
+                },
+                "relatedCondition":{
+                    "description_CN":"与该解剖结构相关的医疗条件",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalCondition",
+                    "description_EG":"A medical condition associated with this anatomy."
+                },
+                "subStructure":{
+                    "description_CN":"该解剖结构的组成（子）结构",
+                    "patterns":[
+
+                    ],
+                    "type":"AnatomicalStructure",
+                    "description_EG":"Component (sub-)structure(s) that comprise this anatomical structure."
+                },
+                "typicalTest":{
+                    "description_CN":"通常针对该病情的医疗测试",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalTest",
+                    "description_EG":"A medical test typically performed given this condition."
+                }
+            },
+			"parent":"MedicalEntity",
+            "description_CN":"人体的任何一部分，通常是一个解剖系统的组成部分。比如器官，组织和细胞都是解剖结构。人体的任何一部分，通常是一个解剖系统的组成部分。比如器官，组织和细胞都是解剖结构。",
+            "description_EG":"Any part of the human body, typically a component of an anatomical system. Organs, tissues, and cells are all anatomical structures."
+        }
+    },
+    {
+        "InfectiousDisease":{
+            "attributes":{
+                "infectiousAgent":{
+                    "description_CN":"感染的具体传染性病原体，例如某种特定的细菌。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"The actual infectious agent, such as a specific bacterium."
+                },
+                "infectiousAgentClass":{
+                    "description_CN":"造成该疾病的传染性病原体（细菌，朊病毒等）所属的类别。",
+                    "patterns":[
+
+                    ],
+                    "type":"InfectiousAgentClass",
+                    "description_EG":"The class of infectious agent (bacteria, prion, etc.) that causes the disease."
+                },
+                "transmissionMethod":{
+                    "description_CN":"疾病的传播方式，不论是介质或者载体，例如直接接触，埃及伊蚊等等。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"How the disease spreads, either as a route or vector, for example 'direct contact', 'Aedes aegypti', etc."
+                }
+            },
+			"parent":"AnatomicalStructure",
+            "description_CN":"传染性疾病是由致病性微生物导致的临床上明显的人类疾病，如致病性病毒、病原细菌、真菌、原生动物、多细胞寄生虫和朊病毒。对于传染性疾病，这些病原体都是已知可以引起该类疾病的。",
+            "description_EG":"An infectious disease is a clinically evident human disease resulting from the presence of pathogenic microbial agents, like pathogenic viruses, pathogenic bacteria, fungi, protozoa, multicellular parasites, and prions. To be considered an infectious disease, such pathogens are known to be able to cause this disease."
+        }
+    },
+    {
+        "MedicalDevice":{
+            "attributes":{
+                "contraindication":{
+                    "description_CN":"该治疗法的禁忌。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalContraindication",
+                    "description_EG":"A contraindication for this therapy"
+                },
+                "preOp":{
+                    "description_CN":"对此设备的检查，测试和其它植入前的准备工作的描述。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"A description of the workup, testing, and other preparations required before implanting this device."
+                },
+                "postOp":{
+                    "description_CN":"对此设备在术后的程序，护理和/或追踪的描述。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"A description of the postoperative procedures, care, and/or followups for this device."
+                },
+                "adverseOutcome":{
+                    "description_CN":"该治疗方法可能会出现的并发症和/或副作用。如果已知的不利结果非常严重（造成死亡、残疾或永久性损伤；或需要住院治疗；或有生命危险或要求立刻治疗），那么它就会被贴上seriouseAdverseOutcome这个标签",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalEntity",
+                    "description_EG":"A possible complication and/or side effect of this therapy. If it is known that an adverse outcome is serious (resulting in death, disability, or permanent damage; requiring hospitalization; or is otherwise life-threatening or requires immediate medical attention), tag it as a seriouseAdverseOutcome instead."
+                },
+                "seriousAdverseOutcome":{
+                    "description_CN":"该治疗方法可能会出现严重的并发症和/或副作用，严重的不良后果包括危及生命；造成死亡、伤残或永久性损伤；需要住院或延长住院时间；导致先天性畸形或出生缺陷；或危及到病人并有可能需要医疗或手术的干预来避免其中的后果之一。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalEntity",
+                    "description_EG":"A possible serious complication and/or serious side effect of this therapy. Serious adverse outcomes include those that are life-threatening; result in death, disability, or permanent damage; require hospitalization or prolong existing hospitalization; cause congenital anomalies or birth defects; or jeopardize the patient and may require medical or surgical intervention to prevent one of the outcomes in this definition."
+                },
+                "indication":{
+                    "description_CN":"一个用于表示该治疗方法和/或预防方法的使用条件、症状等的因素。 如药物治疗，该因素包括以正式批准的适应症状及未经许可用药。这可通过用MedicalIndication的子类型ApprovedIndication 来区分。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalIndication",
+                    "description_EG":"A factor that indicates use of this therapy for treatment and/or prevention of a condition, symptom, etc. For therapies such as drugs, indications can include both officially-approved indications as well as off-label uses. These can be distinguished by using the ApprovedIndication subtype of MedicalIndication."
+                },
+                "purpose":{
+                    "description_CN":"此设备的目的或用途，例如是否用于诊断或治疗。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalDevicePurpose",
+                    "description_EG":"A goal towards an action is taken. Can be concrete or abstract."
+                },
+                "procedure":{
+                    "description_CN":"此设备的设定，使用和/或安装步骤的描述。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"A description of the procedure involved in setting up, using, and/or installing the device."
+                }
+            },
+			"parent":"MedicalEntity",
+            "description_CN":"任何在医院使用，例如用来诊断或治疗病人的对象实体",
+            "description_EG":"Any object used in a medical capacity, such as to diagnose or treat a patient."
+        }
+    },
+    {
+        "MedicalGuideline":{
+            "attributes":{
+                "evidenceLevel":{
+                    "description_CN":"用来形成医疗方针的数据的证据水平（枚举）。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalEvidenceLevel ",
+                    "description_EG":"Strength of evidence of the data used to formulate the guideline (enumerated)."
+                },
+                "evidenceOrigin":{
+                    "description_CN":"用来形成医疗方针的数据源，如：RCT，共识等等",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"Source of the data used to formulate the guidance, e.g. RCT, consensus opinion, etc."
+                },
+                "guidelineSubject":{
+                    "description_CN":"所针对的病情或治疗方法。例如，这就是本方针的主题。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalEntity",
+                    "description_EG":"The medical conditions, treatments, etc. that are the subject of the guideline."
+                },
+                "guidelineDate":{
+                    "description_CN":"本方针的推荐日期。",
+                    "patterns":[
+
+                    ],
+                    "type":"Date",
+                    "description_EG":"Date on which this guideline's recommendation was made."
+                }
+            },
+			"parent":"MedicalEntity",
+            "description_CN":"由标准组织（例如，ACC/AHA）或一致声明作出的关于如何诊断或治疗某种疾病的推荐。 注：本类型应该用于标记实际的推荐方针；如果推荐方针在更大的学术文章中出现，那么使用MedicalScholarArticle标签来标记全文。另注：作出推荐的组织应该在MedicalEntity 的recognizingAuthority基本属性中标出。",
+            "description_EG":"Any recommendation made by a standard society (e.g. ACC/AHA) or consensus statement that denotes how to diagnose and treat a particular condition. Note: this type should be used to tag the actual guideline recommendation; if the guideline recommendation occurs in a larger scholarly article, use MedicalScholarlyArticle to tag the overall article, not this type. Note also: the organization making the recommendation should be captured in the recognizingAuthority base property of MedicalEntity."
+        }
+    },
+    {
+        "MedicalIntangible":{
+            "attributes":{
+
+            },
+			"parent":"MedicalEntity",
+            "description_CN":"一个实用类，其作用就像是一些数量的“无形”医疗领域的事务的总称。",
+            "description_EG":"A utility class that serves as the umbrella for a number of 'intangible' things in the medical space."
+        }
+    },
+    {
+        "DDxElement":{
+            "attributes":{
+                "distinguishingSign":{
+                    "description_CN":"在鉴别诊断中可以用来区分其它诊断的其中一组的症状和体征。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalSignOrSymptom",
+                    "description_EG":"One of a set of signs and symptoms that can be used to distinguish this diagnosis from others in the differential diagnosis."
+                },
+                "diagnosis":{
+                    "description_CN":" 鉴别诊断过程中考虑的一个或多个替代条件。",
+                    "patterns":[
+
+                    ],
+                    "type":" MedicalCondition",
+                    "description_EG":"One or more alternative conditions considered in the differential diagnosis process as output of a diagnosis process."
+                }
+            },
+			"parent":"MedicalIntangible",
+            "description_CN":"通常在鉴别诊断过程中稍后考虑的一个替代的密切相关条件，带有用来区别它的体征。",
+            "description_EG":"An alternative, closely-related condition typically considered later in the differential diagnosis process along with the signs that are used to distinguish it."
+        }
+    },
+    {
+        "DoseSchedule":{
+            "attributes":{
+                "doseUnit":{
+                    "description_CN":"给药剂量单位，例如，毫克。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"The unit of the dose, e.g. 'mg'."
+                },
+                "targetPopulation":{
+                    "description_CN":"药物所针对或适应的人群特征，例如，成人。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"Characteristics of the population for which this is intended, or which typically uses it, e.g. 'adults'."
+                },
+                "doseValue":{
+                    "description_CN":"给药剂量值，例如，500。",
+                    "patterns":[
+
+                    ],
+                    "type":"Number",
+                    "description_EG":"The value of the dose, e.g. 500."
+                },
+                "frequency":{
+                    "description_CN":" 给药周期，例如，每天。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"How often the dose is taken, e.g. 'daily'."
+                }
+            },
+			"parent":"MedicalIntangible",
+            "description_CN":"药物或补充品的给药剂量和方法。",
+            "description_EG":"A specific dosing schedule for a drug or supplement."
+        }
+    },
+    {
+        "MedicalProcedure":{
+            "attributes":{
+                "followup":{
+                    "description_CN":"手术后的“典型”或“建议”护理。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"Typical or recommended followup care after the procedure is performed."
+                },
+                "preparation":{
+                    "description_CN":"病人在执行治疗过程之前必须做的准备。",
+                    "patterns":[
+
+                    ],
+                    "type":"",
+                    "description_EG":"Typical preparation that a patient must undergo before having the procedure performed."
+                },
+                "procedureType":{
+                    "description_CN":"治疗过程的类型，如外科、无创或穿刺。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalProcedureType",
+                    "description_EG":"The type of procedure, for example Surgical, Noninvasive, or Percutaneous."
+                },
+                "howPerformed":{
+                    "description_CN":"如何执行治疗过程。",
+                    "patterns":[
+
+                    ],
+                    "type":"",
+                    "description_EG":"How the procedure is performed."
+                }
+            },
+			"parent":"MedicalEntity",
+            "description_CN":"一种治愈过程，要么用于诊断、护理，要么用于依赖微创手术、非入侵或精辟手术的保守治疗。",
+            "description_EG":"A process of care used in either a diagnostic, therapeutic, preventive or palliative capacity that relies on invasive (surgical), non-invasive, or other techniques."
+        }
+    },
+    {
+        "MedicalRiskEstimator":{
+            "attributes":{
+                "estimatesRiskOf":{
+                    "description_CN":" 做风险估计的病情、并发症或症状。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalEntity",
+                    "description_EG":"The condition, complication, or symptom whose risk is being estimated."
+                },
+                "includedRiskFactor":{
+                    "description_CN":"估计中可修改或不可修改的风险因素，如年龄、共存条件等。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalRiskFactor",
+                    "description_EG":"A modifiable or non-modifiable risk factor included in the calculation, e.g. age, coexisting condition."
+                }
+            },
+			"parent":"MedicalEntity",
+            "description_CN":"用于估计病情或并发症发展风险的任何规则和交互工具。",
+            "description_EG":"Any rule set or interactive tool for estimating the risk of developing a complication or condition."
+        }
+    },
+    {
+        "MedicalRiskFactor":{
+            "attributes":{
+                "increasesRiskOf":{
+                    "description_CN":"该风险因子影响的病情、并发症等等。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalEntity ",
+                    "description_EG":"The condition, complication, etc. influenced by this factor."
+                }
+            },
+			"parent":"MedicalEntity",
+            "description_CN":"任何增加发展或感染疾病可能性、治疗病情或并发症的因素，都属于风险因子。",
+            "description_EG":"A risk factor is anything that increases a person's likelihood of developing or contracting a disease, medical condition, or complication."
+        }
+    },
+    {
+        "MedicalSignOrSymptom":{
+            "attributes":{
+                "possibleTreatment":{
+                    "description_CN":"一种可能的治疗方法以解决这种病情、迹象或症状。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalTherapy",
+                    "description_EG":"A possible treatment to address this condition, sign or symptom."
+                },
+                "cause":{
+                    "description_CN":"根本原因。具体而言，指的是其中一个致病因子，它最直接负责最终导致病情发生的生理过程。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalCause",
+                    "description_EG":"Specifying a cause of something in general. e.g in medicine , one of the causative agent(s) that are most directly responsible for the pathophysiologic process that eventually results in the occurrence"
+                }
+            },
+			"parent":"MedicalEntity",
+            "description_CN":"医疗状况或疾病中存在的任何迹象。",
+            "description_EG":"Any feature associated or not with a medical condition. In medicine a symptom is generally subjective while a sign is objective."
+        }
+    },
+    {
+        "MedicalSign":{
+            "attributes":{
+                "identifyingExam":{
+                    "description_CN":"识别该迹象的体检。",
+                    "patterns":[
+
+                    ],
+                    "type":"PhysicalExam",
+                    "description_EG":"A physical examination that can identify this sign."
+                },
+                "identifyingTest":{
+                    "description_CN":"识别该迹象的诊断测试。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalTest",
+                    "description_EG":"A diagnostic test that can identify this sign."
+                }
+            },
+			"parent":"MedicalSignOrSymptom",
+            "description_CN":"任何关于人身体状况的物理体现，其中，身体状况可通过客观的诊断测试或体检发现。",
+            "description_EG":"Any physical manifestation of a person's medical condition discoverable by objective diagnostic tests or physical examination."
+        }
+    },
+    {
+        "MedicalTest":{
+            "attributes":{
+                "affectedBy":{
+                    "description_CN":"影响测试结果的药物。",
+                    "patterns":[
+
+                    ],
+                    "type":"Drug",
+                    "description_EG":"Drugs that affect the test's results."
+                },
+                "usedToDiagnose":{
+                    "description_CN":"使用该测试来诊断的身体状况。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalCondition",
+                    "description_EG":"A condition the test is used to diagnose."
+                },
+                "normalRange":{
+                    "description_CN":"如果适用，它表示的是一个普通病人的适用值范围。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"Range of acceptable values for a typical patient, when applicable."
+                },
+                "usesDevice":{
+                    "description_CN":"进行该测试所使用的仪器。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalDevice",
+                    "description_EG":"Device used to perform the test."
+                },
+                "signDetected":{
+                    "description_CN":"该测试检测到的信号。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalSign",
+                    "description_EG":"A sign detected by the test."
+                }
+            },
+			"parent":"MedicalEntity",
+            "description_CN":"任何医学测试，通常以诊断为目的。",
+            "description_EG":"Any medical test, typically performed for diagnostic purposes."
+        }
+    },
+    {
+        "MedicalTherapy":{
+            "attributes":{
+                "contraindication":{
+                    "description_CN":"该治疗法的禁忌。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalContraindication",
+                    "description_EG":"A contraindication for this therapy."
+                },
+                "indication":{
+                    "description_CN":"一个用于表示该治疗方法和/或预防方法的使用条件、症状等的因素。 如药物治疗，该因素包括以正式批准的适应症状及未经许可用药。这可通过用MedicalIndication的子类型ApprovedIndication 来区分。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalIndication",
+                    "description_EG":"A factor that indicates use of this therapy for treatment and/or prevention of a condition, symptom, etc. For therapies such as drugs, indications can include both officially-approved indications as well as off-label uses. These can be distinguished by using the ApprovedIndication subtype of MedicalIndication."
+                },
+                "adverseOutcome":{
+                    "description_CN":"该治疗方法可能会出现的并发症和/或副作用。如果已知的不利结果非常严重（造成死亡、残疾或永久性损伤；或需要住院治疗；或有生命危险或要求立刻治疗），那么它就会被贴上seriouseAdverseOutcome这个标签。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalEntity",
+                    "description_EG":"A possible complication and/or side effect of this therapy. If it is known that an adverse outcome is serious (resulting in death, disability, or permanent damage; requiring hospitalization; or is otherwise life-threatening or requires immediate medical attention), tag it as a seriouseAdverseOutcome instead."
+                },
+                "seriousAdverseOutcome":{
+                    "description_CN":"该治疗方法可能会出现严重的并发症和/或副作用，严重的不良后果包括危及生命；造成死亡、伤残或永久性损伤；需要住院或延长住院时间；导致先天性畸形或出生缺陷；或危及到病人并有可能需要医疗或手术的干预来避免其中的后果之一。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalEntity",
+                    "description_EG":"A possible serious complication and/or serious side effect of this therapy. Serious adverse outcomes include those that are life-threatening; result in death, disability, or permanent damage; require hospitalization or prolong existing hospitalization; cause congenital anomalies or birth defects; or jeopardize the patient and may require medical or surgical intervention to prevent one of the outcomes in this definition."
+                },
+                "duplicateTherapy":{
+                    "description_CN":"与该方法重复或重叠的治疗方法。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalTherapy",
+                    "description_EG":"A therapy that duplicates or overlaps this one."
+                }
+            },
+			"parent":"MedicalEntity",
+            "description_CN":"任何为预防、治疗和治愈人类疾病的医疗干预和医疗状况，包括有效和保守治疗。医学治疗通常其治疗过程依赖药物治疗、行为治疗、支持治疗（如流体和营养）以及旨在提高或预防健康状况的脱瘾治疗（如血液透析）。",
+            "description_EG":"Any medical intervention designed to prevent, treat, and cure human diseases and medical conditions, including both curative and palliative therapies. Medical therapies are typically processes of care relying upon pharmacotherapy, behavioral therapy, supportive therapy (with fluid or nutrition for example), or detoxification (e.g. hemodialysis) aimed at improving or preventing a health condition."
+        }
+    },
+    {
+        "Drug":{
+            "attributes":{
+                "relatedDrug":{
+                    "description_CN":"与此药相关的其它药物，例如常规的替代品。",
+                    "patterns":[
+
+                    ],
+                    "type":"Drug",
+                    "description_EG":"Any other drug related to this one, for example commonly-prescribed alternatives."
+                },
+                "isAvailableGenerically":{
+                    "description_CN":"如果药物能够在一般情况下得到（不论名称），那么该值为真。",
+                    "patterns":[
+
+                    ],
+                    "type":"Boolean",
+                    "description_EG":"True if the drug is available in a generic form (regardless of name)."
+                },
+                "cost":{
+                    "description_CN":"根据标记的来源报告的每单位的药物费用。",
+                    "patterns":[
+
+                    ],
+                    "type":"DrugCost",
+                    "description_EG":"Cost per unit of the drug, as reported by the source being tagged."
+                },
+                "pregnancyWarning":{
+                    "description_CN":"相关的预防措施、指导、禁忌等。例如，有关孕期的母亲使用此药的说明。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"Any precaution, guidance, contraindication, etc. related to this drug's use during pregnancy."
+                },
+                "legalStatus":{
+                    "description_CN":"药物或补充品的法律状态，包括所有涉及的管制药品。",
+                    "patterns":[
+
+                    ],
+                    "type":"DrugLegalStatus",
+                    "description_EG":"The drug or supplement's legal status, including any controlled substance schedules that apply."
+                },
+                "doseSchedule":{
+                    "description_CN":"对于给定人群的给药剂量和方法，即观测剂量、推荐剂量或者基于使用类型的最大剂量。",
+                    "patterns":[
+
+                    ],
+                    "type":"DoseSchedule",
+                    "description_EG":"A dosing schedule for the drug for a given population, either observed, recommended, or maximum dose based on the type used."
+                },
+                "interactingDrug":{
+                    "description_CN":"指与该药混用后会对药效产生交互影响，增加病人风险的其它药物。注：疾病的交互作用通常定义为禁忌症。",
+                    "patterns":[
+
+                    ],
+                    "type":"Drug",
+                    "description_EG":"Another drug that is known to interact with this drug in a way that impacts the effect of this drug or causes a risk to the patient. Note: disease interactions are typically captured as contraindications."
+                },
+                "mechanismOfAction":{
+                    "description_CN":"通过该药物的药理作用所产生的生化交互作用。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"The specific biochemical interaction through which this drug or supplement produces its pharmacological effect."
+                },
+                "drugClass":{
+                    "description_CN":"该药物所属类别（例如，他汀类药物）。",
+                    "patterns":[
+
+                    ],
+                    "type":"DrugClass",
+                    "description_EG":"The class of drug this belongs to (e.g., statins)."
+                },
+                "activeIngredient":{
+                    "description_CN":"有效成分，通常是化合物和/或生物制剂。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"An active ingredient, typically chemical compounds and/or biologic substances."
+                },
+                "prescriptionStatus":{
+                    "description_CN":"表示该药是否可以通过处方或柜台获得。",
+                    "patterns":[
+
+                    ],
+                    "type":"DrugPrescriptionStatus",
+                    "description_EG":"Indicates the status of drug prescription eg. local catalogs classifications or whether the drug is available by prescription or over-the-counter, etc."
+                },
+                "breastfeedingWarning":{
+                    "description_CN":"相关的预防措施、指导、禁忌等。例如，有关哺乳期的母亲使用此药的说明。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"Any precaution, guidance, contraindication, etc. related to this drug's use by breastfeeding mothers."
+                },
+                "alcoholWarning":{
+                    "description_CN":"相关的预防措施、指导、禁忌等。例如，有关摄入酒精者使用此药的说明。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"Any precaution, guidance, contraindication, etc. related to consumption of alcohol while taking this drug."
+                },
+                "pregnancyCategory":{
+                    "description_CN":"该药的妊娠类别。",
+                    "patterns":[
+
+                    ],
+                    "type":"DrugPregnancyCategory",
+                    "description_EG":"Pregnancy category of this drug."
+                },
+                "prescribingInfo":{
+                    "description_CN":"指向该药物处方信息的链接。",
+                    "patterns":[
+
+                    ],
+                    "type":"URL",
+                    "description_EG":" Link to prescribing information for the drug."
+                },
+                "clincalPharmacology":{
+                    "description_CN":"描述药物的消化和吸收，包括它们的浓度（药代动力学，PK）和生物效应（药效学，PD）。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"Description of the absorption and elimination of drugs, including their concentration (pharmacokinetics, pK) and biological effects (pharmacodynamics, pD). Supersedes clincalPharmacology."
+                },
+                "availableStrength":{
+                    "description_CN":"药物可获取的剂量。",
+                    "patterns":[
+
+                    ],
+                    "type":"DrugStrength",
+                    "description_EG":"An available dosage strength for the drug."
+                },
+                "manufacturer":{
+                    "description_CN":"产品的制造商。",
+                    "patterns":[
+
+                    ],
+                    "type":"Organization",
+                    "description_EG":"The manufacturer of the product."
+                },
+                "labelDetails":{
+                    "description_CN":"指向药物标签细节的链接。",
+                    "patterns":[
+
+                    ],
+                    "type":"URL",
+                    "description_EG":"Link to the drug's label details."
+                },
+                "dosageForm":{
+                    "description_CN":"该药物/补充品可能的剂量摄入形式，例如:片剂，悬浮液，注射。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"A dosage form in which this drug/supplement is available, e.g. 'tablet', 'suspension', 'injection'."
+                },
+                "administrationRoute":{
+                    "description_CN":"药物的给药方法，例如，口服。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":" A route by which this drug may be administered, e.g. 'oral'."
+                },
+                "overdosage":{
+                    "description_CN":"与过量使用药物后的相关信息，包括体征或症状，治疗方案，联系方式和紧急措施。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"Any information related to overdose on a drug, including signs or symptoms, treatments, contact information for emergency response."
+                },
+                "nonProprietaryName":{
+                    "description_CN":"药物或补充品的一般名称。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"The generic name of this drug or supplement."
+                },
+                "foodWarning":{
+                    "description_CN":"相关的预防措施、指导、禁忌等。例如，有关食用某些事物后服用该药的说明。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"Any precaution, guidance, contraindication, etc. related to consumption of specific foods while taking this drug."
+                },
+                "isProprietary":{
+                    "description_CN":"如果该项的名称是一个专有的/品牌名称（与一般名称对应），那么该值为真。",
+                    "patterns":[
+
+                    ],
+                    "type":"Boolean",
+                    "description_EG":"True if this item's name is a proprietary/brand name (vs. generic name)."
+                },
+                "warning":{
+                    "description_CN":"任何FDA或者其它有关药物的警告（Text或URL）。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text or URL",
+                    "description_EG":"Any FDA or other warnings about the drug (text or URL)."
+                }
+            },
+			"parent":"MedicalTherapy",
+            "description_CN":"在医学治疗中使用的，对生物体具有生理效应的一种化学或生物物质。",
+            "description_EG":"A chemical or biologic substance, used as a medical therapy, that has a physiological effect on an organism. Here the term drug is used interchangeably with the term medicine although clinical knowledge make a clear difference between them."
+        }
+    },
+    {
+        "DrugClass":{
+            "attributes":{
+                "drug":{
+                    "description_CN":"在该药物类别中的药物。",
+                    "patterns":[
+
+                    ],
+                    "type":"Drug",
+                    "description_EG":"Specifying a drug or medicine used in a medication procedure"
+                }
+            },
+			"parent":"MedicalTherapy",
+            "description_CN":"医疗药物的类别，例如，他汀类药物。类表示一般的药物类别，拥有相同的作用机制，相同的生理影响等等。",
+            "description_EG":"A class of medical drugs, e.g., statins. Classes can represent general pharmacological class, common mechanisms of action, common physiological effects, etc."
+        }
+    },
+    {
+        "SuperficialAnatomy":{
+            "attributes":{
+                "relatedCondition":{
+                    "description_CN":"与该解剖结构相关的医疗条件",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalCondition",
+                    "description_EG":"A medical condition associated with this anatomy."
+                },
+                "relatedTherapy":{
+                    "description_CN":"与此解剖结构相关的医学疗法。",
+                    "patterns":[
+
+                    ],
+                    "type":"MedicalTherapy",
+                    "description_EG":"A medical therapy related to this anatomy."
+                },
+                "associatedPathophysiology":{
+                    "description_CN":"如果有关联, 那么它描述的是与解剖系统相关的病理生理学，其中包括系统中机械、物理和生化功能所潜在的异常变化。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"If applicable, a description of the pathophysiology associated with the anatomical system, including potential abnormal changes in the mechanical, physical, and biochemical functions of the system."
+                },
+                "relatedAnatomy":{
+                    "description_CN":"与浅表解剖相关的解剖系统或结构。",
+                    "patterns":[
+
+                    ],
+                    "type":"AnatomicalSystemorAnatomicalStructure",
+                    "description_EG":"Anatomical systems or structures that relate to the superficial anatomy."
+                },
+                "significance":{
+                    "description_CN":"浅表解剖的重要意义。如，怎样的浅表解剖特征可表明下层的医疗条件或疗程。",
+                    "patterns":[
+
+                    ],
+                    "type":"Text",
+                    "description_EG":"The significance associated with the superficial anatomy; as an example, how characteristics of the superficial anatomy can suggest underlying medical conditions or courses of treatment."
+                }
+            },
+			"parent":"MedicalEntity",
+            "description_CN":"可用肉眼观测到的解剖特征，包括人体的形态和比例以及对应深层皮下组织结构的表面标志。浅表解剖在运动医学、放血和其他医疗专业中起着重要的作用，因为潜在的解剖结构可通过表皮触诊来识别。 比如说，背部手术中，浅表解剖可以用来做触诊并计算椎体以找到切口点。又或者说在放血中，浅表解剖可用来定位下层静脉；例如肘正中静脉可通过触诊肘窝（肱骨内上髁 ）边界然后寻找静脉的表皮标志，如大小、突起、减压后的填充能力以及周围组织的感觉。另一个例子，在盂肱关节半脱臼（错位）的情况下，骨骼结构在三角肌中变得明显，其未能覆盖盂肱关节并使得肩胛骨边沿肉眼可见。在此，浅表解剖指的是肩胛骨边沿肉眼可见时意味着下层的关节（相关的解剖结构）脱臼。",
+            "description_EG":"Anatomical features that can be observed by sight (without dissection), including the form and proportions of the human body as well as surface landmarks that correspond to deeper subcutaneous structures. Superficial anatomy plays an important role in sports medicine, phlebotomy, and other medical specialties as underlying anatomical structures can be identified through surface palpation. For example, during back surgery, superficial anatomy can be used to palpate and count vertebrae to find the site of incision. Or in phlebotomy, superficial anatomy can be used to locate an underlying vein; for example, the median cubital vein can be located by palpating the borders of the cubital fossa (such as the epicondyles of the humerus) and then looking for the superficial signs of the vein, such as size, prominence, ability to refill after depression, and feel of surrounding tissue support. As another example, in a subluxation (dislocation) of the glenohumeral joint, the bony structure becomes pronounced with the deltoid muscle failing to cover the glenohumeral joint allowing the edges of the scapula to be superficially visible. Here, the superficial anatomy is the visible edges of the scapula, implying the underlying dislocation of the joint (the related anatomical structure)."
         }
     }
-}
+]

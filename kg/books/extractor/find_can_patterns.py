@@ -8,7 +8,7 @@ from kg.books.extractor.KMP_match import KMP_match
 from kg.books.pattern_auto.record import logger
 
 def is_candidate_pattern(pattern, sent_pos):
-    pattern_start=KMP_match(pattern, sent_pos)
+    pattern_start,match_len=KMP_match(pattern, sent_pos)
     if pattern_start==-1:
         return False
     elif pattern_start+len(pattern.split('+'))>=len(sent_pos):
@@ -34,3 +34,5 @@ def find_candidate_pattern(patterns, sent_pos):
 #         end=datetime.datetime.now()
 #         print (end-start).microseconds
     return candidate_patterns
+
+

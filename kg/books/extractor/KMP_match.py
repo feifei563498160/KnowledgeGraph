@@ -64,23 +64,12 @@ def match_compound_token(word_pos,word_pattern):
     if '|' in word_pattern:
         or_units=word_pattern.split('|')
         flag=op_list(match_or_unit, word_pos,or_units ,'|')
-#         for or_unit in or_units:
-#             if '&' in or_unit:
-#                 and_units=or_unit.split('&')
-#                 flag=op_list(match_single_token, word_pos, and_units, '&')
-#             else:
-#                 flag=match_single_token(word_pos,or_unit)
     else:
         if '&' in word_pattern:
             and_units=word_pattern.split('&')
             flag=op_list(match_token_unit, word_pos, and_units, '&')
         else:
             flag=match_token_unit(word_pos,word_pattern)
-#             result=match_single_token(and_units[0])
-#             for i in range(1,len(and_units)):
-#                 result_i=match_single_token(word_pos, and_units[i])
-#                 result+=op(result,result_i,'&')
-#             flag=result
     return flag
 
 
@@ -191,6 +180,7 @@ def KMP_match(pattern, sent_pos):
     m=len(sent_pos)
     n=len(pattern_words)
     cur=0
+    match_len=0
     while cur<=m-n:
         i=0
         j=i
@@ -202,15 +192,16 @@ def KMP_match(pattern, sent_pos):
             elif flag==1:
                 i+=1
                 j+=1
+                match_len+=1
             elif flag==2:
                 j=i+1
         else:  
-            return  cur
-    return -1
+            return  cur,match_len
+    return -1,0
 
 
 if __name__=="__main__":
-    sent_pos=[(u'It', u'PRP'), (u'is', u'VBZ'), (u'usually', u'RB'), (u'a', u'DT'), (u'symptom', u'NN'), (u'of', u'IN')]
-    pattern='is+?{RB}&!not&!usually+a|an|A|An$0#2.17-2'
+    sent_pos=[(u'no', u'DT'), (u'concentrations', u'NNS'), (u'are', u'VBP'), (u'found', u'VB')]
+    pattern='{DT}+{NNS}+are+?{VBN}$0#1.33-0'
     print KMP_match(pattern,sent_pos)
     

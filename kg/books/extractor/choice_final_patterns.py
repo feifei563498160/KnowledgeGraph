@@ -1,6 +1,6 @@
 #coding=utf-8
 '''
-Created on 2017Äê7ÔÂ6ÈÕ
+Created on 2017ï¿½ï¿½7ï¿½ï¿½6ï¿½ï¿½
 
 @author: FeiFei
 '''
@@ -52,7 +52,7 @@ def is_near(range1,range2):
 def get_pos2patterns(patterns,sent_pos):
     pos2patterns={}
     for pattern in patterns:
-        pattern_start=KMP_match(pattern, sent_pos)
+        pattern_start,match_len=KMP_match(pattern, sent_pos)
         if pattern_start in pos2patterns.keys():
             pos2patterns[pattern_start].append(pattern)
         else:
@@ -64,7 +64,7 @@ def get_pos2patterns(patterns,sent_pos):
 def get_pattern_range(patterns,sent_pos):
     pattern2range={}
     for pattern in patterns:
-        pattern_start=KMP_match(pattern, sent_pos)
+        pattern_start,match_len=KMP_match(pattern, sent_pos)
         pattern2range[pattern]=(pattern_start,pattern_start+len(pattern[:pattern.index("$")].split('+')))
     return pattern2range
 
@@ -126,10 +126,10 @@ def choice_final_pattern(patterns,sent_pos):
 #     pos2patterns,pattern2range=get_pos_patterns_range(patterns,sent_pos)
     pos2patterns=get_pos2patterns(patterns, sent_pos)
     sort_pos2patterns=sorted(pos2patterns.iteritems(),key=lambda d:d[0], reverse=False)
-    logger.info('sorted_pattern:¡¡'+str(sort_pos2patterns))
+    logger.info('sorted_pattern:ï¿½ï¿½'+str(sort_pos2patterns))
     
     pattern2range=get_pattern_range(patterns, sent_pos)
-    logger.info('pattern2range:¡¡'+str(pattern2range))
+    logger.info('pattern2range:ï¿½ï¿½'+str(pattern2range))
     
     patterns_sort_by_range=get_prior_by_range(sort_pos2patterns,pattern2range)
     logger.info('patterns_range: '+str(patterns_sort_by_range))

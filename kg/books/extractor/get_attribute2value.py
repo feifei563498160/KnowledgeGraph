@@ -10,12 +10,13 @@ from kg.books.extractor.recorder import logger
 from kg.util.string import cut_list
 
 def get_start_pos(pattern, sent_pos):
-    pattern_start=KMP_match(pattern, sent_pos)
-    pattern_words=pattern[:pattern.index("$")].split('+')
+    pattern_start,match_len=KMP_match(pattern, sent_pos)
+    #pattern_words=pattern[:pattern.index("$")].split('+')
     cur=int(re.findall('\$(\d+)',pattern)[0])
     if cur>0:
         logger.info("start move right %d"%cur)
-    start_tmp=pattern_start+len(pattern_words)-cur
+    #start_tmp=pattern_start+len(pattern_words)-cur
+    start_tmp=pattern_start+match_len-cur
     start=0
     if sent_pos[start_tmp][0] in [',']:
         start=start_tmp+1
@@ -54,7 +55,7 @@ def get_value_pos(patterns,sent_pos):
         return pos_matchs
     elif len(patterns)>=2:
         for i in range(len(patterns)-1):
-            start_i_1=KMP_match(patterns[i+1],sent_pos)
+            start_i_1,match_len_i_1=KMP_match(patterns[i+1],sent_pos)
             start=get_start_pos(patterns[i], sent_pos)
             end=get_end_pos(start_i_1,sent_pos)
             pos_matchs.append((start,end))
